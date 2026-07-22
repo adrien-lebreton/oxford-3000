@@ -10,6 +10,14 @@ export function Ring({ known, total }: { known: number; total: number }) {
   return (
     <div className="ring" role="img" aria-label={`${known} mots connus sur ${total}`}>
       <svg width={size} height={size}>
+        {/* dégradé du spectre des niveaux, cyan → bleu → violet */}
+        <defs>
+          <linearGradient id="ring-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop className="g1" offset="0%" />
+            <stop className="g2" offset="55%" />
+            <stop className="g3" offset="100%" />
+          </linearGradient>
+        </defs>
         <circle className="track" cx={size / 2} cy={size / 2} r={r} strokeWidth={stroke} fill="none" />
         <circle
           className="fill"
@@ -18,6 +26,7 @@ export function Ring({ known, total }: { known: number; total: number }) {
           r={r}
           strokeWidth={stroke}
           fill="none"
+          stroke="url(#ring-grad)"
           strokeDasharray={c}
           strokeDashoffset={c * (1 - frac)}
         />

@@ -16,8 +16,8 @@ export default defineConfig({
         description: 'Apprendre les 3000 mots essentiels de l’anglais',
         lang: 'fr',
         display: 'standalone',
-        background_color: '#0e1116',
-        theme_color: '#0e1116',
+        background_color: '#0a0c13',
+        theme_color: '#0a0c13',
         icons: [
           { src: 'icons/icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
           { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
