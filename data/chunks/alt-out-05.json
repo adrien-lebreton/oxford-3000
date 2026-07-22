@@ -1,0 +1,1217 @@
+[
+ {
+  "id": "rank",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give something a position on a list compared to others",
+    "ex": "Critics rank this movie among the best films of the year."
+   }
+  ]
+ },
+ {
+  "id": "rate",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to judge how good, bad, or important something is",
+    "ex": "Critics rate this small restaurant as one of the best in town."
+   }
+  ]
+ },
+ {
+  "id": "reach",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the distance someone can stretch an arm or hand",
+    "ex": "Keep the medicine out of reach of small children."
+   }
+  ]
+ },
+ {
+  "id": "record",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the best result ever achieved in a sport or activity",
+    "ex": "She broke the school record for the 200-meter sprint."
+   }
+  ]
+ },
+ {
+  "id": "reflect",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to think carefully about something",
+    "ex": "She paused to reflect on the mistakes she had made."
+   }
+  ]
+ },
+ {
+  "id": "regard",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of respect or high opinion of someone",
+    "ex": "The young doctor is held in high regard by her colleagues."
+   }
+  ]
+ },
+ {
+  "id": "register",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an official written list or record book",
+    "ex": "The hotel receptionist asked him to sign the guest register."
+   }
+  ]
+ },
+ {
+  "id": "regret",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of sadness about something in the past",
+    "ex": "She looked back on her career with a few regrets."
+   }
+  ]
+ },
+ {
+  "id": "relate",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to understand and feel sympathy for someone",
+    "ex": "Many young readers relate to the shy main character in the story."
+   }
+  ]
+ },
+ {
+  "id": "relative",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "judged by comparing with something else",
+    "ex": "The small village offers relative calm after the noisy city."
+   }
+  ]
+ },
+ {
+  "id": "release",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of making something available to the public",
+    "ex": "Fans lined up early for the release of the new phone."
+   }
+  ]
+ },
+ {
+  "id": "remark",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say something briefly as a comment",
+    "ex": "She remarked that the coffee tasted much better here."
+   }
+  ]
+ },
+ {
+  "id": "rent",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to pay money to use something for a period of time",
+    "ex": "We decided to rent a small car for the weekend trip."
+   }
+  ]
+ },
+ {
+  "id": "repair",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "work done to fix something that is damaged",
+    "ex": "The old bridge is currently closed for major repairs."
+   }
+  ]
+ },
+ {
+  "id": "repeat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something shown or done again, not for the first time",
+    "ex": "Tonight's episode is just a repeat from earlier this year."
+   }
+  ]
+ },
+ {
+  "id": "reply",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an answer to a question, letter, or message",
+    "ex": "I still haven't received a reply to my last message."
+   }
+  ]
+ },
+ {
+  "id": "report",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give information about something that happened",
+    "ex": "Several neighbors reported the strange noise to the police."
+   }
+  ]
+ },
+ {
+  "id": "representative",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "typical of a particular group or type",
+    "ex": "These results are not representative of the whole population."
+   }
+  ]
+ },
+ {
+  "id": "request",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask for something politely or formally",
+    "ex": "Guests are kindly requested to remove their shoes indoors."
+   }
+  ]
+ },
+ {
+  "id": "rescue",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of saving someone from a dangerous situation",
+    "ex": "Firefighters carried out a dramatic rescue during the terrible flood."
+   }
+  ]
+ },
+ {
+  "id": "research",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to study a subject carefully to discover facts",
+    "ex": "She researched several universities before choosing where to apply."
+   }
+  ]
+ },
+ {
+  "id": "reserve",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a supply of something kept for future use",
+    "ex": "The country holds a large reserve of gold in its banks."
+   }
+  ]
+ },
+ {
+  "id": "resident",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "living in a particular place, not just visiting",
+    "ex": "A resident doctor sleeps at the hospital during night shifts."
+   }
+  ]
+ },
+ {
+  "id": "respect",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "strong admiration felt for someone's qualities or achievements",
+    "ex": "She has always shown great respect for her grandmother's wisdom and kindness."
+   }
+  ]
+ },
+ {
+  "id": "rest-sleep-relax",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to relax or stop working for a period of time",
+    "ex": "He decided to rest for an hour after his long run."
+   }
+  ]
+ },
+ {
+  "id": "result",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to happen because of something else",
+    "ex": "Her hard work resulted in a well-deserved promotion."
+   }
+  ]
+ },
+ {
+  "id": "return",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of coming or going back somewhere",
+    "ex": "We celebrated her return from the long trip abroad."
+   }
+  ]
+ },
+ {
+  "id": "review",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to study or look at something again carefully",
+    "ex": "Please review your answers before you submit the test."
+   }
+  ]
+ },
+ {
+  "id": "reward",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give someone something for good behavior or work",
+    "ex": "The teacher rewarded the students with extra playtime outside."
+   }
+  ]
+ },
+ {
+  "id": "ride",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a trip in a vehicle or on an animal",
+    "ex": "They enjoyed a short ride on the old wooden train."
+   }
+  ]
+ },
+ {
+  "id": "right",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "toward the side opposite of left",
+    "ex": "Turn right at the next corner and you will see the store."
+   }
+  ]
+ },
+ {
+  "id": "ring-2",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the sound made by a bell or a phone",
+    "ex": "I heard the ring of the doorbell just before dinner."
+   }
+  ]
+ },
+ {
+  "id": "rise",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an increase in amount, number, or level",
+    "ex": "There has been a sudden rise in food prices this year."
+   }
+  ]
+ },
+ {
+  "id": "risk",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to do something that might cause harm or loss",
+    "ex": "She risked her savings to start a small business."
+   }
+  ]
+ },
+ {
+  "id": "roll",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small round piece of bread",
+    "ex": "He ate a warm roll with butter for breakfast."
+   }
+  ]
+ },
+ {
+  "id": "room",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "enough space for something",
+    "ex": "There isn't enough room in the car for everyone's luggage."
+   }
+  ]
+ },
+ {
+  "id": "rough",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "difficult or unpleasant to deal with",
+    "ex": "He has had a rough year after losing his job."
+   }
+  ]
+ },
+ {
+  "id": "round",
+  "alt": [
+   {
+    "pos": "prep.",
+    "def": "surrounding or on every side of something",
+    "ex": "The children gathered round the campfire to sing some songs."
+   },
+   {
+    "pos": "n.",
+    "def": "one part or stage of a game or competition",
+    "ex": "She won the first round of the tennis tournament easily."
+   }
+  ]
+ },
+ {
+  "id": "routine",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "done regularly as a normal part of a process",
+    "ex": "The doctor recommended a routine checkup every single year."
+   }
+  ]
+ },
+ {
+  "id": "rubber",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "made of rubber",
+    "ex": "The children played with a small yellow rubber duck in the bath."
+   }
+  ]
+ },
+ {
+  "id": "rule",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have official power over a country or people",
+    "ex": "The queen ruled the small kingdom for over forty years."
+   }
+  ]
+ },
+ {
+  "id": "run",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period of time spent running for exercise",
+    "ex": "He goes for a run in the park every morning."
+   }
+  ]
+ },
+ {
+  "id": "rush",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sudden hurried movement or busy period",
+    "ex": "There was a rush of shoppers at the store on Friday."
+   }
+  ]
+ },
+ {
+  "id": "sadly",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a way that shows sadness",
+    "ex": "She smiled sadly as she said goodbye to her friends."
+   }
+  ]
+ },
+ {
+  "id": "sail",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a large piece of cloth that catches wind to move a boat",
+    "ex": "The old fishing boat had a torn white sail."
+   }
+  ]
+ },
+ {
+  "id": "sale",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of selling something, such as property",
+    "ex": "The sale of their house took almost six months to complete."
+   }
+  ]
+ },
+ {
+  "id": "sample",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try a small amount of something to test it",
+    "ex": "Visitors can sample different wines at the local vineyard."
+   }
+  ]
+ },
+ {
+  "id": "save",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to keep money instead of spending it",
+    "ex": "She saves a little money from her salary every month."
+   },
+   {
+    "pos": "v.",
+    "def": "to store information on a computer so it is not lost",
+    "ex": "Remember to save your document before you close the computer."
+   }
+  ]
+ },
+ {
+  "id": "scale",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a machine used for weighing people or things",
+    "ex": "She stepped on the scale to check her weight."
+   }
+  ]
+ },
+ {
+  "id": "scan",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to look through something quickly without reading every word",
+    "ex": "He scanned the newspaper for any interesting headlines."
+   }
+  ]
+ },
+ {
+  "id": "schedule",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to plan for something to happen at a certain time",
+    "ex": "The doctor scheduled a follow-up appointment for next Tuesday."
+   }
+  ]
+ },
+ {
+  "id": "score",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the number of points a player or team has",
+    "ex": "The final score of the match was two to one."
+   }
+  ]
+ },
+ {
+  "id": "scream",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a loud, high sound made from fear or pain",
+    "ex": "A sudden scream came from the dark, empty house."
+   }
+  ]
+ },
+ {
+  "id": "screen",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to check people or things carefully before accepting them",
+    "ex": "The airport staff screen every passenger's bag before boarding."
+   }
+  ]
+ },
+ {
+  "id": "search",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an attempt to find someone or something",
+    "ex": "The search for the missing hikers lasted through the night."
+   }
+  ]
+ },
+ {
+  "id": "seat",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have enough seats for a number of people",
+    "ex": "The new stadium can seat over fifty thousand fans."
+   }
+  ]
+ },
+ {
+  "id": "second-1-next-after-the-first",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "used to introduce the second point in a list",
+    "ex": "Second, make sure the door is locked before you leave."
+   }
+  ]
+ },
+ {
+  "id": "secure",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to obtain or achieve something, often with effort",
+    "ex": "The young athlete secured a place on the national team."
+   }
+  ]
+ },
+ {
+  "id": "senior",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "older in age, especially referring to older people",
+    "ex": "The gym offers discount memberships for senior citizens over sixty-five."
+   }
+  ]
+ },
+ {
+  "id": "sense",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to become aware of something without being told",
+    "ex": "She could sense that something was wrong the moment she walked in."
+   }
+  ]
+ },
+ {
+  "id": "sentence",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to officially state the punishment for a crime",
+    "ex": "The judge sentenced him to two years in prison."
+   }
+  ]
+ },
+ {
+  "id": "separate",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to divide or keep two things apart",
+    "ex": "The teacher separated the students into four small groups."
+   }
+  ]
+ },
+ {
+  "id": "serious",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "thoughtful and not joking around",
+    "ex": "He gave me a serious look before answering my question."
+   }
+  ]
+ },
+ {
+  "id": "seriously",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a way that shows you are not joking",
+    "ex": "Seriously, you need to finish your homework before dinner."
+   }
+  ]
+ },
+ {
+  "id": "set-put",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to fix or decide on something, like a time or rule",
+    "ex": "They set a date for the wedding next summer."
+   }
+  ]
+ },
+ {
+  "id": "setting",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a control on a machine that can be adjusted",
+    "ex": "She changed the washing machine's setting to a cooler temperature."
+   }
+  ]
+ },
+ {
+  "id": "settle",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to reach an agreement and end an argument",
+    "ex": "The two companies settled their dispute out of court."
+   }
+  ]
+ },
+ {
+  "id": "shade",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a particular variety of a color",
+    "ex": "She painted her bedroom walls a soft shade of blue."
+   }
+  ]
+ },
+ {
+  "id": "shake",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of moving something quickly from side to side",
+    "ex": "Give the bottle a good shake before you open it."
+   }
+  ]
+ },
+ {
+  "id": "shame",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something disappointing or unfortunate",
+    "ex": "It's a shame that we missed the beginning of the movie."
+   }
+  ]
+ },
+ {
+  "id": "shape",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to influence or form how something develops",
+    "ex": "Her childhood experiences shaped her decision to become a doctor."
+   }
+  ]
+ },
+ {
+  "id": "share",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a part of something that is divided among people",
+    "ex": "Each investor owns a small share of the company."
+   }
+  ]
+ },
+ {
+  "id": "sharp",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "quick to notice, understand, or think of things",
+    "ex": "Her sharp mind helped her solve the puzzle quickly."
+   }
+  ]
+ },
+ {
+  "id": "sheet",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a single piece of paper",
+    "ex": "He wrote his name on a blank sheet of paper."
+   }
+  ]
+ },
+ {
+  "id": "shelter",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to protect someone from danger or bad weather",
+    "ex": "The old barn sheltered the animals from the storm."
+   }
+  ]
+ },
+ {
+  "id": "shift",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move or change from one position to another",
+    "ex": "Public opinion has shifted toward supporting the new policy."
+   }
+  ]
+ },
+ {
+  "id": "ship",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to send goods to a place, often by truck or plane",
+    "ex": "The company ships orders to customers within two days."
+   }
+  ]
+ },
+ {
+  "id": "shock",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel very surprised or upset",
+    "ex": "The tragic news shocked everyone in the small town."
+   }
+  ]
+ },
+ {
+  "id": "shoot",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make a film, video, or photograph of something",
+    "ex": "The director plans to shoot the new movie in Italy."
+   }
+  ]
+ },
+ {
+  "id": "shooting",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the process of filming a movie or TV show",
+    "ex": "The shooting of the new film begins next month in Paris."
+   }
+  ]
+ },
+ {
+  "id": "shop",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to go and buy things in stores",
+    "ex": "They like to shop for groceries every Saturday morning."
+   }
+  ]
+ },
+ {
+  "id": "short",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "not tall; small in height",
+    "ex": "He is quite short compared to his older brother."
+   }
+  ]
+ },
+ {
+  "id": "shot",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a photograph of someone or something",
+    "ex": "The photographer got a great shot of the sunset."
+   }
+  ]
+ },
+ {
+  "id": "shout",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a loud cry or call",
+    "ex": "We heard a shout from the other side of the field."
+   }
+  ]
+ },
+ {
+  "id": "show",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a performance or program on television or stage",
+    "ex": "We watched a funny show on television last night."
+   }
+  ]
+ },
+ {
+  "id": "shower",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a short period of rain",
+    "ex": "A sudden shower forced everyone to run for cover."
+   }
+  ]
+ },
+ {
+  "id": "shut",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "closed, not open",
+    "ex": "The shop was already shut when we arrived at six."
+   }
+  ]
+ },
+ {
+  "id": "sight",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the ability to see",
+    "ex": "Her grandmother slowly lost her sight in old age."
+   }
+  ]
+ },
+ {
+  "id": "sign",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to write your name on a document",
+    "ex": "Please sign the form at the bottom of the page."
+   }
+  ]
+ },
+ {
+  "id": "signal",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make a movement or sound to give information",
+    "ex": "She signaled to the waiter that she was ready to order."
+   }
+  ]
+ },
+ {
+  "id": "silver",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having the color of silver, a shiny gray-white",
+    "ex": "The old man's hair had turned completely silver over the years."
+   }
+  ]
+ },
+ {
+  "id": "since",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "from then until now",
+    "ex": "They met in college and have been best friends since."
+   }
+  ]
+ },
+ {
+  "id": "single",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "not married and not in a romantic relationship",
+    "ex": "She has been single since her last relationship ended."
+   },
+   {
+    "pos": "n.",
+    "def": "a song released on its own, not part of an album",
+    "ex": "The band released a new single before their upcoming tour."
+   }
+  ]
+ },
+ {
+  "id": "ski",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a long narrow piece of equipment for moving on snow",
+    "ex": "He bought a new pair of skis for the winter trip."
+   }
+  ]
+ },
+ {
+  "id": "sleep",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the natural state of rest for the body and mind",
+    "ex": "She didn't get enough sleep before the big exam."
+   }
+  ]
+ },
+ {
+  "id": "slice",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to cut something into thin flat pieces",
+    "ex": "He sliced the tomatoes carefully for the fresh salad."
+   }
+  ]
+ },
+ {
+  "id": "slide",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a single image shown during a presentation",
+    "ex": "The teacher showed the next slide on the classroom screen."
+   }
+  ]
+ },
+ {
+  "id": "slope",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be at an angle, rising or falling",
+    "ex": "The garden slopes gently down toward the small river."
+   }
+  ]
+ },
+ {
+  "id": "slow",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to reduce speed or make something go slower",
+    "ex": "The driver slowed the car as it began to rain."
+   }
+  ]
+ },
+ {
+  "id": "smart",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "neat, clean, and well-dressed",
+    "ex": "He wore a smart suit for the important job interview."
+   }
+  ]
+ },
+ {
+  "id": "smell",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something you notice through your nose",
+    "ex": "A strange smell was coming from the old refrigerator."
+   }
+  ]
+ },
+ {
+  "id": "smoke",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to breathe in smoke from a cigarette",
+    "ex": "He tried to quit smoking after his doctor's warning."
+   }
+  ]
+ },
+ {
+  "id": "smooth",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "happening easily, without problems or difficulty",
+    "ex": "The flight was smooth despite the stormy weather outside."
+   }
+  ]
+ },
+ {
+  "id": "snow",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "soft white ice that falls from the sky in winter",
+    "ex": "Fresh snow covered the entire village during the cold night."
+   }
+  ]
+ },
+ {
+  "id": "so",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "for that reason; therefore",
+    "ex": "It started raining, so we decided to stay inside."
+   }
+  ]
+ },
+ {
+  "id": "solid",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a substance that keeps a fixed shape, not a liquid or gas",
+    "ex": "Ice is a solid, but it melts into a liquid."
+   }
+  ]
+ },
+ {
+  "id": "sort",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to arrange things into groups or a particular order",
+    "ex": "She sorted the laundry into white and colored piles."
+   }
+  ]
+ },
+ {
+  "id": "sound",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to seem a certain way, based on what you hear",
+    "ex": "Your plan sounds great, so let's start right away."
+   }
+  ]
+ },
+ {
+  "id": "speaker",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a device that produces sound from an electronic signal",
+    "ex": "He connected his phone to a wireless speaker for music."
+   }
+  ]
+ },
+ {
+  "id": "speech",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the ability to speak, or spoken language",
+    "ex": "The therapist is helping the child improve his speech."
+   }
+  ]
+ },
+ {
+  "id": "speed",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move or happen very quickly",
+    "ex": "The ambulance sped through the empty streets toward the hospital."
+   }
+  ]
+ },
+ {
+  "id": "spend",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to use time doing a particular activity",
+    "ex": "They spent the whole afternoon walking around the old town."
+   }
+  ]
+ },
+ {
+  "id": "split",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a division or separation between things or people",
+    "ex": "There was a growing split within the political party."
+   }
+  ]
+ },
+ {
+  "id": "sponsor",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person or company that pays for an event",
+    "ex": "The marathon's main sponsor donated new shirts for every runner."
+   }
+  ]
+ },
+ {
+  "id": "spot",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to notice or see someone or something",
+    "ex": "She spotted her old friend across the crowded street."
+   }
+  ]
+ },
+ {
+  "id": "spread",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the way something increases and reaches more places",
+    "ex": "Doctors are trying to control the spread of the illness."
+   }
+  ]
+ },
+ {
+  "id": "spring",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to jump or move suddenly and quickly",
+    "ex": "The cat sprang onto the table and grabbed the fish."
+   }
+  ]
+ },
+ {
+  "id": "stage",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to organize and present an event or performance",
+    "ex": "The students staged a play to raise money for their school."
+   }
+  ]
+ },
+ {
+  "id": "stand",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small stall where things are sold or shown",
+    "ex": "They bought fresh oranges from a fruit stand at the market."
+   }
+  ]
+ },
+ {
+  "id": "standard",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "usual, normal, and not special or different",
+    "ex": "A standard hotel room usually includes a bed and bathroom."
+   }
+  ]
+ }
+]

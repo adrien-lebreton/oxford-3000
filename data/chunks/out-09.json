@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "pot",
+  "ipa": "/pɑːt/",
+  "fr": "casserole, marmite",
+  "def": "a round container used for cooking food",
+  "ex": "She put the pot of soup on the stove."
+ },
+ {
+  "id": "potato",
+  "ipa": "/pəˈteɪtoʊ/",
+  "fr": "pomme de terre",
+  "def": "a round vegetable that grows underground",
+  "ex": "We had boiled potatoes and chicken for dinner tonight."
+ },
+ {
+  "id": "potential",
+  "ipa": "/pəˈtenʃl/",
+  "fr": "potentiel",
+  "def": "possible but not yet real or certain",
+  "ex": "The company has great potential for future growth."
+ },
+ {
+  "id": "pound",
+  "ipa": "/paʊnd/",
+  "fr": "livre (poids, monnaie)",
+  "def": "a unit of weight, or British money",
+  "ex": "The bag of apples weighs about two pounds."
+ },
+ {
+  "id": "pour",
+  "ipa": "/pɔːr/",
+  "fr": "verser",
+  "def": "to make liquid flow from a container",
+  "ex": "She poured some cold water into my empty glass."
+ },
+ {
+  "id": "poverty",
+  "ipa": "/ˈpɑːvɚti/",
+  "fr": "pauvreté",
+  "def": "the state of being very poor",
+  "ex": "Many families in this region live in deep poverty."
+ },
+ {
+  "id": "powder",
+  "ipa": "/ˈpaʊdɚ/",
+  "fr": "poudre",
+  "def": "a dry substance made of fine grains",
+  "ex": "She added a spoonful of white powder to the milk."
+ },
+ {
+  "id": "power",
+  "ipa": "/ˈpaʊɚ/",
+  "fr": "pouvoir, énergie (n.) ; alimenter (v.)",
+  "def": "strength or ability to control people or things",
+  "ex": "The president has the power to change these laws."
+ },
+ {
+  "id": "powerful",
+  "ipa": "/ˈpaʊɚfl/",
+  "fr": "puissant",
+  "def": "having a lot of strength, control, or influence",
+  "ex": "The powerful storm destroyed several houses near the coast."
+ },
+ {
+  "id": "practical",
+  "ipa": "/ˈpræktɪkl/",
+  "fr": "pratique",
+  "def": "useful and sensible, not just an idea",
+  "ex": "She gave us some practical advice for the trip."
+ },
+ {
+  "id": "practice",
+  "ipa": "/ˈpræktɪs/",
+  "fr": "pratique, entraînement (n.) ; s'entraîner (v.)",
+  "def": "doing something repeatedly in order to improve",
+  "ex": "Regular practice will help you improve your English."
+ },
+ {
+  "id": "praise",
+  "ipa": "/preɪz/",
+  "fr": "éloge, compliment (n.) ; féliciter, louer (v.)",
+  "def": "words that say someone or something is good",
+  "ex": "The teacher praised her students for working so hard."
+ },
+ {
+  "id": "pray",
+  "ipa": "/preɪ/",
+  "fr": "prier",
+  "def": "to speak to God, especially to ask for help",
+  "ex": "They prayed for peace before starting their meal."
+ },
+ {
+  "id": "prayer",
+  "ipa": "/prer/",
+  "fr": "prière",
+  "def": "words spoken to God",
+  "ex": "She said a quiet prayer before the difficult exam."
+ },
+ {
+  "id": "predict",
+  "ipa": "/prɪˈdɪkt/",
+  "fr": "prédire",
+  "def": "to say what will happen in the future",
+  "ex": "Scientists predict that the storm will arrive tomorrow morning."
+ },
+ {
+  "id": "prediction",
+  "ipa": "/prɪˈdɪkʃn/",
+  "fr": "prédiction",
+  "def": "a statement about what will happen later",
+  "ex": "His prediction about the election turned out to be correct."
+ },
+ {
+  "id": "prefer",
+  "ipa": "/prɪˈfɝː/",
+  "fr": "préférer",
+  "def": "to like one thing more than another",
+  "ex": "I prefer tea to coffee early in the morning."
+ },
+ {
+  "id": "pregnant",
+  "ipa": "/ˈpreɡnənt/",
+  "fr": "enceinte",
+  "def": "having a baby growing inside the body",
+  "ex": "My sister is pregnant with her very first child."
+ },
+ {
+  "id": "preparation",
+  "ipa": "/ˌprepəˈreɪʃn/",
+  "fr": "préparation",
+  "def": "the process of getting ready for something",
+  "ex": "The team did a lot of preparation before the game."
+ },
+ {
+  "id": "prepare",
+  "ipa": "/prɪˈper/",
+  "fr": "préparer",
+  "def": "to make something ready for use",
+  "ex": "She prepared a big dinner for her whole family."
+ },
+ {
+  "id": "prepared",
+  "ipa": "/prɪˈperd/",
+  "fr": "prêt, préparé",
+  "def": "ready for something that will happen",
+  "ex": "We were well prepared for the difficult exam."
+ },
+ {
+  "id": "presence",
+  "ipa": "/ˈprezns/",
+  "fr": "présence",
+  "def": "the fact of being in a place",
+  "ex": "Her presence at the meeting made everyone feel calmer."
+ },
+ {
+  "id": "present",
+  "ipa": "/ˈpreznt/ (adj., n.), /prɪˈzent/ (v.)",
+  "fr": "cadeau (n.) ; présent, actuel (adj.) ; présenter (v.)",
+  "def": "a thing that you give someone as a gift",
+  "ex": "They gave her a beautiful present for her birthday."
+ },
+ {
+  "id": "presentation",
+  "ipa": "/ˌpriːzenˈteɪʃn/",
+  "fr": "présentation",
+  "def": "a talk that explains or shows something to people",
+  "ex": "He gave a presentation about his new business idea."
+ },
+ {
+  "id": "preserve",
+  "ipa": "/prɪˈzɝːv/",
+  "fr": "préserver, conserver",
+  "def": "to keep something safe or in its original state",
+  "ex": "We must preserve the forest for future generations."
+ },
+ {
+  "id": "president",
+  "ipa": "/ˈprezɪdənt/",
+  "fr": "président",
+  "def": "the leader of a country or organization",
+  "ex": "The president gave a speech to the whole nation."
+ },
+ {
+  "id": "press",
+  "ipa": "/pres/",
+  "fr": "appuyer sur, presser (v.) ; presse (n.)",
+  "def": "to push something firmly with your finger",
+  "ex": "Press the red button to start the machine."
+ },
+ {
+  "id": "pressure",
+  "ipa": "/ˈpreʃɚ/",
+  "fr": "pression",
+  "def": "a feeling of stress caused by problems or duties",
+  "ex": "She felt a lot of pressure before the big exam."
+ },
+ {
+  "id": "pretend",
+  "ipa": "/prɪˈtend/",
+  "fr": "faire semblant, prétendre",
+  "def": "to behave as if something is true when it is not",
+  "ex": "The children pretended to be pirates on a ship."
+ },
+ {
+  "id": "pretty",
+  "ipa": "/ˈprɪti/",
+  "fr": "joli (adj.) ; assez, plutôt (adv.)",
+  "def": "attractive in a delicate way",
+  "ex": "She wore a pretty dress to the birthday party."
+ },
+ {
+  "id": "prevent",
+  "ipa": "/prɪˈvent/",
+  "fr": "empêcher, prévenir",
+  "def": "to stop something from happening",
+  "ex": "Wearing a helmet can prevent serious head injuries."
+ },
+ {
+  "id": "previous",
+  "ipa": "/ˈpriːviəs/",
+  "fr": "précédent",
+  "def": "happening or existing before this one",
+  "ex": "She worked as a teacher in her previous job."
+ },
+ {
+  "id": "previously",
+  "ipa": "/ˈpriːviəsli/",
+  "fr": "précédemment, auparavant",
+  "def": "at an earlier time; before",
+  "ex": "He had previously worked as a chef in Paris."
+ },
+ {
+  "id": "price",
+  "ipa": "/praɪs/",
+  "fr": "prix (n.) ; fixer le prix (v.)",
+  "def": "the amount of money you pay for something",
+  "ex": "The price of milk increased again this month."
+ },
+ {
+  "id": "priest",
+  "ipa": "/priːst/",
+  "fr": "prêtre",
+  "def": "a religious leader, especially in the Christian Church",
+  "ex": "The priest spoke gently to the worried family."
+ },
+ {
+  "id": "primary",
+  "ipa": "/ˈpraɪmeri/",
+  "fr": "principal, primaire",
+  "def": "most important, or first in order",
+  "ex": "Her primary goal is to finish the project on time."
+ },
+ {
+  "id": "prime",
+  "ipa": "/praɪm/",
+  "fr": "principal, de premier ordre",
+  "def": "most important or of the best quality",
+  "ex": "This beach is a prime example of natural beauty."
+ },
+ {
+  "id": "prince",
+  "ipa": "/prɪns/",
+  "fr": "prince",
+  "def": "the son of a king or queen",
+  "ex": "The young prince will become king one day."
+ },
+ {
+  "id": "princess",
+  "ipa": "/ˈprɪnses/",
+  "fr": "princesse",
+  "def": "the daughter of a king or queen",
+  "ex": "The princess lived in a large stone castle."
+ },
+ {
+  "id": "principal",
+  "ipa": "/ˈprɪnsəpl/",
+  "fr": "directeur/directrice (n.) ; principal (adj.)",
+  "def": "the head of a school",
+  "ex": "The principal spoke to all the students this morning."
+ },
+ {
+  "id": "principle",
+  "ipa": "/ˈprɪnsəpl/",
+  "fr": "principe",
+  "def": "a basic rule or belief about what is right",
+  "ex": "He refused to lie, as a matter of principle."
+ },
+ {
+  "id": "print",
+  "ipa": "/prɪnt/",
+  "fr": "imprimer (v.) ; impression, caractères (n.)",
+  "def": "to put words or pictures onto paper by machine",
+  "ex": "He printed the document before the important meeting."
+ },
+ {
+  "id": "printer",
+  "ipa": "/ˈprɪntɚ/",
+  "fr": "imprimante",
+  "def": "a machine that prints words or pictures on paper",
+  "ex": "My printer ran out of paper again this morning."
+ },
+ {
+  "id": "printing",
+  "ipa": "/ˈprɪntɪŋ/",
+  "fr": "impression",
+  "def": "the process of producing printed books or documents",
+  "ex": "The printing of the new textbooks took two weeks."
+ },
+ {
+  "id": "priority",
+  "ipa": "/praɪˈɔːrəti/",
+  "fr": "priorité",
+  "def": "the thing that is most important and comes first",
+  "ex": "Finishing this report is our top priority today."
+ },
+ {
+  "id": "prison",
+  "ipa": "/ˈprɪzn/",
+  "fr": "prison",
+  "def": "a building where criminals are kept as punishment",
+  "ex": "He spent five years in prison for robbery."
+ },
+ {
+  "id": "prisoner",
+  "ipa": "/ˈprɪznɚ/",
+  "fr": "prisonnier, prisonnière",
+  "def": "a person who is kept in prison",
+  "ex": "The prisoner was released after serving his full sentence."
+ },
+ {
+  "id": "privacy",
+  "ipa": "/ˈpraɪvəsi/",
+  "fr": "vie privée, intimité",
+  "def": "the state of being alone and away from others",
+  "ex": "I need some privacy to make this phone call."
+ },
+ {
+  "id": "private",
+  "ipa": "/ˈpraɪvət/",
+  "fr": "privé",
+  "def": "belonging to one person, not for everyone",
+  "ex": "This is a private beach for hotel guests only."
+ },
+ {
+  "id": "prize",
+  "ipa": "/praɪz/",
+  "fr": "prix (récompense)",
+  "def": "something you win in a competition or game",
+  "ex": "She won first prize in the school art competition."
+ },
+ {
+  "id": "probably",
+  "ipa": "/ˈprɑːbəbli/",
+  "fr": "probablement",
+  "def": "almost certainly; likely to happen",
+  "ex": "It will probably rain later this afternoon, I think."
+ },
+ {
+  "id": "problem",
+  "ipa": "/ˈprɑːbləm/",
+  "fr": "problème",
+  "def": "a situation that causes difficulty or trouble",
+  "ex": "We need to solve this problem quickly today."
+ },
+ {
+  "id": "procedure",
+  "ipa": "/prəˈsiːdʒɚ/",
+  "fr": "procédure",
+  "def": "the official way of doing something",
+  "ex": "Follow the correct procedure to apply for a visa."
+ },
+ {
+  "id": "process",
+  "ipa": "/ˈprɑːses/",
+  "fr": "processus (n.) ; traiter (v.)",
+  "def": "a series of actions done to achieve a result",
+  "ex": "Learning a new language is a slow but rewarding process."
+ },
+ {
+  "id": "produce",
+  "ipa": "/prəˈduːs/",
+  "fr": "produire, fabriquer",
+  "def": "to make or grow something",
+  "ex": "The factory produces thousands of cars every single year."
+ },
+ {
+  "id": "producer",
+  "ipa": "/prəˈduːsɚ/",
+  "fr": "producteur, productrice",
+  "def": "a person who makes films, music, or goods",
+  "ex": "She works as a producer for a popular TV show."
+ },
+ {
+  "id": "product",
+  "ipa": "/ˈprɑːdʌkt/",
+  "fr": "produit",
+  "def": "something that is made to be sold",
+  "ex": "This new product is very popular with young customers."
+ },
+ {
+  "id": "production",
+  "ipa": "/prəˈdʌkʃn/",
+  "fr": "production",
+  "def": "the process of making or growing something",
+  "ex": "Car production increased sharply in the country last year."
+ },
+ {
+  "id": "profession",
+  "ipa": "/prəˈfeʃn/",
+  "fr": "profession, métier",
+  "def": "a job that needs special training or education",
+  "ex": "Teaching is a profession that requires great patience daily."
+ },
+ {
+  "id": "professional",
+  "ipa": "/prəˈfeʃənl/",
+  "fr": "professionnel, professionnelle",
+  "def": "relating to a job that needs skill and training",
+  "ex": "He behaved in a very professional manner at work."
+ },
+ {
+  "id": "professor",
+  "ipa": "/prəˈfesɚ/",
+  "fr": "professeur (d'université)",
+  "def": "a teacher of the highest rank at a university",
+  "ex": "She became a professor of history last year."
+ },
+ {
+  "id": "profile",
+  "ipa": "/ˈproʊfaɪl/",
+  "fr": "profil",
+  "def": "a short description of someone's life or facts",
+  "ex": "He created a new profile on the job website."
+ },
+ {
+  "id": "profit",
+  "ipa": "/ˈprɑːfɪt/",
+  "fr": "profit, bénéfice",
+  "def": "the money you gain after paying costs",
+  "ex": "The company made a large profit this year."
+ },
+ {
+  "id": "program",
+  "ipa": "/ˈproʊɡræm/",
+  "fr": "programme (n.) ; programmer (v.)",
+  "def": "a show on television, or a plan of events",
+  "ex": "We watched an interesting program about wild animals."
+ },
+ {
+  "id": "progress",
+  "ipa": "/ˈprɑːɡres/ (n.), /prəˈɡres/ (v.)",
+  "fr": "progrès (n.) ; progresser (v.)",
+  "def": "movement forward or improvement over time",
+  "ex": "She made great progress in her English classes."
+ },
+ {
+  "id": "project",
+  "ipa": "/ˈprɑːdʒekt/ (n.), /prəˈdʒekt/ (v.)",
+  "fr": "projet (n.) ; projeter (v.)",
+  "def": "a planned piece of work with a goal",
+  "ex": "Our class is working on a big science project."
+ },
+ {
+  "id": "promise",
+  "ipa": "/ˈprɑːmɪs/",
+  "fr": "promettre (v.) ; promesse (n.)",
+  "def": "to say you will definitely do something",
+  "ex": "She promised to call me as soon as she arrived."
+ },
+ {
+  "id": "promote",
+  "ipa": "/prəˈmoʊt/",
+  "fr": "promouvoir, donner de l'avancement à",
+  "def": "to give someone a higher position at work",
+  "ex": "She was promoted to sales manager last month."
+ },
+ {
+  "id": "pronounce",
+  "ipa": "/prəˈnaʊns/",
+  "fr": "prononcer",
+  "def": "to say a word or sound clearly",
+  "ex": "It's hard to pronounce some English words correctly."
+ },
+ {
+  "id": "proof",
+  "ipa": "/pruːf/",
+  "fr": "preuve",
+  "def": "facts or evidence that show something is true",
+  "ex": "She had no proof that he was actually there."
+ },
+ {
+  "id": "proper",
+  "ipa": "/ˈprɑːpɚ/",
+  "fr": "correct, adéquat, convenable",
+  "def": "correct, suitable, or accepted as normal",
+  "ex": "You should wear proper shoes for hiking in the mountains."
+ },
+ {
+  "id": "properly",
+  "ipa": "/ˈprɑːpɚli/",
+  "fr": "correctement",
+  "def": "in a correct or suitable way",
+  "ex": "Please make sure the door is properly closed."
+ },
+ {
+  "id": "property",
+  "ipa": "/ˈprɑːpɚti/",
+  "fr": "propriété",
+  "def": "something that belongs to someone, such as land",
+  "ex": "This house is private property, so please stay out."
+ },
+ {
+  "id": "proposal",
+  "ipa": "/prəˈpoʊzl/",
+  "fr": "proposition",
+  "def": "a plan or suggestion offered for people to consider",
+  "ex": "The committee accepted his proposal for the new park."
+ },
+ {
+  "id": "propose",
+  "ipa": "/prəˈpoʊz/",
+  "fr": "proposer, suggérer",
+  "def": "to suggest a plan or idea for others to consider",
+  "ex": "She proposed a new schedule for the team meeting."
+ },
+ {
+  "id": "prospect",
+  "ipa": "/ˈprɑːspekt/",
+  "fr": "perspective, possibilité",
+  "def": "the possibility that something good will happen",
+  "ex": "The prospect of a new job excited her greatly."
+ },
+ {
+  "id": "protect",
+  "ipa": "/prəˈtekt/",
+  "fr": "protéger",
+  "def": "to keep someone or something safe from harm",
+  "ex": "Parents try to protect their children from danger."
+ },
+ {
+  "id": "protection",
+  "ipa": "/prəˈtekʃn/",
+  "fr": "protection",
+  "def": "the act of keeping someone or something safe",
+  "ex": "The jacket gives good protection against the cold wind."
+ },
+ {
+  "id": "protest",
+  "ipa": "/ˈproʊtest/ (n.), /prəˈtest/ (v.)",
+  "fr": "protestation, manifestation (n.) ; protester (v.)",
+  "def": "a strong complaint or action against something unfair",
+  "ex": "Thousands of people joined the protest downtown yesterday."
+ },
+ {
+  "id": "proud",
+  "ipa": "/praʊd/",
+  "fr": "fier",
+  "def": "feeling pleased about something you or others did",
+  "ex": "Her parents were very proud of her graduation."
+ },
+ {
+  "id": "prove",
+  "ipa": "/pruːv/",
+  "fr": "prouver",
+  "def": "to show that something is true with facts",
+  "ex": "The new evidence proved that he was innocent."
+ },
+ {
+  "id": "provide",
+  "ipa": "/prəˈvaɪd/",
+  "fr": "fournir",
+  "def": "to give someone something that they need",
+  "ex": "The hotel provides free breakfast for all its guests."
+ },
+ {
+  "id": "psychologist",
+  "ipa": "/saɪˈkɑːlədʒɪst/",
+  "fr": "psychologue",
+  "def": "a scientist who studies the mind and behavior",
+  "ex": "She sees a psychologist once a week for therapy."
+ },
+ {
+  "id": "psychology",
+  "ipa": "/saɪˈkɑːlədʒi/",
+  "fr": "psychologie",
+  "def": "the scientific study of the mind and behavior",
+  "ex": "He is studying psychology at the state university."
+ },
+ {
+  "id": "public",
+  "ipa": "/ˈpʌblɪk/",
+  "fr": "public",
+  "def": "relating to all people, not just a few",
+  "ex": "The park is open to the public every day."
+ },
+ {
+  "id": "publication",
+  "ipa": "/ˌpʌbləˈkeɪʃn/",
+  "fr": "publication",
+  "def": "a book or magazine that is published",
+  "ex": "This magazine is a popular monthly publication about science."
+ },
+ {
+  "id": "publish",
+  "ipa": "/ˈpʌblɪʃ/",
+  "fr": "publier",
+  "def": "to print a book or article for people to buy",
+  "ex": "The author will publish her new novel next year."
+ },
+ {
+  "id": "pull",
+  "ipa": "/pʊl/",
+  "fr": "tirer (v.) ; traction (n.)",
+  "def": "to move something toward yourself using force",
+  "ex": "Please pull the door instead of pushing it."
+ },
+ {
+  "id": "punish",
+  "ipa": "/ˈpʌnɪʃ/",
+  "fr": "punir",
+  "def": "to make someone suffer for doing something wrong",
+  "ex": "The teacher punished the boys for fighting in class."
+ },
+ {
+  "id": "punishment",
+  "ipa": "/ˈpʌnɪʃmənt/",
+  "fr": "punition",
+  "def": "a penalty given to someone for a crime",
+  "ex": "Stealing can result in a very serious punishment."
+ },
+ {
+  "id": "purchase",
+  "ipa": "/ˈpɝːtʃəs/",
+  "fr": "achat (n.) ; acheter (v.)",
+  "def": "the act of buying something",
+  "ex": "Keep your receipt in case you return this purchase."
+ },
+ {
+  "id": "pure",
+  "ipa": "/pjʊr/",
+  "fr": "pur",
+  "def": "not mixed with anything else; clean",
+  "ex": "This bottle contains pure spring water from the mountains."
+ },
+ {
+  "id": "purple",
+  "ipa": "/ˈpɝːpl/",
+  "fr": "violet",
+  "def": "having a color between red and blue",
+  "ex": "She painted her bedroom walls a deep purple color."
+ },
+ {
+  "id": "purpose",
+  "ipa": "/ˈpɝːpəs/",
+  "fr": "but, objectif",
+  "def": "the reason why something is done or made",
+  "ex": "The purpose of the meeting is to discuss budgets."
+ },
+ {
+  "id": "pursue",
+  "ipa": "/pɚˈsuː/",
+  "fr": "poursuivre (un but, une carrière)",
+  "def": "to keep trying to achieve a goal",
+  "ex": "She decided to pursue a career in medicine."
+ },
+ {
+  "id": "push",
+  "ipa": "/pʊʃ/",
+  "fr": "pousser (v.) ; poussée (n.)",
+  "def": "to use force to move something away from you",
+  "ex": "He pushed the heavy box across the whole room."
+ },
+ {
+  "id": "put",
+  "ipa": "/pʊt/",
+  "fr": "mettre, poser",
+  "def": "to move something into a particular place",
+  "ex": "She put the keys on the kitchen table."
+ },
+ {
+  "id": "qualification",
+  "ipa": "/ˌkwɑːləfəˈkeɪʃn/",
+  "fr": "qualification, diplôme",
+  "def": "a skill or exam result needed for a job",
+  "ex": "You need a teaching qualification to work at this school."
+ },
+ {
+  "id": "qualified",
+  "ipa": "/ˈkwɑːləfaɪd/",
+  "fr": "qualifié, diplômé",
+  "def": "having the right skills or knowledge for something",
+  "ex": "She is fully qualified to teach high school mathematics."
+ },
+ {
+  "id": "qualify",
+  "ipa": "/ˈkwɑːləfaɪ/",
+  "fr": "se qualifier, obtenir un diplôme",
+  "def": "to have the right skills to do something",
+  "ex": "Our team qualified for the final match yesterday."
+ },
+ {
+  "id": "quality",
+  "ipa": "/ˈkwɑːləti/",
+  "fr": "qualité",
+  "def": "how good or bad something is",
+  "ex": "This store sells clothes of very high quality."
+ },
+ {
+  "id": "quantity",
+  "ipa": "/ˈkwɑːntəti/",
+  "fr": "quantité",
+  "def": "the amount or number of something",
+  "ex": "We need a large quantity of paper for the printer."
+ },
+ {
+  "id": "quarter",
+  "ipa": "/ˈkwɔːrtɚ/",
+  "fr": "quart ; quartier (de ville) ; pièce de 25 cents",
+  "def": "one of four equal parts of something",
+  "ex": "Cut the apple into four equal quarters, please."
+ },
+ {
+  "id": "queen",
+  "ipa": "/kwiːn/",
+  "fr": "reine",
+  "def": "a woman who rules a country",
+  "ex": "The queen greeted the crowd outside the palace."
+ },
+ {
+  "id": "question",
+  "ipa": "/ˈkwestʃən/",
+  "fr": "question (n.) ; interroger (v.)",
+  "def": "something you ask to get information",
+  "ex": "She asked a difficult question during the job interview."
+ },
+ {
+  "id": "quick",
+  "ipa": "/kwɪk/",
+  "fr": "rapide",
+  "def": "moving or happening fast",
+  "ex": "He gave a quick answer to the teacher's question."
+ },
+ {
+  "id": "quickly",
+  "ipa": "/ˈkwɪkli/",
+  "fr": "rapidement",
+  "def": "in a fast way; without delay",
+  "ex": "She quickly finished her homework before eating dinner."
+ },
+ {
+  "id": "quiet",
+  "ipa": "/ˈkwaɪət/",
+  "fr": "silencieux, calme",
+  "def": "making very little noise",
+  "ex": "Please be quiet while the baby is sleeping."
+ },
+ {
+  "id": "quietly",
+  "ipa": "/ˈkwaɪətli/",
+  "fr": "silencieusement, calmement",
+  "def": "without making much noise",
+  "ex": "He quietly closed the door so no one woke up."
+ },
+ {
+  "id": "quit",
+  "ipa": "/kwɪt/",
+  "fr": "quitter, arrêter, démissionner",
+  "def": "to stop doing something or leave a job",
+  "ex": "She quit her job to travel around the world."
+ },
+ {
+  "id": "quite",
+  "ipa": "/kwaɪt/",
+  "fr": "assez, plutôt ; tout à fait",
+  "def": "to a fairly large degree; rather",
+  "ex": "The movie was quite good, but a bit long."
+ },
+ {
+  "id": "quotation",
+  "ipa": "/kwoʊˈteɪʃn/",
+  "fr": "citation",
+  "def": "words repeated exactly from a book or speech",
+  "ex": "She began her speech with a famous quotation."
+ },
+ {
+  "id": "quote",
+  "ipa": "/kwoʊt/",
+  "fr": "citer (v.) ; citation (n.)",
+  "def": "to repeat the exact words that someone said",
+  "ex": "He quoted a line from his favorite old poem."
+ },
+ {
+  "id": "race-competition",
+  "ipa": "/reɪs/",
+  "fr": "course (compétition)",
+  "def": "a competition to see who is fastest",
+  "ex": "She won the race by just two seconds."
+ },
+ {
+  "id": "race-of-people",
+  "ipa": "/reɪs/",
+  "fr": "race (groupe humain)",
+  "def": "a group of people with shared ancestry or features",
+  "ex": "The festival celebrates people of every race and culture."
+ },
+ {
+  "id": "racing",
+  "ipa": "/ˈreɪsɪŋ/",
+  "fr": "course (sport)",
+  "def": "the sport of competing in races",
+  "ex": "He loves watching horse racing on television every weekend."
+ },
+ {
+  "id": "radio",
+  "ipa": "/ˈreɪdioʊ/",
+  "fr": "radio",
+  "def": "a machine that receives sound programs through the air",
+  "ex": "We listened to music on the radio during the drive."
+ },
+ {
+  "id": "railroad",
+  "ipa": "/ˈreɪlroʊd/",
+  "fr": "chemin de fer",
+  "def": "a track that trains travel on",
+  "ex": "The railroad connects the two largest cities in the state."
+ },
+ {
+  "id": "rain",
+  "ipa": "/reɪn/",
+  "fr": "pluie (n.) ; pleuvoir (v.)",
+  "def": "water that falls from clouds in the sky",
+  "ex": "The rain stopped just before we left the house."
+ },
+ {
+  "id": "raise",
+  "ipa": "/reɪz/",
+  "fr": "lever, augmenter (v.) ; augmentation (n.)",
+  "def": "to lift something up, or increase an amount",
+  "ex": "Please raise your hand if you have a question."
+ },
+ {
+  "id": "range",
+  "ipa": "/reɪndʒ/",
+  "fr": "gamme, éventail (n.) ; varier (v.)",
+  "def": "a group of different things of the same kind",
+  "ex": "The store sells a wide range of children's shoes."
+ },
+ {
+  "id": "rank",
+  "ipa": "/ræŋk/",
+  "fr": "rang, grade (n.) ; classer (v.)",
+  "def": "a position in a group, such as the army",
+  "ex": "He reached the rank of captain in the army."
+ },
+ {
+  "id": "rapid",
+  "ipa": "/ˈræpɪd/",
+  "fr": "rapide",
+  "def": "happening very quickly",
+  "ex": "The company has seen rapid growth this past year."
+ },
+ {
+  "id": "rapidly",
+  "ipa": "/ˈræpɪdli/",
+  "fr": "rapidement",
+  "def": "in a very fast way",
+  "ex": "The city's population is growing rapidly every single year."
+ },
+ {
+  "id": "rare",
+  "ipa": "/rer/",
+  "fr": "rare",
+  "def": "not found or seen very often",
+  "ex": "This is a rare type of flower from Asia."
+ },
+ {
+  "id": "rarely",
+  "ipa": "/ˈrerli/",
+  "fr": "rarement",
+  "def": "not often; almost never",
+  "ex": "He rarely eats breakfast before going to work."
+ },
+ {
+  "id": "rate",
+  "ipa": "/reɪt/",
+  "fr": "taux, rythme, tarif (n.) ; évaluer (v.)",
+  "def": "the speed at which something happens, or a price",
+  "ex": "The interest rate on the loan increased last month."
+ },
+ {
+  "id": "rather",
+  "ipa": "/ˈræðɚ/",
+  "fr": "plutôt, assez",
+  "def": "to some degree; more than a little",
+  "ex": "It's rather cold outside today, so wear a coat."
+ },
+ {
+  "id": "raw",
+  "ipa": "/rɔː/",
+  "fr": "cru, brut",
+  "def": "not cooked or not yet processed",
+  "ex": "She doesn't like eating raw fish at restaurants."
+ },
+ {
+  "id": "reach",
+  "ipa": "/riːtʃ/",
+  "fr": "atteindre, arriver à (v.) ; portée (n.)",
+  "def": "to arrive at a place, or stretch out your hand",
+  "ex": "We finally reached the top of the tall mountain."
+ },
+ {
+  "id": "react",
+  "ipa": "/riˈækt/",
+  "fr": "réagir",
+  "def": "to do or say something because of what happened",
+  "ex": "She reacted with surprise when she heard the news."
+ },
+ {
+  "id": "reaction",
+  "ipa": "/riˈækʃn/",
+  "fr": "réaction",
+  "def": "something you feel, say, or do in response",
+  "ex": "His reaction to the gift was pure joy."
+ },
+ {
+  "id": "read",
+  "ipa": "/riːd/",
+  "fr": "lire",
+  "def": "to look at words and understand their meaning",
+  "ex": "She reads a new book every single week."
+ },
+ {
+  "id": "reader",
+  "ipa": "/ˈriːdɚ/",
+  "fr": "lecteur, lectrice",
+  "def": "a person who reads, especially a book",
+  "ex": "This author has millions of readers around the world."
+ },
+ {
+  "id": "reading",
+  "ipa": "/ˈriːdɪŋ/",
+  "fr": "lecture",
+  "def": "the activity of looking at and understanding text",
+  "ex": "Reading before bed helps me fall asleep quickly."
+ },
+ {
+  "id": "ready",
+  "ipa": "/ˈredi/",
+  "fr": "prêt",
+  "def": "prepared for something, able to start",
+  "ex": "He was ready to leave for the airport early."
+ },
+ {
+  "id": "real",
+  "ipa": "/riːl/",
+  "fr": "réel, vrai",
+  "def": "actually existing, not imagined or false",
+  "ex": "That is a real diamond in her new ring."
+ },
+ {
+  "id": "realistic",
+  "ipa": "/ˌriːəˈlɪstɪk/",
+  "fr": "réaliste",
+  "def": "showing things as they really are or can be",
+  "ex": "We need a realistic plan to finish on time."
+ },
+ {
+  "id": "reality",
+  "ipa": "/riˈæləti/",
+  "fr": "réalité",
+  "def": "the way things actually are, not imagined",
+  "ex": "In reality, the trip cost much more than planned."
+ },
+ {
+  "id": "realize",
+  "ipa": "/ˈriːəlaɪz/",
+  "fr": "réaliser, se rendre compte de",
+  "def": "to become aware of something or understand it",
+  "ex": "I didn't realize how late it was until now."
+ },
+ {
+  "id": "really",
+  "ipa": "/ˈriːəli/",
+  "fr": "vraiment",
+  "def": "very much; in fact",
+  "ex": "I really enjoyed the concert we saw last night."
+ },
+ {
+  "id": "reason",
+  "ipa": "/ˈriːzn/",
+  "fr": "raison",
+  "def": "the cause or explanation for something",
+  "ex": "She didn't give a reason for being so late."
+ },
+ {
+  "id": "reasonable",
+  "ipa": "/ˈriːznəbl/",
+  "fr": "raisonnable",
+  "def": "fair and sensible; not too expensive",
+  "ex": "The hotel charges a reasonable price for the room."
+ },
+ {
+  "id": "recall",
+  "ipa": "/rɪˈkɔːl/",
+  "fr": "se rappeler, se souvenir de",
+  "def": "to remember something from the past",
+  "ex": "I can't recall where I put my house keys."
+ },
+ {
+  "id": "receipt",
+  "ipa": "/rɪˈsiːt/",
+  "fr": "reçu, ticket de caisse",
+  "def": "a paper that proves you paid for something",
+  "ex": "Please keep your receipt in case you need a refund."
+ },
+ {
+  "id": "receive",
+  "ipa": "/rɪˈsiːv/",
+  "fr": "recevoir",
+  "def": "to get something that is given or sent to you",
+  "ex": "She received a letter from her old school friend."
+ },
+ {
+  "id": "recent",
+  "ipa": "/ˈriːsnt/",
+  "fr": "récent",
+  "def": "happening or made a short time ago",
+  "ex": "She read some recent news about the local election."
+ },
+ {
+  "id": "recently",
+  "ipa": "/ˈriːsntli/",
+  "fr": "récemment",
+  "def": "not long ago",
+  "ex": "We recently moved to a new apartment downtown."
+ },
+ {
+  "id": "reception",
+  "ipa": "/rɪˈsepʃn/",
+  "fr": "réception, accueil",
+  "def": "the desk where visitors are welcomed, or a party",
+  "ex": "Please leave your bags at the hotel reception desk."
+ },
+ {
+  "id": "recipe",
+  "ipa": "/ˈresəpi/",
+  "fr": "recette (de cuisine)",
+  "def": "instructions for cooking a particular dish",
+  "ex": "My grandmother gave me her recipe for apple pie."
+ },
+ {
+  "id": "recognize",
+  "ipa": "/ˈrekəɡnaɪz/",
+  "fr": "reconnaître",
+  "def": "to know someone or something you have seen before",
+  "ex": "I almost didn't recognize you with your short hair."
+ },
+ {
+  "id": "recommend",
+  "ipa": "/ˌrekəˈmend/",
+  "fr": "recommander",
+  "def": "to say that something is good or useful",
+  "ex": "He recommended a good restaurant near our hotel."
+ },
+ {
+  "id": "recommendation",
+  "ipa": "/ˌrekəmenˈdeɪʃn/",
+  "fr": "recommandation",
+  "def": "advice about the best thing to do or choose",
+  "ex": "The doctor made a recommendation about my daily diet."
+ },
+ {
+  "id": "record",
+  "ipa": "/ˈrekɚd/ (n.), /rɪˈkɔːrd/ (v.)",
+  "fr": "record, dossier (n.) ; enregistrer (v.)",
+  "def": "to store sound, video, or information for later use",
+  "ex": "She recorded the meeting so she could listen again later."
+ },
+ {
+  "id": "recording",
+  "ipa": "/rɪˈkɔːrdɪŋ/",
+  "fr": "enregistrement",
+  "def": "a piece of music or video that has been recorded",
+  "ex": "We listened to a recording of the whole concert."
+ },
+ {
+  "id": "recover",
+  "ipa": "/rɪˈkʌvɚ/",
+  "fr": "se remettre, récupérer, guérir",
+  "def": "to become healthy or normal again after illness",
+  "ex": "It took her several weeks to recover from the flu."
+ },
+ {
+  "id": "recycle",
+  "ipa": "/riːˈsaɪkl/",
+  "fr": "recycler",
+  "def": "to treat waste so it can be used again",
+  "ex": "We recycle paper, glass, and plastic bottles at home."
+ },
+ {
+  "id": "red",
+  "ipa": "/red/",
+  "fr": "rouge",
+  "def": "having the color of blood or fire",
+  "ex": "She was wearing a bright red dress today."
+ },
+ {
+  "id": "reduce",
+  "ipa": "/rɪˈduːs/",
+  "fr": "réduire, diminuer",
+  "def": "to make something smaller or less in amount",
+  "ex": "We need to reduce the amount of sugar we eat."
+ },
+ {
+  "id": "reduction",
+  "ipa": "/rɪˈdʌkʃn/",
+  "fr": "réduction, diminution",
+  "def": "the act of making something smaller or less",
+  "ex": "The store announced a big reduction in all prices."
+ },
+ {
+  "id": "refer",
+  "ipa": "/rɪˈfɝː/",
+  "fr": "faire référence à, se référer à",
+  "def": "to mention or talk about something",
+  "ex": "She often refers to her time living in Japan."
+ },
+ {
+  "id": "reference",
+  "ipa": "/ˈrefrəns/",
+  "fr": "référence",
+  "def": "a mention of something, or a source of information",
+  "ex": "The book contains a reference to an old legend."
+ },
+ {
+  "id": "reflect",
+  "ipa": "/rɪˈflekt/",
+  "fr": "refléter ; réfléchir (penser)",
+  "def": "to show an image, or think carefully",
+  "ex": "The calm lake reflected the mountains perfectly this morning."
+ },
+ {
+  "id": "refrigerator",
+  "ipa": "/rɪˈfrɪdʒəreɪtɚ/",
+  "fr": "réfrigérateur",
+  "def": "a machine that keeps food cold",
+  "ex": "Put the milk back in the refrigerator, please."
+ },
+ {
+  "id": "refuse-1",
+  "ipa": "/rɪˈfjuːz/",
+  "fr": "refuser",
+  "def": "to say that you will not do something",
+  "ex": "He refused to answer any of the reporter's questions."
+ },
+ {
+  "id": "regard",
+  "ipa": "/rɪˈɡɑːrd/",
+  "fr": "considérer (v.) ; égard, estime (n.)",
+  "def": "to think of someone or something in a certain way",
+  "ex": "People regard her as one of the best writers today."
+ },
+ {
+  "id": "region",
+  "ipa": "/ˈriːdʒən/",
+  "fr": "région",
+  "def": "a large area of a country or the world",
+  "ex": "This region is famous for its excellent local wine."
+ },
+ {
+  "id": "regional",
+  "ipa": "/ˈriːdʒənl/",
+  "fr": "régional",
+  "def": "relating to a particular region",
+  "ex": "The team won the regional championship last weekend."
+ },
+ {
+  "id": "register",
+  "ipa": "/ˈredʒɪstɚ/",
+  "fr": "s'inscrire, enregistrer (v.) ; registre (n.)",
+  "def": "to put your name on an official list",
+  "ex": "You must register before the course begins next week."
+ },
+ {
+  "id": "regret",
+  "ipa": "/rɪˈɡret/",
+  "fr": "regretter (v.) ; regret (n.)",
+  "def": "to feel sorry about something you did",
+  "ex": "He regrets not studying harder when he was young."
+ },
+ {
+  "id": "regular",
+  "ipa": "/ˈreɡjəlɚ/",
+  "fr": "régulier",
+  "def": "happening often, at the same time each time",
+  "ex": "Regular exercise is good for your heart and health."
+ },
+ {
+  "id": "regularly",
+  "ipa": "/ˈreɡjəlɚli/",
+  "fr": "régulièrement",
+  "def": "often, at equal periods of time",
+  "ex": "She visits her grandmother regularly on the weekends."
+ },
+ {
+  "id": "regulation",
+  "ipa": "/ˌreɡjəˈleɪʃn/",
+  "fr": "règlement, réglementation",
+  "def": "an official rule that controls how something is done",
+  "ex": "New safety regulations were introduced earlier this year."
+ },
+ {
+  "id": "reject",
+  "ipa": "/rɪˈdʒekt/",
+  "fr": "rejeter, refuser",
+  "def": "to refuse to accept, believe, or agree to something",
+  "ex": "The company rejected his application for the job."
+ },
+ {
+  "id": "relate",
+  "ipa": "/rɪˈleɪt/",
+  "fr": "relier, associer ; s'identifier à",
+  "def": "to show a connection between two things",
+  "ex": "It's hard to relate these two separate events."
+ },
+ {
+  "id": "related",
+  "ipa": "/rɪˈleɪtɪd/",
+  "fr": "lié, apparenté",
+  "def": "connected to something else in some way",
+  "ex": "Stress and headaches are often closely related to each other."
+ },
+ {
+  "id": "relation",
+  "ipa": "/rɪˈleɪʃn/",
+  "fr": "relation, rapport",
+  "def": "the way two things or people are connected",
+  "ex": "There is a close relation between diet and health."
+ },
+ {
+  "id": "relationship",
+  "ipa": "/rɪˈleɪʃnʃɪp/",
+  "fr": "relation",
+  "def": "the way people or things are connected",
+  "ex": "They have a close relationship with all their neighbors."
+ },
+ {
+  "id": "relative",
+  "ipa": "/ˈrelətɪv/",
+  "fr": "relatif (adj.) ; parent, membre de la famille (n.)",
+  "def": "a member of your family",
+  "ex": "She invited all her relatives to the small wedding."
+ },
+ {
+  "id": "relatively",
+  "ipa": "/ˈrelətɪvli/",
+  "fr": "relativement",
+  "def": "fairly, when compared with others",
+  "ex": "The test was relatively easy for most of the students."
+ },
+ {
+  "id": "relax",
+  "ipa": "/rɪˈlæks/",
+  "fr": "se détendre, se relaxer",
+  "def": "to rest and stop worrying or working",
+  "ex": "I like to relax by reading on the weekend."
+ },
+ {
+  "id": "relaxed",
+  "ipa": "/rɪˈlækst/",
+  "fr": "détendu",
+  "def": "calm and free from stress or worry",
+  "ex": "He felt relaxed after his vacation at the beach."
+ },
+ {
+  "id": "relaxing",
+  "ipa": "/rɪˈlæksɪŋ/",
+  "fr": "relaxant, reposant",
+  "def": "helping you feel calm and free from stress",
+  "ex": "We spent a relaxing weekend at the quiet lake house."
+ },
+ {
+  "id": "release",
+  "ipa": "/rɪˈliːs/",
+  "fr": "libérer, sortir (v.) ; libération (n.)",
+  "def": "to let someone or something go free",
+  "ex": "The zoo released the bird back into the wild."
+ },
+ {
+  "id": "relevant",
+  "ipa": "/ˈreləvənt/",
+  "fr": "pertinent",
+  "def": "connected to what is happening or being discussed",
+  "ex": "Please only include information that is relevant to the topic."
+ },
+ {
+  "id": "reliable",
+  "ipa": "/rɪˈlaɪəbl/",
+  "fr": "fiable",
+  "def": "able to be trusted to work well",
+  "ex": "This old car has always been very reliable."
+ },
+ {
+  "id": "relief",
+  "ipa": "/rɪˈliːf/",
+  "fr": "soulagement",
+  "def": "the feeling when worry or pain stops",
+  "ex": "It was such a relief to hear she was safe."
+ },
+ {
+  "id": "religion",
+  "ipa": "/rɪˈlɪdʒən/",
+  "fr": "religion",
+  "def": "the belief in and worship of a god",
+  "ex": "They studied the history of religion in college."
+ },
+ {
+  "id": "religious",
+  "ipa": "/rɪˈlɪdʒəs/",
+  "fr": "religieux",
+  "def": "connected with religion or strong religious belief",
+  "ex": "Her family is very religious and prays every day."
+ },
+ {
+  "id": "rely",
+  "ipa": "/rɪˈlaɪ/",
+  "fr": "compter sur, se fier à",
+  "def": "to need and trust someone or something",
+  "ex": "You can always rely on her for good advice."
+ },
+ {
+  "id": "remain",
+  "ipa": "/rɪˈmeɪn/",
+  "fr": "rester, demeurer",
+  "def": "to stay in the same place or state",
+  "ex": "Please remain seated until the plane has fully stopped."
+ },
+ {
+  "id": "remark",
+  "ipa": "/rɪˈmɑːrk/",
+  "fr": "remarque (n.) ; remarquer (v.)",
+  "def": "something you say, a comment",
+  "ex": "He made a rude remark about her cooking skills."
+ },
+ {
+  "id": "remember",
+  "ipa": "/rɪˈmembɚ/",
+  "fr": "se souvenir de, se rappeler",
+  "def": "to keep something in your mind, not forget it",
+  "ex": "I can't remember where I left my phone."
+ },
+ {
+  "id": "remind",
+  "ipa": "/rɪˈmaɪnd/",
+  "fr": "rappeler (à quelqu'un)",
+  "def": "to help someone remember something",
+  "ex": "Please remind me to call my mother later today."
+ },
+ {
+  "id": "remote",
+  "ipa": "/rɪˈmoʊt/",
+  "fr": "éloigné, isolé",
+  "def": "far away from cities or other places",
+  "ex": "They live in a remote village in the mountains."
+ },
+ {
+  "id": "remove",
+  "ipa": "/rɪˈmuːv/",
+  "fr": "enlever, retirer, supprimer",
+  "def": "to take something away or off",
+  "ex": "Please remove your shoes before entering the house."
+ },
+ {
+  "id": "rent",
+  "ipa": "/rent/",
+  "fr": "loyer (n.) ; louer (v.)",
+  "def": "money you pay regularly to use a home",
+  "ex": "They pay their rent on the first of every month."
+ },
+ {
+  "id": "repair",
+  "ipa": "/rɪˈper/",
+  "fr": "réparer (v.) ; réparation (n.)",
+  "def": "to fix something that is broken",
+  "ex": "He repaired the bike so it works again perfectly."
+ },
+ {
+  "id": "repeat",
+  "ipa": "/rɪˈpiːt/",
+  "fr": "répéter (v.) ; répétition (n.)",
+  "def": "to say or do something again",
+  "ex": "She asked him to repeat the question again."
+ },
+ {
+  "id": "repeated",
+  "ipa": "/rɪˈpiːtɪd/",
+  "fr": "répété",
+  "def": "said or done many times",
+  "ex": "Despite repeated warnings, he kept arriving late for work."
+ },
+ {
+  "id": "replace",
+  "ipa": "/rɪˈpleɪs/",
+  "fr": "remplacer",
+  "def": "to put a new thing in place of an old one",
+  "ex": "We need to replace the broken window soon."
+ },
+ {
+  "id": "reply",
+  "ipa": "/rɪˈplaɪ/",
+  "fr": "répondre (v.) ; réponse (n.)",
+  "def": "to say or write something as an answer",
+  "ex": "She replied to my email within just an hour."
+ },
+ {
+  "id": "report",
+  "ipa": "/rɪˈpɔːrt/",
+  "fr": "rapport (n.) ; signaler, rapporter (v.)",
+  "def": "a written or spoken description of an event",
+  "ex": "He wrote a report about the company's yearly sales."
+ },
+ {
+  "id": "reporter",
+  "ipa": "/rɪˈpɔːrtɚ/",
+  "fr": "journaliste, reporter",
+  "def": "a person who writes or talks about news",
+  "ex": "A reporter asked the mayor several difficult questions."
+ },
+ {
+  "id": "represent",
+  "ipa": "/ˌreprɪˈzent/",
+  "fr": "représenter",
+  "def": "to speak or act officially for someone",
+  "ex": "She will represent our company at the big conference."
+ },
+ {
+  "id": "representative",
+  "ipa": "/ˌreprɪˈzentətɪv/",
+  "fr": "représentant, représentante (n.) ; représentatif (adj.)",
+  "def": "a person chosen to act or speak for others",
+  "ex": "He is a sales representative for a software company."
+ },
+ {
+  "id": "reputation",
+  "ipa": "/ˌrepjəˈteɪʃn/",
+  "fr": "réputation",
+  "def": "the opinion people have about someone or something",
+  "ex": "The restaurant has a good reputation for fresh food."
+ },
+ {
+  "id": "request",
+  "ipa": "/rɪˈkwest/",
+  "fr": "demande (n.) ; demander (v.)",
+  "def": "a polite or formal way of asking for something",
+  "ex": "She made a request for extra time on the test."
+ },
+ {
+  "id": "require",
+  "ipa": "/rɪˈkwaɪɚ/",
+  "fr": "exiger, nécessiter",
+  "def": "to need something, or make something necessary",
+  "ex": "This job requires good computer skills and patience."
+ },
+ {
+  "id": "requirement",
+  "ipa": "/rɪˈkwaɪɚmənt/",
+  "fr": "exigence, condition requise",
+  "def": "something that is needed or must be done",
+  "ex": "A driving test is a requirement for a license."
+ },
+ {
+  "id": "rescue",
+  "ipa": "/ˈreskjuː/",
+  "fr": "sauver (v.) ; sauvetage (n.)",
+  "def": "to save someone from danger",
+  "ex": "Firefighters rescued the cat from the tall tree."
+ },
+ {
+  "id": "research",
+  "ipa": "/rɪˈsɝːtʃ/",
+  "fr": "recherche (n.) ; faire des recherches (v.)",
+  "def": "the careful study of a subject to learn new facts",
+  "ex": "Scientists are doing research on a new vaccine today."
+ },
+ {
+  "id": "researcher",
+  "ipa": "/rɪˈsɝːtʃɚ/",
+  "fr": "chercheur, chercheuse",
+  "def": "a person who studies a subject in detail",
+  "ex": "The researcher spent years studying animals in the ocean."
+ },
+ {
+  "id": "reservation",
+  "ipa": "/ˌrezɚˈveɪʃn/",
+  "fr": "réservation",
+  "def": "an arrangement to have a table, room, or seat",
+  "ex": "I made a reservation at the restaurant for two."
+ },
+ {
+  "id": "reserve",
+  "ipa": "/rɪˈzɝːv/",
+  "fr": "réserver (v.) ; réserve (n.)",
+  "def": "to arrange to have something kept for you",
+  "ex": "We reserved a table for dinner on Friday night."
+ },
+ {
+  "id": "resident",
+  "ipa": "/ˈrezɪdənt/",
+  "fr": "résident, résidente (n.) ; résidant (adj.)",
+  "def": "a person who lives in a particular place",
+  "ex": "Every resident of the building received a friendly letter."
+ },
+ {
+  "id": "resist",
+  "ipa": "/rɪˈzɪst/",
+  "fr": "résister à",
+  "def": "to fight against something or refuse to accept it",
+  "ex": "She couldn't resist eating another piece of chocolate cake."
+ },
+ {
+  "id": "resolve",
+  "ipa": "/rɪˈzɑːlv/",
+  "fr": "résoudre",
+  "def": "to find a solution to a problem",
+  "ex": "They finally resolved their disagreement about the money."
+ },
+ {
+  "id": "resort",
+  "ipa": "/rɪˈzɔːrt/",
+  "fr": "station (balnéaire, de ski)",
+  "def": "a place where people go on vacation",
+  "ex": "We stayed at a beach resort in Mexico last year."
+ },
+ {
+  "id": "resource",
+  "ipa": "/ˈriːsɔːrs/",
+  "fr": "ressource",
+  "def": "something useful that a place or person has",
+  "ex": "Water is an important natural resource for every country."
+ },
+ {
+  "id": "respect",
+  "ipa": "/rɪˈspekt/",
+  "fr": "respect (n.) ; respecter (v.)",
+  "def": "a feeling of admiration for someone or something",
+  "ex": "Students should respect their teachers and their classmates."
+ },
+ {
+  "id": "respond",
+  "ipa": "/rɪˈspɑːnd/",
+  "fr": "répondre, réagir",
+  "def": "to say or do something as an answer",
+  "ex": "He didn't respond to any of my text messages."
+ },
+ {
+  "id": "response",
+  "ipa": "/rɪˈspɑːns/",
+  "fr": "réponse, réaction",
+  "def": "an answer or reaction to something",
+  "ex": "Her response to the question surprised everyone in the room."
+ },
+ {
+  "id": "responsibility",
+  "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+  "fr": "responsabilité",
+  "def": "a duty to deal with or take care of something",
+  "ex": "Feeding the dog is my little brother's daily responsibility."
+ },
+ {
+  "id": "responsible",
+  "ipa": "/rɪˈspɑːnsəbl/",
+  "fr": "responsable",
+  "def": "having a duty to deal with something",
+  "ex": "She is responsible for organizing the whole school event."
+ },
+ {
+  "id": "rest-remaining-part",
+  "ipa": "/rest/",
+  "fr": "reste",
+  "def": "the part of something that is left over",
+  "ex": "I'll eat the rest of the pizza tomorrow night."
+ },
+ {
+  "id": "rest-sleep-relax",
+  "ipa": "/rest/",
+  "fr": "repos (n.) ; se reposer (v.)",
+  "def": "a period of relaxing or sleeping",
+  "ex": "You should get some rest before your long trip."
+ },
+ {
+  "id": "restaurant",
+  "ipa": "/ˈrestərɑːnt/",
+  "fr": "restaurant",
+  "def": "a place where you pay to eat a meal",
+  "ex": "We had dinner at a new restaurant downtown last night."
+ },
+ {
+  "id": "result",
+  "ipa": "/rɪˈzʌlt/",
+  "fr": "résultat (n.) ; résulter (v.)",
+  "def": "something that happens because of something else",
+  "ex": "The test results will be ready again next week."
+ },
+ {
+  "id": "retain",
+  "ipa": "/rɪˈteɪn/",
+  "fr": "conserver, retenir",
+  "def": "to keep something and not lose it",
+  "ex": "The company works hard to retain its best employees."
+ },
+ {
+  "id": "retire",
+  "ipa": "/rɪˈtaɪɚ/",
+  "fr": "prendre sa retraite",
+  "def": "to stop working, usually because of your age",
+  "ex": "My father plans to retire from work next year."
+ },
+ {
+  "id": "retired",
+  "ipa": "/rɪˈtaɪɚd/",
+  "fr": "retraité",
+  "def": "no longer working, usually because of age",
+  "ex": "My grandfather is a retired teacher from a small school."
+ },
+ {
+  "id": "return",
+  "ipa": "/rɪˈtɝːn/",
+  "fr": "revenir, retourner, rendre (v.) ; retour (n.)",
+  "def": "to come or go back to a place",
+  "ex": "They will return home from vacation on Sunday night."
+ },
+ {
+  "id": "reveal",
+  "ipa": "/rɪˈviːl/",
+  "fr": "révéler",
+  "def": "to make something known that was secret",
+  "ex": "The magician revealed how the amazing trick worked."
+ },
+ {
+  "id": "review",
+  "ipa": "/rɪˈvjuː/",
+  "fr": "critique, examen (n.) ; examiner (v.)",
+  "def": "a report that gives an opinion about something",
+  "ex": "The film received great reviews from most critics."
+ },
+ {
+  "id": "revise",
+  "ipa": "/rɪˈvaɪz/",
+  "fr": "réviser, revoir",
+  "def": "to change something to improve or correct it",
+  "ex": "She revised her essay before handing it in."
+ },
+ {
+  "id": "revolution",
+  "ipa": "/ˌrevəˈluːʃn/",
+  "fr": "révolution",
+  "def": "a complete change, often achieved through force",
+  "ex": "The revolution completely changed the country's whole government."
+ },
+ {
+  "id": "reward",
+  "ipa": "/rɪˈwɔːrd/",
+  "fr": "récompense (n.) ; récompenser (v.)",
+  "def": "something given in return for good behavior or work",
+  "ex": "She received a reward for finding the lost dog."
+ },
+ {
+  "id": "rhythm",
+  "ipa": "/ˈrɪðəm/",
+  "fr": "rythme",
+  "def": "a regular repeated pattern of sound or movement",
+  "ex": "The song has a fast and exciting rhythm."
+ },
+ {
+  "id": "rice",
+  "ipa": "/raɪs/",
+  "fr": "riz",
+  "def": "small white or brown seeds cooked and eaten as food",
+  "ex": "We usually eat rice with our dinner every night."
+ },
+ {
+  "id": "rich",
+  "ipa": "/rɪtʃ/",
+  "fr": "riche",
+  "def": "having a lot of money or property",
+  "ex": "Her uncle is rich enough to own three houses."
+ },
+ {
+  "id": "rid",
+  "ipa": "/rɪd/",
+  "fr": "débarrasser (get rid of)",
+  "def": "to make free of something unwanted",
+  "ex": "We need to get rid of these old boxes."
+ },
+ {
+  "id": "ride",
+  "ipa": "/raɪd/",
+  "fr": "monter à, rouler à (v.) ; balade, trajet (n.)",
+  "def": "to travel by sitting on or in something",
+  "ex": "She rides her bike to school every single day."
+ },
+ {
+  "id": "right",
+  "ipa": "/raɪt/",
+  "fr": "correct (adj.) ; droite (adv., n.)",
+  "def": "correct or true, not wrong",
+  "ex": "That is not the right answer to this question."
+ },
+ {
+  "id": "ring-1",
+  "ipa": "/rɪŋ/",
+  "fr": "bague, anneau",
+  "def": "a piece of jewelry worn on a finger",
+  "ex": "He gave her a beautiful gold ring last year."
+ },
+ {
+  "id": "ring-2",
+  "ipa": "/rɪŋ/",
+  "fr": "sonner (v.) ; sonnerie (n.)",
+  "def": "to make a clear sound, like a bell",
+  "ex": "The phone rang three times before she finally answered."
+ },
+ {
+  "id": "rise",
+  "ipa": "/raɪz/",
+  "fr": "monter, augmenter, se lever (v.) ; hausse (n.)",
+  "def": "to move upward or increase",
+  "ex": "Prices continue to rise a little every single month."
+ },
+ {
+  "id": "risk",
+  "ipa": "/rɪsk/",
+  "fr": "risque (n.) ; risquer (v.)",
+  "def": "the possibility that something bad will happen",
+  "ex": "Smoking increases the risk of serious heart disease."
+ },
+ {
+  "id": "river",
+  "ipa": "/ˈrɪvɚ/",
+  "fr": "rivière, fleuve",
+  "def": "a large natural stream of water",
+  "ex": "They swam in the river all afternoon last summer."
+ },
+ {
+  "id": "road",
+  "ipa": "/roʊd/",
+  "fr": "route",
+  "def": "a hard surface that vehicles travel on",
+  "ex": "Be careful when you cross the busy road."
+ }
+]

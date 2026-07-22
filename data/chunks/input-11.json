@@ -1,0 +1,2888 @@
+[
+ {
+  "id": "speed",
+  "word": "speed",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "spell",
+  "word": "spell",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "spelling",
+  "word": "spelling",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "spend",
+  "word": "spend",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "spending",
+  "word": "spending",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "spicy",
+  "word": "spicy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "spider",
+  "word": "spider",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "spirit",
+  "word": "spirit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "spiritual",
+  "word": "spiritual",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "split",
+  "word": "split",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "spoken",
+  "word": "spoken",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "sponsor",
+  "word": "sponsor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "spoon",
+  "word": "spoon",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "sport",
+  "word": "sport",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "spot",
+  "word": "spot",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "spread",
+  "word": "spread",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "spring",
+  "word": "spring",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "square",
+  "word": "square",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stable",
+  "word": "stable",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stadium",
+  "word": "stadium",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "staff",
+  "word": "staff",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "stage",
+  "word": "stage",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stair",
+  "word": "stair",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stamp",
+  "word": "stamp",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stand",
+  "word": "stand",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "standard",
+  "word": "standard",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "star",
+  "word": "star",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stare",
+  "word": "stare",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "start",
+  "word": "start",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "state",
+  "word": "state",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "adj., v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "statement",
+  "word": "statement",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "station",
+  "word": "station",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "statistic",
+  "word": "statistic",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "statue",
+  "word": "statue",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "status",
+  "word": "status",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stay",
+  "word": "stay",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "steady",
+  "word": "steady",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "steal",
+  "word": "steal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "steel",
+  "word": "steel",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "steep",
+  "word": "steep",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "step",
+  "word": "step",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stick-push-into-attach",
+  "word": "stick",
+  "note": "push into/attach",
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "stick-piece-of-wood",
+  "word": "stick",
+  "note": "piece of wood",
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "sticky",
+  "word": "sticky",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stiff",
+  "word": "stiff",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "still",
+  "word": "still",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "stock",
+  "word": "stock",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stomach",
+  "word": "stomach",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stone",
+  "word": "stone",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stop",
+  "word": "stop",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "store",
+  "word": "store",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "storm",
+  "word": "storm",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "story",
+  "word": "story",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "stove",
+  "word": "stove",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "straight",
+  "word": "straight",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "strange",
+  "word": "strange",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stranger",
+  "word": "stranger",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "strategy",
+  "word": "strategy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stream",
+  "word": "stream",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "street",
+  "word": "street",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "strength",
+  "word": "strength",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "stress",
+  "word": "stress",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "stretch",
+  "word": "stretch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "strict",
+  "word": "strict",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "strike",
+  "word": "strike",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "string",
+  "word": "string",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "strong",
+  "word": "strong",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "strongly",
+  "word": "strongly",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "structure",
+  "word": "structure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "struggle",
+  "word": "struggle",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "student",
+  "word": "student",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "studio",
+  "word": "studio",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "study",
+  "word": "study",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "stuff",
+  "word": "stuff",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "stupid",
+  "word": "stupid",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "style",
+  "word": "style",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "subject",
+  "word": "subject",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "submit",
+  "word": "submit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "substance",
+  "word": "substance",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "subway",
+  "word": "subway",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "succeed",
+  "word": "succeed",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "success",
+  "word": "success",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "successful",
+  "word": "successful",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "successfully",
+  "word": "successfully",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "such",
+  "word": "such",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "sudden",
+  "word": "sudden",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "suddenly",
+  "word": "suddenly",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "suffer",
+  "word": "suffer",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "sugar",
+  "word": "sugar",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "suggest",
+  "word": "suggest",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "suggestion",
+  "word": "suggestion",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "suit",
+  "word": "suit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "suitable",
+  "word": "suitable",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "sum",
+  "word": "sum",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "summarize",
+  "word": "summarize",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "summary",
+  "word": "summary",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "summer",
+  "word": "summer",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "sun",
+  "word": "sun",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "sunday",
+  "word": "Sunday",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "supermarket",
+  "word": "supermarket",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "supply",
+  "word": "supply",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "support",
+  "word": "support",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "supporter",
+  "word": "supporter",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "suppose",
+  "word": "suppose",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "sure",
+  "word": "sure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "surely",
+  "word": "surely",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "surface",
+  "word": "surface",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "surgery",
+  "word": "surgery",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "surprise",
+  "word": "surprise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "surprised",
+  "word": "surprised",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "surprising",
+  "word": "surprising",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "surround",
+  "word": "surround",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "surrounding",
+  "word": "surrounding",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "survey",
+  "word": "survey",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "survive",
+  "word": "survive",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "suspect",
+  "word": "suspect",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "swear",
+  "word": "swear",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "sweater",
+  "word": "sweater",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "sweep",
+  "word": "sweep",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "sweet",
+  "word": "sweet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "swim",
+  "word": "swim",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "swimming",
+  "word": "swimming",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "switch",
+  "word": "switch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "symbol",
+  "word": "symbol",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "sympathy",
+  "word": "sympathy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "symptom",
+  "word": "symptom",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "system",
+  "word": "system",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "table",
+  "word": "table",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tablet",
+  "word": "tablet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tail",
+  "word": "tail",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "take",
+  "word": "take",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tale",
+  "word": "tale",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "talent",
+  "word": "talent",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "talented",
+  "word": "talented",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "talk",
+  "word": "talk",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tall",
+  "word": "tall",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tank",
+  "word": "tank",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "tape",
+  "word": "tape",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "target",
+  "word": "target",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "task",
+  "word": "task",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "taste",
+  "word": "taste",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tax",
+  "word": "tax",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "taxi",
+  "word": "taxi",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tea",
+  "word": "tea",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "teach",
+  "word": "teach",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "teacher",
+  "word": "teacher",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "teaching",
+  "word": "teaching",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "team",
+  "word": "team",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tear-1",
+  "word": "tear",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "tear-2",
+  "word": "tear",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "technical",
+  "word": "technical",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "technique",
+  "word": "technique",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "technology",
+  "word": "technology",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "teenage",
+  "word": "teenage",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "teenager",
+  "word": "teenager",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "telephone",
+  "word": "telephone",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "television",
+  "word": "television",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tell",
+  "word": "tell",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "temperature",
+  "word": "temperature",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "temporary",
+  "word": "temporary",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "ten",
+  "word": "ten",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tend",
+  "word": "tend",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tennis",
+  "word": "tennis",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tent",
+  "word": "tent",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "term",
+  "word": "term",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "terrible",
+  "word": "terrible",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "test",
+  "word": "test",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "text",
+  "word": "text",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "than",
+  "word": "than",
+  "note": null,
+  "senses": [
+   {
+    "pos": "conj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thank",
+  "word": "thank",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thanks",
+  "word": "thanks",
+  "note": null,
+  "senses": [
+   {
+    "pos": "exclam., n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "that",
+  "word": "that",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det., pron., conj.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "the",
+  "word": "the",
+  "note": null,
+  "senses": [
+   {
+    "pos": "definite article",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "theater",
+  "word": "theater",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "their",
+  "word": "their",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "theirs",
+  "word": "theirs",
+  "note": null,
+  "senses": [
+   {
+    "pos": "pron.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "them",
+  "word": "them",
+  "note": null,
+  "senses": [
+   {
+    "pos": "pron.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "theme",
+  "word": "theme",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "themselves",
+  "word": "themselves",
+  "note": null,
+  "senses": [
+   {
+    "pos": "pron.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "then",
+  "word": "then",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "theory",
+  "word": "theory",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "therapy",
+  "word": "therapy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "there",
+  "word": "there",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "therefore",
+  "word": "therefore",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "they",
+  "word": "they",
+  "note": null,
+  "senses": [
+   {
+    "pos": "pron.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thick",
+  "word": "thick",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thief",
+  "word": "thief",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thin",
+  "word": "thin",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thing",
+  "word": "thing",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "think",
+  "word": "think",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thinking",
+  "word": "thinking",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "third",
+  "word": "third",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thirsty",
+  "word": "thirsty",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thirteen",
+  "word": "thirteen",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thirty",
+  "word": "thirty",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "this",
+  "word": "this",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "though",
+  "word": "though",
+  "note": null,
+  "senses": [
+   {
+    "pos": "conj., adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "thought",
+  "word": "thought",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thousand",
+  "word": "thousand",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "threat",
+  "word": "threat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "threaten",
+  "word": "threaten",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "three",
+  "word": "three",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "throat",
+  "word": "throat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "through",
+  "word": "through",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., adv.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "throughout",
+  "word": "throughout",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep./adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "throw",
+  "word": "throw",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "thursday",
+  "word": "Thursday",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "thus",
+  "word": "thus",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "ticket",
+  "word": "ticket",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tie",
+  "word": "tie",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tight",
+  "word": "tight",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "till",
+  "word": "till",
+  "note": null,
+  "senses": [
+   {
+    "pos": "conj./prep.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "time",
+  "word": "time",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "tiny",
+  "word": "tiny",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tip",
+  "word": "tip",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tire",
+  "word": "tire",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tired",
+  "word": "tired",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "title",
+  "word": "title",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "to",
+  "word": "to",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., infinitive marker",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "today",
+  "word": "today",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "toe",
+  "word": "toe",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "together",
+  "word": "together",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "toilet",
+  "word": "toilet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tomato",
+  "word": "tomato",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tomorrow",
+  "word": "tomorrow",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "ton",
+  "word": "ton",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tone",
+  "word": "tone",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "tongue",
+  "word": "tongue",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tonight",
+  "word": "tonight",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "too",
+  "word": "too",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "tool",
+  "word": "tool",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tooth",
+  "word": "tooth",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "top",
+  "word": "top",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "topic",
+  "word": "topic",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "total",
+  "word": "total",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "totally",
+  "word": "totally",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "touch",
+  "word": "touch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tough",
+  "word": "tough",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "tour",
+  "word": "tour",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tourism",
+  "word": "tourism",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tourist",
+  "word": "tourist",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "toward",
+  "word": "toward",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "towel",
+  "word": "towel",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "tower",
+  "word": "tower",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "town",
+  "word": "town",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ]
+ },
+ {
+  "id": "toy",
+  "word": "toy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "track",
+  "word": "track",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ]
+ },
+ {
+  "id": "trade",
+  "word": "trade",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ]
+ },
+ {
+  "id": "tradition",
+  "word": "tradition",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ]
+ },
+ {
+  "id": "traditional",
+  "word": "traditional",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ]
+ }
+]

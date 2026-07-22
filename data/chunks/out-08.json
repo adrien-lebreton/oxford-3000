@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "nineteen",
+  "ipa": "/ˌnaɪnˈtiːn/",
+  "fr": "dix-neuf",
+  "def": "the number 19",
+  "ex": "My sister just turned nineteen years old last week."
+ },
+ {
+  "id": "ninety",
+  "ipa": "/ˈnaɪnti/",
+  "fr": "quatre-vingt-dix",
+  "def": "the number 90",
+  "ex": "My grandfather is turning ninety years old this year."
+ },
+ {
+  "id": "no",
+  "ipa": "/noʊ/",
+  "fr": "non (exclam.) ; aucun (det.)",
+  "def": "used to refuse, disagree, or say not any",
+  "ex": "No, I don't want any coffee this morning, thanks."
+ },
+ {
+  "id": "no-one",
+  "ipa": "/ˈnoʊ wʌn/",
+  "fr": "personne",
+  "def": "not a single person",
+  "ex": "No one answered when I knocked on the door."
+ },
+ {
+  "id": "nobody",
+  "ipa": "/ˈnoʊbədi/",
+  "fr": "personne",
+  "def": "not a single person",
+  "ex": "Nobody knew the answer to the teacher's question."
+ },
+ {
+  "id": "noise",
+  "ipa": "/nɔɪz/",
+  "fr": "bruit",
+  "def": "a sound, especially one that is loud or unpleasant",
+  "ex": "The children were making a lot of noise outside."
+ },
+ {
+  "id": "noisy",
+  "ipa": "/ˈnɔɪzi/",
+  "fr": "bruyant",
+  "def": "making a lot of noise",
+  "ex": "The restaurant was too noisy for a quiet conversation."
+ },
+ {
+  "id": "none",
+  "ipa": "/nʌn/",
+  "fr": "aucun, aucune",
+  "def": "not any, not one, of a group",
+  "ex": "I offered them cake, but none of them wanted any."
+ },
+ {
+  "id": "nor",
+  "ipa": "/nɔːr/",
+  "fr": "ni",
+  "def": "used before the second part of a negative to add information",
+  "ex": "I don't like coffee, nor do I like tea."
+ },
+ {
+  "id": "normal",
+  "ipa": "/ˈnɔːrml/",
+  "fr": "normal ; norme (n.)",
+  "def": "usual, ordinary, and expected",
+  "ex": "It's normal to feel nervous before an exam."
+ },
+ {
+  "id": "normally",
+  "ipa": "/ˈnɔːrməli/",
+  "fr": "normalement, d'habitude",
+  "def": "in the usual way, or most of the time",
+  "ex": "I normally wake up at seven o'clock every morning."
+ },
+ {
+  "id": "north",
+  "ipa": "/nɔːrθ/",
+  "fr": "nord",
+  "def": "the direction that is on your left when facing east",
+  "ex": "Birds fly south in winter and north in summer."
+ },
+ {
+  "id": "northern",
+  "ipa": "/ˈnɔːrðərn/",
+  "fr": "du nord, septentrional",
+  "def": "in or from the north of a place",
+  "ex": "She grew up in a small northern town."
+ },
+ {
+  "id": "nose",
+  "ipa": "/noʊz/",
+  "fr": "nez",
+  "def": "the part of the face used for breathing and smelling",
+  "ex": "My little brother has a cold and a runny nose."
+ },
+ {
+  "id": "not",
+  "ipa": "/nɑːt/",
+  "fr": "ne...pas",
+  "def": "used to make a word or statement negative",
+  "ex": "I am not ready to leave the house yet."
+ },
+ {
+  "id": "note",
+  "ipa": "/noʊt/",
+  "fr": "note, mot ; noter (v.)",
+  "def": "a short written message or piece of information",
+  "ex": "She left a note on the kitchen table for him."
+ },
+ {
+  "id": "nothing",
+  "ipa": "/ˈnʌθɪŋ/",
+  "fr": "rien",
+  "def": "not anything, no single thing",
+  "ex": "There is nothing in the fridge for dinner tonight."
+ },
+ {
+  "id": "notice",
+  "ipa": "/ˈnoʊtɪs/",
+  "fr": "remarquer (v.) ; avis, préavis (n.)",
+  "def": "to see or become aware of something",
+  "ex": "He didn't notice her new haircut this morning."
+ },
+ {
+  "id": "notion",
+  "ipa": "/ˈnoʊʃn/",
+  "fr": "notion, idée",
+  "def": "a belief or idea about something",
+  "ex": "He has a strange notion that money brings happiness."
+ },
+ {
+  "id": "novel",
+  "ipa": "/ˈnɑːvl/",
+  "fr": "roman",
+  "def": "a long written story about imaginary people and events",
+  "ex": "She is reading a novel about life in Paris."
+ },
+ {
+  "id": "november",
+  "ipa": "/noʊˈvembər/",
+  "fr": "novembre",
+  "def": "the eleventh month of the year",
+  "ex": "My birthday is in the middle of November."
+ },
+ {
+  "id": "now",
+  "ipa": "/naʊ/",
+  "fr": "maintenant",
+  "def": "at this present time or moment",
+  "ex": "I need to leave for work right now."
+ },
+ {
+  "id": "nowhere",
+  "ipa": "/ˈnoʊwer/",
+  "fr": "nulle part",
+  "def": "not in or to any place",
+  "ex": "There was nowhere to sit on the crowded train."
+ },
+ {
+  "id": "nuclear",
+  "ipa": "/ˈnuːkliər/",
+  "fr": "nucléaire",
+  "def": "relating to the energy released by splitting atoms",
+  "ex": "The country built a new nuclear power plant."
+ },
+ {
+  "id": "number",
+  "ipa": "/ˈnʌmbər/",
+  "fr": "nombre, numéro ; numéroter (v.)",
+  "def": "a word or symbol used for counting",
+  "ex": "Please write your phone number on this form."
+ },
+ {
+  "id": "numerous",
+  "ipa": "/ˈnuːmərəs/",
+  "fr": "nombreux",
+  "def": "existing in large numbers, many",
+  "ex": "She has won numerous awards for her writing."
+ },
+ {
+  "id": "nurse",
+  "ipa": "/nɜːrs/",
+  "fr": "infirmier, infirmière",
+  "def": "a person trained to take care of sick people",
+  "ex": "The nurse checked my temperature and blood pressure."
+ },
+ {
+  "id": "nut",
+  "ipa": "/nʌt/",
+  "fr": "noix, noisette, fruit à coque",
+  "def": "a hard dry fruit with a shell that grows on trees",
+  "ex": "Squirrels collect nuts to eat during the winter."
+ },
+ {
+  "id": "obey",
+  "ipa": "/oʊˈbeɪ/",
+  "fr": "obéir",
+  "def": "to do what someone in authority tells you to do",
+  "ex": "Good soldiers must obey the orders of their officers."
+ },
+ {
+  "id": "object",
+  "ipa": "/ˈɑːbdʒɪkt/ (n.), /əbˈdʒekt/ (v.)",
+  "fr": "objet (n.) ; s'opposer, protester (v.)",
+  "def": "a thing that you can see and touch but is not alive",
+  "ex": "There was a strange object lying on the table."
+ },
+ {
+  "id": "objective",
+  "ipa": "/əbˈdʒektɪv/",
+  "fr": "objectif",
+  "def": "something that you are trying hard to achieve",
+  "ex": "Our main objective this year is to increase sales."
+ },
+ {
+  "id": "obligation",
+  "ipa": "/ˌɑːblɪˈɡeɪʃn/",
+  "fr": "obligation",
+  "def": "something you must do because of a law or duty",
+  "ex": "Parents have an obligation to take care of their children."
+ },
+ {
+  "id": "observation",
+  "ipa": "/ˌɑːbzərˈveɪʃn/",
+  "fr": "observation",
+  "def": "the act of watching someone or something carefully",
+  "ex": "Scientists made careful observations of the animals' behavior."
+ },
+ {
+  "id": "observe",
+  "ipa": "/əbˈzɜːrv/",
+  "fr": "observer",
+  "def": "to watch someone or something carefully",
+  "ex": "The teacher observed the students during the science experiment."
+ },
+ {
+  "id": "obtain",
+  "ipa": "/əbˈteɪn/",
+  "fr": "obtenir",
+  "def": "to get something, often with effort",
+  "ex": "You must obtain permission before entering the building."
+ },
+ {
+  "id": "obvious",
+  "ipa": "/ˈɑːbviəs/",
+  "fr": "évident, manifeste",
+  "def": "easy to see or understand, very clear",
+  "ex": "It was obvious that she was tired and upset."
+ },
+ {
+  "id": "obviously",
+  "ipa": "/ˈɑːbviəsli/",
+  "fr": "manifestement, évidemment",
+  "def": "in a way that is easy to see or understand",
+  "ex": "He was obviously lying about where he had been."
+ },
+ {
+  "id": "occasion",
+  "ipa": "/əˈkeɪʒn/",
+  "fr": "occasion, événement",
+  "def": "a particular time when something happens",
+  "ex": "We only use the good plates on special occasions."
+ },
+ {
+  "id": "occasionally",
+  "ipa": "/əˈkeɪʒnəli/",
+  "fr": "de temps en temps, occasionnellement",
+  "def": "sometimes, but not often",
+  "ex": "We occasionally go out for dinner on Fridays."
+ },
+ {
+  "id": "occur",
+  "ipa": "/əˈkɜːr/",
+  "fr": "se produire, survenir",
+  "def": "to happen, especially without being planned",
+  "ex": "The accident occurred late at night on a quiet road."
+ },
+ {
+  "id": "ocean",
+  "ipa": "/ˈoʊʃn/",
+  "fr": "océan",
+  "def": "the large area of salt water that covers the earth",
+  "ex": "They swam in the ocean during their summer vacation."
+ },
+ {
+  "id": "o-clock",
+  "ipa": "/əˈklɑːk/",
+  "fr": "heure(s)",
+  "def": "used after a number to say the exact time",
+  "ex": "The meeting starts at three o'clock this afternoon."
+ },
+ {
+  "id": "october",
+  "ipa": "/ɑːkˈtoʊbər/",
+  "fr": "octobre",
+  "def": "the tenth month of the year",
+  "ex": "The leaves start to fall in October every year."
+ },
+ {
+  "id": "odd",
+  "ipa": "/ɑːd/",
+  "fr": "bizarre, étrange ; impair (nombre)",
+  "def": "strange or unusual",
+  "ex": "It's odd that she hasn't called us back yet."
+ },
+ {
+  "id": "of",
+  "ipa": "/əv/",
+  "fr": "de",
+  "def": "used to show who or what something belongs to",
+  "ex": "This is a photo of my whole family together."
+ },
+ {
+  "id": "off",
+  "ipa": "/ɔːf/",
+  "fr": "éteint, parti ; hors de",
+  "def": "away from a place, or not working",
+  "ex": "Please turn off the lights before you leave."
+ },
+ {
+  "id": "offend",
+  "ipa": "/əˈfend/",
+  "fr": "offenser, vexer",
+  "def": "to make someone feel upset or angry",
+  "ex": "I didn't mean to offend you with my comment."
+ },
+ {
+  "id": "offense",
+  "ipa": "/əˈfens/",
+  "fr": "délit, infraction ; offense",
+  "def": "a crime, or something that upsets someone",
+  "ex": "Driving without a license is a serious offense."
+ },
+ {
+  "id": "offensive",
+  "ipa": "/əˈfensɪv/",
+  "fr": "offensant, choquant",
+  "def": "rude and likely to upset or insult someone",
+  "ex": "He made an offensive joke that upset everyone at the table."
+ },
+ {
+  "id": "offer",
+  "ipa": "/ˈɔːfər/",
+  "fr": "offrir, proposer (v.) ; offre (n.)",
+  "def": "to ask someone if they would like something",
+  "ex": "My neighbor offered to help me carry the boxes."
+ },
+ {
+  "id": "office",
+  "ipa": "/ˈɔːfɪs/",
+  "fr": "bureau",
+  "def": "a room or building where people work at desks",
+  "ex": "She works in an office in the city center."
+ },
+ {
+  "id": "officer",
+  "ipa": "/ˈɔːfɪsər/",
+  "fr": "officier, agent",
+  "def": "a person with an important position in the army or police",
+  "ex": "A police officer stopped the car for speeding."
+ },
+ {
+  "id": "official",
+  "ipa": "/əˈfɪʃl/",
+  "fr": "officiel",
+  "def": "approved by the government or someone in authority",
+  "ex": "The president made an official visit to the school."
+ },
+ {
+  "id": "often",
+  "ipa": "/ˈɔːfn/",
+  "fr": "souvent",
+  "def": "many times, frequently",
+  "ex": "We often go to the beach in the summer."
+ },
+ {
+  "id": "oh",
+  "ipa": "/oʊ/",
+  "fr": "oh",
+  "def": "used to express surprise, pain, or another strong feeling",
+  "ex": "Oh! I didn't expect to see you here."
+ },
+ {
+  "id": "oil",
+  "ipa": "/ɔɪl/",
+  "fr": "huile ; pétrole",
+  "def": "a thick smooth liquid used for cooking or fuel",
+  "ex": "She cooked the vegetables in a little oil."
+ },
+ {
+  "id": "ok",
+  "ipa": "/ˌoʊˈkeɪ/",
+  "fr": "d'accord ; bien, correct",
+  "def": "used to say you agree or that something is fine",
+  "ex": "It's OK if you open the window now."
+ },
+ {
+  "id": "old",
+  "ipa": "/oʊld/",
+  "fr": "vieux, âgé ; ancien",
+  "def": "having lived or existed for a long time",
+  "ex": "My grandmother is eighty years old this year."
+ },
+ {
+  "id": "old-fashioned",
+  "ipa": "/ˌoʊldˈfæʃnd/",
+  "fr": "démodé",
+  "def": "not modern, in the style of the past",
+  "ex": "He still has some old-fashioned ideas about marriage today."
+ },
+ {
+  "id": "on",
+  "ipa": "/ɑːn/",
+  "fr": "sur ; allumé",
+  "def": "touching or covering the surface of something",
+  "ex": "The keys are on the table by the door."
+ },
+ {
+  "id": "once",
+  "ipa": "/wʌns/",
+  "fr": "une fois ; dès que (conj.)",
+  "def": "one time, or on one occasion in the past",
+  "ex": "I have only met her once, at a party."
+ },
+ {
+  "id": "one",
+  "ipa": "/wʌn/",
+  "fr": "un, une",
+  "def": "the number 1, or a single thing or person",
+  "ex": "I only need one more minute to finish."
+ },
+ {
+  "id": "onion",
+  "ipa": "/ˈʌnjən/",
+  "fr": "oignon",
+  "def": "a round vegetable with a strong smell and taste",
+  "ex": "Chop the onion finely before adding it to the pan."
+ },
+ {
+  "id": "online",
+  "ipa": "/ˌɑːnˈlaɪn/",
+  "fr": "en ligne",
+  "def": "connected to or available through the internet",
+  "ex": "I bought these comfortable shoes online just last week."
+ },
+ {
+  "id": "only",
+  "ipa": "/ˈoʊnli/",
+  "fr": "seul (adj.) ; seulement (adv.)",
+  "def": "no more than, or nothing except this",
+  "ex": "She is the only person who knows the answer."
+ },
+ {
+  "id": "onto",
+  "ipa": "/ˈɑːntuː/",
+  "fr": "sur",
+  "def": "to a position on top of or in a place",
+  "ex": "The cat suddenly jumped onto the kitchen counter."
+ },
+ {
+  "id": "open",
+  "ipa": "/ˈoʊpən/",
+  "fr": "ouvert (adj.) ; ouvrir (v.)",
+  "def": "not closed, so people or things can go through",
+  "ex": "Please open the window a little, it's warm."
+ },
+ {
+  "id": "opening",
+  "ipa": "/ˈoʊpənɪŋ/",
+  "fr": "ouverture ; poste vacant",
+  "def": "a space that something can pass through, or a beginning",
+  "ex": "There is a small opening in the fence."
+ },
+ {
+  "id": "operate",
+  "ipa": "/ˈɑːpəreɪt/",
+  "fr": "fonctionner ; opérer, faire fonctionner",
+  "def": "to work, or to control a machine",
+  "ex": "She taught me how to operate this new machine."
+ },
+ {
+  "id": "operation",
+  "ipa": "/ˌɑːpəˈreɪʃn/",
+  "fr": "opération",
+  "def": "a planned activity, or medical treatment on the body",
+  "ex": "The doctor performed a long operation on his knee."
+ },
+ {
+  "id": "opinion",
+  "ipa": "/əˈpɪnjən/",
+  "fr": "opinion, avis",
+  "def": "what you think or believe about something",
+  "ex": "In my opinion, this restaurant has the best pizza."
+ },
+ {
+  "id": "opponent",
+  "ipa": "/əˈpoʊnənt/",
+  "fr": "adversaire",
+  "def": "a person who competes against you in a game or fight",
+  "ex": "She easily beat her opponent in the tennis final."
+ },
+ {
+  "id": "opportunity",
+  "ipa": "/ˌɑːpərˈtuːnəti/",
+  "fr": "occasion, opportunité",
+  "def": "a chance to do something good or useful",
+  "ex": "Studying abroad gave her a great opportunity to learn."
+ },
+ {
+  "id": "oppose",
+  "ipa": "/əˈpoʊz/",
+  "fr": "s'opposer à",
+  "def": "to disagree strongly with a plan or idea",
+  "ex": "Many local people opposed the new shopping mall."
+ },
+ {
+  "id": "opposed",
+  "ipa": "/əˈpoʊzd/",
+  "fr": "opposé, hostile (à)",
+  "def": "strongly disagreeing with something",
+  "ex": "She is firmly opposed to any change in the rules."
+ },
+ {
+  "id": "opposite",
+  "ipa": "/ˈɑːpəzɪt/",
+  "fr": "opposé, contraire",
+  "def": "as different as possible from something else",
+  "ex": "Hot is the exact opposite of cold in temperature."
+ },
+ {
+  "id": "opposition",
+  "ipa": "/ˌɑːpəˈzɪʃn/",
+  "fr": "opposition",
+  "def": "strong disagreement with a plan, idea, or group",
+  "ex": "The new law faced strong opposition from local voters."
+ },
+ {
+  "id": "option",
+  "ipa": "/ˈɑːpʃn/",
+  "fr": "option, choix",
+  "def": "something that you can choose to do",
+  "ex": "You have the option to pay by card or cash."
+ },
+ {
+  "id": "or",
+  "ipa": "/ɔːr/",
+  "fr": "ou",
+  "def": "used to connect different possibilities",
+  "ex": "He asked if I wanted tea or coffee this morning."
+ },
+ {
+  "id": "orange",
+  "ipa": "/ˈɔːrɪndʒ/",
+  "fr": "orange",
+  "def": "a round citrus fruit, or its color",
+  "ex": "She peeled an orange and shared it with me."
+ },
+ {
+  "id": "order",
+  "ipa": "/ˈɔːrdər/",
+  "fr": "ordre ; commande (n.) ; commander, ordonner (v.)",
+  "def": "to ask for something to be brought or done",
+  "ex": "We ordered a large pizza for dinner last night."
+ },
+ {
+  "id": "ordinary",
+  "ipa": "/ˈɔːrdəneri/",
+  "fr": "ordinaire, banal",
+  "def": "normal and not different or special in any way",
+  "ex": "It was just an ordinary day at the office."
+ },
+ {
+  "id": "organ",
+  "ipa": "/ˈɔːrɡən/",
+  "fr": "organe ; orgue (instrument)",
+  "def": "a part of the body that has a particular job",
+  "ex": "The heart is an organ that pumps our blood."
+ },
+ {
+  "id": "organization",
+  "ipa": "/ˌɔːrɡənəˈzeɪʃn/",
+  "fr": "organisation",
+  "def": "a group of people who work together for a purpose",
+  "ex": "She works for a charity organization that helps children."
+ },
+ {
+  "id": "organize",
+  "ipa": "/ˈɔːrɡənaɪz/",
+  "fr": "organiser",
+  "def": "to plan and arrange an event or activity",
+  "ex": "We are organizing a big party for her birthday."
+ },
+ {
+  "id": "organized",
+  "ipa": "/ˈɔːrɡənaɪzd/",
+  "fr": "organisé",
+  "def": "planned or arranged carefully and in a tidy way",
+  "ex": "She always keeps a very organized desk at work."
+ },
+ {
+  "id": "organizer",
+  "ipa": "/ˈɔːrɡənaɪzər/",
+  "fr": "organisateur, organisatrice",
+  "def": "a person who plans and arranges an event",
+  "ex": "The event organizer booked the hall for Saturday night."
+ },
+ {
+  "id": "origin",
+  "ipa": "/ˈɔːrɪdʒɪn/",
+  "fr": "origine",
+  "def": "the place or time that something begins",
+  "ex": "The word has its origin in ancient Greek language."
+ },
+ {
+  "id": "original",
+  "ipa": "/əˈrɪdʒənl/",
+  "fr": "original ; d'origine",
+  "def": "existing from the beginning, the first of its kind",
+  "ex": "This is the original painting, not a copy."
+ },
+ {
+  "id": "originally",
+  "ipa": "/əˈrɪdʒənəli/",
+  "fr": "à l'origine, au départ",
+  "def": "at the beginning, or in the first place",
+  "ex": "The old building was originally used as a school."
+ },
+ {
+  "id": "other",
+  "ipa": "/ˈʌðər/",
+  "fr": "autre",
+  "def": "different from the one already mentioned",
+  "ex": "I like the other jacket better than this one."
+ },
+ {
+  "id": "otherwise",
+  "ipa": "/ˈʌðərwaɪz/",
+  "fr": "sinon, autrement",
+  "def": "if not, or apart from what has just been said",
+  "ex": "Hurry up, otherwise we will miss the train."
+ },
+ {
+  "id": "ought",
+  "ipa": "/ɔːt/",
+  "fr": "devrait",
+  "def": "used to say what is the right thing to do",
+  "ex": "You really ought to apologize for what you said."
+ },
+ {
+  "id": "our",
+  "ipa": "/ɑːr/",
+  "fr": "notre, nos",
+  "def": "belonging to us",
+  "ex": "Our house is the third one on the left."
+ },
+ {
+  "id": "ours",
+  "ipa": "/ɑːrz/",
+  "fr": "le nôtre, la nôtre, les nôtres",
+  "def": "the one or ones that belong to us",
+  "ex": "That car parked outside isn't ours, it's theirs."
+ },
+ {
+  "id": "ourselves",
+  "ipa": "/ɑːrˈselvz/",
+  "fr": "nous-mêmes",
+  "def": "used when the people speaking are also affected",
+  "ex": "We really enjoyed ourselves at the party last night."
+ },
+ {
+  "id": "out",
+  "ipa": "/aʊt/",
+  "fr": "dehors, sorti",
+  "def": "away from the inside of a place",
+  "ex": "She went out for a long walk this morning."
+ },
+ {
+  "id": "outcome",
+  "ipa": "/ˈaʊtkʌm/",
+  "fr": "résultat, issue",
+  "def": "the final result of a meeting, event, or process",
+  "ex": "We are waiting to hear the outcome of the election."
+ },
+ {
+  "id": "outdoor",
+  "ipa": "/ˈaʊtdɔːr/",
+  "fr": "en plein air, extérieur",
+  "def": "happening or used outside, not inside a building",
+  "ex": "The hotel has a lovely outdoor swimming pool too."
+ },
+ {
+  "id": "outdoors",
+  "ipa": "/ˌaʊtˈdɔːrz/",
+  "fr": "dehors, en plein air",
+  "def": "outside, not in a building",
+  "ex": "We had lunch outdoors because the weather was nice."
+ },
+ {
+  "id": "outer",
+  "ipa": "/ˈaʊtər/",
+  "fr": "extérieur",
+  "def": "on the outside of something, farthest from the center",
+  "ex": "The outer layer of the fruit is quite thick."
+ },
+ {
+  "id": "outline",
+  "ipa": "/ˈaʊtlaɪn/",
+  "fr": "grandes lignes, résumé (n.) ; esquisser, résumer (v.)",
+  "def": "a description of the main facts about something",
+  "ex": "She gave a brief outline of the project's plan."
+ },
+ {
+  "id": "outside",
+  "ipa": "/ˌaʊtˈsaɪd/",
+  "fr": "dehors ; extérieur",
+  "def": "in, on, or to a place that is not inside",
+  "ex": "The children are playing outside in the back garden."
+ },
+ {
+  "id": "oven",
+  "ipa": "/ˈʌvn/",
+  "fr": "four",
+  "def": "the part of a kitchen used for baking or roasting food",
+  "ex": "She put the cake in the oven to bake."
+ },
+ {
+  "id": "over",
+  "ipa": "/ˈoʊvər/",
+  "fr": "au-dessus de ; fini",
+  "def": "above or higher than something else",
+  "ex": "A small bird flew over the tall green trees."
+ },
+ {
+  "id": "overall",
+  "ipa": "/ˌoʊvərˈɔːl/",
+  "fr": "global, dans l'ensemble",
+  "def": "including everything, considering all parts of something",
+  "ex": "Overall, the trip was a wonderful experience for us."
+ },
+ {
+  "id": "overseas",
+  "ipa": "/ˌoʊvərˈsiːz/",
+  "fr": "à l'étranger ; d'outre-mer",
+  "def": "in, to, or from another country across the sea",
+  "ex": "He moved overseas to study medicine in Canada."
+ },
+ {
+  "id": "owe",
+  "ipa": "/oʊ/",
+  "fr": "devoir (de l'argent)",
+  "def": "to need to pay money back to someone",
+  "ex": "I still owe my brother twenty dollars from lunch."
+ },
+ {
+  "id": "own",
+  "ipa": "/oʊn/",
+  "fr": "propre (à soi) ; posséder (v.)",
+  "def": "belonging to a particular person, or to possess something",
+  "ex": "She has her own car and drives to work."
+ },
+ {
+  "id": "owner",
+  "ipa": "/ˈoʊnər/",
+  "fr": "propriétaire",
+  "def": "a person who owns something",
+  "ex": "The owner of the shop opens it at nine."
+ },
+ {
+  "id": "pace",
+  "ipa": "/peɪs/",
+  "fr": "rythme, allure (n.) ; avancer, marcher (v.)",
+  "def": "the speed at which someone walks, runs, or moves",
+  "ex": "He set off at a fast pace down the road."
+ },
+ {
+  "id": "pack",
+  "ipa": "/pæk/",
+  "fr": "faire ses bagages (v.) ; paquet (n.)",
+  "def": "to put things into a bag or box for a trip",
+  "ex": "I need to pack my suitcase before we leave."
+ },
+ {
+  "id": "package",
+  "ipa": "/ˈpækɪdʒ/",
+  "fr": "colis, paquet (n.) ; emballer (v.)",
+  "def": "a thing or things wrapped in paper or a box",
+  "ex": "A large package arrived for you this morning."
+ },
+ {
+  "id": "page",
+  "ipa": "/peɪdʒ/",
+  "fr": "page",
+  "def": "one side of a sheet of paper in a book",
+  "ex": "Please turn to page ten in your books."
+ },
+ {
+  "id": "pain",
+  "ipa": "/peɪn/",
+  "fr": "douleur",
+  "def": "the bad feeling you have when hurt or sick",
+  "ex": "She felt a sharp pain in her lower back."
+ },
+ {
+  "id": "painful",
+  "ipa": "/ˈpeɪnfl/",
+  "fr": "douloureux",
+  "def": "causing pain or hurting a lot",
+  "ex": "Walking on the broken foot was very painful."
+ },
+ {
+  "id": "paint",
+  "ipa": "/peɪnt/",
+  "fr": "peindre (v.) ; peinture (n.)",
+  "def": "to cover a surface with color using a brush",
+  "ex": "They painted the bedroom walls a soft blue."
+ },
+ {
+  "id": "painter",
+  "ipa": "/ˈpeɪntər/",
+  "fr": "peintre",
+  "def": "a person who paints pictures or buildings",
+  "ex": "The painter finished the portrait in just two hours."
+ },
+ {
+  "id": "painting",
+  "ipa": "/ˈpeɪntɪŋ/",
+  "fr": "peinture, tableau",
+  "def": "a picture made with paint",
+  "ex": "There is a beautiful painting hanging in the hall."
+ },
+ {
+  "id": "pair",
+  "ipa": "/per/",
+  "fr": "paire",
+  "def": "two things of the same kind used together",
+  "ex": "I bought a new pair of running shoes yesterday."
+ },
+ {
+  "id": "palace",
+  "ipa": "/ˈpæləs/",
+  "fr": "palais",
+  "def": "a large grand house where a king or queen lives",
+  "ex": "Thousands of tourists visit the royal palace every year."
+ },
+ {
+  "id": "pale",
+  "ipa": "/peɪl/",
+  "fr": "pâle",
+  "def": "having skin with little color, or light in color",
+  "ex": "She looked quite pale after staying up all night."
+ },
+ {
+  "id": "pan",
+  "ipa": "/pæn/",
+  "fr": "casserole, poêle",
+  "def": "a metal container used for cooking food on a stove",
+  "ex": "He fried the eggs in a hot pan."
+ },
+ {
+  "id": "panel",
+  "ipa": "/ˈpænl/",
+  "fr": "panneau ; groupe d'experts",
+  "def": "a flat piece of material, or a group of experts",
+  "ex": "A panel of judges chose the winning design."
+ },
+ {
+  "id": "pants",
+  "ipa": "/pænts/",
+  "fr": "pantalon",
+  "def": "a piece of clothing that covers the legs separately",
+  "ex": "He wore black pants and a clean white shirt."
+ },
+ {
+  "id": "paper",
+  "ipa": "/ˈpeɪpər/",
+  "fr": "papier ; journal",
+  "def": "thin material used for writing, printing, or wrapping",
+  "ex": "She wrote her name on a piece of paper."
+ },
+ {
+  "id": "paragraph",
+  "ipa": "/ˈpærəɡræf/",
+  "fr": "paragraphe",
+  "def": "a section of a piece of writing with several sentences",
+  "ex": "Read the first paragraph and answer the questions."
+ },
+ {
+  "id": "parent",
+  "ipa": "/ˈperənt/",
+  "fr": "parent (père ou mère)",
+  "def": "a mother or father of a person or animal",
+  "ex": "Both of my parents work at the local hospital."
+ },
+ {
+  "id": "park",
+  "ipa": "/pɑːrk/",
+  "fr": "parc (n.) ; se garer, garer (v.)",
+  "def": "a public area with grass and trees for walking",
+  "ex": "We had a nice picnic in the park on Sunday."
+ },
+ {
+  "id": "parking",
+  "ipa": "/ˈpɑːrkɪŋ/",
+  "fr": "stationnement, parking",
+  "def": "leaving a car somewhere, or the space for this",
+  "ex": "There is no free parking near the busy stadium."
+ },
+ {
+  "id": "part",
+  "ipa": "/pɑːrt/",
+  "fr": "partie",
+  "def": "some of a thing, but not all of it",
+  "ex": "We spent part of the day at the beach."
+ },
+ {
+  "id": "participant",
+  "ipa": "/pɑːrˈtɪsɪpənt/",
+  "fr": "participant",
+  "def": "a person who takes part in an activity",
+  "ex": "Every participant received a small certificate at the end."
+ },
+ {
+  "id": "participate",
+  "ipa": "/pɑːrˈtɪsɪpeɪt/",
+  "fr": "participer",
+  "def": "to take part in an activity with other people",
+  "ex": "All students are encouraged to participate in school sports."
+ },
+ {
+  "id": "particular",
+  "ipa": "/pərˈtɪkjələr/",
+  "fr": "particulier, précis",
+  "def": "one specific thing or person, not any other",
+  "ex": "She was looking for one particular book at the store."
+ },
+ {
+  "id": "particularly",
+  "ipa": "/pərˈtɪkjələrli/",
+  "fr": "particulièrement",
+  "def": "more than usual or more than other things",
+  "ex": "The film was particularly popular with young people there."
+ },
+ {
+  "id": "partly",
+  "ipa": "/ˈpɑːrtli/",
+  "fr": "en partie, partiellement",
+  "def": "to some degree, but not completely",
+  "ex": "The delay was partly caused by very bad weather."
+ },
+ {
+  "id": "partner",
+  "ipa": "/ˈpɑːrtnər/",
+  "fr": "partenaire, associé",
+  "def": "one of two people who do something together",
+  "ex": "She started the business with her closest business partner."
+ },
+ {
+  "id": "party",
+  "ipa": "/ˈpɑːrti/",
+  "fr": "fête ; parti (politique)",
+  "def": "a social event where people enjoy themselves together",
+  "ex": "We are having a big party for my birthday."
+ },
+ {
+  "id": "pass",
+  "ipa": "/pæs/",
+  "fr": "passer, réussir (v.) ; laissez-passer (n.)",
+  "def": "to move past something, or succeed in a test",
+  "ex": "She studied hard and passed the exam quite easily."
+ },
+ {
+  "id": "passage",
+  "ipa": "/ˈpæsɪdʒ/",
+  "fr": "passage, couloir ; extrait (texte)",
+  "def": "a narrow area that connects one place to another",
+  "ex": "A narrow passage led to the quiet back garden."
+ },
+ {
+  "id": "passenger",
+  "ipa": "/ˈpæsɪndʒər/",
+  "fr": "passager, passagère",
+  "def": "a person traveling in a car, bus, plane, or train",
+  "ex": "The bus can carry up to fifty passengers."
+ },
+ {
+  "id": "passion",
+  "ipa": "/ˈpæʃn/",
+  "fr": "passion",
+  "def": "a very strong feeling of love or enthusiasm",
+  "ex": "She has a real passion for music and dancing."
+ },
+ {
+  "id": "passport",
+  "ipa": "/ˈpæspɔːrt/",
+  "fr": "passeport",
+  "def": "an official document you need to travel to other countries",
+  "ex": "Don't forget to bring your passport to the airport."
+ },
+ {
+  "id": "past",
+  "ipa": "/pæst/",
+  "fr": "passé ; devant, après (prep.)",
+  "def": "the time before now, or later than a time",
+  "ex": "It's ten past six, so we should hurry."
+ },
+ {
+  "id": "path",
+  "ipa": "/pæθ/",
+  "fr": "chemin, sentier",
+  "def": "a way or track for people to walk along",
+  "ex": "A narrow path led through the forest to the lake."
+ },
+ {
+  "id": "patient",
+  "ipa": "/ˈpeɪʃnt/",
+  "fr": "patient (n.) ; patient (adj.)",
+  "def": "a person getting medical treatment, or able to wait calmly",
+  "ex": "The doctor examined every patient carefully that morning."
+ },
+ {
+  "id": "pattern",
+  "ipa": "/ˈpætərn/",
+  "fr": "motif, modèle",
+  "def": "a repeated design, or a regular way something happens",
+  "ex": "She chose fabric with a colorful flower pattern."
+ },
+ {
+  "id": "pay",
+  "ipa": "/peɪ/",
+  "fr": "payer (v.) ; salaire (n.)",
+  "def": "to give money for something you buy or owe",
+  "ex": "I paid for the tickets with my credit card."
+ },
+ {
+  "id": "payment",
+  "ipa": "/ˈpeɪmənt/",
+  "fr": "paiement",
+  "def": "an amount of money that is paid for something",
+  "ex": "We received your payment for the invoice this morning."
+ },
+ {
+  "id": "peace",
+  "ipa": "/piːs/",
+  "fr": "paix",
+  "def": "a state with no war, fighting, or trouble",
+  "ex": "The two countries finally agreed to make peace."
+ },
+ {
+  "id": "peaceful",
+  "ipa": "/ˈpiːsfl/",
+  "fr": "paisible, pacifique",
+  "def": "quiet and calm, without violence or noise",
+  "ex": "It was a very peaceful morning by the lake."
+ },
+ {
+  "id": "pen",
+  "ipa": "/pen/",
+  "fr": "stylo",
+  "def": "a tool used for writing with ink",
+  "ex": "I borrowed a pen to sign the rental form."
+ },
+ {
+  "id": "pencil",
+  "ipa": "/ˈpensl/",
+  "fr": "crayon",
+  "def": "a tool used for writing or drawing with a point",
+  "ex": "She drew the picture with a soft gray pencil."
+ },
+ {
+  "id": "penny",
+  "ipa": "/ˈpeni/",
+  "fr": "penny, centime",
+  "def": "a coin of very low value",
+  "ex": "He found a penny lying on the sidewalk."
+ },
+ {
+  "id": "people",
+  "ipa": "/ˈpiːpl/",
+  "fr": "gens, personnes",
+  "def": "men, women, and children in general",
+  "ex": "Many people were waiting outside the store this morning."
+ },
+ {
+  "id": "pepper",
+  "ipa": "/ˈpepər/",
+  "fr": "poivre ; poivron",
+  "def": "a spice used to add a hot taste to food",
+  "ex": "Add some salt and pepper to the soup."
+ },
+ {
+  "id": "per",
+  "ipa": "/pər/",
+  "fr": "par",
+  "def": "for each one, used with amounts or units",
+  "ex": "The room costs one hundred dollars per night."
+ },
+ {
+  "id": "percent",
+  "ipa": "/pərˈsent/",
+  "fr": "pour cent",
+  "def": "for or out of every hundred",
+  "ex": "About fifty percent of the class passed the test."
+ },
+ {
+  "id": "percentage",
+  "ipa": "/pərˈsentɪdʒ/",
+  "fr": "pourcentage",
+  "def": "an amount of something shown as part of a hundred",
+  "ex": "A large percentage of students walk to school."
+ },
+ {
+  "id": "perfect",
+  "ipa": "/ˈpɜːrfɪkt/",
+  "fr": "parfait",
+  "def": "having everything needed, with no faults or mistakes",
+  "ex": "The weather was perfect for a day at the beach."
+ },
+ {
+  "id": "perfectly",
+  "ipa": "/ˈpɜːrfɪktli/",
+  "fr": "parfaitement",
+  "def": "in a perfect way, completely and without fault",
+  "ex": "The dress fits her perfectly and looks really lovely."
+ },
+ {
+  "id": "perform",
+  "ipa": "/pərˈfɔːrm/",
+  "fr": "jouer, se produire ; exécuter",
+  "def": "to do something, especially in front of an audience",
+  "ex": "The band will perform live at the festival tonight."
+ },
+ {
+  "id": "performance",
+  "ipa": "/pərˈfɔːrməns/",
+  "fr": "spectacle, représentation ; performance",
+  "def": "an act of performing a play, concert, or other show",
+  "ex": "We watched an amazing performance at the theater."
+ },
+ {
+  "id": "perhaps",
+  "ipa": "/pərˈhæps/",
+  "fr": "peut-être",
+  "def": "used to say that something is possible",
+  "ex": "Perhaps we should wait until the rain stops."
+ },
+ {
+  "id": "period",
+  "ipa": "/ˈpɪriəd/",
+  "fr": "période",
+  "def": "a length of time",
+  "ex": "They lived in Paris for a fairly short period."
+ },
+ {
+  "id": "permanent",
+  "ipa": "/ˈpɜːrmənənt/",
+  "fr": "permanent, durable",
+  "def": "lasting for a long time or forever",
+  "ex": "She was offered a permanent job after her internship."
+ },
+ {
+  "id": "permission",
+  "ipa": "/pərˈmɪʃn/",
+  "fr": "permission, autorisation",
+  "def": "the act of allowing someone to do something",
+  "ex": "You need permission to park in this area."
+ },
+ {
+  "id": "permit",
+  "ipa": "/pərˈmɪt/ (v.), /ˈpɜːrmɪt/ (n.)",
+  "fr": "permettre (v.) ; permis, autorisation (n.)",
+  "def": "to allow something, or an official document allowing it",
+  "ex": "Smoking is not permitted inside the office building."
+ },
+ {
+  "id": "person",
+  "ipa": "/ˈpɜːrsn/",
+  "fr": "personne",
+  "def": "a man, woman, or child",
+  "ex": "She is a very kind and generous person."
+ },
+ {
+  "id": "personal",
+  "ipa": "/ˈpɜːrsənl/",
+  "fr": "personnel",
+  "def": "belonging or relating to one particular person",
+  "ex": "That's a rather personal question to ask a stranger."
+ },
+ {
+  "id": "personality",
+  "ipa": "/ˌpɜːrsəˈnæləti/",
+  "fr": "personnalité",
+  "def": "the character and qualities that make someone special",
+  "ex": "She has a warm and very friendly personality."
+ },
+ {
+  "id": "personally",
+  "ipa": "/ˈpɜːrsənəli/",
+  "fr": "personnellement",
+  "def": "used to say what you yourself think about something",
+  "ex": "Personally, I think the blue color looks better."
+ },
+ {
+  "id": "perspective",
+  "ipa": "/pərˈspektɪv/",
+  "fr": "perspective, point de vue",
+  "def": "a particular way of thinking about something",
+  "ex": "Traveling gave her a whole new perspective on life."
+ },
+ {
+  "id": "persuade",
+  "ipa": "/pərˈsweɪd/",
+  "fr": "persuader, convaincre",
+  "def": "to make someone agree to do something by talking",
+  "ex": "She persuaded her parents to let her travel alone."
+ },
+ {
+  "id": "pet",
+  "ipa": "/pet/",
+  "fr": "animal de compagnie",
+  "def": "an animal that people keep at home",
+  "ex": "We have a dog and a cat as pets."
+ },
+ {
+  "id": "phase",
+  "ipa": "/feɪz/",
+  "fr": "phase, étape",
+  "def": "a stage in a process of change or growth",
+  "ex": "The project is now in its final planning phase."
+ },
+ {
+  "id": "phenomenon",
+  "ipa": "/fəˈnɑːmɪnən/",
+  "fr": "phénomène",
+  "def": "a fact or event, especially one that is unusual",
+  "ex": "Rainbows are a beautiful and colorful natural phenomenon."
+ },
+ {
+  "id": "philosophy",
+  "ipa": "/fəˈlɑːsəfi/",
+  "fr": "philosophie",
+  "def": "the study of ideas about knowledge, truth, and life",
+  "ex": "He studied philosophy and history at the university."
+ },
+ {
+  "id": "phone",
+  "ipa": "/foʊn/",
+  "fr": "téléphone (n.) ; téléphoner (v.)",
+  "def": "a device used to talk to people far away",
+  "ex": "I forgot to bring my phone to work today."
+ },
+ {
+  "id": "photo",
+  "ipa": "/ˈfoʊtoʊ/",
+  "fr": "photo",
+  "def": "a picture taken with a camera",
+  "ex": "She took a photo of the sunset over the sea."
+ },
+ {
+  "id": "photograph",
+  "ipa": "/ˈfoʊtəɡræf/",
+  "fr": "photographie (n.) ; photographier (v.)",
+  "def": "a picture taken with a camera",
+  "ex": "He carefully photographed the mountains during his long trip."
+ },
+ {
+  "id": "photographer",
+  "ipa": "/fəˈtɑːɡrəfər/",
+  "fr": "photographe",
+  "def": "a person who takes photographs, especially as a job",
+  "ex": "A professional photographer took pictures at the wedding."
+ },
+ {
+  "id": "photography",
+  "ipa": "/fəˈtɑːɡrəfi/",
+  "fr": "photographie (activité)",
+  "def": "the skill or activity of taking photographs",
+  "ex": "She studied photography at art school for two years."
+ },
+ {
+  "id": "phrase",
+  "ipa": "/freɪz/",
+  "fr": "expression, locution",
+  "def": "a small group of words that go together",
+  "ex": "Try to use this new phrase in a sentence."
+ },
+ {
+  "id": "physical",
+  "ipa": "/ˈfɪzɪkl/",
+  "fr": "physique",
+  "def": "relating to the body rather than the mind",
+  "ex": "Swimming is great physical exercise for the whole body."
+ },
+ {
+  "id": "physics",
+  "ipa": "/ˈfɪzɪks/",
+  "fr": "physique (science)",
+  "def": "the scientific study of matter, energy, and forces",
+  "ex": "He teaches physics at the local high school."
+ },
+ {
+  "id": "piano",
+  "ipa": "/piˈænoʊ/",
+  "fr": "piano",
+  "def": "a large musical instrument with black and white keys",
+  "ex": "She has played the piano since she was five."
+ },
+ {
+  "id": "pick",
+  "ipa": "/pɪk/",
+  "fr": "choisir, cueillir (v.) ; choix (n.)",
+  "def": "to choose one thing from a group of things",
+  "ex": "Please pick a color you would like for the walls."
+ },
+ {
+  "id": "picture",
+  "ipa": "/ˈpɪktʃər/",
+  "fr": "image, photo (n.) ; imaginer, dépeindre (v.)",
+  "def": "a drawing, painting, or photograph of something",
+  "ex": "He drew a picture of his family in the garden."
+ },
+ {
+  "id": "piece",
+  "ipa": "/piːs/",
+  "fr": "morceau, pièce",
+  "def": "a part of something that has been divided",
+  "ex": "She wanted to have another piece of chocolate cake."
+ },
+ {
+  "id": "pig",
+  "ipa": "/pɪɡ/",
+  "fr": "cochon, porc",
+  "def": "a farm animal with a curly tail, kept for meat",
+  "ex": "The pig rolled around happily in the cool mud."
+ },
+ {
+  "id": "pile",
+  "ipa": "/paɪl/",
+  "fr": "tas, pile (n.) ; empiler (v.)",
+  "def": "a number of things put or lying on top of each other",
+  "ex": "There was a big pile of books on his desk."
+ },
+ {
+  "id": "pilot",
+  "ipa": "/ˈpaɪlət/",
+  "fr": "pilote",
+  "def": "a person who flies an airplane",
+  "ex": "The pilot announced that we would land soon."
+ },
+ {
+  "id": "pin",
+  "ipa": "/pɪn/",
+  "fr": "épingle (n.) ; épingler (v.)",
+  "def": "a small thin piece of metal with a sharp point",
+  "ex": "She used a pin to fix the fabric together."
+ },
+ {
+  "id": "pink",
+  "ipa": "/pɪŋk/",
+  "fr": "rose",
+  "def": "having a pale red color",
+  "ex": "She wore a pretty pink dress to the party."
+ },
+ {
+  "id": "pipe",
+  "ipa": "/paɪp/",
+  "fr": "tuyau ; pipe",
+  "def": "a long tube that carries water, gas, or oil",
+  "ex": "Water flows through the pipes under the busy street."
+ },
+ {
+  "id": "pitch",
+  "ipa": "/pɪtʃ/",
+  "fr": "hauteur (son) ; terrain (de sport)",
+  "def": "how high or low a musical note or sound is",
+  "ex": "She sang the final note at exactly the right pitch."
+ },
+ {
+  "id": "place",
+  "ipa": "/pleɪs/",
+  "fr": "endroit, lieu (n.) ; placer, poser (v.)",
+  "def": "a particular position, area, building, or town",
+  "ex": "This is a lovely place to have lunch."
+ },
+ {
+  "id": "plain",
+  "ipa": "/pleɪn/",
+  "fr": "simple, ordinaire ; clair, évident",
+  "def": "simple, without any pattern or decoration",
+  "ex": "She wore a plain white shirt to the interview."
+ },
+ {
+  "id": "plan",
+  "ipa": "/plæn/",
+  "fr": "plan, projet (n.) ; planifier (v.)",
+  "def": "an idea or arrangement for doing something in the future",
+  "ex": "We made plans to visit Italy next summer."
+ },
+ {
+  "id": "plane",
+  "ipa": "/pleɪn/",
+  "fr": "avion",
+  "def": "a vehicle that flies, with wings and engines",
+  "ex": "Our plane landed early at the busy airport."
+ },
+ {
+  "id": "planet",
+  "ipa": "/ˈplænɪt/",
+  "fr": "planète",
+  "def": "a large round object in space that moves around a star",
+  "ex": "Earth is the third planet from the sun."
+ },
+ {
+  "id": "planning",
+  "ipa": "/ˈplænɪŋ/",
+  "fr": "planification",
+  "def": "the act of deciding how to do something in advance",
+  "ex": "Good planning made the whole trip go smoothly."
+ },
+ {
+  "id": "plant",
+  "ipa": "/plænt/",
+  "fr": "plante (n.) ; planter (v.)",
+  "def": "a living thing that grows in the ground and has leaves",
+  "ex": "She waters the plants in her garden every morning."
+ },
+ {
+  "id": "plastic",
+  "ipa": "/ˈplæstɪk/",
+  "fr": "plastique",
+  "def": "a light material made from chemicals, used for many things",
+  "ex": "The children's toys are made of colorful plastic."
+ },
+ {
+  "id": "plate",
+  "ipa": "/pleɪt/",
+  "fr": "assiette",
+  "def": "a flat round dish used for eating food",
+  "ex": "He put the sandwich on a clean plate."
+ },
+ {
+  "id": "platform",
+  "ipa": "/ˈplætfɔːrm/",
+  "fr": "quai (gare) ; plateforme, estrade",
+  "def": "a flat raised area, such as where you wait for a train",
+  "ex": "The train to Boston leaves from platform four."
+ },
+ {
+  "id": "play",
+  "ipa": "/pleɪ/",
+  "fr": "jouer (v.) ; pièce de théâtre (n.)",
+  "def": "to spend time doing an enjoyable activity or game",
+  "ex": "The children play in the park every afternoon."
+ },
+ {
+  "id": "player",
+  "ipa": "/ˈpleɪər/",
+  "fr": "joueur, joueuse",
+  "def": "a person who plays a sport or game",
+  "ex": "She is the best player on our soccer team."
+ },
+ {
+  "id": "pleasant",
+  "ipa": "/ˈpleznt/",
+  "fr": "agréable",
+  "def": "nice, enjoyable, or friendly",
+  "ex": "We had a pleasant afternoon walking by the river."
+ },
+ {
+  "id": "please",
+  "ipa": "/pliːz/",
+  "fr": "s'il vous plaît (exclam.) ; faire plaisir à (v.)",
+  "def": "used to ask for something politely",
+  "ex": "Please pass the salt and pepper down the table."
+ },
+ {
+  "id": "pleased",
+  "ipa": "/pliːzd/",
+  "fr": "content, satisfait",
+  "def": "happy or satisfied about something",
+  "ex": "She was very pleased with her exam results."
+ },
+ {
+  "id": "pleasure",
+  "ipa": "/ˈpleʒər/",
+  "fr": "plaisir",
+  "def": "a feeling of happiness or enjoyment",
+  "ex": "Reading in bed is one of my greatest pleasures."
+ },
+ {
+  "id": "plenty",
+  "ipa": "/ˈplenti/",
+  "fr": "beaucoup, largement assez",
+  "def": "a large amount, more than enough",
+  "ex": "There is plenty of food left for everyone."
+ },
+ {
+  "id": "plot",
+  "ipa": "/plɑːt/",
+  "fr": "intrigue (n.) ; comploter (v.)",
+  "def": "the story of a book, film, or play",
+  "ex": "The movie has a really exciting and clever plot."
+ },
+ {
+  "id": "plus-1",
+  "ipa": "/plʌs/",
+  "fr": "plus",
+  "def": "added to, or with the addition of something",
+  "ex": "Two plus two always equals four in math."
+ },
+ {
+  "id": "pocket",
+  "ipa": "/ˈpɑːkɪt/",
+  "fr": "poche",
+  "def": "a small bag sewn into clothes for carrying things",
+  "ex": "He put his keys in his jacket pocket."
+ },
+ {
+  "id": "poem",
+  "ipa": "/ˈpoʊəm/",
+  "fr": "poème",
+  "def": "a piece of writing arranged in short lines with rhythm",
+  "ex": "She wrote a poem about the changing autumn seasons."
+ },
+ {
+  "id": "poet",
+  "ipa": "/ˈpoʊət/",
+  "fr": "poète",
+  "def": "a person who writes poems",
+  "ex": "The poet read his new work aloud to the crowd."
+ },
+ {
+  "id": "poetry",
+  "ipa": "/ˈpoʊətri/",
+  "fr": "poésie",
+  "def": "poems in general, considered as a form of literature",
+  "ex": "She studies modern poetry at the local university."
+ },
+ {
+  "id": "point",
+  "ipa": "/pɔɪnt/",
+  "fr": "point ; question (n.) ; pointer, indiquer (v.)",
+  "def": "an idea, fact, or opinion that is said or written",
+  "ex": "He made a good point during the team meeting."
+ },
+ {
+  "id": "pointed",
+  "ipa": "/ˈpɔɪntɪd/",
+  "fr": "pointu",
+  "def": "having a thin sharp end",
+  "ex": "The witch's hat had a tall pointed top."
+ },
+ {
+  "id": "poison",
+  "ipa": "/ˈpɔɪzn/",
+  "fr": "poison (n.) ; empoisonner (v.)",
+  "def": "a substance that can kill or harm you if swallowed",
+  "ex": "The wild plant's berries contain a very dangerous poison."
+ },
+ {
+  "id": "poisonous",
+  "ipa": "/ˈpɔɪzənəs/",
+  "fr": "toxique, vénéneux",
+  "def": "containing poison, able to cause death or harm",
+  "ex": "Some wild mushrooms in the forest are poisonous."
+ },
+ {
+  "id": "police",
+  "ipa": "/pəˈliːs/",
+  "fr": "police",
+  "def": "the official group that makes sure people obey the law",
+  "ex": "The police arrived quickly after the alarm rang."
+ },
+ {
+  "id": "policeman",
+  "ipa": "/pəˈliːsmən/",
+  "fr": "policier, agent de police",
+  "def": "a man who is a member of the police",
+  "ex": "A policeman helped the tourists find their hotel."
+ },
+ {
+  "id": "policy",
+  "ipa": "/ˈpɑːləsi/",
+  "fr": "politique (d'une organisation)",
+  "def": "a plan of action agreed by a government or company",
+  "ex": "The school has a strict policy on phone use."
+ },
+ {
+  "id": "polite",
+  "ipa": "/pəˈlaɪt/",
+  "fr": "poli",
+  "def": "behaving in a way that is respectful and considerate",
+  "ex": "It's polite to say thank you after a meal."
+ },
+ {
+  "id": "political",
+  "ipa": "/pəˈlɪtɪkl/",
+  "fr": "politique",
+  "def": "relating to the government or public affairs",
+  "ex": "She has strong political views about the environment."
+ },
+ {
+  "id": "politician",
+  "ipa": "/ˌpɑːləˈtɪʃn/",
+  "fr": "politicien, homme/femme politique",
+  "def": "a person who works in politics, such as in government",
+  "ex": "The politician gave a long speech about education."
+ },
+ {
+  "id": "politics",
+  "ipa": "/ˈpɑːlətɪks/",
+  "fr": "politique (domaine)",
+  "def": "ideas and activities relating to how a country is governed",
+  "ex": "He became interested in politics at a young age."
+ },
+ {
+  "id": "pollution",
+  "ipa": "/pəˈluːʃn/",
+  "fr": "pollution",
+  "def": "damage caused to air, water, or land by harmful substances",
+  "ex": "Air pollution is a serious problem in big cities."
+ },
+ {
+  "id": "pool",
+  "ipa": "/puːl/",
+  "fr": "piscine ; flaque",
+  "def": "a small area of water for swimming",
+  "ex": "The kids spent the afternoon splashing in the pool."
+ },
+ {
+  "id": "poor",
+  "ipa": "/pʊr/",
+  "fr": "pauvre ; médiocre",
+  "def": "having very little money, or not good in quality",
+  "ex": "The charity helps poor families find safe housing."
+ },
+ {
+  "id": "pop",
+  "ipa": "/pɑːp/",
+  "fr": "musique pop",
+  "def": "modern popular music with a strong catchy tune",
+  "ex": "She loves listening to pop music on the radio."
+ },
+ {
+  "id": "popular",
+  "ipa": "/ˈpɑːpjələr/",
+  "fr": "populaire",
+  "def": "liked or enjoyed by many people",
+  "ex": "That small restaurant is very popular with tourists."
+ },
+ {
+  "id": "popularity",
+  "ipa": "/ˌpɑːpjəˈlærəti/",
+  "fr": "popularité",
+  "def": "the state of being liked by many people",
+  "ex": "The band's popularity grew quickly after the concert."
+ },
+ {
+  "id": "population",
+  "ipa": "/ˌpɑːpjəˈleɪʃn/",
+  "fr": "population",
+  "def": "all the people who live in a place",
+  "ex": "The population of the city keeps growing every year."
+ },
+ {
+  "id": "port",
+  "ipa": "/pɔːrt/",
+  "fr": "port",
+  "def": "a town or area by the sea where ships load and unload",
+  "ex": "The ship arrived safely at the port this morning."
+ },
+ {
+  "id": "portrait",
+  "ipa": "/ˈpɔːrtrət/",
+  "fr": "portrait",
+  "def": "a painting or photograph of a person",
+  "ex": "The artist painted a portrait of the town mayor."
+ },
+ {
+  "id": "pose",
+  "ipa": "/poʊz/",
+  "fr": "poser (pour une photo) ; poser (problème)",
+  "def": "to sit or stand in a particular way for a photo",
+  "ex": "The whole family posed together for a photograph."
+ },
+ {
+  "id": "position",
+  "ipa": "/pəˈzɪʃn/",
+  "fr": "position ; poste (n.) ; placer (v.)",
+  "def": "the place where someone or something is",
+  "ex": "He changed his position to see the screen better."
+ },
+ {
+  "id": "positive",
+  "ipa": "/ˈpɑːzətɪv/",
+  "fr": "positif",
+  "def": "hopeful and confident, or thinking about the good side",
+  "ex": "Try to stay positive even when things go wrong."
+ },
+ {
+  "id": "possess",
+  "ipa": "/pəˈzes/",
+  "fr": "posséder",
+  "def": "to have or own something",
+  "ex": "The museum possesses a fine collection of old paintings."
+ },
+ {
+  "id": "possession",
+  "ipa": "/pəˈzeʃn/",
+  "fr": "possession, bien",
+  "def": "something that you own",
+  "ex": "She packed her most precious possessions in a box."
+ },
+ {
+  "id": "possibility",
+  "ipa": "/ˌpɑːsəˈbɪləti/",
+  "fr": "possibilité",
+  "def": "a chance that something might happen or be true",
+  "ex": "There is a possibility that the flight will be delayed."
+ },
+ {
+  "id": "possible",
+  "ipa": "/ˈpɑːsəbl/",
+  "fr": "possible",
+  "def": "able to happen, exist, or be done",
+  "ex": "It might be possible to finish this work by Friday."
+ },
+ {
+  "id": "possibly",
+  "ipa": "/ˈpɑːsəbli/",
+  "fr": "peut-être, éventuellement",
+  "def": "used to say something might happen or be true",
+  "ex": "We could possibly meet earlier if you prefer."
+ },
+ {
+  "id": "post",
+  "ipa": "/poʊst/",
+  "fr": "courrier, poste (n.) ; poster, publier (v.)",
+  "def": "letters and packages sent by mail",
+  "ex": "She posted the letter at the corner mailbox."
+ },
+ {
+  "id": "poster",
+  "ipa": "/ˈpoʊstər/",
+  "fr": "affiche, poster",
+  "def": "a large printed picture or notice put on a wall",
+  "ex": "He put a movie poster on his bedroom wall."
+ }
+]

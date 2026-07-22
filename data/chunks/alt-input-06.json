@@ -1,0 +1,1828 @@
+[
+ {
+  "id": "star",
+  "word": "star",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/stɑːr/",
+  "fr": "étoile (n.) ; jouer le rôle principal (v.)",
+  "def": "a bright point of light seen in the sky at night",
+  "ex": "We looked up and saw thousands of stars."
+ },
+ {
+  "id": "start",
+  "word": "start",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/stɑːrt/",
+  "fr": "commencer (v.) ; début (n.)",
+  "def": "begin doing or happening",
+  "ex": "The movie will start again in ten minutes."
+ },
+ {
+  "id": "state",
+  "word": "state",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "adj., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/steɪt/",
+  "fr": "état, région (n.) ; déclarer (v.)",
+  "def": "a country, or part of a country with its own government",
+  "ex": "California is a state on the west coast."
+ },
+ {
+  "id": "stay",
+  "word": "stay",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/steɪ/",
+  "fr": "rester (v.) ; séjour (n.)",
+  "def": "continue to be in a place or condition",
+  "ex": "We decided to stay home during the storm."
+ },
+ {
+  "id": "step",
+  "word": "step",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/stɛp/",
+  "fr": "pas, étape (n.) ; faire un pas (v.)",
+  "def": "a movement made by lifting your foot and putting it down",
+  "ex": "She took a small step toward the open door."
+ },
+ {
+  "id": "still",
+  "word": "still",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/stɪl/",
+  "fr": "encore, toujours (adv.) ; immobile (adj.)",
+  "def": "continuing to happen up to the present time",
+  "ex": "She still lives in the house where she grew up."
+ },
+ {
+  "id": "stop",
+  "word": "stop",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/stɑːp/",
+  "fr": "arrêter, s'arrêter (v.) ; arrêt (n.)",
+  "def": "stop moving or doing something",
+  "ex": "The bus will stop here in about two minutes."
+ },
+ {
+  "id": "store",
+  "word": "store",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/stɔːr/",
+  "fr": "magasin (n.) ; stocker, ranger (v.)",
+  "def": "a shop where you can buy things",
+  "ex": "She bought some fresh bread at the small store."
+ },
+ {
+  "id": "stress",
+  "word": "stress",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/strɛs/",
+  "fr": "stress, tension (n.) ; souligner (v.)",
+  "def": "a feeling of worry caused by difficult situations",
+  "ex": "Too much stress can be bad for your health."
+ },
+ {
+  "id": "stretch",
+  "word": "stretch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/strɛtʃ/",
+  "fr": "étirer, s'étirer (v.) ; étirement (n.)",
+  "def": "make your body or a material longer or wider",
+  "ex": "She likes to stretch her legs before running."
+ },
+ {
+  "id": "strike",
+  "word": "strike",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/straɪk/",
+  "fr": "frapper (v.) ; grève (n.)",
+  "def": "hit someone or something hard and suddenly",
+  "ex": "Lightning can strike a tall tree during a storm."
+ },
+ {
+  "id": "structure",
+  "word": "structure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈstrʌktʃɚ/",
+  "fr": "structure (n.) ; structurer (v.)",
+  "def": "the way parts of something are organized or built",
+  "ex": "The structure of the essay was clear and logical."
+ },
+ {
+  "id": "struggle",
+  "word": "struggle",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈstrʌɡl̩/",
+  "fr": "lutter, se débattre (v.) ; lutte (n.)",
+  "def": "try very hard to do something difficult",
+  "ex": "Many students struggle to understand grammar at first."
+ },
+ {
+  "id": "study",
+  "word": "study",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈstʌdi/",
+  "fr": "étudier (v.) ; étude (n.)",
+  "def": "spend time learning about a subject",
+  "ex": "I need to study for my history exam tonight."
+ },
+ {
+  "id": "stuff",
+  "word": "stuff",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/stʌf/",
+  "fr": "trucs, affaires (n.) ; fourrer, bourrer (v.)",
+  "def": "things or objects of any kind",
+  "ex": "Please put all your stuff away before dinner starts."
+ },
+ {
+  "id": "subject",
+  "word": "subject",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsʌbdʒɪkt/",
+  "fr": "sujet, matière (n.) ; soumis (adj.)",
+  "def": "the topic that is being discussed or studied",
+  "ex": "History has always been my favorite subject at school."
+ },
+ {
+  "id": "suit",
+  "word": "suit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/suːt/",
+  "fr": "costume (n.) ; convenir (v.)",
+  "def": "a set of matching clothes worn for formal occasions",
+  "ex": "He wore a dark blue suit to the interview."
+ },
+ {
+  "id": "sum",
+  "word": "sum",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/sʌm/",
+  "fr": "somme, montant (n.) ; additionner (v.)",
+  "def": "an amount of money, or a total of numbers added",
+  "ex": "They spent a large sum of money on the wedding."
+ },
+ {
+  "id": "supply",
+  "word": "supply",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/səˈplaɪ/",
+  "fr": "fournir (v.) ; approvisionnement, offre (n.)",
+  "def": "provide something that is needed",
+  "ex": "The farm supplies fresh vegetables to local restaurants."
+ },
+ {
+  "id": "support",
+  "word": "support",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/səˈpɔːrt/",
+  "fr": "soutenir, aider (v.) ; soutien (n.)",
+  "def": "help someone by agreeing with or encouraging them",
+  "ex": "My family has always supported my career choices."
+ },
+ {
+  "id": "sure",
+  "word": "sure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ʃʊr/",
+  "fr": "sûr, certain",
+  "def": "certain about something, with no doubts",
+  "ex": "I am not sure what time the shop closes."
+ },
+ {
+  "id": "surprise",
+  "word": "surprise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/sɚˈpraɪz/",
+  "fr": "surprise (n.) ; surprendre (v.)",
+  "def": "an unexpected event or piece of news",
+  "ex": "We planned a surprise party for her birthday."
+ },
+ {
+  "id": "survey",
+  "word": "survey",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsɝːveɪ/ (n.), /sɚˈveɪ/ (v.)",
+  "fr": "sondage, enquête (n.) ; sonder (v.)",
+  "def": "a set of questions asked to a lot of people",
+  "ex": "The company sent a survey to all its customers."
+ },
+ {
+  "id": "suspect",
+  "word": "suspect",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/səˈspɛkt/ (v.), /ˈsʌspɛkt/ (n.)",
+  "fr": "soupçonner (v.) ; suspect (n.)",
+  "def": "believe that something is probably true or likely",
+  "ex": "The police now suspect the fire was started deliberately."
+ },
+ {
+  "id": "swim",
+  "word": "swim",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/swɪm/",
+  "fr": "nager (v.) ; baignade (n.)",
+  "def": "move through water using your arms and legs",
+  "ex": "We like to swim in the lake every summer."
+ },
+ {
+  "id": "switch",
+  "word": "switch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/swɪtʃ/",
+  "fr": "changer, basculer (v.) ; interrupteur (n.)",
+  "def": "change from one thing to another",
+  "ex": "We decided to switch to a cheaper phone plan."
+ },
+ {
+  "id": "tablet",
+  "word": "tablet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈtæblət/",
+  "fr": "comprimé (médicament) ; tablette (appareil)",
+  "def": "a small computer, or a pill of medicine",
+  "ex": "She takes a tablet every morning for her allergies."
+ },
+ {
+  "id": "talk",
+  "word": "talk",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/tɔːk/",
+  "fr": "parler (v.) ; conversation, discours (n.)",
+  "def": "say things to communicate with someone",
+  "ex": "We talked for hours about our plans for the future."
+ },
+ {
+  "id": "target",
+  "word": "target",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈtɑːrɡɪt/",
+  "fr": "cible (n.) ; cibler, viser (v.)",
+  "def": "a person, object, or result that you aim for",
+  "ex": "The company set a new sales target for this year."
+ },
+ {
+  "id": "taste",
+  "word": "taste",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/teɪst/",
+  "fr": "goût (n.) ; goûter (v.)",
+  "def": "the flavor of food or drink in your mouth",
+  "ex": "I love the taste of fresh strawberries in summer."
+ },
+ {
+  "id": "tax",
+  "word": "tax",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/tæks/",
+  "fr": "impôt, taxe (n.) ; taxer (v.)",
+  "def": "money that people pay to the government",
+  "ex": "We have to pay tax on everything we earn."
+ },
+ {
+  "id": "tear-1",
+  "word": "tear",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/tɛr/",
+  "fr": "déchirer (v.) ; déchirure (n.)",
+  "def": "pull something apart or damage it by ripping",
+  "ex": "Be careful not to tear the wrapping paper."
+ },
+ {
+  "id": "telephone",
+  "word": "telephone",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈtɛləfoʊn/",
+  "fr": "téléphone (n.) ; téléphoner (v.)",
+  "def": "a machine used to talk to someone far away",
+  "ex": "She answered the telephone after the third ring."
+ },
+ {
+  "id": "term",
+  "word": "term",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/tɝːm/",
+  "fr": "terme, trimestre (n.) ; désigner (v.)",
+  "def": "a word or phrase used to describe something",
+  "ex": "This medical term is difficult for most patients to understand."
+ },
+ {
+  "id": "test",
+  "word": "test",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/tɛst/",
+  "fr": "test, examen (n.) ; tester (v.)",
+  "def": "a set of questions to check knowledge or ability",
+  "ex": "We have an important math test tomorrow morning at school."
+ },
+ {
+  "id": "text",
+  "word": "text",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/tɛkst/",
+  "fr": "texte (n.) ; envoyer un texto (v.)",
+  "def": "written words in a book, message, or document",
+  "ex": "I will text you as soon as I arrive."
+ },
+ {
+  "id": "that",
+  "word": "that",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det., pron., conj.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ðæt/",
+  "fr": "ce, cela, celui-là ; que (conj.)",
+  "def": "used to refer to a specific thing already mentioned",
+  "ex": "That book on the shelf belongs to my brother."
+ },
+ {
+  "id": "third",
+  "word": "third",
+  "note": null,
+  "senses": [
+   {
+    "pos": "number",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/θɝːd/",
+  "fr": "troisième (adj./nombre) ; tiers (n.)",
+  "def": "coming after second and before fourth in a list",
+  "ex": "She finished third in the school running race."
+ },
+ {
+  "id": "this",
+  "word": "this",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ðɪs/",
+  "fr": "ce, cette, ceci",
+  "def": "used to refer to a thing or person close by",
+  "ex": "This restaurant serves the best pizza in town."
+ },
+ {
+  "id": "tie",
+  "word": "tie",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/taɪ/",
+  "fr": "attacher, nouer (v.) ; cravate (n.)",
+  "def": "fasten something using a knot",
+  "ex": "Please tie your shoes before we go outside."
+ },
+ {
+  "id": "time",
+  "word": "time",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/taɪm/",
+  "fr": "temps, heure (n.) ; chronométrer (v.)",
+  "def": "what is measured in minutes, hours, days, and years",
+  "ex": "We don't have enough time to finish this today."
+ },
+ {
+  "id": "tip",
+  "word": "tip",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/tɪp/",
+  "fr": "pourboire, conseil (n.) ; incliner, verser (v.)",
+  "def": "extra money given to someone for good service",
+  "ex": "We left a generous tip for our waiter."
+ },
+ {
+  "id": "title",
+  "word": "title",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈtaɪtl̩/",
+  "fr": "titre (n.) ; intituler (v.)",
+  "def": "the name of a book, movie, or piece of work",
+  "ex": "I forgot the title of that song immediately."
+ },
+ {
+  "id": "to",
+  "word": "to",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., infinitive marker",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/tuː/",
+  "fr": "à, vers, pour ; (marqueur de l'infinitif)",
+  "def": "used to show direction, purpose, or the infinitive form",
+  "ex": "We are driving to the coast this weekend."
+ },
+ {
+  "id": "top",
+  "word": "top",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/tɑːp/",
+  "fr": "haut, sommet (n.) ; premier (adj.)",
+  "def": "the highest point or part of something",
+  "ex": "We finally reached the top of the mountain."
+ },
+ {
+  "id": "touch",
+  "word": "touch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/tʌtʃ/",
+  "fr": "toucher",
+  "def": "put your hand or fingers on something",
+  "ex": "Please don't touch the paintings in the gallery."
+ },
+ {
+  "id": "tour",
+  "word": "tour",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/tʊr/",
+  "fr": "visite, tournée (n.) ; visiter (v.)",
+  "def": "a trip to see a place or several places",
+  "ex": "We took a tour of the old castle yesterday."
+ },
+ {
+  "id": "track",
+  "word": "track",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/træk/",
+  "fr": "piste, voie (n.) ; suivre, pister (v.)",
+  "def": "a path or road made for a particular purpose",
+  "ex": "Runners raced around the track at the stadium."
+ },
+ {
+  "id": "trade",
+  "word": "trade",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/treɪd/",
+  "fr": "commerce, échange (n.) ; échanger (v.)",
+  "def": "the buying and selling of goods between people or countries",
+  "ex": "The two countries agreed to increase trade next year."
+ },
+ {
+  "id": "train",
+  "word": "train",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/treɪn/",
+  "fr": "train (n.) ; entraîner, former (v.)",
+  "def": "a line of connected cars that runs on rails",
+  "ex": "We took the train to visit our grandparents last weekend."
+ },
+ {
+  "id": "transfer",
+  "word": "transfer",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/trænsˈfɝː/ (v.), /ˈtrænsfɝː/ (n.)",
+  "fr": "transférer (v.) ; transfert (n.)",
+  "def": "to move something or someone to a different place",
+  "ex": "She decided to transfer to a university closer to home."
+ },
+ {
+  "id": "travel",
+  "word": "travel",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈtrævl/",
+  "fr": "voyager (v.) ; voyage(s) (n.)",
+  "def": "to go from one place to another, often far away",
+  "ex": "They travel to different countries every summer for vacation."
+ },
+ {
+  "id": "trial",
+  "word": "trial",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈtraɪəl/",
+  "fr": "procès ; essai",
+  "def": "a formal examination of evidence in a court of law",
+  "ex": "The trial lasted three weeks before the jury decided."
+ },
+ {
+  "id": "trick",
+  "word": "trick",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/trɪk/",
+  "fr": "tour, astuce (n.) ; tromper (v.)",
+  "def": "a clever action meant to deceive or amuse someone",
+  "ex": "The magician performed an amazing trick with playing cards."
+ },
+ {
+  "id": "trip",
+  "word": "trip",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/trɪp/",
+  "fr": "voyage, excursion (n.) ; trébucher (v.)",
+  "def": "a journey to a place and back again",
+  "ex": "We took a short trip to the mountains last weekend."
+ },
+ {
+  "id": "trouble",
+  "word": "trouble",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈtrʌbl/",
+  "fr": "problème(s), ennui(s) (n.) ; déranger (v.)",
+  "def": "a problem, difficulty, or worry",
+  "ex": "She had trouble finding her keys this morning."
+ },
+ {
+  "id": "trust",
+  "word": "trust",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/trʌst/",
+  "fr": "confiance (n.) ; faire confiance à (v.)",
+  "def": "the belief that someone is honest and reliable",
+  "ex": "Children need to trust their parents to feel safe."
+ },
+ {
+  "id": "try",
+  "word": "try",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/traɪ/",
+  "fr": "essayer (v.) ; essai, tentative (n.)",
+  "def": "to make an effort to do something",
+  "ex": "She will try to finish her homework before dinner."
+ },
+ {
+  "id": "turn",
+  "word": "turn",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/tɝːn/",
+  "fr": "tourner (v.) ; tour (n.)",
+  "def": "to move so as to face a different direction",
+  "ex": "Turn left at the corner and the shop is there."
+ },
+ {
+  "id": "type",
+  "word": "type",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/taɪp/",
+  "fr": "type, genre, sorte (n.) ; taper, saisir (v.)",
+  "def": "a group of things or people with similar features",
+  "ex": "She wondered what type of music he liked best."
+ },
+ {
+  "id": "underground",
+  "word": "underground",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈʌndɚgraʊnd/",
+  "fr": "souterrain (adj.) ; sous terre (adv.)",
+  "def": "under the surface of the ground",
+  "ex": "Workers built a station deep underground for the subway."
+ },
+ {
+  "id": "union",
+  "word": "union",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈjuːnjən/",
+  "fr": "syndicat ; union",
+  "def": "an organization of workers formed to protect their rights",
+  "ex": "The union asked for better pay and safer conditions."
+ },
+ {
+  "id": "update",
+  "word": "update",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʌpˈdeɪt/ (v.), /ˈʌpdeɪt/ (n.)",
+  "fr": "mettre à jour (v.) ; mise à jour (n.)",
+  "def": "to make something more modern or add new information",
+  "ex": "Please update your address in our online system today."
+ },
+ {
+  "id": "upset",
+  "word": "upset",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʌpˈsɛt/",
+  "fr": "contrarié, bouleversé (adj.) ; bouleverser (v.)",
+  "def": "unhappy or worried because something bad happened",
+  "ex": "She was upset when she lost her favorite necklace."
+ },
+ {
+  "id": "upstairs",
+  "word": "upstairs",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˌʌpˈstɛrz/",
+  "fr": "en haut, à l'étage",
+  "def": "on or to a higher floor of a building",
+  "ex": "The children ran upstairs to get ready for bed."
+ },
+ {
+  "id": "use",
+  "word": "use",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/juːz/ (v.), /juːs/ (n.)",
+  "fr": "utiliser, se servir de (v.) ; usage (n.)",
+  "def": "to do something with an object for a purpose",
+  "ex": "You can use my pen if you need one."
+ },
+ {
+  "id": "value",
+  "word": "value",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈvæljuː/",
+  "fr": "valeur (n.) ; apprécier, estimer (v.)",
+  "def": "how much something is worth in money or importance",
+  "ex": "The value of the house increased over the last decade."
+ },
+ {
+  "id": "very",
+  "word": "very",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈvɛri/",
+  "fr": "très (adv.) ; même, exact (adj.)",
+  "def": "to a great degree; extremely",
+  "ex": "It was very cold outside this morning in December."
+ },
+ {
+  "id": "view",
+  "word": "view",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/vjuː/",
+  "fr": "vue (n.) ; considérer, voir (v.)",
+  "def": "what you can see from a particular place",
+  "ex": "We enjoyed a beautiful view of the mountains from our room."
+ },
+ {
+  "id": "vision",
+  "word": "vision",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈvɪʒn/",
+  "fr": "vision (vue) ; vision (idée)",
+  "def": "the ability to see, or an idea of the future",
+  "ex": "Her vision improved after she got new glasses."
+ },
+ {
+  "id": "visit",
+  "word": "visit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈvɪzɪt/",
+  "fr": "rendre visite à, visiter (v.) ; visite (n.)",
+  "def": "to go to see a person or place for a while",
+  "ex": "We will visit our grandparents this coming weekend."
+ },
+ {
+  "id": "volunteer",
+  "word": "volunteer",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˌvɑːlənˈtɪr/",
+  "fr": "bénévole (n.) ; se porter volontaire (v.)",
+  "def": "a person who does work without being paid",
+  "ex": "Every weekend, she works as a volunteer at the shelter."
+ },
+ {
+  "id": "vote",
+  "word": "vote",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/voʊt/",
+  "fr": "vote, voix (n.) ; voter (v.)",
+  "def": "to choose someone or something in an election",
+  "ex": "Citizens vote to choose their leaders every few years."
+ },
+ {
+  "id": "wait",
+  "word": "wait",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/weɪt/",
+  "fr": "attendre (v.) ; attente (n.)",
+  "def": "to stay in a place until something happens",
+  "ex": "Please wait here until your name is called."
+ },
+ {
+  "id": "walk",
+  "word": "walk",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wɔːk/",
+  "fr": "marcher (v.) ; promenade, marche (n.)",
+  "def": "to move on foot at a normal speed",
+  "ex": "We walk to school together every single morning."
+ },
+ {
+  "id": "warm",
+  "word": "warm",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/wɔːrm/",
+  "fr": "chaud, tiède (adj.) ; réchauffer (v.)",
+  "def": "having a comfortable and pleasant temperature; not cold",
+  "ex": "Wear a jacket; it's not very warm outside today."
+ },
+ {
+  "id": "wash",
+  "word": "wash",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/wɑːʃ/",
+  "fr": "laver (v.) ; lavage (n.)",
+  "def": "to clean something using water and often soap",
+  "ex": "Please wash your hands before you eat lunch."
+ },
+ {
+  "id": "waste",
+  "word": "waste",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v., adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/weɪst/",
+  "fr": "gaspillage, déchets (n.) ; gaspiller (v.)",
+  "def": "the careless use of something valuable, like time or money",
+  "ex": "It's a waste of money to buy things you never use."
+ },
+ {
+  "id": "watch",
+  "word": "watch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wɑːtʃ/",
+  "fr": "regarder (v.) ; montre (n.)",
+  "def": "to look at something for a period of time",
+  "ex": "We watch a movie together every Friday night."
+ },
+ {
+  "id": "water",
+  "word": "water",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈwɑːtɚ/",
+  "fr": "eau (n.) ; arroser (v.)",
+  "def": "the clear liquid that falls as rain and fills rivers",
+  "ex": "Please drink plenty of water during hot summer days."
+ },
+ {
+  "id": "wave",
+  "word": "wave",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/weɪv/",
+  "fr": "vague (n.) ; faire signe de la main (v.)",
+  "def": "a raised line of water that moves across the sea",
+  "ex": "The children played happily in the waves at the beach."
+ },
+ {
+  "id": "way",
+  "word": "way",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/weɪ/",
+  "fr": "façon, manière ; chemin (n.)",
+  "def": "a method or manner of doing something",
+  "ex": "She found a new way to solve the difficult problem."
+ },
+ {
+  "id": "web",
+  "word": "web",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/wɛb/",
+  "fr": "toile (araignée) ; le Web (internet)",
+  "def": "a network of thin threads made by a spider, or the internet",
+  "ex": "A spider built a web in the corner of the window."
+ },
+ {
+  "id": "welcome",
+  "word": "welcome",
+  "note": null,
+  "senses": [
+   {
+    "pos": "exclam., v., adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈwɛlkəm/",
+  "fr": "bienvenue (exclam./n.) ; accueillir (v.) ; bienvenu (adj.)",
+  "def": "used to greet someone arriving somewhere",
+  "ex": "Welcome to our home; please come in and sit down."
+ },
+ {
+  "id": "well",
+  "word": "well",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., adj., exclam.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wɛl/",
+  "fr": "bien (adv./adj.) ; eh bien (exclam.)",
+  "def": "in a good, satisfactory, or skillful way",
+  "ex": "She sings very well and hopes to become a singer."
+ },
+ {
+  "id": "what",
+  "word": "what",
+  "note": null,
+  "senses": [
+   {
+    "pos": "pron./det.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wʌt/",
+  "fr": "quoi, que, qu'est-ce que ; quel, quelle",
+  "def": "used to ask for information about something",
+  "ex": "She asked me what time the movie starts tonight."
+ },
+ {
+  "id": "while",
+  "word": "while",
+  "note": null,
+  "senses": [
+   {
+    "pos": "conj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/waɪl/",
+  "fr": "pendant que, tandis que (conj.) ; moment (n.)",
+  "def": "during the time that something else happens",
+  "ex": "She listened to music while she cleaned her room."
+ },
+ {
+  "id": "whisper",
+  "word": "whisper",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈwɪspɚ/",
+  "fr": "chuchoter (v.) ; chuchotement (n.)",
+  "def": "to speak very quietly and softly",
+  "ex": "She had to whisper so she wouldn't wake the baby."
+ },
+ {
+  "id": "whole",
+  "word": "whole",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/hoʊl/",
+  "fr": "entier, tout (adj.) ; totalité (n.)",
+  "def": "complete; with no part missing",
+  "ex": "We spent the whole day cleaning the house together."
+ },
+ {
+  "id": "will",
+  "word": "will",
+  "note": null,
+  "senses": [
+   {
+    "pos": "modal v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/wɪl/",
+  "fr": "(auxiliaire du futur) ; volonté, testament (n.)",
+  "def": "used to talk about what is going to happen",
+  "ex": "She will call you as soon as she arrives."
+ },
+ {
+  "id": "win",
+  "word": "win",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/wɪn/",
+  "fr": "gagner (v.) ; victoire (n.)",
+  "def": "to be the best or first in a game or competition",
+  "ex": "Our team hopes to win the championship this year."
+ },
+ {
+  "id": "wish",
+  "word": "wish",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/wɪʃ/",
+  "fr": "souhaiter, désirer (v.) ; souhait, vœu (n.)",
+  "def": "to want something that is impossible or unlikely",
+  "ex": "I wish I could travel around the world someday."
+ },
+ {
+  "id": "witness",
+  "word": "witness",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈwɪtnəs/",
+  "fr": "témoin (n.) ; être témoin de (v.)",
+  "def": "a person who sees an event happen",
+  "ex": "A witness described the accident to the police officers."
+ },
+ {
+  "id": "wonder",
+  "word": "wonder",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈwʌndɚ/",
+  "fr": "se demander (v.) ; émerveillement (n.)",
+  "def": "to want to know something; to ask yourself a question",
+  "ex": "I wonder what she is doing right now."
+ },
+ {
+  "id": "work",
+  "word": "work",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wɝːk/",
+  "fr": "travailler (v.) ; travail (n.)",
+  "def": "to do a job, often to earn money",
+  "ex": "He works at a hospital as a nurse."
+ },
+ {
+  "id": "worldwide",
+  "word": "worldwide",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˌwɝːldˈwaɪd/",
+  "fr": "mondial (adj.) ; dans le monde entier (adv.)",
+  "def": "existing or happening in all parts of the world",
+  "ex": "The company sells its products worldwide these days."
+ },
+ {
+  "id": "worry",
+  "word": "worry",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈwɝːi/",
+  "fr": "s'inquiéter (v.) ; inquiétude, souci (n.)",
+  "def": "to feel anxious about problems or something bad happening",
+  "ex": "Please don't worry about the exam; you'll do fine."
+ },
+ {
+  "id": "worse",
+  "word": "worse",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/wɝːs/",
+  "fr": "pire, plus mauvais (adj./adv.) ; le pire (n.)",
+  "def": "more bad or more ill than before",
+  "ex": "Her cold got worse after she went out in the rain."
+ },
+ {
+  "id": "worst",
+  "word": "worst",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/wɝːst/",
+  "fr": "le pire, le plus mauvais",
+  "def": "the most bad; less good than all others",
+  "ex": "That was the worst movie I have ever seen."
+ },
+ {
+  "id": "worth",
+  "word": "worth",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/wɝːθ/",
+  "fr": "qui vaut, valant (adj.) ; valeur (n.)",
+  "def": "having a particular value, especially in money",
+  "ex": "This old painting is worth a lot of money."
+ },
+ {
+  "id": "would",
+  "word": "would",
+  "note": null,
+  "senses": [
+   {
+    "pos": "modal v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/wʊd/",
+  "fr": "(conditionnel) ; voudrais, aimerait",
+  "def": "used to talk about a possible or imagined situation",
+  "ex": "I would travel more if I had extra money."
+ },
+ {
+  "id": "wound",
+  "word": "wound",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/wuːnd/",
+  "fr": "blessure (n.) ; blesser (v.)",
+  "def": "an injury to the body, often with broken skin",
+  "ex": "The nurse cleaned the wound before bandaging his arm."
+ },
+ {
+  "id": "wrong",
+  "word": "wrong",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɔːŋ/",
+  "fr": "faux, incorrect (adj.) ; mal (adv.) ; tort (n.)",
+  "def": "not correct or not true",
+  "ex": "You gave the wrong answer to the last question."
+ },
+ {
+  "id": "yard",
+  "word": "yard",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/jɑːrd/",
+  "fr": "cour, jardin ; yard (unité)",
+  "def": "the ground around a house, often with grass",
+  "ex": "The children played happily in the yard all afternoon."
+ },
+ {
+  "id": "yet",
+  "word": "yet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A2"
+   },
+   {
+    "pos": "conj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/jɛt/",
+  "fr": "encore, déjà (adv.) ; pourtant (conj.)",
+  "def": "up until now; used to say something hasn't happened",
+  "ex": "She hasn't finished her homework yet this evening."
+ },
+ {
+  "id": "young",
+  "word": "young",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/jʌŋ/",
+  "fr": "jeune (adj.) ; les jeunes (n.)",
+  "def": "having lived for only a short time; not old",
+  "ex": "The young girl learned to swim last summer."
+ }
+]

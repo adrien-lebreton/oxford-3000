@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "star",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have the main role in a film, play, or show",
+    "ex": "The famous actress will star in a new movie next year."
+   }
+  ]
+ },
+ {
+  "id": "start",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the beginning or first part of something",
+    "ex": "We were nervous at the start of the race."
+   }
+  ]
+ },
+ {
+  "id": "state",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say or write something clearly and officially",
+    "ex": "Please state your name and address for the form."
+   }
+  ]
+ },
+ {
+  "id": "stay",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period of time spent in a place",
+    "ex": "Our stay at the hotel lasted for five nights."
+   }
+  ]
+ },
+ {
+  "id": "step",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move by lifting your foot and putting it down",
+    "ex": "Please step outside for a moment while we talk."
+   }
+  ]
+ },
+ {
+  "id": "still",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "not moving at all; calm and quiet",
+    "ex": "The lake was completely still in the early morning."
+   }
+  ]
+ },
+ {
+  "id": "stop",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a place where a bus or train stops for passengers",
+    "ex": "Get off at the next stop near the library."
+   }
+  ]
+ },
+ {
+  "id": "store",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to keep something safe for use in the future",
+    "ex": "We store our winter clothes in the attic."
+   }
+  ]
+ },
+ {
+  "id": "stress",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to emphasize that something is very important",
+    "ex": "The teacher stressed the importance of arriving on time."
+   }
+  ]
+ },
+ {
+  "id": "stretch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of extending your body, or a continuous area or period",
+    "ex": "After a long stretch of rain, the sun finally appeared."
+   }
+  ]
+ },
+ {
+  "id": "strike",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period when workers stop working to protest something",
+    "ex": "Bus drivers organized a strike to demand higher wages."
+   }
+  ]
+ },
+ {
+  "id": "structure",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to arrange or organize the parts of something",
+    "ex": "You should structure your essay into clear paragraphs."
+   }
+  ]
+ },
+ {
+  "id": "struggle",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a long, difficult effort to achieve or resist something",
+    "ex": "Learning a new language can be a real struggle."
+   }
+  ]
+ },
+ {
+  "id": "study",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a piece of research that examines a subject closely",
+    "ex": "A new study shows that sleep improves memory."
+   }
+  ]
+ },
+ {
+  "id": "stuff",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to push or fill something tightly into a space",
+    "ex": "He stuffed his clothes into the small suitcase quickly."
+   }
+  ]
+ },
+ {
+  "id": "subject",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "likely to be affected by something, or dependent on it",
+    "ex": "Flight times are subject to change because of weather."
+   }
+  ]
+ },
+ {
+  "id": "suit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be convenient or right for someone",
+    "ex": "Let's meet at a time that suits everyone in the team."
+   }
+  ]
+ },
+ {
+  "id": "sum",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to add numbers together to find a total",
+    "ex": "Please sum these numbers and tell me the total."
+   }
+  ]
+ },
+ {
+  "id": "supply",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an amount of something that is available to use",
+    "ex": "The city has a large supply of clean water."
+   }
+  ]
+ },
+ {
+  "id": "support",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "help, encouragement, or approval given to someone",
+    "ex": "She thanked her friends for their support during a hard year."
+   }
+  ]
+ },
+ {
+  "id": "sure",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "used to say that something happened as expected",
+    "ex": "Sure enough, the bus arrived exactly on time."
+   }
+  ]
+ },
+ {
+  "id": "surprise",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to cause someone to feel shock or amazement",
+    "ex": "Her sudden visit really surprised her old college friends."
+   }
+  ]
+ },
+ {
+  "id": "survey",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask people questions to learn their opinions",
+    "ex": "Researchers surveyed hundreds of workers about their daily habits."
+   }
+  ]
+ },
+ {
+  "id": "suspect",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person believed to be guilty of a crime",
+    "ex": "Police brought the suspect to the station for questioning."
+   }
+  ]
+ },
+ {
+  "id": "swim",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act or period of swimming",
+    "ex": "After the long hike, we enjoyed a refreshing swim in the river."
+   }
+  ]
+ },
+ {
+  "id": "switch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small device used to turn something on or off",
+    "ex": "He flipped the switch and the lights came on."
+   }
+  ]
+ },
+ {
+  "id": "tablet",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small flat computer with a touchscreen",
+    "ex": "She reads books on her tablet every night before bed."
+   }
+  ]
+ },
+ {
+  "id": "talk",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a conversation, or a speech given to an audience",
+    "ex": "The professor gave an interesting talk about ancient history."
+   }
+  ]
+ },
+ {
+  "id": "target",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to aim something at a particular person or group",
+    "ex": "The ad campaign targets young people who love sports."
+   }
+  ]
+ },
+ {
+  "id": "taste",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try food or drink to notice its flavor",
+    "ex": "Please taste the soup and tell me if it needs salt."
+   }
+  ]
+ },
+ {
+  "id": "tax",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to charge people or businesses money for the government",
+    "ex": "The government decided to tax sugary drinks more heavily."
+   }
+  ]
+ },
+ {
+  "id": "tear-1",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a hole made by tearing something",
+    "ex": "There was a small tear in his old jacket."
+   }
+  ]
+ },
+ {
+  "id": "telephone",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to call someone by phone",
+    "ex": "He telephoned his mother to say he arrived safely."
+   }
+  ]
+ },
+ {
+  "id": "term",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to describe or name something in a particular way",
+    "ex": "Critics termed the new film a complete artistic disaster."
+   }
+  ]
+ },
+ {
+  "id": "test",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try something to see if it works well",
+    "ex": "Scientists tested the new medicine on volunteers before selling it."
+   }
+  ]
+ },
+ {
+  "id": "text",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "written words in a document, book, or message",
+    "ex": "The professor asked us to read the text before class."
+   }
+  ]
+ },
+ {
+  "id": "that",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "to such a degree; so",
+    "ex": "The movie wasn't that interesting, so we left early."
+   }
+  ]
+ },
+ {
+  "id": "third",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "one of three equal parts of something",
+    "ex": "A third of the students passed the difficult exam."
+   }
+  ]
+ },
+ {
+  "id": "this",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "to this degree; so",
+    "ex": "I didn't expect the traffic to be this bad."
+   }
+  ]
+ },
+ {
+  "id": "tie",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a long piece of cloth worn around the neck with a shirt",
+    "ex": "He wore a blue tie with his white shirt."
+   }
+  ]
+ },
+ {
+  "id": "time",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to measure how long something takes using a clock",
+    "ex": "The coach timed each runner during the practice race."
+   }
+  ]
+ },
+ {
+  "id": "tip",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small piece of helpful advice",
+    "ex": "She gave me a useful tip for learning new words."
+   },
+   {
+    "pos": "v.",
+    "def": "to tilt something so it leans or pours out",
+    "ex": "He tipped the bottle to pour water into the glass."
+   }
+  ]
+ },
+ {
+  "id": "title",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give a name or title to something",
+    "ex": "She titled her new novel after her hometown."
+   }
+  ]
+ },
+ {
+  "id": "to",
+  "alt": [
+   {
+    "pos": "infinitive marker",
+    "def": "used before a verb to form its basic infinitive form",
+    "ex": "She decided to learn a new language this year."
+   }
+  ]
+ },
+ {
+  "id": "top",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "the best, most important, or highest in rank",
+    "ex": "She is one of the top students in her class."
+   }
+  ]
+ },
+ {
+  "id": "touch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a light touch or contact made with the hand",
+    "ex": "She felt the gentle touch of her mother's hand."
+   }
+  ]
+ },
+ {
+  "id": "tour",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to travel around a place or country visiting things",
+    "ex": "The band will tour Europe again next spring."
+   }
+  ]
+ },
+ {
+  "id": "track",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to follow and monitor the movement of something",
+    "ex": "The app lets you track your package during delivery."
+   }
+  ]
+ },
+ {
+  "id": "trade",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to exchange one thing for another",
+    "ex": "The kids traded their sandwiches for some cookies at lunch."
+   }
+  ]
+ },
+ {
+  "id": "train",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to teach or practice a skill, often for sport or a job",
+    "ex": "She trains every morning before school for the swim team."
+   }
+  ]
+ },
+ {
+  "id": "transfer",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of moving something or someone to another place",
+    "ex": "The bank charged a small fee for the money transfer."
+   }
+  ]
+ },
+ {
+  "id": "travel",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the activity of going to different places, especially far away",
+    "ex": "Air travel has become much cheaper over the last decade."
+   }
+  ]
+ },
+ {
+  "id": "trial",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a short test of something to see if it works well",
+    "ex": "You can use the app for free during the trial period."
+   }
+  ]
+ },
+ {
+  "id": "trick",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to deceive someone in a clever or dishonest way",
+    "ex": "The scammer tricked her into giving away her password."
+   }
+  ]
+ },
+ {
+  "id": "trip",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to catch your foot on something and fall or stumble",
+    "ex": "He tripped over a rock and nearly fell down the hill."
+   }
+  ]
+ },
+ {
+  "id": "trouble",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to cause someone worry, pain, or inconvenience",
+    "ex": "I'm sorry to trouble you, but I need some help."
+   }
+  ]
+ },
+ {
+  "id": "trust",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a strong belief that someone is honest and reliable",
+    "ex": "It takes years to build trust between business partners."
+   }
+  ]
+ },
+ {
+  "id": "try",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an attempt to do something",
+    "ex": "He finally passed the driving test on his third try."
+   }
+  ]
+ },
+ {
+  "id": "turn",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a chance or moment for one person to do something",
+    "ex": "Wait patiently until it's your turn to speak."
+   }
+  ]
+ },
+ {
+  "id": "type",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to write words using a computer or phone keyboard",
+    "ex": "He typed his password quickly and logged into the website."
+   }
+  ]
+ },
+ {
+  "id": "underground",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "located below the surface of the ground",
+    "ex": "The mall has a large underground parking garage."
+   }
+  ]
+ },
+ {
+  "id": "union",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the joining together of two or more things or groups",
+    "ex": "The two small companies formed a union to compete better."
+   }
+  ]
+ },
+ {
+  "id": "update",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "new information added to something to make it current",
+    "ex": "The app sent an update about the delayed flight."
+   }
+  ]
+ },
+ {
+  "id": "upset",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel unhappy or worried",
+    "ex": "The bad news upset the whole family that evening."
+   }
+  ]
+ },
+ {
+  "id": "upstairs",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "located on a higher floor of a building",
+    "ex": "Our guest room is the upstairs bedroom on the left."
+   }
+  ]
+ },
+ {
+  "id": "use",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of using something, or its purpose",
+    "ex": "This tool has many different uses around the house."
+   }
+  ]
+ },
+ {
+  "id": "value",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to think that something or someone is important",
+    "ex": "I really value your honest opinion on this matter."
+   }
+  ]
+ },
+ {
+  "id": "very",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "used to emphasize that something is exact or precise",
+    "ex": "He arrived at the very moment the meeting started."
+   }
+  ]
+ },
+ {
+  "id": "view",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to think about something in a particular way",
+    "ex": "Many people view exercise as an important part of health."
+   }
+  ]
+ },
+ {
+  "id": "vision",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an idea or image of what the future could be",
+    "ex": "The company's vision is to make travel easier for everyone."
+   }
+  ]
+ },
+ {
+  "id": "visit",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a trip to see a person or place",
+    "ex": "Her visit to the museum lasted almost three hours."
+   }
+  ]
+ },
+ {
+  "id": "volunteer",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to offer to do something without being paid or forced",
+    "ex": "He volunteered to clean up the park on Saturday."
+   }
+  ]
+ },
+ {
+  "id": "vote",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a formal choice made by a person in an election",
+    "ex": "Every vote counted in the close local election."
+   }
+  ]
+ },
+ {
+  "id": "wait",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period of time spent waiting",
+    "ex": "After a long wait, the doctor finally called her name."
+   }
+  ]
+ },
+ {
+  "id": "walk",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a trip made on foot, often for pleasure or exercise",
+    "ex": "We took a relaxing walk along the beach at sunset."
+   }
+  ]
+ },
+ {
+  "id": "warm",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something warmer, especially food",
+    "ex": "She warmed the soup on the stove before dinner."
+   }
+  ]
+ },
+ {
+  "id": "wash",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of cleaning something with water",
+    "ex": "The car needs a good wash after the muddy trip."
+   }
+  ]
+ },
+ {
+  "id": "waste",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to use something carelessly or without a good reason",
+    "ex": "Don't waste water while you brush your teeth."
+   }
+  ]
+ },
+ {
+  "id": "watch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small device worn on the wrist to show the time",
+    "ex": "He checked his watch to see if he was late."
+   }
+  ]
+ },
+ {
+  "id": "water",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to pour water on plants to help them grow",
+    "ex": "She waters her garden every morning before work."
+   }
+  ]
+ },
+ {
+  "id": "wave",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move your hand from side to side as a greeting",
+    "ex": "She waved to her friend across the busy street."
+   }
+  ]
+ },
+ {
+  "id": "way",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a route or path to a place",
+    "ex": "We lost our way and had to check the map again."
+   }
+  ]
+ },
+ {
+  "id": "web",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a system of connected pages of information on the internet",
+    "ex": "She searched the web to find a good recipe."
+   }
+  ]
+ },
+ {
+  "id": "welcome",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to greet someone in a friendly way when they arrive",
+    "ex": "They welcomed the new students with a small party."
+   },
+   {
+    "pos": "n.",
+    "def": "a friendly greeting given to someone arriving",
+    "ex": "The staff gave us a warm welcome at the hotel."
+   }
+  ]
+ },
+ {
+  "id": "well",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "in good health; not sick",
+    "ex": "She didn't look well, so she stayed home from school."
+   },
+   {
+    "pos": "exclam.",
+    "def": "used to pause or begin speaking, often showing thought",
+    "ex": "Well, I suppose we should leave before it gets dark."
+   }
+  ]
+ },
+ {
+  "id": "what",
+  "alt": [
+   {
+    "pos": "pron.",
+    "def": "used by itself to ask about a thing or idea",
+    "ex": "He wasn't sure what he wanted for his birthday this year."
+   }
+  ]
+ },
+ {
+  "id": "while",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period of time",
+    "ex": "We waited for a while before the doctor called us in."
+   }
+  ]
+ },
+ {
+  "id": "whisper",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a very quiet way of speaking",
+    "ex": "He answered in a whisper so no one else could hear."
+   }
+  ]
+ },
+ {
+  "id": "whole",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "all of something; the complete amount",
+    "ex": "The whole of the city lost power during the storm."
+   }
+  ]
+ },
+ {
+  "id": "will",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a legal document that says who gets your property after death",
+    "ex": "In his will, he left the house to his daughter."
+   }
+  ]
+ },
+ {
+  "id": "win",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a victory or success in a game or competition",
+    "ex": "That goal secured an important win for the team."
+   }
+  ]
+ },
+ {
+  "id": "wish",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a hope or desire for something to happen",
+    "ex": "She closed her eyes and made a wish before blowing out the candles."
+   }
+  ]
+ },
+ {
+  "id": "witness",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to see something happen in person",
+    "ex": "Many people witnessed the accident on the busy highway."
+   }
+  ]
+ },
+ {
+  "id": "wonder",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of amazement caused by something beautiful or strange",
+    "ex": "The children stared at the fireworks in complete wonder."
+   }
+  ]
+ },
+ {
+  "id": "work",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a job, or the effort needed to do something",
+    "ex": "She has a lot of work to finish before Friday."
+   }
+  ]
+ },
+ {
+  "id": "worldwide",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "happening or existing in every part of the world",
+    "ex": "Climate change is a serious worldwide problem today."
+   }
+  ]
+ },
+ {
+  "id": "worry",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of anxiety, or something that causes it",
+    "ex": "Losing his job became his biggest worry that whole year."
+   }
+  ]
+ },
+ {
+  "id": "worse",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a more bad or less skillful way",
+    "ex": "He played worse in the second half of the match."
+   },
+   {
+    "pos": "n.",
+    "def": "something that is more bad or difficult",
+    "ex": "The weather went from bad to worse during the trip."
+   }
+  ]
+ },
+ {
+  "id": "worst",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in the most bad or least skillful way",
+    "ex": "Of all the singers, she performed worst that evening."
+   },
+   {
+    "pos": "n.",
+    "def": "the most bad situation or part of something",
+    "ex": "We prepared for the worst before the big storm arrived."
+   }
+  ]
+ },
+ {
+  "id": "worth",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the value or amount that something is equal to",
+    "ex": "He bought ten dollars' worth of gasoline for the trip."
+   }
+  ]
+ },
+ {
+  "id": "would",
+  "alt": [
+   {
+    "pos": "modal v.",
+    "def": "used to politely say what someone wants",
+    "ex": "I would like a cup of coffee, please."
+   }
+  ]
+ },
+ {
+  "id": "wound",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to injure a person's body, or to hurt their feelings",
+    "ex": "The soldier was wounded during the battle last year."
+   }
+  ]
+ },
+ {
+  "id": "wrong",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in an incorrect way; not correctly",
+    "ex": "He spelled her name wrong on the invitation card."
+   },
+   {
+    "pos": "n.",
+    "def": "something that is not fair, moral, or right",
+    "ex": "The judge decided he had done nothing wrong."
+   }
+  ]
+ },
+ {
+  "id": "yard",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a unit for measuring length, about ninety centimeters",
+    "ex": "The tailor cut two yards of blue fabric for the dress."
+   }
+  ]
+ },
+ {
+  "id": "yet",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "but; despite what was just said",
+    "ex": "The plan was simple, yet nobody could make it work."
+   }
+  ]
+ },
+ {
+  "id": "young",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "young people considered as a group",
+    "ex": "The charity provides free meals for the young and elderly."
+   }
+  ]
+ }
+]

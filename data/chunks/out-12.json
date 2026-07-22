@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "traffic",
+    "ipa": "/ˈtræfɪk/",
+    "fr": "circulation",
+    "def": "vehicles moving along roads",
+    "ex": "The traffic was very heavy this morning on the highway."
+  },
+  {
+    "id": "train",
+    "ipa": "/treɪn/",
+    "fr": "train (n.) ; entraîner, former (v.)",
+    "def": "a line of connected cars that runs on rails",
+    "ex": "We took the train to visit our grandparents last weekend."
+  },
+  {
+    "id": "trainer",
+    "ipa": "/ˈtreɪnɚ/",
+    "fr": "entraîneur, entraîneuse",
+    "def": "a person who teaches sports skills or trains people",
+    "ex": "Her personal trainer helped her get fit for the race."
+  },
+  {
+    "id": "training",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "fr": "formation, entraînement",
+    "def": "the process of learning the skills for a job or sport",
+    "ex": "New employees receive training during their first week here."
+  },
+  {
+    "id": "transfer",
+    "ipa": "/trænsˈfɝː/ (v.), /ˈtrænsfɝː/ (n.)",
+    "fr": "transférer (v.) ; transfert (n.)",
+    "def": "to move something or someone to a different place",
+    "ex": "She decided to transfer to a university closer to home."
+  },
+  {
+    "id": "transform",
+    "ipa": "/trænsˈfɔːrm/",
+    "fr": "transformer",
+    "def": "to change completely the form or appearance of something",
+    "ex": "The new paint transformed the old room into something beautiful."
+  },
+  {
+    "id": "transition",
+    "ipa": "/trænˈzɪʃn/",
+    "fr": "transition",
+    "def": "a change from one state or situation to another",
+    "ex": "The transition from school to work can feel difficult."
+  },
+  {
+    "id": "translate",
+    "ipa": "/trænsˈleɪt/",
+    "fr": "traduire",
+    "def": "to change words from one language into another language",
+    "ex": "She helped translate the letter from French into English."
+  },
+  {
+    "id": "translation",
+    "ipa": "/trænsˈleɪʃn/",
+    "fr": "traduction",
+    "def": "a text or words changed from one language to another",
+    "ex": "I read an English translation of the famous French novel."
+  },
+  {
+    "id": "transport",
+    "ipa": "/trænsˈpɔːrt/",
+    "fr": "transporter",
+    "def": "to take people or goods from one place to another",
+    "ex": "Trucks transport fresh food to grocery stores every day."
+  },
+  {
+    "id": "transportation",
+    "ipa": "/ˌtrænspɚˈteɪʃn/",
+    "fr": "transport(s)",
+    "def": "a system for moving people or goods from place to place",
+    "ex": "Public transportation in this city is cheap and reliable."
+  },
+  {
+    "id": "trash",
+    "ipa": "/træʃ/",
+    "fr": "ordures, déchets, poubelle",
+    "def": "waste material that you throw away",
+    "ex": "Please take the trash outside before you go to bed."
+  },
+  {
+    "id": "travel",
+    "ipa": "/ˈtrævl/",
+    "fr": "voyager (v.) ; voyage(s) (n.)",
+    "def": "to go from one place to another, often far away",
+    "ex": "They travel to different countries every summer for vacation."
+  },
+  {
+    "id": "traveler",
+    "ipa": "/ˈtrævlɚ/",
+    "fr": "voyageur, voyageuse",
+    "def": "a person who is traveling or who often travels",
+    "ex": "The traveler packed her bag and headed to the airport."
+  },
+  {
+    "id": "treat",
+    "ipa": "/triːt/",
+    "fr": "traiter",
+    "def": "to behave toward a person or thing in a particular way",
+    "ex": "Please treat other people the way you want to be treated."
+  },
+  {
+    "id": "treatment",
+    "ipa": "/ˈtriːtmənt/",
+    "fr": "traitement",
+    "def": "medical care given to a patient for an illness",
+    "ex": "The hospital gave him treatment for his broken leg."
+  },
+  {
+    "id": "tree",
+    "ipa": "/triː/",
+    "fr": "arbre",
+    "def": "a tall plant with a trunk, branches, and leaves",
+    "ex": "We planted a small tree in our garden last spring."
+  },
+  {
+    "id": "trend",
+    "ipa": "/trɛnd/",
+    "fr": "tendance",
+    "def": "a general direction in which something is changing",
+    "ex": "There is a growing trend toward healthier eating habits."
+  },
+  {
+    "id": "trial",
+    "ipa": "/ˈtraɪəl/",
+    "fr": "procès ; essai",
+    "def": "a formal examination of evidence in a court of law",
+    "ex": "The trial lasted three weeks before the jury decided."
+  },
+  {
+    "id": "trick",
+    "ipa": "/trɪk/",
+    "fr": "tour, astuce (n.) ; tromper (v.)",
+    "def": "a clever action meant to deceive or amuse someone",
+    "ex": "The magician performed an amazing trick with playing cards."
+  },
+  {
+    "id": "trip",
+    "ipa": "/trɪp/",
+    "fr": "voyage, excursion (n.) ; trébucher (v.)",
+    "def": "a journey to a place and back again",
+    "ex": "We took a short trip to the mountains last weekend."
+  },
+  {
+    "id": "tropical",
+    "ipa": "/ˈtrɑːpɪkl/",
+    "fr": "tropical",
+    "def": "relating to the hot regions near the equator",
+    "ex": "They spent their honeymoon on a tropical island beach."
+  },
+  {
+    "id": "trouble",
+    "ipa": "/ˈtrʌbl/",
+    "fr": "problème(s), ennui(s) (n.) ; déranger (v.)",
+    "def": "a problem, difficulty, or worry",
+    "ex": "She had trouble finding her keys this morning."
+  },
+  {
+    "id": "truck",
+    "ipa": "/trʌk/",
+    "fr": "camion",
+    "def": "a large vehicle used to carry goods by road",
+    "ex": "A big truck delivered furniture to our new house."
+  },
+  {
+    "id": "true",
+    "ipa": "/truː/",
+    "fr": "vrai, exact",
+    "def": "correct or matching the facts; not false",
+    "ex": "It is true that she won first prize last year."
+  },
+  {
+    "id": "truly",
+    "ipa": "/ˈtruːli/",
+    "fr": "vraiment, sincèrement",
+    "def": "in a way that is true, sincere, or complete",
+    "ex": "I am truly grateful for all your help this year."
+  },
+  {
+    "id": "trust",
+    "ipa": "/trʌst/",
+    "fr": "confiance (n.) ; faire confiance à (v.)",
+    "def": "the belief that someone is honest and reliable",
+    "ex": "Children need to trust their parents to feel safe."
+  },
+  {
+    "id": "truth",
+    "ipa": "/truːθ/",
+    "fr": "vérité",
+    "def": "the true facts about something, not lies",
+    "ex": "He finally told her the truth about the accident."
+  },
+  {
+    "id": "try",
+    "ipa": "/traɪ/",
+    "fr": "essayer (v.) ; essai, tentative (n.)",
+    "def": "to make an effort to do something",
+    "ex": "She will try to finish her homework before dinner."
+  },
+  {
+    "id": "t-shirt",
+    "ipa": "/ˈtiː ʃɝːt/",
+    "fr": "t-shirt, tee-shirt",
+    "def": "a simple shirt with short sleeves and no collar",
+    "ex": "He wore a blue t-shirt and jeans to the party."
+  },
+  {
+    "id": "tube",
+    "ipa": "/tuːb/",
+    "fr": "tube",
+    "def": "a long hollow pipe made of metal, glass, or rubber",
+    "ex": "She squeezed the last bit of toothpaste from the tube."
+  },
+  {
+    "id": "tuesday",
+    "ipa": "/ˈtuːzdeɪ/",
+    "fr": "mardi",
+    "def": "the day of the week after Monday",
+    "ex": "We have a team meeting every Tuesday morning at nine."
+  },
+  {
+    "id": "tune",
+    "ipa": "/tuːn/",
+    "fr": "air, mélodie",
+    "def": "a series of musical notes that form a pleasant pattern",
+    "ex": "She hummed a happy tune while cooking dinner tonight."
+  },
+  {
+    "id": "tunnel",
+    "ipa": "/ˈtʌnl/",
+    "fr": "tunnel",
+    "def": "a long passage built under the ground or sea",
+    "ex": "The train passed through a long tunnel under the mountain."
+  },
+  {
+    "id": "turn",
+    "ipa": "/tɝːn/",
+    "fr": "tourner (v.) ; tour (n.)",
+    "def": "to move so as to face a different direction",
+    "ex": "Turn left at the corner and the shop is there."
+  },
+  {
+    "id": "tv",
+    "ipa": "/ˌtiː ˈviː/",
+    "fr": "télé, télévision",
+    "def": "a machine that shows moving pictures and sound",
+    "ex": "The children watched their favorite show on TV."
+  },
+  {
+    "id": "twelve",
+    "ipa": "/twɛlv/",
+    "fr": "douze",
+    "def": "the number 12",
+    "ex": "There are twelve months in one full calendar year."
+  },
+  {
+    "id": "twenty",
+    "ipa": "/ˈtwɛnti/",
+    "fr": "vingt",
+    "def": "the number 20",
+    "ex": "About twenty students joined the class trip yesterday."
+  },
+  {
+    "id": "twice",
+    "ipa": "/twaɪs/",
+    "fr": "deux fois",
+    "def": "two times",
+    "ex": "I have visited Paris twice in the last five years."
+  },
+  {
+    "id": "twin",
+    "ipa": "/twɪn/",
+    "fr": "jumeau, jumelle",
+    "def": "one of two children born to the same mother together",
+    "ex": "My twin sister and I look almost exactly alike."
+  },
+  {
+    "id": "two",
+    "ipa": "/tuː/",
+    "fr": "deux",
+    "def": "the number 2",
+    "ex": "She has two brothers and one younger sister."
+  },
+  {
+    "id": "type",
+    "ipa": "/taɪp/",
+    "fr": "type, genre, sorte (n.) ; taper, saisir (v.)",
+    "def": "a group of things or people with similar features",
+    "ex": "She wondered what type of music he liked best."
+  },
+  {
+    "id": "typical",
+    "ipa": "/ˈtɪpɪkl/",
+    "fr": "typique",
+    "def": "having the usual features of a particular kind of thing",
+    "ex": "A typical day at work starts with checking emails."
+  },
+  {
+    "id": "typically",
+    "ipa": "/ˈtɪpɪkli/",
+    "fr": "typiquement, généralement",
+    "def": "in a way that is usual or expected",
+    "ex": "Meetings typically start at nine and end by ten."
+  },
+  {
+    "id": "ugly",
+    "ipa": "/ˈʌgli/",
+    "fr": "laid, moche",
+    "def": "unpleasant to look at; not attractive",
+    "ex": "The old broken chair looked ugly in the corner."
+  },
+  {
+    "id": "ultimately",
+    "ipa": "/ˈʌltɪmətli/",
+    "fr": "finalement, en fin de compte",
+    "def": "in the end; after everything has been considered",
+    "ex": "Ultimately, she chose to study medicine instead of law."
+  },
+  {
+    "id": "umbrella",
+    "ipa": "/ʌmˈbrɛlə/",
+    "fr": "parapluie",
+    "def": "an object you hold to protect yourself from rain",
+    "ex": "Take an umbrella with you; it might rain today."
+  },
+  {
+    "id": "unable",
+    "ipa": "/ʌnˈeɪbl/",
+    "fr": "incapable (de)",
+    "def": "not able to do something",
+    "ex": "He was unable to attend the meeting because of illness."
+  },
+  {
+    "id": "uncle",
+    "ipa": "/ˈʌŋkl/",
+    "fr": "oncle",
+    "def": "the brother of your mother or father",
+    "ex": "My uncle taught me how to ride a bicycle."
+  },
+  {
+    "id": "uncomfortable",
+    "ipa": "/ʌnˈkʌmfɚtəbl/",
+    "fr": "inconfortable, mal à l'aise",
+    "def": "not comfortable; causing slight pain or discomfort",
+    "ex": "These new shoes feel uncomfortable when I walk far."
+  },
+  {
+    "id": "unconscious",
+    "ipa": "/ʌnˈkɑːnʃəs/",
+    "fr": "inconscient, évanoui",
+    "def": "not awake and not aware of what is happening",
+    "ex": "The driver was unconscious after the serious car accident."
+  },
+  {
+    "id": "under",
+    "ipa": "/ˈʌndɚ/",
+    "fr": "sous, en dessous de",
+    "def": "in or to a position below something",
+    "ex": "The cat is sleeping under the kitchen table again."
+  },
+  {
+    "id": "underground",
+    "ipa": "/ˈʌndɚgraʊnd/",
+    "fr": "souterrain (adj.) ; sous terre (adv.)",
+    "def": "under the surface of the ground",
+    "ex": "Workers built a station deep underground for the subway."
+  },
+  {
+    "id": "understand",
+    "ipa": "/ˌʌndɚˈstænd/",
+    "fr": "comprendre",
+    "def": "to know the meaning of something",
+    "ex": "I don't understand this question; can you explain it."
+  },
+  {
+    "id": "understanding",
+    "ipa": "/ˌʌndɚˈstændɪŋ/",
+    "fr": "compréhension",
+    "def": "the ability to know the meaning of something",
+    "ex": "Her understanding of math improved after extra lessons."
+  },
+  {
+    "id": "underwear",
+    "ipa": "/ˈʌndɚwɛr/",
+    "fr": "sous-vêtements",
+    "def": "clothes worn under other clothes, next to the skin",
+    "ex": "He packed clean underwear and socks for the trip."
+  },
+  {
+    "id": "unemployed",
+    "ipa": "/ˌʌnɪmˈplɔɪd/",
+    "fr": "au chômage, sans emploi",
+    "def": "without a paid job, although able to work",
+    "ex": "Many workers became unemployed after the factory closed down."
+  },
+  {
+    "id": "unemployment",
+    "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+    "fr": "chômage",
+    "def": "the state of not having a paid job",
+    "ex": "Unemployment rose sharply during the economic crisis last year."
+  },
+  {
+    "id": "unexpected",
+    "ipa": "/ˌʌnɪkˈspɛktɪd/",
+    "fr": "inattendu",
+    "def": "surprising because it was not expected to happen",
+    "ex": "We got an unexpected visit from old friends yesterday."
+  },
+  {
+    "id": "unfair",
+    "ipa": "/ʌnˈfɛr/",
+    "fr": "injuste",
+    "def": "not fair or reasonable; treating people unequally",
+    "ex": "It felt unfair that she was blamed for everything."
+  },
+  {
+    "id": "unfortunately",
+    "ipa": "/ʌnˈfɔːrtʃənətli/",
+    "fr": "malheureusement",
+    "def": "used to say that something bad or disappointing happened",
+    "ex": "Unfortunately, the concert was canceled because of heavy rain."
+  },
+  {
+    "id": "unhappy",
+    "ipa": "/ʌnˈhæpi/",
+    "fr": "malheureux, triste",
+    "def": "not happy; feeling sad",
+    "ex": "She looked unhappy after hearing the disappointing test results."
+  },
+  {
+    "id": "uniform",
+    "ipa": "/ˈjuːnɪfɔːrm/",
+    "fr": "uniforme",
+    "def": "special clothes worn by members of a group at work",
+    "ex": "Students at this school must wear a blue uniform."
+  },
+  {
+    "id": "union",
+    "ipa": "/ˈjuːnjən/",
+    "fr": "syndicat ; union",
+    "def": "an organization of workers formed to protect their rights",
+    "ex": "The union asked for better pay and safer conditions."
+  },
+  {
+    "id": "unique",
+    "ipa": "/juˈniːk/",
+    "fr": "unique",
+    "def": "being the only one of its kind; very special",
+    "ex": "Every snowflake has a unique shape when you look closely."
+  },
+  {
+    "id": "unit",
+    "ipa": "/ˈjuːnɪt/",
+    "fr": "unité",
+    "def": "a single, complete thing that is part of something bigger",
+    "ex": "The meter is a unit used to measure length."
+  },
+  {
+    "id": "united",
+    "ipa": "/juˈnaɪtɪd/",
+    "fr": "uni, unifié",
+    "def": "joined together by a shared aim or feeling",
+    "ex": "The team stayed united even after losing the game."
+  },
+  {
+    "id": "universe",
+    "ipa": "/ˈjuːnɪvɝːs/",
+    "fr": "univers",
+    "def": "all of space, including every star and planet",
+    "ex": "Scientists still have much to learn about the universe."
+  },
+  {
+    "id": "university",
+    "ipa": "/ˌjuːnɪˈvɝːsəti/",
+    "fr": "université",
+    "def": "a school for higher education after high school",
+    "ex": "She plans to study biology at university next fall."
+  },
+  {
+    "id": "unknown",
+    "ipa": "/ʌnˈnoʊn/",
+    "fr": "inconnu",
+    "def": "not known or not familiar to people",
+    "ex": "The cause of the strange illness remained unknown for weeks."
+  },
+  {
+    "id": "unless",
+    "ipa": "/ənˈlɛs/",
+    "fr": "à moins que, sauf si",
+    "def": "except if; used to say what will happen otherwise",
+    "ex": "We will go to the beach unless it rains tomorrow."
+  },
+  {
+    "id": "unlike",
+    "ipa": "/ʌnˈlaɪk/",
+    "fr": "contrairement à, à la différence de",
+    "def": "different from someone or something; not like",
+    "ex": "Unlike her sister, she enjoys waking up early every day."
+  },
+  {
+    "id": "unlikely",
+    "ipa": "/ʌnˈlaɪkli/",
+    "fr": "improbable, peu probable",
+    "def": "not likely to happen; probably not true",
+    "ex": "It seems unlikely that it will snow this weekend."
+  },
+  {
+    "id": "unnecessary",
+    "ipa": "/ʌnˈnɛsəseri/",
+    "fr": "inutile, superflu",
+    "def": "not needed; more than is necessary",
+    "ex": "Try to avoid unnecessary spending during the holiday season."
+  },
+  {
+    "id": "unpleasant",
+    "ipa": "/ʌnˈplɛznt/",
+    "fr": "désagréable",
+    "def": "not pleasant or enjoyable; causing discomfort",
+    "ex": "The smell from the trash was quite unpleasant today."
+  },
+  {
+    "id": "until",
+    "ipa": "/ənˈtɪl/",
+    "fr": "jusqu'à, jusqu'à ce que",
+    "def": "up to the point in time when something happens",
+    "ex": "We waited until midnight for the fireworks to start."
+  },
+  {
+    "id": "unusual",
+    "ipa": "/ʌnˈjuːʒuəl/",
+    "fr": "inhabituel, rare",
+    "def": "not usual or normal; different from what is expected",
+    "ex": "It's unusual for her to arrive late to work."
+  },
+  {
+    "id": "up",
+    "ipa": "/ʌp/",
+    "fr": "en haut, vers le haut",
+    "def": "toward a higher place or position",
+    "ex": "She climbed up the ladder to fix the roof."
+  },
+  {
+    "id": "update",
+    "ipa": "/ʌpˈdeɪt/ (v.), /ˈʌpdeɪt/ (n.)",
+    "fr": "mettre à jour (v.) ; mise à jour (n.)",
+    "def": "to make something more modern or add new information",
+    "ex": "Please update your address in our online system today."
+  },
+  {
+    "id": "upon",
+    "ipa": "/əˈpɑːn/",
+    "fr": "sur (formel)",
+    "def": "on; used in a more formal way than 'on'",
+    "ex": "The decision depends upon how much money we have."
+  },
+  {
+    "id": "upper",
+    "ipa": "/ˈʌpɚ/",
+    "fr": "supérieur, du haut",
+    "def": "higher in position; further up than something else",
+    "ex": "She lives on the upper floor of the building."
+  },
+  {
+    "id": "upset",
+    "ipa": "/ʌpˈsɛt/",
+    "fr": "contrarié, bouleversé (adj.) ; bouleverser (v.)",
+    "def": "unhappy or worried because something bad happened",
+    "ex": "She was upset when she lost her favorite necklace."
+  },
+  {
+    "id": "upstairs",
+    "ipa": "/ˌʌpˈstɛrz/",
+    "fr": "en haut, à l'étage",
+    "def": "on or to a higher floor of a building",
+    "ex": "The children ran upstairs to get ready for bed."
+  },
+  {
+    "id": "upward",
+    "ipa": "/ˈʌpwɚd/",
+    "fr": "vers le haut",
+    "def": "moving or pointing toward a higher place",
+    "ex": "Prices have been moving upward for several months now."
+  },
+  {
+    "id": "urban",
+    "ipa": "/ˈɝːbən/",
+    "fr": "urbain",
+    "def": "relating to a town or city, not the countryside",
+    "ex": "Many young people move to urban areas for work."
+  },
+  {
+    "id": "urge",
+    "ipa": "/ɝːdʒ/",
+    "fr": "presser, exhorter, inciter",
+    "def": "to strongly advise or encourage someone to do something",
+    "ex": "Doctors urge people to exercise regularly and eat well."
+  },
+  {
+    "id": "us",
+    "ipa": "/ʌs/",
+    "fr": "nous",
+    "def": "used to refer to the speaker and other people",
+    "ex": "Our teacher gave us extra homework this week."
+  },
+  {
+    "id": "use",
+    "ipa": "/juːz/ (v.), /juːs/ (n.)",
+    "fr": "utiliser, se servir de (v.) ; usage (n.)",
+    "def": "to do something with an object for a purpose",
+    "ex": "You can use my pen if you need one."
+  },
+  {
+    "id": "used-1",
+    "ipa": "/juːzd/",
+    "fr": "d'occasion, usagé",
+    "def": "already owned or worn by someone else; not new",
+    "ex": "We bought a used car because it was cheaper."
+  },
+  {
+    "id": "used-2",
+    "ipa": "/juːst/",
+    "fr": "habitué (à), accoutumé (à)",
+    "def": "familiar with something because you have experienced it often",
+    "ex": "I am used to the cold weather in this country."
+  },
+  {
+    "id": "used-to",
+    "ipa": "/ˈjuːstə/",
+    "fr": "avoir l'habitude de (autrefois)",
+    "def": "used to talk about something that happened regularly in the past",
+    "ex": "I used to play soccer every weekend when I was young."
+  },
+  {
+    "id": "useful",
+    "ipa": "/ˈjuːsfl/",
+    "fr": "utile",
+    "def": "helpful for doing or achieving something",
+    "ex": "This dictionary is very useful for learning new words."
+  },
+  {
+    "id": "user",
+    "ipa": "/ˈjuːzɚ/",
+    "fr": "utilisateur, utilisatrice",
+    "def": "a person who uses a product, machine, or service",
+    "ex": "The app now has more than a million active users."
+  },
+  {
+    "id": "usual",
+    "ipa": "/ˈjuːʒuəl/",
+    "fr": "habituel, usuel",
+    "def": "happening or done most of the time; normal",
+    "ex": "He arrived at his usual time of eight o'clock."
+  },
+  {
+    "id": "usually",
+    "ipa": "/ˈjuːʒuəli/",
+    "fr": "habituellement, d'habitude",
+    "def": "in the way that most often happens",
+    "ex": "I usually walk to work unless it's raining hard."
+  },
+  {
+    "id": "vacation",
+    "ipa": "/veɪˈkeɪʃn/",
+    "fr": "vacances",
+    "def": "a period of time spent away from work or school",
+    "ex": "Our family is going on vacation to the beach."
+  },
+  {
+    "id": "valley",
+    "ipa": "/ˈvæli/",
+    "fr": "vallée",
+    "def": "low land between hills or mountains",
+    "ex": "The small village sits in a green valley."
+  },
+  {
+    "id": "valuable",
+    "ipa": "/ˈvæljuəbl/",
+    "fr": "précieux, de valeur",
+    "def": "worth a lot of money or very useful",
+    "ex": "She keeps her valuable jewelry locked in a safe."
+  },
+  {
+    "id": "value",
+    "ipa": "/ˈvæljuː/",
+    "fr": "valeur (n.) ; apprécier, estimer (v.)",
+    "def": "how much something is worth in money or importance",
+    "ex": "The value of the house increased over the last decade."
+  },
+  {
+    "id": "van",
+    "ipa": "/væn/",
+    "fr": "camionnette, fourgonnette",
+    "def": "a vehicle used to carry goods or passengers",
+    "ex": "The delivery van stopped in front of our house."
+  },
+  {
+    "id": "variety",
+    "ipa": "/vəˈraɪəti/",
+    "fr": "variété, diversité",
+    "def": "a number of different types of things",
+    "ex": "The store sells a wide variety of fresh fruit."
+  },
+  {
+    "id": "various",
+    "ipa": "/ˈvɛriəs/",
+    "fr": "divers, différents",
+    "def": "several different, of more than one type",
+    "ex": "The museum displays various paintings from different centuries."
+  },
+  {
+    "id": "vary",
+    "ipa": "/ˈvɛri/",
+    "fr": "varier",
+    "def": "to be different or to change according to the situation",
+    "ex": "Prices vary depending on the size you choose."
+  },
+  {
+    "id": "vast",
+    "ipa": "/væst/",
+    "fr": "vaste, immense",
+    "def": "extremely large in area or amount",
+    "ex": "The desert stretched across a vast area of land."
+  },
+  {
+    "id": "vegetable",
+    "ipa": "/ˈvɛdʒtəbl/",
+    "fr": "légume",
+    "def": "a plant, or part of a plant, eaten as food",
+    "ex": "Carrots and potatoes are healthy vegetables that we eat often."
+  },
+  {
+    "id": "vehicle",
+    "ipa": "/ˈviːɪkl/",
+    "fr": "véhicule",
+    "def": "a machine used to transport people or goods, like a car",
+    "ex": "Every vehicle must stop at the red traffic light."
+  },
+  {
+    "id": "venue",
+    "ipa": "/ˈvɛnjuː/",
+    "fr": "lieu (d'un événement)",
+    "def": "the place where an event or meeting happens",
+    "ex": "They booked a large venue for the wedding reception."
+  },
+  {
+    "id": "version",
+    "ipa": "/ˈvɝːʒn/",
+    "fr": "version",
+    "def": "a particular form of something that differs from others",
+    "ex": "This is a newer version of the popular video game."
+  },
+  {
+    "id": "very",
+    "ipa": "/ˈvɛri/",
+    "fr": "très (adv.) ; même, exact (adj.)",
+    "def": "to a great degree; extremely",
+    "ex": "It was very cold outside this morning in December."
+  },
+  {
+    "id": "via",
+    "ipa": "/ˈvaɪə/",
+    "fr": "via, par (l'intermédiaire de)",
+    "def": "traveling through a place on the way to another",
+    "ex": "We flew to Tokyo via Los Angeles last summer."
+  },
+  {
+    "id": "victim",
+    "ipa": "/ˈvɪktɪm/",
+    "fr": "victime",
+    "def": "a person who is hurt or harmed by something",
+    "ex": "The charity offers support to victims of natural disasters."
+  },
+  {
+    "id": "victory",
+    "ipa": "/ˈvɪktəri/",
+    "fr": "victoire",
+    "def": "success in winning a war, game, or competition",
+    "ex": "The whole team celebrated their victory after the final match."
+  },
+  {
+    "id": "video",
+    "ipa": "/ˈvɪdioʊ/",
+    "fr": "vidéo",
+    "def": "a recording of moving pictures, often with sound",
+    "ex": "She posted a funny video of her dog online."
+  },
+  {
+    "id": "view",
+    "ipa": "/vjuː/",
+    "fr": "vue (n.) ; considérer, voir (v.)",
+    "def": "what you can see from a particular place",
+    "ex": "We enjoyed a beautiful view of the mountains from our room."
+  },
+  {
+    "id": "viewer",
+    "ipa": "/ˈvjuːɚ/",
+    "fr": "téléspectateur, spectateur",
+    "def": "a person who watches television or an event",
+    "ex": "Millions of viewers watched the final episode last night."
+  },
+  {
+    "id": "village",
+    "ipa": "/ˈvɪlɪdʒ/",
+    "fr": "village",
+    "def": "a small group of houses in the countryside",
+    "ex": "They grew up in a quiet village near the coast."
+  },
+  {
+    "id": "violence",
+    "ipa": "/ˈvaɪələns/",
+    "fr": "violence",
+    "def": "behavior that is intended to hurt or kill people",
+    "ex": "The film contains scenes of violence that upset viewers."
+  },
+  {
+    "id": "violent",
+    "ipa": "/ˈvaɪələnt/",
+    "fr": "violent",
+    "def": "using or involving physical force to hurt someone",
+    "ex": "The movie was too violent for young children to watch."
+  },
+  {
+    "id": "virtual",
+    "ipa": "/ˈvɝːtʃuəl/",
+    "fr": "virtuel",
+    "def": "made to appear real using computers, not physically real",
+    "ex": "Students attended a virtual meeting instead of a classroom."
+  },
+  {
+    "id": "virus",
+    "ipa": "/ˈvaɪrəs/",
+    "fr": "virus",
+    "def": "a tiny germ that causes disease and can spread easily",
+    "ex": "She stayed home because she caught a bad virus."
+  },
+  {
+    "id": "vision",
+    "ipa": "/ˈvɪʒn/",
+    "fr": "vision (vue) ; vision (idée)",
+    "def": "the ability to see, or an idea of the future",
+    "ex": "Her vision improved after she got new glasses."
+  },
+  {
+    "id": "visit",
+    "ipa": "/ˈvɪzɪt/",
+    "fr": "rendre visite à, visiter (v.) ; visite (n.)",
+    "def": "to go to see a person or place for a while",
+    "ex": "We will visit our grandparents this coming weekend."
+  },
+  {
+    "id": "visitor",
+    "ipa": "/ˈvɪzɪtɚ/",
+    "fr": "visiteur, visiteuse",
+    "def": "a person who visits a place or another person",
+    "ex": "The museum welcomes thousands of visitors every single month."
+  },
+  {
+    "id": "visual",
+    "ipa": "/ˈvɪʒuəl/",
+    "fr": "visuel",
+    "def": "connected with seeing or with sight",
+    "ex": "The teacher used visual aids to explain the lesson."
+  },
+  {
+    "id": "vital",
+    "ipa": "/ˈvaɪtl/",
+    "fr": "vital, essentiel",
+    "def": "extremely important or necessary for something to succeed",
+    "ex": "Clean water is vital for good health everywhere."
+  },
+  {
+    "id": "vitamin",
+    "ipa": "/ˈvaɪtəmɪn/",
+    "fr": "vitamine",
+    "def": "a substance in food that your body needs to stay healthy",
+    "ex": "Oranges contain a lot of vitamin C for your health."
+  },
+  {
+    "id": "voice",
+    "ipa": "/vɔɪs/",
+    "fr": "voix",
+    "def": "the sound produced when a person speaks or sings",
+    "ex": "I could hear her voice from the other room."
+  },
+  {
+    "id": "volume",
+    "ipa": "/ˈvɑːljuːm/",
+    "fr": "volume",
+    "def": "the amount of sound produced by something",
+    "ex": "Please turn down the volume on the television."
+  },
+  {
+    "id": "volunteer",
+    "ipa": "/ˌvɑːlənˈtɪr/",
+    "fr": "bénévole (n.) ; se porter volontaire (v.)",
+    "def": "a person who does work without being paid",
+    "ex": "Every weekend, she works as a volunteer at the shelter."
+  },
+  {
+    "id": "vote",
+    "ipa": "/voʊt/",
+    "fr": "vote, voix (n.) ; voter (v.)",
+    "def": "to choose someone or something in an election",
+    "ex": "Citizens vote to choose their leaders every few years."
+  },
+  {
+    "id": "wage",
+    "ipa": "/weɪdʒ/",
+    "fr": "salaire",
+    "def": "money paid regularly to someone for their work",
+    "ex": "The company raised the minimum wage for all workers."
+  },
+  {
+    "id": "wait",
+    "ipa": "/weɪt/",
+    "fr": "attendre (v.) ; attente (n.)",
+    "def": "to stay in a place until something happens",
+    "ex": "Please wait here until your name is called."
+  },
+  {
+    "id": "waiter",
+    "ipa": "/ˈweɪtɚ/",
+    "fr": "serveur",
+    "def": "a man who brings food and drinks to tables",
+    "ex": "The waiter brought us the menu and some water."
+  },
+  {
+    "id": "wake",
+    "ipa": "/weɪk/",
+    "fr": "se réveiller, réveiller",
+    "def": "to stop sleeping or to make someone stop sleeping",
+    "ex": "I usually wake up early on weekdays for work."
+  },
+  {
+    "id": "walk",
+    "ipa": "/wɔːk/",
+    "fr": "marcher (v.) ; promenade, marche (n.)",
+    "def": "to move on foot at a normal speed",
+    "ex": "We walk to school together every single morning."
+  },
+  {
+    "id": "wall",
+    "ipa": "/wɔːl/",
+    "fr": "mur",
+    "def": "a solid structure that separates or surrounds a space",
+    "ex": "They hung a large painting on the living room wall."
+  },
+  {
+    "id": "want",
+    "ipa": "/wɑːnt/",
+    "fr": "vouloir",
+    "def": "to have a desire or wish for something",
+    "ex": "Children often want candy before they eat dinner."
+  },
+  {
+    "id": "war",
+    "ipa": "/wɔːr/",
+    "fr": "guerre",
+    "def": "fighting between countries or groups using weapons",
+    "ex": "The country has been at war for several years."
+  },
+  {
+    "id": "warm",
+    "ipa": "/wɔːrm/",
+    "fr": "chaud, tiède (adj.) ; réchauffer (v.)",
+    "def": "having a comfortable and pleasant temperature; not cold",
+    "ex": "Wear a jacket; it's not very warm outside today."
+  },
+  {
+    "id": "warn",
+    "ipa": "/wɔːrn/",
+    "fr": "avertir, prévenir",
+    "def": "to tell someone about a possible danger or problem",
+    "ex": "The teacher warned students about the difficult exam questions."
+  },
+  {
+    "id": "warning",
+    "ipa": "/ˈwɔːrnɪŋ/",
+    "fr": "avertissement, mise en garde",
+    "def": "something that tells you of possible danger",
+    "ex": "The sky gave a clear warning that a storm was coming."
+  },
+  {
+    "id": "wash",
+    "ipa": "/wɑːʃ/",
+    "fr": "laver (v.) ; lavage (n.)",
+    "def": "to clean something using water and often soap",
+    "ex": "Please wash your hands before you eat lunch."
+  },
+  {
+    "id": "washing",
+    "ipa": "/ˈwɑːʃɪŋ/",
+    "fr": "lessive, linge (à laver)",
+    "def": "clothes that need to be washed or are being washed",
+    "ex": "She hung the washing outside to dry in the sun."
+  },
+  {
+    "id": "waste",
+    "ipa": "/weɪst/",
+    "fr": "gaspillage, déchets (n.) ; gaspiller (v.)",
+    "def": "the careless use of something valuable, like time or money",
+    "ex": "It's a waste of money to buy things you never use."
+  },
+  {
+    "id": "watch",
+    "ipa": "/wɑːtʃ/",
+    "fr": "regarder (v.) ; montre (n.)",
+    "def": "to look at something for a period of time",
+    "ex": "We watch a movie together every Friday night."
+  },
+  {
+    "id": "water",
+    "ipa": "/ˈwɑːtɚ/",
+    "fr": "eau (n.) ; arroser (v.)",
+    "def": "the clear liquid that falls as rain and fills rivers",
+    "ex": "Please drink plenty of water during hot summer days."
+  },
+  {
+    "id": "wave",
+    "ipa": "/weɪv/",
+    "fr": "vague (n.) ; faire signe de la main (v.)",
+    "def": "a raised line of water that moves across the sea",
+    "ex": "The children played happily in the waves at the beach."
+  },
+  {
+    "id": "way",
+    "ipa": "/weɪ/",
+    "fr": "façon, manière ; chemin (n.)",
+    "def": "a method or manner of doing something",
+    "ex": "She found a new way to solve the difficult problem."
+  },
+  {
+    "id": "we",
+    "ipa": "/wiː/",
+    "fr": "nous",
+    "def": "used by a speaker to refer to themselves and others",
+    "ex": "We are planning to visit Italy next summer together."
+  },
+  {
+    "id": "weak",
+    "ipa": "/wiːk/",
+    "fr": "faible",
+    "def": "not physically strong; lacking power or energy",
+    "ex": "He felt weak after being sick for a whole week."
+  },
+  {
+    "id": "weakness",
+    "ipa": "/ˈwiːknəs/",
+    "fr": "faiblesse",
+    "def": "a lack of strength or power, or a fault in character",
+    "ex": "Knowing your weakness can help you improve over time."
+  },
+  {
+    "id": "wealth",
+    "ipa": "/wɛlθ/",
+    "fr": "richesse",
+    "def": "a large amount of money or valuable possessions",
+    "ex": "The family built their wealth through a small business."
+  },
+  {
+    "id": "wealthy",
+    "ipa": "/ˈwɛlθi/",
+    "fr": "riche, fortuné",
+    "def": "having a lot of money or valuable possessions",
+    "ex": "A wealthy businessman donated money to the local school."
+  },
+  {
+    "id": "weapon",
+    "ipa": "/ˈwɛpən/",
+    "fr": "arme",
+    "def": "an object used to hurt or kill someone",
+    "ex": "Police found no weapon at the scene of the crime."
+  },
+  {
+    "id": "wear",
+    "ipa": "/wɛr/",
+    "fr": "porter (des vêtements)",
+    "def": "to have clothes or jewelry on your body",
+    "ex": "She likes to wear a warm coat in winter."
+  },
+  {
+    "id": "weather",
+    "ipa": "/ˈwɛðɚ/",
+    "fr": "météo, temps (qu'il fait)",
+    "def": "the condition of the sky and air at a given time",
+    "ex": "The weather is sunny and warm today in the city."
+  },
+  {
+    "id": "web",
+    "ipa": "/wɛb/",
+    "fr": "toile (araignée) ; le Web (internet)",
+    "def": "a network of thin threads made by a spider, or the internet",
+    "ex": "A spider built a web in the corner of the window."
+  },
+  {
+    "id": "website",
+    "ipa": "/ˈwɛbsaɪt/",
+    "fr": "site web, site internet",
+    "def": "a place on the internet where you can find information",
+    "ex": "You can find our prices on the company website."
+  },
+  {
+    "id": "wedding",
+    "ipa": "/ˈwɛdɪŋ/",
+    "fr": "mariage (cérémonie)",
+    "def": "the ceremony where two people get married",
+    "ex": "They invited two hundred guests to their beautiful wedding."
+  },
+  {
+    "id": "wednesday",
+    "ipa": "/ˈwɛnzdeɪ/",
+    "fr": "mercredi",
+    "def": "the day of the week after Tuesday",
+    "ex": "We usually go grocery shopping every Wednesday afternoon."
+  },
+  {
+    "id": "week",
+    "ipa": "/wiːk/",
+    "fr": "semaine",
+    "def": "a period of seven days",
+    "ex": "I will finish this project by the end of the week."
+  },
+  {
+    "id": "weekend",
+    "ipa": "/ˈwiːkɛnd/",
+    "fr": "week-end, fin de semaine",
+    "def": "Saturday and Sunday, the days when many people don't work",
+    "ex": "We usually relax at home during the weekend."
+  },
+  {
+    "id": "weigh",
+    "ipa": "/weɪ/",
+    "fr": "peser",
+    "def": "to measure how heavy someone or something is",
+    "ex": "The nurse asked him to weigh himself before the checkup."
+  },
+  {
+    "id": "weight",
+    "ipa": "/weɪt/",
+    "fr": "poids",
+    "def": "how heavy a person or thing is",
+    "ex": "He has lost some weight since he started exercising."
+  },
+  {
+    "id": "welcome",
+    "ipa": "/ˈwɛlkəm/",
+    "fr": "bienvenue (exclam./n.) ; accueillir (v.) ; bienvenu (adj.)",
+    "def": "used to greet someone arriving somewhere",
+    "ex": "Welcome to our home; please come in and sit down."
+  },
+  {
+    "id": "well",
+    "ipa": "/wɛl/",
+    "fr": "bien (adv./adj.) ; eh bien (exclam.)",
+    "def": "in a good, satisfactory, or skillful way",
+    "ex": "She sings very well and hopes to become a singer."
+  },
+  {
+    "id": "west",
+    "ipa": "/wɛst/",
+    "fr": "ouest",
+    "def": "the direction where the sun goes down",
+    "ex": "The sun sets in the west every evening."
+  },
+  {
+    "id": "western",
+    "ipa": "/ˈwɛstɚn/",
+    "fr": "occidental, de l'ouest",
+    "def": "belonging to or typical of the west of a place",
+    "ex": "She grew up in a small western town in Texas."
+  },
+  {
+    "id": "wet",
+    "ipa": "/wɛt/",
+    "fr": "mouillé, humide",
+    "def": "covered in or full of water or another liquid",
+    "ex": "Don't sit on the bench; the paint is still wet."
+  },
+  {
+    "id": "what",
+    "ipa": "/wʌt/",
+    "fr": "quoi, que, qu'est-ce que ; quel, quelle",
+    "def": "used to ask for information about something",
+    "ex": "She asked me what time the movie starts tonight."
+  },
+  {
+    "id": "whatever",
+    "ipa": "/wʌtˈɛvɚ/",
+    "fr": "quoi que ce soit, peu importe quoi",
+    "def": "anything or everything, no matter what",
+    "ex": "You can choose whatever color you like best."
+  },
+  {
+    "id": "wheel",
+    "ipa": "/wiːl/",
+    "fr": "roue",
+    "def": "a round object that turns to move a vehicle",
+    "ex": "One wheel of the bicycle was completely flat."
+  },
+  {
+    "id": "when",
+    "ipa": "/wɛn/",
+    "fr": "quand",
+    "def": "at what time; at the time that",
+    "ex": "I always smile when I see my old friends."
+  },
+  {
+    "id": "whenever",
+    "ipa": "/wɛnˈɛvɚ/",
+    "fr": "chaque fois que, quand que ce soit",
+    "def": "at any time that; every time that",
+    "ex": "Call me whenever you need help with your homework."
+  },
+  {
+    "id": "where",
+    "ipa": "/wɛr/",
+    "fr": "où",
+    "def": "in, at, or to what place",
+    "ex": "This is the town where I grew up as a child."
+  },
+  {
+    "id": "whereas",
+    "ipa": "/wɛrˈæz/",
+    "fr": "alors que, tandis que",
+    "def": "used to compare two different facts or ideas",
+    "ex": "She loves the city, whereas her husband prefers the countryside."
+  },
+  {
+    "id": "wherever",
+    "ipa": "/wɛrˈɛvɚ/",
+    "fr": "où que ce soit, partout où",
+    "def": "in or to whatever place",
+    "ex": "She takes her camera wherever she travels around the world."
+  },
+  {
+    "id": "whether",
+    "ipa": "/ˈwɛðɚ/",
+    "fr": "si (que ce soit), que... ou que",
+    "def": "used to talk about a choice between possibilities",
+    "ex": "I'm not sure whether she will come to the party."
+  },
+  {
+    "id": "which",
+    "ipa": "/wɪtʃ/",
+    "fr": "quel, quelle, lequel, laquelle",
+    "def": "used to ask about one of a limited number of things",
+    "ex": "She couldn't decide which dress to wear tonight."
+  },
+  {
+    "id": "while",
+    "ipa": "/waɪl/",
+    "fr": "pendant que, tandis que (conj.) ; moment (n.)",
+    "def": "during the time that something else happens",
+    "ex": "She listened to music while she cleaned her room."
+  },
+  {
+    "id": "whisper",
+    "ipa": "/ˈwɪspɚ/",
+    "fr": "chuchoter (v.) ; chuchotement (n.)",
+    "def": "to speak very quietly and softly",
+    "ex": "She had to whisper so she wouldn't wake the baby."
+  },
+  {
+    "id": "white",
+    "ipa": "/waɪt/",
+    "fr": "blanc",
+    "def": "having the color of snow or milk",
+    "ex": "He wore a white shirt for the job interview."
+  },
+  {
+    "id": "who",
+    "ipa": "/huː/",
+    "fr": "qui",
+    "def": "used to ask which person or people",
+    "ex": "I wonder who left this umbrella by the door."
+  },
+  {
+    "id": "whole",
+    "ipa": "/hoʊl/",
+    "fr": "entier, tout (adj.) ; totalité (n.)",
+    "def": "complete; with no part missing",
+    "ex": "We spent the whole day cleaning the house together."
+  },
+  {
+    "id": "whom",
+    "ipa": "/huːm/",
+    "fr": "qui (complément)",
+    "def": "used instead of 'who' as the object of a verb",
+    "ex": "She is the friend whom I told you about."
+  },
+  {
+    "id": "whose",
+    "ipa": "/huːz/",
+    "fr": "dont, à qui, de qui",
+    "def": "belonging to which person",
+    "ex": "I don't know whose jacket is hanging by the door."
+  },
+  {
+    "id": "why",
+    "ipa": "/waɪ/",
+    "fr": "pourquoi",
+    "def": "for what reason or purpose",
+    "ex": "Nobody understood why he left the party so early."
+  },
+  {
+    "id": "wide",
+    "ipa": "/waɪd/",
+    "fr": "large",
+    "def": "measuring a large distance from side to side",
+    "ex": "The river is too wide to swim across safely."
+  },
+  {
+    "id": "widely",
+    "ipa": "/ˈwaɪdli/",
+    "fr": "largement, beaucoup",
+    "def": "over a large area; by many people",
+    "ex": "This traditional dish is widely eaten across the country."
+  },
+  {
+    "id": "wife",
+    "ipa": "/waɪf/",
+    "fr": "épouse, femme",
+    "def": "the woman a person is married to",
+    "ex": "His wife works as a doctor at the hospital."
+  },
+  {
+    "id": "wild",
+    "ipa": "/waɪld/",
+    "fr": "sauvage",
+    "def": "living or growing in nature, not controlled by people",
+    "ex": "Wild animals roamed freely across the national park."
+  },
+  {
+    "id": "wildlife",
+    "ipa": "/ˈwaɪldlaɪf/",
+    "fr": "faune (et flore) sauvage",
+    "def": "wild animals living in their natural environment",
+    "ex": "The park protects wildlife such as deer and foxes."
+  },
+  {
+    "id": "will",
+    "ipa": "/wɪl/",
+    "fr": "(auxiliaire du futur) ; volonté, testament (n.)",
+    "def": "used to talk about what is going to happen",
+    "ex": "She will call you as soon as she arrives."
+  },
+  {
+    "id": "willing",
+    "ipa": "/ˈwɪlɪŋ/",
+    "fr": "disposé (à), prêt (à)",
+    "def": "ready and happy to do something if needed",
+    "ex": "He is willing to help you move next weekend."
+  },
+  {
+    "id": "win",
+    "ipa": "/wɪn/",
+    "fr": "gagner (v.) ; victoire (n.)",
+    "def": "to be the best or first in a game or competition",
+    "ex": "Our team hopes to win the championship this year."
+  },
+  {
+    "id": "wind-1",
+    "ipa": "/wɪnd/",
+    "fr": "vent",
+    "def": "air that moves naturally outside",
+    "ex": "A strong wind blew leaves across the empty street."
+  },
+  {
+    "id": "wind-2",
+    "ipa": "/waɪnd/",
+    "fr": "enrouler, serpenter",
+    "def": "to turn or twist something around a central point",
+    "ex": "The path winds slowly up the side of the hill."
+  },
+  {
+    "id": "window",
+    "ipa": "/ˈwɪndoʊ/",
+    "fr": "fenêtre",
+    "def": "an opening in a wall with glass, for light and air",
+    "ex": "She opened the window to let in fresh air."
+  },
+  {
+    "id": "wine",
+    "ipa": "/waɪn/",
+    "fr": "vin",
+    "def": "an alcoholic drink made from grapes",
+    "ex": "They ordered a bottle of red wine with dinner."
+  },
+  {
+    "id": "wing",
+    "ipa": "/wɪŋ/",
+    "fr": "aile",
+    "def": "the part of a bird or insect used for flying",
+    "ex": "The bird spread its wings and flew away quickly."
+  },
+  {
+    "id": "winner",
+    "ipa": "/ˈwɪnɚ/",
+    "fr": "gagnant, gagnante",
+    "def": "a person who wins a game, competition, or prize",
+    "ex": "The winner received a trophy and a cash prize."
+  },
+  {
+    "id": "winter",
+    "ipa": "/ˈwɪntɚ/",
+    "fr": "hiver",
+    "def": "the coldest season of the year",
+    "ex": "It often snows here during the winter months."
+  },
+  {
+    "id": "wire",
+    "ipa": "/ˈwaɪɚ/",
+    "fr": "fil (métallique), câble",
+    "def": "a thin piece of metal used to carry electricity",
+    "ex": "An electrician connected the wire to the new light."
+  },
+  {
+    "id": "wise",
+    "ipa": "/waɪz/",
+    "fr": "sage, avisé",
+    "def": "able to make good decisions based on experience",
+    "ex": "Her grandmother gave her some wise advice about life."
+  },
+  {
+    "id": "wish",
+    "ipa": "/wɪʃ/",
+    "fr": "souhaiter, désirer (v.) ; souhait, vœu (n.)",
+    "def": "to want something that is impossible or unlikely",
+    "ex": "I wish I could travel around the world someday."
+  },
+  {
+    "id": "with",
+    "ipa": "/wɪð/",
+    "fr": "avec",
+    "def": "in the company of; having or using",
+    "ex": "She went to the movies with her best friend."
+  },
+  {
+    "id": "within",
+    "ipa": "/wɪˈðɪn/",
+    "fr": "dans (un délai), à l'intérieur de",
+    "def": "inside a particular period of time or distance",
+    "ex": "Please reply to this email within two business days."
+  },
+  {
+    "id": "without",
+    "ipa": "/wɪˈðaʊt/",
+    "fr": "sans",
+    "def": "not having, showing, or using something",
+    "ex": "He left the house without his phone this morning."
+  },
+  {
+    "id": "witness",
+    "ipa": "/ˈwɪtnəs/",
+    "fr": "témoin (n.) ; être témoin de (v.)",
+    "def": "a person who sees an event happen",
+    "ex": "A witness described the accident to the police officers."
+  },
+  {
+    "id": "woman",
+    "ipa": "/ˈwʊmən/",
+    "fr": "femme",
+    "def": "an adult female person",
+    "ex": "The woman next door works as a nurse."
+  },
+  {
+    "id": "wonder",
+    "ipa": "/ˈwʌndɚ/",
+    "fr": "se demander (v.) ; émerveillement (n.)",
+    "def": "to want to know something; to ask yourself a question",
+    "ex": "I wonder what she is doing right now."
+  },
+  {
+    "id": "wonderful",
+    "ipa": "/ˈwʌndɚfl/",
+    "fr": "merveilleux, formidable",
+    "def": "extremely good; giving great pleasure or satisfaction",
+    "ex": "We had a wonderful time at the beach today."
+  },
+  {
+    "id": "wood",
+    "ipa": "/wʊd/",
+    "fr": "bois",
+    "def": "the hard material that trees are made of",
+    "ex": "The table is made of dark, polished wood."
+  },
+  {
+    "id": "wooden",
+    "ipa": "/ˈwʊdn/",
+    "fr": "en bois",
+    "def": "made of wood",
+    "ex": "They sat around an old wooden table in the kitchen."
+  },
+  {
+    "id": "wool",
+    "ipa": "/wʊl/",
+    "fr": "laine",
+    "def": "the soft thick hair of sheep, used to make clothes",
+    "ex": "She knitted a warm sweater from soft gray wool."
+  },
+  {
+    "id": "word",
+    "ipa": "/wɝːd/",
+    "fr": "mot",
+    "def": "a single unit of language with a meaning",
+    "ex": "She learned a new word in English today."
+  },
+  {
+    "id": "work",
+    "ipa": "/wɝːk/",
+    "fr": "travailler (v.) ; travail (n.)",
+    "def": "to do a job, often to earn money",
+    "ex": "He works at a hospital as a nurse."
+  },
+  {
+    "id": "worker",
+    "ipa": "/ˈwɝːkɚ/",
+    "fr": "travailleur, travailleuse, ouvrier",
+    "def": "a person who works, especially in a particular job",
+    "ex": "Factory workers protested for better pay and conditions."
+  },
+  {
+    "id": "working",
+    "ipa": "/ˈwɝːkɪŋ/",
+    "fr": "qui travaille, en état de marche",
+    "def": "having a paid job; in good, functioning condition",
+    "ex": "Most working parents struggle to find time to relax."
+  },
+  {
+    "id": "world",
+    "ipa": "/wɝːld/",
+    "fr": "monde",
+    "def": "the earth, with all its countries and people",
+    "ex": "She wants to travel around the world someday."
+  },
+  {
+    "id": "worldwide",
+    "ipa": "/ˌwɝːldˈwaɪd/",
+    "fr": "mondial (adj.) ; dans le monde entier (adv.)",
+    "def": "existing or happening in all parts of the world",
+    "ex": "The company sells its products worldwide these days."
+  },
+  {
+    "id": "worried",
+    "ipa": "/ˈwɝːid/",
+    "fr": "inquiet, soucieux",
+    "def": "feeling anxious or unhappy about a problem",
+    "ex": "She looked worried when her son didn't call."
+  },
+  {
+    "id": "worry",
+    "ipa": "/ˈwɝːi/",
+    "fr": "s'inquiéter (v.) ; inquiétude, souci (n.)",
+    "def": "to feel anxious about problems or something bad happening",
+    "ex": "Please don't worry about the exam; you'll do fine."
+  },
+  {
+    "id": "worse",
+    "ipa": "/wɝːs/",
+    "fr": "pire, plus mauvais (adj./adv.) ; le pire (n.)",
+    "def": "more bad or more ill than before",
+    "ex": "Her cold got worse after she went out in the rain."
+  },
+  {
+    "id": "worst",
+    "ipa": "/wɝːst/",
+    "fr": "le pire, le plus mauvais",
+    "def": "the most bad; less good than all others",
+    "ex": "That was the worst movie I have ever seen."
+  },
+  {
+    "id": "worth",
+    "ipa": "/wɝːθ/",
+    "fr": "qui vaut, valant (adj.) ; valeur (n.)",
+    "def": "having a particular value, especially in money",
+    "ex": "This old painting is worth a lot of money."
+  },
+  {
+    "id": "would",
+    "ipa": "/wʊd/",
+    "fr": "(conditionnel) ; voudrais, aimerait",
+    "def": "used to talk about a possible or imagined situation",
+    "ex": "I would travel more if I had extra money."
+  },
+  {
+    "id": "wound",
+    "ipa": "/wuːnd/",
+    "fr": "blessure (n.) ; blesser (v.)",
+    "def": "an injury to the body, often with broken skin",
+    "ex": "The nurse cleaned the wound before bandaging his arm."
+  },
+  {
+    "id": "wow",
+    "ipa": "/waʊ/",
+    "fr": "waouh, oh là là",
+    "def": "used to show surprise or admiration",
+    "ex": "Wow, I can't believe how amazing this cake tastes."
+  },
+  {
+    "id": "wrap",
+    "ipa": "/ræp/",
+    "fr": "envelopper, emballer",
+    "def": "to cover something completely with paper or cloth",
+    "ex": "She helped him wrap the birthday present carefully."
+  },
+  {
+    "id": "write",
+    "ipa": "/raɪt/",
+    "fr": "écrire",
+    "def": "to make letters or words on a surface",
+    "ex": "Children learn to write their names in school."
+  },
+  {
+    "id": "writer",
+    "ipa": "/ˈraɪtɚ/",
+    "fr": "écrivain, écrivaine, auteur",
+    "def": "a person who writes books, stories, or articles",
+    "ex": "The famous writer published her first novel last year."
+  },
+  {
+    "id": "writing",
+    "ipa": "/ˈraɪtɪŋ/",
+    "fr": "écriture, rédaction",
+    "def": "the activity of writing, or written words",
+    "ex": "Good writing takes practice and careful editing skills."
+  },
+  {
+    "id": "written",
+    "ipa": "/ˈrɪtn/",
+    "fr": "écrit",
+    "def": "produced in the form of writing, not spoken",
+    "ex": "The teacher gave us a written test on Friday."
+  },
+  {
+    "id": "wrong",
+    "ipa": "/rɔːŋ/",
+    "fr": "faux, incorrect (adj.) ; mal (adv.) ; tort (n.)",
+    "def": "not correct or not true",
+    "ex": "You gave the wrong answer to the last question."
+  },
+  {
+    "id": "yard",
+    "ipa": "/jɑːrd/",
+    "fr": "cour, jardin ; yard (unité)",
+    "def": "the ground around a house, often with grass",
+    "ex": "The children played happily in the yard all afternoon."
+  },
+  {
+    "id": "yeah",
+    "ipa": "/jɛə/",
+    "fr": "ouais",
+    "def": "an informal way of saying 'yes'",
+    "ex": "Yeah, I'll be there in about ten minutes."
+  },
+  {
+    "id": "year",
+    "ipa": "/jɪr/",
+    "fr": "an, année",
+    "def": "a period of twelve months",
+    "ex": "We moved to this city three years ago."
+  },
+  {
+    "id": "yellow",
+    "ipa": "/ˈjɛloʊ/",
+    "fr": "jaune",
+    "def": "having the color of a lemon or the sun",
+    "ex": "She painted her bedroom walls a bright yellow."
+  },
+  {
+    "id": "yes",
+    "ipa": "/jɛs/",
+    "fr": "oui",
+    "def": "used to agree with something or say it's true",
+    "ex": "Yes, I would love to join you for dinner."
+  },
+  {
+    "id": "yesterday",
+    "ipa": "/ˈjɛstɚdeɪ/",
+    "fr": "hier",
+    "def": "on the day before today",
+    "ex": "We went to the park yesterday afternoon with friends."
+  },
+  {
+    "id": "yet",
+    "ipa": "/jɛt/",
+    "fr": "encore, déjà (adv.) ; pourtant (conj.)",
+    "def": "up until now; used to say something hasn't happened",
+    "ex": "She hasn't finished her homework yet this evening."
+  },
+  {
+    "id": "you",
+    "ipa": "/juː/",
+    "fr": "tu, vous, toi",
+    "def": "used to talk to the person you are with",
+    "ex": "I hope you can come with us tonight."
+  },
+  {
+    "id": "young",
+    "ipa": "/jʌŋ/",
+    "fr": "jeune (adj.) ; les jeunes (n.)",
+    "def": "having lived for only a short time; not old",
+    "ex": "The young girl learned to swim last summer."
+  },
+  {
+    "id": "your",
+    "ipa": "/jʊr/",
+    "fr": "ton, ta, tes, votre, vos",
+    "def": "belonging to the person or people being spoken to",
+    "ex": "Please bring your book to class tomorrow morning."
+  },
+  {
+    "id": "yours",
+    "ipa": "/jʊrz/",
+    "fr": "le tien, la tienne, le/la vôtre",
+    "def": "the one or ones belonging to you",
+    "ex": "This umbrella is yours; you left it here."
+  },
+  {
+    "id": "yourself",
+    "ipa": "/jʊrˈsɛlf/",
+    "fr": "toi-même, vous-même",
+    "def": "used to refer back to the person spoken to",
+    "ex": "Did you make this cake all by yourself."
+  },
+  {
+    "id": "youth",
+    "ipa": "/juːθ/",
+    "fr": "jeunesse",
+    "def": "the period of life when a person is young",
+    "ex": "He spent his youth traveling around Europe with friends."
+  },
+  {
+    "id": "zero",
+    "ipa": "/ˈzɪroʊ/",
+    "fr": "zéro",
+    "def": "the number 0",
+    "ex": "The temperature dropped to zero degrees last night."
+  },
+  {
+    "id": "zone",
+    "ipa": "/zoʊn/",
+    "fr": "zone",
+    "def": "an area with a particular purpose or feature",
+    "ex": "This part of the city is a quiet residential zone."
+  }
+]

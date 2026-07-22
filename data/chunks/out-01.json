@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "a-an",
+  "ipa": "/ə/ (a), /æn/ (an)",
+  "fr": "un, une",
+  "def": "used before a noun to mean one, not specific",
+  "ex": "I saw a cat and an old dog."
+ },
+ {
+  "id": "abandon",
+  "ipa": "/əˈbændən/",
+  "fr": "abandonner",
+  "def": "to leave someone or something and not return",
+  "ex": "They had to abandon their car in the snow."
+ },
+ {
+  "id": "ability",
+  "ipa": "/əˈbɪləti/",
+  "fr": "capacité, aptitude",
+  "def": "the power or skill to do something",
+  "ex": "She has the ability to speak three languages fluently."
+ },
+ {
+  "id": "able",
+  "ipa": "/ˈeɪbl/",
+  "fr": "capable",
+  "def": "having the skill or power to do something",
+  "ex": "He was able to finish the race in time."
+ },
+ {
+  "id": "about",
+  "ipa": "/əˈbaʊt/",
+  "fr": "à propos de, environ",
+  "def": "on the subject of something; a little more or less",
+  "ex": "This book is about the history of France."
+ },
+ {
+  "id": "above",
+  "ipa": "/əˈbʌv/",
+  "fr": "au-dessus de",
+  "def": "in a higher position than something else",
+  "ex": "A lamp hung above the small wooden table."
+ },
+ {
+  "id": "abroad",
+  "ipa": "/əˈbrɔːd/",
+  "fr": "à l'étranger",
+  "def": "in or to a foreign country",
+  "ex": "My sister decided to study abroad next year."
+ },
+ {
+  "id": "absolute",
+  "ipa": "/ˈæbsəluːt/",
+  "fr": "absolu, total",
+  "def": "complete and total",
+  "ex": "The concert was an absolute disaster from the start."
+ },
+ {
+  "id": "absolutely",
+  "ipa": "/ˌæbsəˈluːtli/",
+  "fr": "absolument, complètement",
+  "def": "completely and totally",
+  "ex": "I absolutely love the new song on the radio."
+ },
+ {
+  "id": "academic",
+  "ipa": "/ˌækəˈdemɪk/",
+  "fr": "universitaire, scolaire",
+  "def": "connected with education, schools, and universities",
+  "ex": "She has an excellent academic record from high school."
+ },
+ {
+  "id": "accept",
+  "ipa": "/əkˈsept/",
+  "fr": "accepter",
+  "def": "to say yes to something offered",
+  "ex": "He decided to accept the job offer immediately."
+ },
+ {
+  "id": "acceptable",
+  "ipa": "/əkˈseptəbl/",
+  "fr": "acceptable",
+  "def": "good enough or satisfactory",
+  "ex": "Her behavior at the meeting was not acceptable."
+ },
+ {
+  "id": "access",
+  "ipa": "/ˈækses/",
+  "fr": "accès ; accéder à",
+  "def": "the right or chance to use something",
+  "ex": "Students need a card to access the library."
+ },
+ {
+  "id": "accident",
+  "ipa": "/ˈæksɪdənt/",
+  "fr": "accident",
+  "def": "something bad that happens by chance",
+  "ex": "There was a car accident near the school today."
+ },
+ {
+  "id": "accompany",
+  "ipa": "/əˈkʌmpəni/",
+  "fr": "accompagner",
+  "def": "to go somewhere with someone",
+  "ex": "My father will accompany me to the interview tomorrow."
+ },
+ {
+  "id": "according-to",
+  "ipa": "/əˈkɔːrdɪŋ tə/",
+  "fr": "selon, d'après",
+  "def": "as stated by someone or something",
+  "ex": "According to the news, it will rain tomorrow."
+ },
+ {
+  "id": "account",
+  "ipa": "/əˈkaʊnt/",
+  "fr": "compte (n.) ; expliquer, représenter (v.)",
+  "def": "money kept in a bank for a person or business",
+  "ex": "She opened a new account at the local bank."
+ },
+ {
+  "id": "accurate",
+  "ipa": "/ˈækjərət/",
+  "fr": "précis, exact",
+  "def": "correct and true in every detail",
+  "ex": "The weather forecast was not very accurate yesterday."
+ },
+ {
+  "id": "accuse",
+  "ipa": "/əˈkjuːz/",
+  "fr": "accuser",
+  "def": "to say that someone has done something wrong",
+  "ex": "They accused him of stealing money from the shop."
+ },
+ {
+  "id": "achieve",
+  "ipa": "/əˈtʃiːv/",
+  "fr": "réaliser, atteindre",
+  "def": "to succeed in doing something good",
+  "ex": "She worked hard to achieve her dream of teaching."
+ },
+ {
+  "id": "achievement",
+  "ipa": "/əˈtʃiːvmənt/",
+  "fr": "réussite, exploit",
+  "def": "something good that is done successfully",
+  "ex": "Winning the award was a great achievement for him."
+ },
+ {
+  "id": "acknowledge",
+  "ipa": "/əkˈnɑːlɪdʒ/",
+  "fr": "reconnaître, admettre",
+  "def": "to accept that something is true",
+  "ex": "He finally acknowledged that he had made a mistake."
+ },
+ {
+  "id": "acquire",
+  "ipa": "/əˈkwaɪər/",
+  "fr": "acquérir, obtenir",
+  "def": "to get or buy something",
+  "ex": "The company plans to acquire a smaller software business."
+ },
+ {
+  "id": "across",
+  "ipa": "/əˈkrɔːs/",
+  "fr": "à travers, de l'autre côté de",
+  "def": "from one side of something to the other",
+  "ex": "We walked across the bridge to reach the park."
+ },
+ {
+  "id": "act",
+  "ipa": "/ækt/",
+  "fr": "agir (v.) ; acte, action (n.)",
+  "def": "to do something for a particular purpose",
+  "ex": "The police had to act quickly during the fire."
+ },
+ {
+  "id": "action",
+  "ipa": "/ˈækʃn/",
+  "fr": "action",
+  "def": "the process of doing something",
+  "ex": "The government must take action on climate change now."
+ },
+ {
+  "id": "active",
+  "ipa": "/ˈæktɪv/",
+  "fr": "actif",
+  "def": "always busy doing things or moving",
+  "ex": "My grandmother stays active by walking every single day."
+ },
+ {
+  "id": "activity",
+  "ipa": "/ækˈtɪvəti/",
+  "fr": "activité",
+  "def": "something you do for interest or fun",
+  "ex": "Swimming is my favorite activity during the summer holidays."
+ },
+ {
+  "id": "actor",
+  "ipa": "/ˈæktər/",
+  "fr": "acteur",
+  "def": "a person who performs in a play or film",
+  "ex": "The actor forgot his lines during the live show."
+ },
+ {
+  "id": "actress",
+  "ipa": "/ˈæktrəs/",
+  "fr": "actrice",
+  "def": "a woman who performs in a play or film",
+  "ex": "The actress won an award for her first movie."
+ },
+ {
+  "id": "actual",
+  "ipa": "/ˈæktʃuəl/",
+  "fr": "réel, véritable",
+  "def": "real and exact, not guessed or imagined",
+  "ex": "The actual cost of the trip was much higher."
+ },
+ {
+  "id": "actually",
+  "ipa": "/ˈæktʃuəli/",
+  "fr": "en fait, réellement",
+  "def": "used to say what is really true",
+  "ex": "I actually enjoyed the movie more than the book."
+ },
+ {
+  "id": "ad",
+  "ipa": "/æd/",
+  "fr": "publicité, pub",
+  "def": "a short notice or advertisement in the media",
+  "ex": "We saw an ad for cheap flights to Spain."
+ },
+ {
+  "id": "adapt",
+  "ipa": "/əˈdæpt/",
+  "fr": "s'adapter, adapter",
+  "def": "to change to suit new conditions",
+  "ex": "It took time for her to adapt to college life."
+ },
+ {
+  "id": "add",
+  "ipa": "/æd/",
+  "fr": "ajouter",
+  "def": "to put something together with something else",
+  "ex": "Please add some salt to the soup before serving."
+ },
+ {
+  "id": "addition",
+  "ipa": "/əˈdɪʃn/",
+  "fr": "ajout ; addition",
+  "def": "a thing or person added to something",
+  "ex": "The new baby was a wonderful addition to the family."
+ },
+ {
+  "id": "additional",
+  "ipa": "/əˈdɪʃənl/",
+  "fr": "supplémentaire",
+  "def": "more than what already exists",
+  "ex": "The hotel charges an additional fee for breakfast service."
+ },
+ {
+  "id": "address",
+  "ipa": "/ˈædres/ (n.), /əˈdres/ (v.)",
+  "fr": "adresse (n.) ; aborder, s'adresser à (v.)",
+  "def": "the number and street where someone lives",
+  "ex": "Please write your address clearly on the envelope."
+ },
+ {
+  "id": "administration",
+  "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+  "fr": "administration, gestion",
+  "def": "the way an organization or country is managed",
+  "ex": "She works in the administration of a large hospital."
+ },
+ {
+  "id": "admire",
+  "ipa": "/ədˈmaɪər/",
+  "fr": "admirer",
+  "def": "to respect and like someone or something very much",
+  "ex": "I really admire people who help others every day."
+ },
+ {
+  "id": "admit",
+  "ipa": "/ədˈmɪt/",
+  "fr": "admettre, avouer",
+  "def": "to agree that something is true, often unwillingly",
+  "ex": "He admitted that he had forgotten her birthday again."
+ },
+ {
+  "id": "adopt",
+  "ipa": "/əˈdɑːpt/",
+  "fr": "adopter",
+  "def": "to take a child into your family legally",
+  "ex": "They decided to adopt a child from another country."
+ },
+ {
+  "id": "adult",
+  "ipa": "/əˈdʌlt/",
+  "fr": "adulte",
+  "def": "a person who is fully grown",
+  "ex": "Only one adult can sign this important legal document."
+ },
+ {
+  "id": "advance",
+  "ipa": "/ədˈvæns/",
+  "fr": "avancer (v.) ; avance, progrès (n.)",
+  "def": "to move forward or make progress",
+  "ex": "Scientists continue to advance our understanding of the brain."
+ },
+ {
+  "id": "advanced",
+  "ipa": "/ədˈvænst/",
+  "fr": "avancé",
+  "def": "at a high level, not for beginners",
+  "ex": "This class is for advanced students of French only."
+ },
+ {
+  "id": "advantage",
+  "ipa": "/ədˈvæntɪdʒ/",
+  "fr": "avantage",
+  "def": "something that helps you or gives a better chance",
+  "ex": "Speaking two languages gives you a big advantage today."
+ },
+ {
+  "id": "adventure",
+  "ipa": "/ədˈventʃər/",
+  "fr": "aventure",
+  "def": "an exciting and sometimes dangerous experience",
+  "ex": "Climbing the mountain was the adventure of his life."
+ },
+ {
+  "id": "advertise",
+  "ipa": "/ˈædvərtaɪz/",
+  "fr": "faire de la publicité pour",
+  "def": "to tell people about a product to sell it",
+  "ex": "The shop is advertising a sale this weekend only."
+ },
+ {
+  "id": "advertisement",
+  "ipa": "/ˌædvərˈtaɪzmənt/",
+  "fr": "publicité, annonce",
+  "def": "a picture, video, or text that sells something",
+  "ex": "We saw an advertisement for a new phone yesterday."
+ },
+ {
+  "id": "advertising",
+  "ipa": "/ˈædvərtaɪzɪŋ/",
+  "fr": "publicité",
+  "def": "the business of advertising products and services",
+  "ex": "She works in advertising for a large fashion company."
+ },
+ {
+  "id": "advice",
+  "ipa": "/ədˈvaɪs/",
+  "fr": "conseil(s)",
+  "def": "an opinion someone gives about what to do",
+  "ex": "My teacher gave me good advice about my future."
+ },
+ {
+  "id": "advise",
+  "ipa": "/ədˈvaɪz/",
+  "fr": "conseiller",
+  "def": "to tell someone what you think they should do",
+  "ex": "The doctor advised him to rest for a week."
+ },
+ {
+  "id": "affair",
+  "ipa": "/əˈfer/",
+  "fr": "affaire ; liaison (amoureuse)",
+  "def": "an event or situation that people are dealing with",
+  "ex": "The birthday party was a very happy affair."
+ },
+ {
+  "id": "affect",
+  "ipa": "/əˈfekt/",
+  "fr": "affecter, influencer",
+  "def": "to cause a change in someone or something",
+  "ex": "The bad weather will affect our travel plans tomorrow."
+ },
+ {
+  "id": "afford",
+  "ipa": "/əˈfɔːrd/",
+  "fr": "avoir les moyens de, se permettre",
+  "def": "to have enough money to pay for something",
+  "ex": "We can't afford a new car this year."
+ },
+ {
+  "id": "afraid",
+  "ipa": "/əˈfreɪd/",
+  "fr": "effrayé, avoir peur",
+  "def": "feeling fear or worry about something",
+  "ex": "The little boy was afraid of the dark."
+ },
+ {
+  "id": "after",
+  "ipa": "/ˈæftər/",
+  "fr": "après",
+  "def": "later than a particular time or event",
+  "ex": "We went for a walk after dinner last night."
+ },
+ {
+  "id": "afternoon",
+  "ipa": "/ˌæftərˈnuːn/",
+  "fr": "après-midi",
+  "def": "the part of the day between noon and evening",
+  "ex": "We are meeting for coffee this afternoon at three."
+ },
+ {
+  "id": "afterward",
+  "ipa": "/ˈæftərwərd/",
+  "fr": "après, ensuite",
+  "def": "at a later time",
+  "ex": "We had dinner and went to a movie afterward."
+ },
+ {
+  "id": "again",
+  "ipa": "/əˈɡen/",
+  "fr": "encore, de nouveau",
+  "def": "one more time",
+  "ex": "He asked her to explain that again more slowly."
+ },
+ {
+  "id": "against",
+  "ipa": "/əˈɡenst/",
+  "fr": "contre",
+  "def": "in opposition to someone or something",
+  "ex": "The team played against the strongest school in town."
+ },
+ {
+  "id": "age",
+  "ipa": "/eɪdʒ/",
+  "fr": "âge (n.) ; vieillir (v.)",
+  "def": "the number of years someone has lived",
+  "ex": "She started dancing lessons at the age of five."
+ },
+ {
+  "id": "agency",
+  "ipa": "/ˈeɪdʒənsi/",
+  "fr": "agence",
+  "def": "a business that provides a particular service",
+  "ex": "They booked their holiday through a travel agency."
+ },
+ {
+  "id": "agenda",
+  "ipa": "/əˈdʒendə/",
+  "fr": "ordre du jour, programme",
+  "def": "a list of things to discuss at a meeting",
+  "ex": "Budget cuts are the first item on the agenda."
+ },
+ {
+  "id": "agent",
+  "ipa": "/ˈeɪdʒənt/",
+  "fr": "agent",
+  "def": "a person who acts or does business for others",
+  "ex": "Her agent found her a role in a new film."
+ },
+ {
+  "id": "aggressive",
+  "ipa": "/əˈɡresɪv/",
+  "fr": "agressif",
+  "def": "ready to attack or argue",
+  "ex": "The dog became aggressive when strangers came near it."
+ },
+ {
+  "id": "ago",
+  "ipa": "/əˈɡoʊ/",
+  "fr": "il y a (+ durée)",
+  "def": "back in time from now",
+  "ex": "We moved to this city three years ago."
+ },
+ {
+  "id": "agree",
+  "ipa": "/əˈɡriː/",
+  "fr": "être d'accord, accepter",
+  "def": "to have the same opinion as someone else",
+  "ex": "I agree with you about the new schedule."
+ },
+ {
+  "id": "agreement",
+  "ipa": "/əˈɡriːmənt/",
+  "fr": "accord",
+  "def": "a decision reached by two or more people",
+  "ex": "Both companies signed the agreement after weeks of talks."
+ },
+ {
+  "id": "ah",
+  "ipa": "/ɑː/",
+  "fr": "ah",
+  "def": "used to show surprise, pain, or understanding",
+  "ex": "Ah, now I understand what you meant yesterday."
+ },
+ {
+  "id": "ahead",
+  "ipa": "/əˈhed/",
+  "fr": "en avant, devant",
+  "def": "in front, or in the future",
+  "ex": "She looked ahead and saw the finish line."
+ },
+ {
+  "id": "aid",
+  "ipa": "/eɪd/",
+  "fr": "aide ; aider",
+  "def": "help given to a person or country in need",
+  "ex": "The country sent food aid after the terrible flood."
+ },
+ {
+  "id": "aim",
+  "ipa": "/eɪm/",
+  "fr": "viser ; but, objectif",
+  "def": "to plan or hope to achieve something",
+  "ex": "She aims to finish her degree next summer."
+ },
+ {
+  "id": "air",
+  "ipa": "/er/",
+  "fr": "air",
+  "def": "the gas we breathe that surrounds the earth",
+  "ex": "Open the window to let some fresh air in."
+ },
+ {
+  "id": "aircraft",
+  "ipa": "/ˈerkræft/",
+  "fr": "avion, aéronef",
+  "def": "a vehicle that can fly, like a plane",
+  "ex": "The aircraft landed safely despite the strong wind."
+ },
+ {
+  "id": "airline",
+  "ipa": "/ˈerlaɪn/",
+  "fr": "compagnie aérienne",
+  "def": "a company that carries people by plane",
+  "ex": "The airline canceled our flight because of the storm."
+ },
+ {
+  "id": "airport",
+  "ipa": "/ˈerpɔːrt/",
+  "fr": "aéroport",
+  "def": "a place where airplanes take off and land",
+  "ex": "We arrived at the airport two hours early."
+ },
+ {
+  "id": "alarm",
+  "ipa": "/əˈlɑːrm/",
+  "fr": "alarme (n.) ; alarmer, inquiéter (v.)",
+  "def": "a warning sound or device for danger",
+  "ex": "The fire alarm rang loudly during our lunch break."
+ },
+ {
+  "id": "album",
+  "ipa": "/ˈælbəm/",
+  "fr": "album",
+  "def": "a collection of songs or photos",
+  "ex": "The band released a new album last month."
+ },
+ {
+  "id": "alcohol",
+  "ipa": "/ˈælkəhɔːl/",
+  "fr": "alcool",
+  "def": "a strong drink like beer or wine",
+  "ex": "He decided to stop drinking alcohol this year."
+ },
+ {
+  "id": "alcoholic",
+  "ipa": "/ˌælkəˈhɔːlɪk/",
+  "fr": "alcoolisé",
+  "def": "containing alcohol",
+  "ex": "The restaurant also serves alcoholic drinks after six."
+ },
+ {
+  "id": "alive",
+  "ipa": "/əˈlaɪv/",
+  "fr": "vivant, en vie",
+  "def": "living, not dead",
+  "ex": "The old man is still alive at ninety."
+ },
+ {
+  "id": "all",
+  "ipa": "/ɔːl/",
+  "fr": "tout, tous, toute(s)",
+  "def": "the whole amount or every one of a group",
+  "ex": "All the students passed their final exam this year."
+ },
+ {
+  "id": "all-right",
+  "ipa": "/ˌɔːl ˈraɪt/",
+  "fr": "bien, d'accord, correct",
+  "def": "acceptable, or good enough",
+  "ex": "Don't worry, everything will be all right soon."
+ },
+ {
+  "id": "allow",
+  "ipa": "/əˈlaʊ/",
+  "fr": "autoriser, permettre",
+  "def": "to let someone do or have something",
+  "ex": "My parents allow me to stay out late sometimes."
+ },
+ {
+  "id": "almost",
+  "ipa": "/ˈɔːlmoʊst/",
+  "fr": "presque",
+  "def": "not quite, or very nearly",
+  "ex": "We are almost finished with our homework tonight."
+ },
+ {
+  "id": "alone",
+  "ipa": "/əˈloʊn/",
+  "fr": "seul",
+  "def": "not with other people",
+  "ex": "She prefers to travel alone rather than in groups."
+ },
+ {
+  "id": "along",
+  "ipa": "/əˈlɔːŋ/",
+  "fr": "le long de",
+  "def": "following the length of something, like a road",
+  "ex": "We walked along the river until it got dark."
+ },
+ {
+  "id": "already",
+  "ipa": "/ɔːlˈredi/",
+  "fr": "déjà",
+  "def": "before now, or earlier than expected",
+  "ex": "She has already finished all of her homework."
+ },
+ {
+  "id": "also",
+  "ipa": "/ˈɔːlsoʊ/",
+  "fr": "aussi, également",
+  "def": "in addition, as well",
+  "ex": "He speaks French and also understands some Italian."
+ },
+ {
+  "id": "alter",
+  "ipa": "/ˈɔːltər/",
+  "fr": "modifier, changer",
+  "def": "to change something slightly",
+  "ex": "They had to alter their plans because of rain."
+ },
+ {
+  "id": "alternative",
+  "ipa": "/ɔːlˈtɜːrnətɪv/",
+  "fr": "alternative, solution de rechange",
+  "def": "something you can choose instead of another thing",
+  "ex": "Walking is a healthy alternative to driving to work."
+ },
+ {
+  "id": "although",
+  "ipa": "/ɔːlˈðoʊ/",
+  "fr": "bien que, quoique",
+  "def": "despite the fact that",
+  "ex": "Although it was raining, we still went for a walk."
+ },
+ {
+  "id": "always",
+  "ipa": "/ˈɔːlweɪz/",
+  "fr": "toujours",
+  "def": "at all times, every time",
+  "ex": "She always wakes up early, even on weekends."
+ },
+ {
+  "id": "amazed",
+  "ipa": "/əˈmeɪzd/",
+  "fr": "stupéfait, étonné",
+  "def": "very surprised",
+  "ex": "I was amazed by how well she sang."
+ },
+ {
+  "id": "amazing",
+  "ipa": "/əˈmeɪzɪŋ/",
+  "fr": "incroyable, étonnant",
+  "def": "extremely surprising, especially in a good way",
+  "ex": "We had an amazing time at the beach yesterday."
+ },
+ {
+  "id": "ambition",
+  "ipa": "/æmˈbɪʃn/",
+  "fr": "ambition",
+  "def": "a strong wish to achieve something",
+  "ex": "Her ambition is to become a famous scientist."
+ },
+ {
+  "id": "among",
+  "ipa": "/əˈmʌŋ/",
+  "fr": "parmi",
+  "def": "in the middle of, surrounded by",
+  "ex": "The small cabin was hidden among tall green trees."
+ },
+ {
+  "id": "amount",
+  "ipa": "/əˈmaʊnt/",
+  "fr": "quantité, montant",
+  "def": "how much of something there is",
+  "ex": "We need a large amount of paint for this wall."
+ },
+ {
+  "id": "analysis",
+  "ipa": "/əˈnæləsɪs/",
+  "fr": "analyse",
+  "def": "a careful study of something in detail",
+  "ex": "The scientist published her analysis of the data results."
+ },
+ {
+  "id": "analyze",
+  "ipa": "/ˈænəlaɪz/",
+  "fr": "analyser",
+  "def": "to study something carefully",
+  "ex": "Scientists will analyze the water samples from the lake."
+ },
+ {
+  "id": "ancient",
+  "ipa": "/ˈeɪnʃənt/",
+  "fr": "ancien, antique",
+  "def": "very old, from a long time ago",
+  "ex": "Tourists love visiting the ancient castle every summer."
+ },
+ {
+  "id": "and",
+  "ipa": "/ænd/",
+  "fr": "et",
+  "def": "used to join words or ideas together",
+  "ex": "We bought bread, milk, and cheese at the store."
+ },
+ {
+  "id": "anger",
+  "ipa": "/ˈæŋɡər/",
+  "fr": "colère",
+  "def": "a strong feeling of being very annoyed",
+  "ex": "He tried to control his anger during the argument."
+ },
+ {
+  "id": "angle",
+  "ipa": "/ˈæŋɡl/",
+  "fr": "angle",
+  "def": "the space between two lines that meet",
+  "ex": "She measured the angle between the two walls."
+ },
+ {
+  "id": "angry",
+  "ipa": "/ˈæŋɡri/",
+  "fr": "en colère, fâché",
+  "def": "feeling or showing strong annoyance",
+  "ex": "My mother was angry when I broke the vase."
+ },
+ {
+  "id": "animal",
+  "ipa": "/ˈænɪml/",
+  "fr": "animal",
+  "def": "a living creature that is not a plant",
+  "ex": "The zoo has many different animals from around the world."
+ },
+ {
+  "id": "ankle",
+  "ipa": "/ˈæŋkl/",
+  "fr": "cheville",
+  "def": "the joint between your foot and your leg",
+  "ex": "She twisted her ankle while running in the park."
+ },
+ {
+  "id": "anniversary",
+  "ipa": "/ˌænɪˈvɜːrsəri/",
+  "fr": "anniversaire (de mariage, d'un événement)",
+  "def": "the date when something special happened before",
+  "ex": "They celebrated their tenth wedding anniversary in Italy."
+ },
+ {
+  "id": "announce",
+  "ipa": "/əˈnaʊns/",
+  "fr": "annoncer",
+  "def": "to tell people something officially",
+  "ex": "The teacher announced the results of the test today."
+ },
+ {
+  "id": "announcement",
+  "ipa": "/əˈnaʊnsmənt/",
+  "fr": "annonce",
+  "def": "an official statement about something",
+  "ex": "The company made an announcement about new job openings."
+ },
+ {
+  "id": "annoy",
+  "ipa": "/əˈnɔɪ/",
+  "fr": "agacer, énerver",
+  "def": "to make someone a little angry",
+  "ex": "It really annoys me when people are late."
+ },
+ {
+  "id": "annoyed",
+  "ipa": "/əˈnɔɪd/",
+  "fr": "agacé, énervé",
+  "def": "feeling a little angry about something",
+  "ex": "She was annoyed that the bus arrived so late."
+ },
+ {
+  "id": "annoying",
+  "ipa": "/əˈnɔɪɪŋ/",
+  "fr": "agaçant, énervant",
+  "def": "making you feel a little angry",
+  "ex": "That loud noise outside is really annoying today."
+ },
+ {
+  "id": "annual",
+  "ipa": "/ˈænjuəl/",
+  "fr": "annuel",
+  "def": "happening once every year",
+  "ex": "The company holds its annual meeting in March."
+ },
+ {
+  "id": "another",
+  "ipa": "/əˈnʌðər/",
+  "fr": "un autre, une autre",
+  "def": "one more, or a different one",
+  "ex": "He asked for another cup of coffee at breakfast."
+ },
+ {
+  "id": "answer",
+  "ipa": "/ˈænsər/",
+  "fr": "réponse ; répondre",
+  "def": "something you say or write to a question",
+  "ex": "She didn't know the answer to the question."
+ },
+ {
+  "id": "anxious",
+  "ipa": "/ˈæŋkʃəs/",
+  "fr": "anxieux, inquiet",
+  "def": "worried or nervous about something",
+  "ex": "He felt anxious before his big job interview."
+ },
+ {
+  "id": "any",
+  "ipa": "/ˈeni/",
+  "fr": "de, du, quelque, aucun",
+  "def": "some, or a small amount, in questions and negatives",
+  "ex": "We don't have any milk left in the fridge."
+ },
+ {
+  "id": "anybody",
+  "ipa": "/ˈenibɑːdi/",
+  "fr": "quelqu'un, n'importe qui",
+  "def": "any person",
+  "ex": "Nobody knows if anybody is home right now."
+ },
+ {
+  "id": "anymore",
+  "ipa": "/ˌeniˈmɔːr/",
+  "fr": "ne... plus",
+  "def": "not any longer",
+  "ex": "She doesn't live in this small city anymore."
+ },
+ {
+  "id": "anyone",
+  "ipa": "/ˈeniwʌn/",
+  "fr": "quelqu'un, n'importe qui",
+  "def": "any person, especially in questions",
+  "ex": "I wonder if anyone saw where I left my keys."
+ },
+ {
+  "id": "anything",
+  "ipa": "/ˈeniθɪŋ/",
+  "fr": "quelque chose, n'importe quoi",
+  "def": "any thing, especially in questions or negatives",
+  "ex": "I didn't eat anything before the long trip."
+ },
+ {
+  "id": "anyway",
+  "ipa": "/ˈeniweɪ/",
+  "fr": "de toute façon, quand même",
+  "def": "despite what has just been said",
+  "ex": "It was expensive, but we bought it anyway."
+ },
+ {
+  "id": "anywhere",
+  "ipa": "/ˈeniwer/",
+  "fr": "n'importe où, quelque part",
+  "def": "in, at, or to any place",
+  "ex": "You can sit anywhere you like in this room."
+ },
+ {
+  "id": "apart",
+  "ipa": "/əˈpɑːrt/",
+  "fr": "séparément, éloigné",
+  "def": "separated by a distance or space",
+  "ex": "The two houses stood far apart from each other."
+ },
+ {
+  "id": "apartment",
+  "ipa": "/əˈpɑːrtmənt/",
+  "fr": "appartement",
+  "def": "a set of rooms for living in a building",
+  "ex": "They rented a small apartment near the city center."
+ },
+ {
+  "id": "apologize",
+  "ipa": "/əˈpɑːlədʒaɪz/",
+  "fr": "s'excuser",
+  "def": "to say sorry for something you did",
+  "ex": "He apologized to his friend for being so rude."
+ },
+ {
+  "id": "app",
+  "ipa": "/æp/",
+  "fr": "application",
+  "def": "a computer program for a phone or tablet",
+  "ex": "I downloaded a new app to learn Spanish."
+ },
+ {
+  "id": "apparent",
+  "ipa": "/əˈpærənt/",
+  "fr": "évident, apparent",
+  "def": "easy to see or understand",
+  "ex": "It became apparent that he had made a mistake."
+ },
+ {
+  "id": "apparently",
+  "ipa": "/əˈpærəntli/",
+  "fr": "apparemment",
+  "def": "according to what people say",
+  "ex": "Apparently, the small shop closes early on Sundays."
+ },
+ {
+  "id": "appeal",
+  "ipa": "/əˈpiːl/",
+  "fr": "plaire, attirer (v.) ; attrait (n.)",
+  "def": "to be attractive or interesting to someone",
+  "ex": "The idea of living abroad really appeals to me."
+ },
+ {
+  "id": "appear",
+  "ipa": "/əˈpɪr/",
+  "fr": "apparaître, sembler",
+  "def": "to start to be seen, or to seem",
+  "ex": "Stars appear in the sky as it gets dark."
+ },
+ {
+  "id": "appearance",
+  "ipa": "/əˈpɪrəns/",
+  "fr": "apparence ; apparition",
+  "def": "the way someone or something looks",
+  "ex": "Her appearance had changed a lot since college."
+ },
+ {
+  "id": "apple",
+  "ipa": "/ˈæpl/",
+  "fr": "pomme",
+  "def": "a round fruit with red or green skin",
+  "ex": "He ate an apple for a healthy snack."
+ },
+ {
+  "id": "application",
+  "ipa": "/ˌæplɪˈkeɪʃn/",
+  "fr": "candidature, demande ; application",
+  "def": "a formal request for a job or place",
+  "ex": "She sent her application for the new job today."
+ },
+ {
+  "id": "apply",
+  "ipa": "/əˈplaɪ/",
+  "fr": "postuler, faire une demande ; s'appliquer",
+  "def": "to ask formally for a job or place",
+  "ex": "He plans to apply to three different universities."
+ },
+ {
+  "id": "appointment",
+  "ipa": "/əˈpɔɪntmənt/",
+  "fr": "rendez-vous",
+  "def": "an arrangement to meet someone at a set time",
+  "ex": "I have a dentist appointment tomorrow morning at nine."
+ },
+ {
+  "id": "appreciate",
+  "ipa": "/əˈpriːʃieɪt/",
+  "fr": "apprécier, être reconnaissant de",
+  "def": "to be grateful for something",
+  "ex": "We really appreciate all your help this week."
+ },
+ {
+  "id": "approach",
+  "ipa": "/əˈproʊtʃ/",
+  "fr": "approche, méthode ; s'approcher de",
+  "def": "a way of dealing with something",
+  "ex": "Teachers need a new approach to teaching math."
+ },
+ {
+  "id": "appropriate",
+  "ipa": "/əˈproʊpriət/",
+  "fr": "approprié, adapté",
+  "def": "suitable or right for a situation",
+  "ex": "That joke was not appropriate for the office."
+ },
+ {
+  "id": "approval",
+  "ipa": "/əˈpruːvl/",
+  "fr": "approbation",
+  "def": "official agreement that something can happen",
+  "ex": "The project needs approval from the city council."
+ },
+ {
+  "id": "approve",
+  "ipa": "/əˈpruːv/",
+  "fr": "approuver",
+  "def": "to officially agree to something",
+  "ex": "The bank approved our loan for the new house."
+ },
+ {
+  "id": "approximately",
+  "ipa": "/əˈprɑːksɪmətli/",
+  "fr": "environ, approximativement",
+  "def": "close to a number, but not exact",
+  "ex": "The trip takes approximately three hours by car."
+ },
+ {
+  "id": "april",
+  "ipa": "/ˈeɪprəl/",
+  "fr": "avril",
+  "def": "the fourth month of the year",
+  "ex": "Her birthday is in the middle of April."
+ },
+ {
+  "id": "architect",
+  "ipa": "/ˈɑːrkɪtekt/",
+  "fr": "architecte",
+  "def": "a person who designs buildings",
+  "ex": "The architect designed a beautiful new library downtown."
+ },
+ {
+  "id": "architecture",
+  "ipa": "/ˈɑːrkɪtektʃər/",
+  "fr": "architecture",
+  "def": "the design and style of buildings",
+  "ex": "She studied architecture at a university in Boston."
+ },
+ {
+  "id": "area",
+  "ipa": "/ˈeriə/",
+  "fr": "zone, région, secteur",
+  "def": "a part of a place or region",
+  "ex": "We live in a quiet area outside the city."
+ },
+ {
+  "id": "argue",
+  "ipa": "/ˈɑːrɡjuː/",
+  "fr": "se disputer ; soutenir (un argument)",
+  "def": "to speak angrily with someone who disagrees",
+  "ex": "My brothers always argue about who does the dishes."
+ },
+ {
+  "id": "argument",
+  "ipa": "/ˈɑːrɡjumənt/",
+  "fr": "dispute ; argument",
+  "def": "an angry disagreement, or a reason for something",
+  "ex": "They had an argument about money last night."
+ },
+ {
+  "id": "arise",
+  "ipa": "/əˈraɪz/",
+  "fr": "survenir, se présenter",
+  "def": "to happen or start to exist",
+  "ex": "A problem may arise if we don't plan carefully."
+ },
+ {
+  "id": "arm",
+  "ipa": "/ɑːrm/",
+  "fr": "bras",
+  "def": "the part of your body from shoulder to hand",
+  "ex": "She broke her arm while skiing last winter."
+ },
+ {
+  "id": "armed",
+  "ipa": "/ɑːrmd/",
+  "fr": "armé",
+  "def": "carrying a weapon such as a gun",
+  "ex": "Two armed guards stood outside the bank entrance."
+ },
+ {
+  "id": "arms",
+  "ipa": "/ɑːrmz/",
+  "fr": "armes",
+  "def": "weapons such as guns, used in war",
+  "ex": "The two countries agreed to reduce their nuclear arms."
+ },
+ {
+  "id": "army",
+  "ipa": "/ˈɑːrmi/",
+  "fr": "armée",
+  "def": "a large group of soldiers that fights on land",
+  "ex": "He joined the army right after high school."
+ },
+ {
+  "id": "around",
+  "ipa": "/əˈraʊnd/",
+  "fr": "autour de, environ",
+  "def": "in a circle or in different directions",
+  "ex": "The children ran around the yard, laughing loudly."
+ },
+ {
+  "id": "arrange",
+  "ipa": "/əˈreɪndʒ/",
+  "fr": "organiser, arranger",
+  "def": "to plan or organize something in advance",
+  "ex": "We arranged a meeting with the new manager."
+ },
+ {
+  "id": "arrangement",
+  "ipa": "/əˈreɪndʒmənt/",
+  "fr": "arrangement, disposition",
+  "def": "a plan made so that something can happen",
+  "ex": "They made an arrangement to share the cost."
+ },
+ {
+  "id": "arrest",
+  "ipa": "/əˈrest/",
+  "fr": "arrêter (police) ; arrestation",
+  "def": "to take someone by the police for a crime",
+  "ex": "The police arrested two men after the robbery."
+ },
+ {
+  "id": "arrival",
+  "ipa": "/əˈraɪvl/",
+  "fr": "arrivée",
+  "def": "the act of arriving somewhere",
+  "ex": "We waited at the gate for her arrival."
+ },
+ {
+  "id": "arrive",
+  "ipa": "/əˈraɪv/",
+  "fr": "arriver",
+  "def": "to reach the place you were traveling to",
+  "ex": "Our flight will arrive in Chicago at noon."
+ },
+ {
+  "id": "art",
+  "ipa": "/ɑːrt/",
+  "fr": "art",
+  "def": "the creation of paintings, drawings, or sculptures",
+  "ex": "She studies art at a college in Paris."
+ },
+ {
+  "id": "article",
+  "ipa": "/ˈɑːrtɪkl/",
+  "fr": "article",
+  "def": "a piece of writing in a newspaper or magazine",
+  "ex": "I read an interesting article about climate change."
+ },
+ {
+  "id": "artificial",
+  "ipa": "/ˌɑːrtɪˈfɪʃl/",
+  "fr": "artificiel",
+  "def": "made by people, not natural",
+  "ex": "The garden had a small pond with artificial flowers."
+ },
+ {
+  "id": "artist",
+  "ipa": "/ˈɑːrtɪst/",
+  "fr": "artiste",
+  "def": "a person who creates paintings or other art",
+  "ex": "The artist painted a beautiful picture of the sea."
+ },
+ {
+  "id": "artistic",
+  "ipa": "/ɑːrˈtɪstɪk/",
+  "fr": "artistique",
+  "def": "having a natural skill in art",
+  "ex": "Her artistic talent was clear from a young age."
+ },
+ {
+  "id": "as",
+  "ipa": "/æz/",
+  "fr": "comme, en tant que, puisque",
+  "def": "used to compare, or to mean because",
+  "ex": "She works as a nurse at the city hospital."
+ },
+ {
+  "id": "ashamed",
+  "ipa": "/əˈʃeɪmd/",
+  "fr": "honteux",
+  "def": "feeling guilty or embarrassed about something",
+  "ex": "He felt ashamed after lying to his best friend."
+ },
+ {
+  "id": "aside",
+  "ipa": "/əˈsaɪd/",
+  "fr": "de côté",
+  "def": "to one side, or away from the main point",
+  "ex": "She put her book aside to answer the phone."
+ },
+ {
+  "id": "ask",
+  "ipa": "/æsk/",
+  "fr": "demander",
+  "def": "to say something as a question",
+  "ex": "She wanted to ask him a question about the homework."
+ },
+ {
+  "id": "asleep",
+  "ipa": "/əˈsliːp/",
+  "fr": "endormi",
+  "def": "sleeping, not awake",
+  "ex": "The baby fell asleep during the long car ride."
+ },
+ {
+  "id": "aspect",
+  "ipa": "/ˈæspekt/",
+  "fr": "aspect",
+  "def": "one part of a situation or subject",
+  "ex": "Cost is an important aspect of choosing a car."
+ },
+ {
+  "id": "assess",
+  "ipa": "/əˈses/",
+  "fr": "évaluer",
+  "def": "to judge the quality or value of something",
+  "ex": "Doctors assess each patient before starting any treatment."
+ },
+ {
+  "id": "assessment",
+  "ipa": "/əˈsesmənt/",
+  "fr": "évaluation",
+  "def": "a judgment about the value or quality of something",
+  "ex": "The teacher gave a written assessment of her progress."
+ },
+ {
+  "id": "assignment",
+  "ipa": "/əˈsaɪnmənt/",
+  "fr": "devoir, mission, affectation",
+  "def": "a piece of work given to someone",
+  "ex": "Our teacher gave us a difficult assignment for homework."
+ },
+ {
+  "id": "assist",
+  "ipa": "/əˈsɪst/",
+  "fr": "aider, assister",
+  "def": "to help someone do something",
+  "ex": "A nurse will assist the doctor during the surgery."
+ },
+ {
+  "id": "assistant",
+  "ipa": "/əˈsɪstənt/",
+  "fr": "assistant(e)",
+  "def": "a person who helps someone in their work",
+  "ex": "She works as an assistant to the school principal."
+ },
+ {
+  "id": "associate",
+  "ipa": "/əˈsoʊʃieɪt/",
+  "fr": "associer",
+  "def": "to connect one thing with another in your mind",
+  "ex": "Many people associate the beach with summer vacations."
+ },
+ {
+  "id": "associated",
+  "ipa": "/əˈsoʊʃieɪtɪd/",
+  "fr": "associé, lié",
+  "def": "connected with something",
+  "ex": "There are health risks associated with smoking cigarettes."
+ },
+ {
+  "id": "association",
+  "ipa": "/əˌsoʊsiˈeɪʃn/",
+  "fr": "association",
+  "def": "an official group of people with a shared purpose",
+  "ex": "He joined an association for local small business owners."
+ },
+ {
+  "id": "assume",
+  "ipa": "/əˈsuːm/",
+  "fr": "supposer, présumer",
+  "def": "to think something is true without proof",
+  "ex": "I assumed she knew about the change in plans."
+ },
+ {
+  "id": "at",
+  "ipa": "/æt/",
+  "fr": "à",
+  "def": "used to show a place or time",
+  "ex": "Let's meet at the coffee shop at noon."
+ },
+ {
+  "id": "athlete",
+  "ipa": "/ˈæθliːt/",
+  "fr": "athlète",
+  "def": "a person who is good at sports",
+  "ex": "The young athlete trained every day before school."
+ },
+ {
+  "id": "atmosphere",
+  "ipa": "/ˈætməsfɪr/",
+  "fr": "atmosphère ; ambiance",
+  "def": "the air around the earth, or a mood",
+  "ex": "The restaurant has a warm and friendly atmosphere."
+ },
+ {
+  "id": "attach",
+  "ipa": "/əˈtætʃ/",
+  "fr": "joindre, attacher",
+  "def": "to fasten or join one thing to another",
+  "ex": "Please attach your resume to the email today."
+ },
+ {
+  "id": "attack",
+  "ipa": "/əˈtæk/",
+  "fr": "attaque ; attaquer",
+  "def": "a violent act meant to hurt someone",
+  "ex": "The soldiers prepared to attack at dawn tomorrow."
+ },
+ {
+  "id": "attempt",
+  "ipa": "/əˈtempt/",
+  "fr": "tentative ; tenter",
+  "def": "to try to do something",
+  "ex": "She made an attempt to fix the broken bike."
+ },
+ {
+  "id": "attend",
+  "ipa": "/əˈtend/",
+  "fr": "assister à, participer à",
+  "def": "to go to an event, class, or meeting",
+  "ex": "All students must attend the meeting on Friday."
+ },
+ {
+  "id": "attention",
+  "ipa": "/əˈtenʃn/",
+  "fr": "attention",
+  "def": "the act of watching, listening, or thinking carefully",
+  "ex": "Please pay attention while the teacher is speaking."
+ },
+ {
+  "id": "attitude",
+  "ipa": "/ˈætɪtuːd/",
+  "fr": "attitude",
+  "def": "the way someone thinks or feels about something",
+  "ex": "He has a very positive attitude toward his work."
+ },
+ {
+  "id": "attorney",
+  "ipa": "/əˈtɜːrni/",
+  "fr": "avocat(e)",
+  "def": "a lawyer who represents people in legal matters",
+  "ex": "She hired an attorney to help with the contract."
+ },
+ {
+  "id": "attract",
+  "ipa": "/əˈtrækt/",
+  "fr": "attirer",
+  "def": "to make someone interested in something",
+  "ex": "The museum attracts thousands of visitors every summer."
+ },
+ {
+  "id": "attraction",
+  "ipa": "/əˈtrækʃn/",
+  "fr": "attraction ; attirance",
+  "def": "something that draws people's interest",
+  "ex": "The old castle is the town's biggest tourist attraction."
+ },
+ {
+  "id": "attractive",
+  "ipa": "/əˈtræktɪv/",
+  "fr": "attirant, séduisant",
+  "def": "pleasant to look at",
+  "ex": "She wore an attractive dress to the wedding party."
+ },
+ {
+  "id": "audience",
+  "ipa": "/ˈɔːdiəns/",
+  "fr": "public, audience",
+  "def": "the people watching or listening to a show",
+  "ex": "The audience clapped loudly after the final song."
+ },
+ {
+  "id": "august",
+  "ipa": "/ˈɔːɡəst/",
+  "fr": "août",
+  "def": "the eighth month of the year",
+  "ex": "We usually go on vacation in early August."
+ },
+ {
+  "id": "aunt",
+  "ipa": "/ænt/",
+  "fr": "tante",
+  "def": "the sister of your mother or father",
+  "ex": "My aunt is visiting us from Canada this week."
+ },
+ {
+  "id": "author",
+  "ipa": "/ˈɔːθər/",
+  "fr": "auteur, auteure",
+  "def": "a person who writes a book",
+  "ex": "The author signed copies of her new novel."
+ },
+ {
+  "id": "authority",
+  "ipa": "/əˈθɔːrəti/",
+  "fr": "autorité",
+  "def": "the power to control or command people",
+  "ex": "The teacher has authority over the whole classroom."
+ },
+ {
+  "id": "automatic",
+  "ipa": "/ˌɔːtəˈmætɪk/",
+  "fr": "automatique",
+  "def": "working by itself, without a person's control",
+  "ex": "The new car has automatic doors that open alone."
+ },
+ {
+  "id": "automatically",
+  "ipa": "/ˌɔːtəˈmætɪkli/",
+  "fr": "automatiquement",
+  "def": "without a person controlling it",
+  "ex": "The lights turn on automatically when it gets dark."
+ },
+ {
+  "id": "available",
+  "ipa": "/əˈveɪləbl/",
+  "fr": "disponible",
+  "def": "able to be used, bought, or found",
+  "ex": "Tickets are still available for tonight's basketball game."
+ },
+ {
+  "id": "average",
+  "ipa": "/ˈævərɪdʒ/",
+  "fr": "moyen, moyenne (n./adj.) ; faire en moyenne (v.)",
+  "def": "the usual or normal amount or level",
+  "ex": "The average temperature in July is very high."
+ },
+ {
+  "id": "avoid",
+  "ipa": "/əˈvɔɪd/",
+  "fr": "éviter",
+  "def": "to stay away from something or someone",
+  "ex": "Try to avoid busy roads during rush hour."
+ },
+ {
+  "id": "award",
+  "ipa": "/əˈwɔːrd/",
+  "fr": "prix, récompense (n.) ; décerner (v.)",
+  "def": "a prize given for good work or achievement",
+  "ex": "She won an award for her short film."
+ },
+ {
+  "id": "aware",
+  "ipa": "/əˈwer/",
+  "fr": "conscient, au courant",
+  "def": "knowing that something exists or is happening",
+  "ex": "He was not aware of the new office rules."
+ },
+ {
+  "id": "away",
+  "ipa": "/əˈweɪ/",
+  "fr": "loin, au loin",
+  "def": "at a distance from a place or person",
+  "ex": "The beach is a short walk away from here."
+ },
+ {
+  "id": "awesome",
+  "ipa": "/ˈɔːsəm/",
+  "fr": "génial, super",
+  "def": "extremely good or impressive",
+  "ex": "We had an awesome time at the concert last night."
+ },
+ {
+  "id": "awful",
+  "ipa": "/ˈɔːfl/",
+  "fr": "affreux, terrible",
+  "def": "very bad or unpleasant",
+  "ex": "The weather was awful during our whole trip."
+ },
+ {
+  "id": "baby",
+  "ipa": "/ˈbeɪbi/",
+  "fr": "bébé",
+  "def": "a very young child",
+  "ex": "The baby slept peacefully through the whole night."
+ },
+ {
+  "id": "back",
+  "ipa": "/bæk/",
+  "fr": "dos (n.) ; en arrière (adv.) ; soutenir (v.)",
+  "def": "the part of your body behind you, from neck to legs",
+  "ex": "He hurt his back while lifting the heavy box."
+ },
+ {
+  "id": "background",
+  "ipa": "/ˈbækɡraʊnd/",
+  "fr": "arrière-plan ; origine, contexte",
+  "def": "the part of a picture or scene farthest away",
+  "ex": "You can see the mountains in the background of the photo."
+ },
+ {
+  "id": "backward",
+  "ipa": "/ˈbækwərd/",
+  "fr": "en arrière, à reculons",
+  "def": "toward the back, or in reverse",
+  "ex": "The car slowly rolled backward down the steep hill."
+ },
+ {
+  "id": "bacteria",
+  "ipa": "/bækˈtɪriə/",
+  "fr": "bactéries",
+  "def": "very small living things that can cause illness",
+  "ex": "Washing your hands kills most harmful bacteria quickly."
+ },
+ {
+  "id": "bad",
+  "ipa": "/bæd/",
+  "fr": "mauvais",
+  "def": "not good, or not pleasant",
+  "ex": "The food at that restaurant was really bad."
+ },
+ {
+  "id": "badly",
+  "ipa": "/ˈbædli/",
+  "fr": "mal",
+  "def": "in a way that is not good",
+  "ex": "The team played badly during the second half."
+ },
+ {
+  "id": "bag",
+  "ipa": "/bæɡ/",
+  "fr": "sac",
+  "def": "a container made of cloth, paper, or plastic",
+  "ex": "She packed a bag for her weekend trip."
+ },
+ {
+  "id": "bake",
+  "ipa": "/beɪk/",
+  "fr": "faire cuire au four",
+  "def": "to cook food using dry heat in an oven",
+  "ex": "My mother likes to bake cookies on Sundays."
+ },
+ {
+  "id": "balance",
+  "ipa": "/ˈbæləns/",
+  "fr": "équilibre ; équilibrer",
+  "def": "a steady state when weight is evenly spread",
+  "ex": "She lost her balance and almost fell off the bike."
+ },
+ {
+  "id": "ball",
+  "ipa": "/bɔːl/",
+  "fr": "balle, ballon",
+  "def": "a round object used in games and sports",
+  "ex": "The dog ran to catch the ball in the yard."
+ },
+ {
+  "id": "ban",
+  "ipa": "/bæn/",
+  "fr": "interdire ; interdiction",
+  "def": "to officially say something is not allowed",
+  "ex": "The city plans to ban smoking in all parks."
+ },
+ {
+  "id": "banana",
+  "ipa": "/bəˈnænə/",
+  "fr": "banane",
+  "def": "a long curved yellow fruit",
+  "ex": "He ate a banana for breakfast this morning."
+ },
+ {
+  "id": "band",
+  "ipa": "/bænd/",
+  "fr": "groupe (musical)",
+  "def": "a small group of musicians who play together",
+  "ex": "The band played our favorite song at the party."
+ },
+ {
+  "id": "bank-money",
+  "ipa": "/bæŋk/",
+  "fr": "banque",
+  "def": "a place that keeps and lends people's money",
+  "ex": "She went to the bank to open a new account."
+ },
+ {
+  "id": "bank-river",
+  "ipa": "/bæŋk/",
+  "fr": "berge, rive",
+  "def": "the land along the side of a river",
+  "ex": "They had a picnic on the bank of the river."
+ },
+ {
+  "id": "bar",
+  "ipa": "/bɑːr/",
+  "fr": "bar (café) ; barre ; interdire (v.)",
+  "def": "a place where people go to buy and drink alcohol",
+  "ex": "We met our friends at a bar downtown."
+ },
+ {
+  "id": "barrier",
+  "ipa": "/ˈbæriər/",
+  "fr": "barrière, obstacle",
+  "def": "something that blocks movement or progress",
+  "ex": "Language can be a barrier when traveling abroad."
+ },
+ {
+  "id": "base",
+  "ipa": "/beɪs/",
+  "fr": "base ; baser, fonder",
+  "def": "the lowest part of something, that supports it",
+  "ex": "The lamp has a heavy base so it won't tip."
+ },
+ {
+  "id": "baseball",
+  "ipa": "/ˈbeɪsbɔːl/",
+  "fr": "baseball",
+  "def": "a game played with a bat and a ball",
+  "ex": "The boys played baseball in the park after school."
+ },
+ {
+  "id": "based",
+  "ipa": "/beɪst/",
+  "fr": "basé, fondé",
+  "def": "having a particular place as a main office or home",
+  "ex": "The company is based in a small town in Ohio."
+ },
+ {
+  "id": "basic",
+  "ipa": "/ˈbeɪsɪk/",
+  "fr": "basique, fondamental, élémentaire",
+  "def": "simple and necessary, forming the base of something",
+  "ex": "Everyone needs basic skills like reading and writing."
+ },
+ {
+  "id": "basically",
+  "ipa": "/ˈbeɪsɪkli/",
+  "fr": "en gros, fondamentalement",
+  "def": "in the most important or simplest way",
+  "ex": "Basically, we need more time to finish the project."
+ },
+ {
+  "id": "basis",
+  "ipa": "/ˈbeɪsɪs/",
+  "fr": "base, fondement",
+  "def": "the main reason or starting point for something",
+  "ex": "Trust is the basis of every good friendship."
+ },
+ {
+  "id": "basketball",
+  "ipa": "/ˈbæskɪtbɔːl/",
+  "fr": "basketball, basket",
+  "def": "a game played by throwing a ball through a hoop",
+  "ex": "They play basketball together every Saturday morning at the park."
+ },
+ {
+  "id": "bath",
+  "ipa": "/bæθ/",
+  "fr": "bain",
+  "def": "an act of washing your whole body in water",
+  "ex": "She gave the dog a bath in the yard."
+ },
+ {
+  "id": "bathroom",
+  "ipa": "/ˈbæθruːm/",
+  "fr": "salle de bain(s)",
+  "def": "a room with a bath, shower, or toilet",
+  "ex": "The bathroom in our new house is very small."
+ },
+ {
+  "id": "battery",
+  "ipa": "/ˈbætəri/",
+  "fr": "batterie, pile",
+  "def": "a device that stores electricity for power",
+  "ex": "My phone battery died before the end of the trip."
+ },
+ {
+  "id": "battle",
+  "ipa": "/ˈbætl/",
+  "fr": "bataille ; se battre, lutter",
+  "def": "a fight between armies in a war",
+  "ex": "Many soldiers died in that famous battle years ago."
+ },
+ {
+  "id": "be",
+  "ipa": "/biː/",
+  "fr": "être",
+  "def": "used to describe or identify someone or something",
+  "ex": "She wants to be a doctor when she grows up."
+ },
+ {
+  "id": "beach",
+  "ipa": "/biːtʃ/",
+  "fr": "plage",
+  "def": "an area of sand next to the sea",
+  "ex": "We spent the whole sunny day at the beach."
+ },
+ {
+  "id": "bean",
+  "ipa": "/biːn/",
+  "fr": "haricot, fève",
+  "def": "a small seed from a plant, used as food",
+  "ex": "She added black beans to the soup for dinner."
+ },
+ {
+  "id": "bear-deal-with",
+  "ipa": "/ber/",
+  "fr": "supporter, endurer",
+  "def": "to accept or deal with something difficult",
+  "ex": "I can't bear the noise from the construction site."
+ },
+ {
+  "id": "bear-animal",
+  "ipa": "/ber/",
+  "fr": "ours",
+  "def": "a large wild animal with thick fur",
+  "ex": "We saw a bear near the river during our hike."
+ },
+ {
+  "id": "beat",
+  "ipa": "/biːt/",
+  "fr": "battre (v.) ; battement, rythme (n.)",
+  "def": "to defeat someone in a game or fight",
+  "ex": "Our team beat the other school in the final game."
+ },
+ {
+  "id": "beautiful",
+  "ipa": "/ˈbjuːtɪfl/",
+  "fr": "beau, belle",
+  "def": "very pleasant to look at",
+  "ex": "The sunset over the ocean was absolutely beautiful tonight."
+ },
+ {
+  "id": "beauty",
+  "ipa": "/ˈbjuːti/",
+  "fr": "beauté",
+  "def": "the quality of being beautiful",
+  "ex": "Tourists come to see the beauty of the mountains."
+ },
+ {
+  "id": "because",
+  "ipa": "/bɪˈkɔːz/",
+  "fr": "parce que",
+  "def": "for the reason that",
+  "ex": "She stayed home because she felt very sick."
+ },
+ {
+  "id": "become",
+  "ipa": "/bɪˈkʌm/",
+  "fr": "devenir",
+  "def": "to start to be something",
+  "ex": "He wants to become a teacher after college."
+ },
+ {
+  "id": "bed",
+  "ipa": "/bed/",
+  "fr": "lit",
+  "def": "a piece of furniture for sleeping",
+  "ex": "She made her bed as soon as she woke up."
+ },
+ {
+  "id": "bedroom",
+  "ipa": "/ˈbedruːm/",
+  "fr": "chambre (à coucher)",
+  "def": "a room used for sleeping",
+  "ex": "My bedroom has a big window facing the garden."
+ }
+]

@@ -1,0 +1,1994 @@
+[
+ {
+  "id": "cook",
+  "word": "cook",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/kʊk/",
+  "fr": "cuisiner (v.) ; cuisinier, cuisinière (n.)",
+  "def": "to prepare food by heating it",
+  "ex": "My father cooks dinner for us every Sunday."
+ },
+ {
+  "id": "cool",
+  "word": "cool",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kuːl/",
+  "fr": "frais ; cool (adj.) ; refroidir (v.)",
+  "def": "slightly cold, in a pleasant way",
+  "ex": "Let's have a cool drink on this hot day."
+ },
+ {
+  "id": "copy",
+  "word": "copy",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈkɑːpi/",
+  "fr": "copie (n.) ; copier (v.)",
+  "def": "something made to look exactly like another thing",
+  "ex": "Please make a copy of this document for the meeting."
+ },
+ {
+  "id": "core",
+  "word": "core",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/kɔːr/",
+  "fr": "noyau, cœur (n.) ; central (adj.)",
+  "def": "the central or most important part of something",
+  "ex": "Honesty is at the core of their friendship."
+ },
+ {
+  "id": "correct",
+  "word": "correct",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/kəˈrekt/",
+  "fr": "correct, exact (adj.) ; corriger (v.)",
+  "def": "right or true, without any mistakes",
+  "ex": "Please check carefully if your final answer is correct."
+ },
+ {
+  "id": "cost",
+  "word": "cost",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/kɔːst/",
+  "fr": "coût, prix (n.) ; coûter (v.)",
+  "def": "the amount of money needed to buy something",
+  "ex": "The cost of living has risen sharply this year."
+ },
+ {
+  "id": "count",
+  "word": "count",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kaʊnt/",
+  "fr": "compter (v.) ; compte (n.)",
+  "def": "to say numbers in order, one by one",
+  "ex": "The children learned to count to one hundred."
+ },
+ {
+  "id": "couple",
+  "word": "couple",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈkʌpl/",
+  "fr": "couple ; quelques",
+  "def": "two people who are married or in a relationship",
+  "ex": "A young couple moved into the house next door."
+ },
+ {
+  "id": "course",
+  "word": "course",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/kɔːrs/",
+  "fr": "cours ; parcours",
+  "def": "a series of lessons on a particular subject",
+  "ex": "I am taking a Spanish course this semester."
+ },
+ {
+  "id": "court",
+  "word": "court",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kɔːrt/",
+  "fr": "tribunal ; court (sport)",
+  "def": "a place where legal cases are decided",
+  "ex": "The judge listened carefully in the crowded court."
+ },
+ {
+  "id": "cover",
+  "word": "cover",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈkʌvɚ/",
+  "fr": "couvrir (v.) ; couverture (n.)",
+  "def": "to put something over another thing to protect it",
+  "ex": "She covered the baby with a warm blanket."
+ },
+ {
+  "id": "crash",
+  "word": "crash",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/kræʃ/",
+  "fr": "accident, collision (n.) ; s'écraser (v.)",
+  "def": "an accident in which a vehicle hits something",
+  "ex": "Two cars were badly damaged in the crash yesterday."
+ },
+ {
+  "id": "cream",
+  "word": "cream",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kriːm/",
+  "fr": "crème (n.) ; crème, couleur crème (adj.)",
+  "def": "a thick liquid made from the fat in milk",
+  "ex": "She added cream to her coffee this morning."
+ },
+ {
+  "id": "credit",
+  "word": "credit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈkredɪt/",
+  "fr": "crédit (n.) ; créditer, attribuer (v.)",
+  "def": "an arrangement to pay for something later",
+  "ex": "I paid for the tickets using my credit card."
+ },
+ {
+  "id": "criminal",
+  "word": "criminal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈkrɪmɪnl/",
+  "fr": "criminel, criminelle (n.) ; criminel (adj.)",
+  "def": "a person who has committed a crime",
+  "ex": "The criminal was caught by the police last night."
+ },
+ {
+  "id": "cross",
+  "word": "cross",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/krɔːs/",
+  "fr": "traverser (v.) ; croix (n.)",
+  "def": "to go from one side of something to the other",
+  "ex": "Look both ways before you cross the street."
+ },
+ {
+  "id": "cry",
+  "word": "cry",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/kraɪ/",
+  "fr": "pleurer (v.) ; cri, pleurs (n.)",
+  "def": "to produce tears because you are sad",
+  "ex": "The little girl started to cry when she fell."
+ },
+ {
+  "id": "cure",
+  "word": "cure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/kjʊr/",
+  "fr": "guérir (v.) ; remède, guérison (n.)",
+  "def": "to make an illness go away completely",
+  "ex": "Scientists are trying to cure this rare disease."
+ },
+ {
+  "id": "current",
+  "word": "current",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈkɝːənt/",
+  "fr": "actuel (adj.) ; courant, eau/électricité (n.)",
+  "def": "happening or existing now",
+  "ex": "Please tell me your current address and phone number."
+ },
+ {
+  "id": "curve",
+  "word": "curve",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/kɝːv/",
+  "fr": "courbe (n.) ; se courber (v.)",
+  "def": "a line that bends smoothly, like part of a circle",
+  "ex": "The road has a sharp curve near the lake."
+ },
+ {
+  "id": "cut",
+  "word": "cut",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kʌt/",
+  "fr": "couper (v.) ; coupure (n.)",
+  "def": "to divide or open something with a sharp tool",
+  "ex": "She cut the fresh bread into thin slices."
+ },
+ {
+  "id": "cycle",
+  "word": "cycle",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsaɪkl/",
+  "fr": "cycle (n.) ; faire du vélo (v.)",
+  "def": "a series of events that happen again and again",
+  "ex": "We watched the whole life cycle of a butterfly."
+ },
+ {
+  "id": "daily",
+  "word": "daily",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈdeɪli/",
+  "fr": "quotidien (adj.) ; quotidiennement (adv.)",
+  "def": "happening or done every day",
+  "ex": "Reading the newspaper is part of my daily routine."
+ },
+ {
+  "id": "damage",
+  "word": "damage",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈdæmɪdʒ/",
+  "fr": "dommage, dégât (n.) ; endommager (v.)",
+  "def": "harm or injury caused to something",
+  "ex": "The storm caused serious damage to the roof."
+ },
+ {
+  "id": "dance",
+  "word": "dance",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/dæns/",
+  "fr": "danse (n.) ; danser (v.)",
+  "def": "to move your body to the rhythm of music",
+  "ex": "We danced together happily at my cousin's wedding party."
+ },
+ {
+  "id": "dark",
+  "word": "dark",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/dɑːrk/",
+  "fr": "sombre, foncé (adj.) ; obscurité (n.)",
+  "def": "with little or no light",
+  "ex": "It gets dark very early in winter here."
+ },
+ {
+  "id": "date",
+  "word": "date",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/deɪt/",
+  "fr": "date (n.) ; sortir avec, dater (v.)",
+  "def": "a particular day of the month or year",
+  "ex": "Please tell me the date of your final exam."
+ },
+ {
+  "id": "deal",
+  "word": "deal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/diːl/",
+  "fr": "traiter, gérer (v.) ; accord, affaire (n.)",
+  "def": "to take action to solve or handle something",
+  "ex": "We need to deal with this issue right away."
+ },
+ {
+  "id": "debate",
+  "word": "debate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈbeɪt/",
+  "fr": "débat (n.) ; débattre (v.)",
+  "def": "a formal discussion where people share different opinions",
+  "ex": "Students held a debate about climate change policies."
+ },
+ {
+  "id": "decline",
+  "word": "decline",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈklaɪn/",
+  "fr": "décliner, refuser (v.) ; déclin, baisse (n.)",
+  "def": "to become smaller, weaker, or worse",
+  "ex": "Sales have declined sharply since the summer season ended."
+ },
+ {
+  "id": "decrease",
+  "word": "decrease",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈkriːs/ (v.), /ˈdiːkriːs/ (n.)",
+  "fr": "diminuer (v.) ; diminution, baisse (n.)",
+  "def": "to become smaller in size, number, or amount",
+  "ex": "The number of visitors decreased during the winter months."
+ },
+ {
+  "id": "deep",
+  "word": "deep",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/diːp/",
+  "fr": "profond",
+  "def": "going a long way down from the top",
+  "ex": "The lake is very deep near the middle."
+ },
+ {
+  "id": "defeat",
+  "word": "defeat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈfiːt/",
+  "fr": "vaincre, battre (v.) ; défaite (n.)",
+  "def": "to win against someone in a fight or game",
+  "ex": "Our team defeated the champions in the final match."
+ },
+ {
+  "id": "degree",
+  "word": "degree",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/dɪˈɡriː/",
+  "fr": "degré ; diplôme",
+  "def": "a unit used to measure temperature or angles",
+  "ex": "The temperature dropped to five degrees during the night."
+ },
+ {
+  "id": "delay",
+  "word": "delay",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈleɪ/",
+  "fr": "retarder (v.) ; retard (n.)",
+  "def": "to make something happen later than planned",
+  "ex": "Heavy snow delayed our flight by three hours."
+ },
+ {
+  "id": "demand",
+  "word": "demand",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈmænd/",
+  "fr": "demande, exigence (n.) ; exiger (v.)",
+  "def": "a strong request or need for something",
+  "ex": "Workers are demanding better pay and safer conditions."
+ },
+ {
+  "id": "desert",
+  "word": "desert",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈdezɚt/ (n.), /dɪˈzɝːt/ (v.)",
+  "fr": "désert (n.) ; abandonner, déserter (v.)",
+  "def": "a large area of land with very little rain",
+  "ex": "The Sahara is the largest hot desert in the world."
+ },
+ {
+  "id": "design",
+  "word": "design",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/dɪˈzaɪn/",
+  "fr": "conception, design (n.) ; concevoir (v.)",
+  "def": "a drawing or plan that shows how to make something",
+  "ex": "The architect showed us the design for our new house."
+ },
+ {
+  "id": "desire",
+  "word": "desire",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈzaɪɚ/",
+  "fr": "désir, envie (n.) ; désirer (v.)",
+  "def": "a strong feeling of wanting something",
+  "ex": "He has always had a strong desire to travel."
+ },
+ {
+  "id": "detail",
+  "word": "detail",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈdiːteɪl/",
+  "fr": "détail (n.) ; détailler, préciser (v.)",
+  "def": "a small individual fact or piece of information",
+  "ex": "She remembered every detail of that special day."
+ },
+ {
+  "id": "direct",
+  "word": "direct",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "v., adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/dɪˈrekt/",
+  "fr": "direct (adj.) ; diriger, mettre en scène (v.)",
+  "def": "going straight to a place without stopping",
+  "ex": "We took a direct flight from Paris to Tokyo."
+ },
+ {
+  "id": "director",
+  "word": "director",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/dəˈrektɚ/",
+  "fr": "directeur, directrice ; réalisateur (cinéma)",
+  "def": "a person who manages a company, film, or organization",
+  "ex": "The director gave clear instructions to the actors."
+ },
+ {
+  "id": "discount",
+  "word": "discount",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈdɪskaʊnt/ (n.), /dɪsˈkaʊnt/ (v.)",
+  "fr": "remise, réduction (n.) ; réduire (v.)",
+  "def": "a reduction in the usual price of something",
+  "ex": "Students get a discount on movie tickets here."
+ },
+ {
+  "id": "dish",
+  "word": "dish",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/dɪʃ/",
+  "fr": "plat ; assiette",
+  "def": "a plate used for cooking or serving food",
+  "ex": "She washed every dish after the big dinner."
+ },
+ {
+  "id": "dislike",
+  "word": "dislike",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/dɪsˈlaɪk/",
+  "fr": "ne pas aimer, détester (v.) ; aversion (n.)",
+  "def": "to feel that you do not like something",
+  "ex": "I really dislike waking up early on weekends."
+ },
+ {
+  "id": "dismiss",
+  "word": "dismiss",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪsˈmɪs/",
+  "fr": "rejeter, écarter ; renvoyer (employé)",
+  "def": "to decide that something is not important",
+  "ex": "The teacher will dismiss the class at noon."
+ },
+ {
+  "id": "display",
+  "word": "display",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈspleɪ/",
+  "fr": "afficher, exposer (v.) ; exposition, écran (n.)",
+  "def": "to show something so people can see it",
+  "ex": "The store will display the new products tomorrow."
+ },
+ {
+  "id": "divide",
+  "word": "divide",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dɪˈvaɪd/",
+  "fr": "diviser (v.) ; fossé, division (n.)",
+  "def": "to separate something into two or more parts",
+  "ex": "Let's divide the pizza into eight equal slices."
+ },
+ {
+  "id": "do-1",
+  "word": "do",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., auxiliary v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/duː/",
+  "fr": "faire ; auxiliaire (questions/négations)",
+  "def": "to perform or complete an action or task",
+  "ex": "I need to do my homework before dinner."
+ },
+ {
+  "id": "document",
+  "word": "document",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈdɑːkjəmənt/ (n.), /ˈdɑːkjəment/ (v.)",
+  "fr": "document (n.) ; documenter (v.)",
+  "def": "a piece of paper with official information on it",
+  "ex": "Please sign the document before you leave today."
+ },
+ {
+  "id": "domestic",
+  "word": "domestic",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dəˈmestɪk/",
+  "fr": "domestique ; national, intérieur (pays)",
+  "def": "relating to the home or to your own country",
+  "ex": "The airline offers many domestic flights every day."
+ },
+ {
+  "id": "double",
+  "word": "double",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., det., pron., v.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈdʌbəl/",
+  "fr": "double (adj.) ; doubler (v.)",
+  "def": "twice as much or as many",
+  "ex": "The company plans to double its profits next year."
+ },
+ {
+  "id": "doubt",
+  "word": "doubt",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/daʊt/",
+  "fr": "doute (n.) ; douter (v.)",
+  "def": "a feeling of not being sure about something",
+  "ex": "I have no doubt that she will succeed."
+ },
+ {
+  "id": "download",
+  "word": "download",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈdaʊnloʊd/",
+  "fr": "télécharger (v.) ; téléchargement (n.)",
+  "def": "to copy data from the internet onto a device",
+  "ex": "I need to download the file before the meeting."
+ },
+ {
+  "id": "downstairs",
+  "word": "downstairs",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˌdaʊnˈsterz/",
+  "fr": "en bas (adv.) ; du bas (adj.)",
+  "def": "on or to a lower floor of a building",
+  "ex": "She ran downstairs quickly to answer the door."
+ },
+ {
+  "id": "downward",
+  "word": "downward",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈdaʊnwɚd/",
+  "fr": "vers le bas ; descendant (adj.)",
+  "def": "moving or pointing toward a lower position",
+  "ex": "Prices have been moving in a downward direction lately."
+ },
+ {
+  "id": "draft",
+  "word": "draft",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/dræft/",
+  "fr": "brouillon (n.) ; rédiger (v.)",
+  "def": "an early version of a piece of writing",
+  "ex": "I wrote a first draft of my essay."
+ },
+ {
+  "id": "dream",
+  "word": "dream",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/driːm/",
+  "fr": "rêve (n.) ; rêver (v.)",
+  "def": "images and thoughts that occur in your mind while asleep",
+  "ex": "I had a strange dream about flying last night."
+ },
+ {
+  "id": "dress",
+  "word": "dress",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/dres/",
+  "fr": "robe (n.) ; s'habiller (v.)",
+  "def": "a piece of clothing worn by women or girls",
+  "ex": "She wore a beautiful blue dress to the party."
+ },
+ {
+  "id": "drink",
+  "word": "drink",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/drɪŋk/",
+  "fr": "boisson (n.) ; boire (v.)",
+  "def": "a liquid you swallow to quench your thirst",
+  "ex": "She poured a cold drink of water for him."
+ },
+ {
+  "id": "drive",
+  "word": "drive",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/draɪv/",
+  "fr": "conduire (v.) ; trajet, allée (n.)",
+  "def": "to operate and control a car or vehicle",
+  "ex": "He drives to work every morning by himself."
+ },
+ {
+  "id": "drop",
+  "word": "drop",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/drɑːp/",
+  "fr": "laisser tomber (v.) ; goutte, chute (n.)",
+  "def": "to let something fall by accident or on purpose",
+  "ex": "Please don't drop the plates while carrying them."
+ },
+ {
+  "id": "drug",
+  "word": "drug",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/drʌg/",
+  "fr": "drogue ; médicament",
+  "def": "a substance taken to treat illness or for pleasure",
+  "ex": "The new drug helped reduce her headaches quickly."
+ },
+ {
+  "id": "dry",
+  "word": "dry",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/draɪ/",
+  "fr": "sec (adj.) ; sécher (v.)",
+  "def": "having no water or liquid inside or on it",
+  "ex": "The desert air is extremely dry and hot."
+ },
+ {
+  "id": "due",
+  "word": "due",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/duː/",
+  "fr": "attendu, prévu ; dû, exigible",
+  "def": "expected to happen or arrive at a certain time",
+  "ex": "The rent is due on the first of the month."
+ },
+ {
+  "id": "duty",
+  "word": "duty",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈduːti/",
+  "fr": "devoir ; taxe (douane)",
+  "def": "something you must do because it is right",
+  "ex": "It is our duty to help those in need."
+ },
+ {
+  "id": "each",
+  "word": "each",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron./adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/iːtʃ/",
+  "fr": "chaque ; chacun (pron.)",
+  "def": "every one of two or more things or people",
+  "ex": "Each student in the class received a new book."
+ },
+ {
+  "id": "early",
+  "word": "early",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈɝːli/",
+  "fr": "tôt, précoce (adj.) ; tôt (adv.)",
+  "def": "before the usual or expected time",
+  "ex": "We woke up early to catch the flight."
+ },
+ {
+  "id": "earth",
+  "word": "earth",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ɝːθ/",
+  "fr": "Terre (planète) ; terre, sol",
+  "def": "the planet we live on",
+  "ex": "The earth travels around the sun every year."
+ },
+ {
+  "id": "editor",
+  "word": "editor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈedɪtɚ/",
+  "fr": "rédacteur, rédactrice ; éditeur",
+  "def": "a person who prepares text for publication",
+  "ex": "The editor corrected several mistakes in my article."
+ },
+ {
+  "id": "either",
+  "word": "either",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron., adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈiːðɚ/",
+  "fr": "l'un ou l'autre ; non plus",
+  "def": "used to talk about one of two people or things",
+  "ex": "You can choose either the red or the blue one."
+ },
+ {
+  "id": "email",
+  "word": "email",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈiːmeɪl/",
+  "fr": "e-mail, courriel (n.) ; envoyer un e-mail (v.)",
+  "def": "a message sent electronically over the internet",
+  "ex": "I will email you the report this afternoon."
+ },
+ {
+  "id": "empty",
+  "word": "empty",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈempti/",
+  "fr": "vide (adj.) ; vider (v.)",
+  "def": "having nothing or no one inside",
+  "ex": "The classroom was empty after the students left."
+ },
+ {
+  "id": "end",
+  "word": "end",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/end/",
+  "fr": "fin (n.) ; finir, terminer (v.)",
+  "def": "the last part or point of something",
+  "ex": "The movie ends with a very surprising twist."
+ },
+ {
+  "id": "engaged",
+  "word": "engaged",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪnˈgeɪdʒd/",
+  "fr": "fiancé ; occupé, engagé",
+  "def": "having formally agreed to marry someone",
+  "ex": "They got engaged last summer at the beach."
+ },
+ {
+  "id": "entry",
+  "word": "entry",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈentri/",
+  "fr": "entrée ; inscription (concours)",
+  "def": "the act of entering, or a way in",
+  "ex": "Entry to the museum is free on Sundays."
+ },
+ {
+  "id": "equal",
+  "word": "equal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈiːkwəl/",
+  "fr": "égal (adj.) ; égaler (v.)",
+  "def": "the same in size, number, or value",
+  "ex": "The two teams scored an equal number of points."
+ },
+ {
+  "id": "escape",
+  "word": "escape",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪˈskeɪp/",
+  "fr": "s'échapper, s'évader (v.) ; évasion (n.)",
+  "def": "to get free from a place or danger",
+  "ex": "The prisoner tried to escape during the night."
+ },
+ {
+  "id": "estate",
+  "word": "estate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪˈsteɪt/",
+  "fr": "propriété, domaine ; patrimoine",
+  "def": "a large area of land with a house",
+  "ex": "The family owns a large estate in the countryside."
+ },
+ {
+  "id": "estimate",
+  "word": "estimate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈestɪmət/ (n.), /ˈestɪmeɪt/ (v.)",
+  "fr": "estimer (v.) ; estimation (n.)",
+  "def": "to guess the size, value, or amount of something",
+  "ex": "We estimate the trip will take three hours."
+ },
+ {
+  "id": "even",
+  "word": "even",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈiːvən/",
+  "fr": "même (adv.) ; régulier, pair (adj.)",
+  "def": "used to emphasize something surprising or extreme",
+  "ex": "Even my little brother can solve this puzzle."
+ },
+ {
+  "id": "evil",
+  "word": "evil",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈiːvəl/",
+  "fr": "mauvais, maléfique (adj.) ; mal (n.)",
+  "def": "very bad or cruel",
+  "ex": "The story is about a battle between good and evil."
+ },
+ {
+  "id": "examination",
+  "word": "examination",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪgˌzæməˈneɪʃən/",
+  "fr": "examen (formel) ; contrôle médical",
+  "def": "a formal test, or a careful check of something",
+  "ex": "The doctor performed a full medical examination today."
+ },
+ {
+  "id": "except",
+  "word": "except",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep.",
+    "level": "A2"
+   },
+   {
+    "pos": "conj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪkˈsept/",
+  "fr": "sauf, excepté",
+  "def": "not including; other than",
+  "ex": "Everyone came to the party except my brother."
+ },
+ {
+  "id": "exchange",
+  "word": "exchange",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪksˈtʃeɪndʒ/",
+  "fr": "échanger (v.) ; échange (n.)",
+  "def": "to give something and receive something else in return",
+  "ex": "They agreed to exchange phone numbers after class."
+ },
+ {
+  "id": "excuse",
+  "word": "excuse",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪkˈskjuːs/ (n.), /ɪkˈskjuːz/ (v.)",
+  "fr": "excuse (n.) ; excuser (v.)",
+  "def": "a reason given to explain a mistake",
+  "ex": "He gave a good excuse for being late."
+ },
+ {
+  "id": "executive",
+  "word": "executive",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪgˈzekjətɪv/",
+  "fr": "cadre, dirigeant (n.) ; exécutif (adj.)",
+  "def": "a person with a senior role in a company",
+  "ex": "She became a senior executive at the bank."
+ },
+ {
+  "id": "exercise",
+  "word": "exercise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈeksɚsaɪz/",
+  "fr": "exercice (n.) ; faire de l'exercice (v.)",
+  "def": "physical activity done to stay healthy and strong",
+  "ex": "She exercises every morning before going to work."
+ },
+ {
+  "id": "exhibit",
+  "word": "exhibit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪgˈzɪbɪt/",
+  "fr": "exposer (v.) ; objet exposé (n.)",
+  "def": "to show something in public, as in a museum",
+  "ex": "The gallery will exhibit new paintings next month."
+ },
+ {
+  "id": "exit",
+  "word": "exit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈeksɪt/",
+  "fr": "sortie (n.) ; sortir de (v.)",
+  "def": "a way out of a building or place",
+  "ex": "The nearest exit is at the end of the hall."
+ },
+ {
+  "id": "experience",
+  "word": "experience",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪkˈspɪriəns/",
+  "fr": "expérience (n.) ; vivre, éprouver (v.)",
+  "def": "knowledge or skill gained from doing something",
+  "ex": "She has a lot of experience teaching young children."
+ },
+ {
+  "id": "experiment",
+  "word": "experiment",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɪkˈsperəmənt/ (n.), /ɪkˈsperəment/ (v.)",
+  "fr": "expérience (n.) ; expérimenter (v.)",
+  "def": "a scientific test to discover something",
+  "ex": "The students did a science experiment in class."
+ },
+ {
+  "id": "export",
+  "word": "export",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈekspɔːrt/ (n.), /ɪkˈspɔːrt/ (v.)",
+  "fr": "exportation (n.) ; exporter (v.)",
+  "def": "to sell and send goods to another country",
+  "ex": "The country exports coffee to markets around the world."
+ },
+ {
+  "id": "extra",
+  "word": "extra",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n., adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈekstrə/",
+  "fr": "supplémentaire, en plus",
+  "def": "more than what is usual or expected",
+  "ex": "She brought an extra chair for her friend."
+ },
+ {
+  "id": "extreme",
+  "word": "extreme",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ɪkˈstriːm/",
+  "fr": "extrême",
+  "def": "very great in degree; not moderate at all",
+  "ex": "The climbers faced extreme cold near the summit."
+ },
+ {
+  "id": "face",
+  "word": "face",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/feɪs/",
+  "fr": "visage (n.) ; faire face à (v.)",
+  "def": "the front part of the head",
+  "ex": "She washed her face before going to bed."
+ },
+ {
+  "id": "fairly",
+  "word": "fairly",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈferli/",
+  "fr": "assez, plutôt ; équitablement",
+  "def": "to a moderate degree; quite",
+  "ex": "The exam was fairly easy compared to last time."
+ },
+ {
+  "id": "fall",
+  "word": "fall",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/fɔːl/",
+  "fr": "tomber (v.) ; automne (n.)",
+  "def": "to move down suddenly toward the ground or a lower level",
+  "ex": "Be careful not to fall when you climb the ladder."
+ },
+ {
+  "id": "family",
+  "word": "family",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈfæməli/",
+  "fr": "famille (n.) ; familial (adj.)",
+  "def": "a group of parents and their children",
+  "ex": "Our whole family gathers together every year for Thanksgiving."
+ },
+ {
+  "id": "fan",
+  "word": "fan",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/fæn/",
+  "fr": "fan, admirateur ; ventilateur",
+  "def": "a person who admires someone or something a lot",
+  "ex": "He is a huge fan of that basketball team."
+ },
+ {
+  "id": "far",
+  "word": "far",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/fɑːr/",
+  "fr": "loin",
+  "def": "at, to, or from a great distance",
+  "ex": "The train station is not far from here."
+ },
+ {
+  "id": "farm",
+  "word": "farm",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/fɑːrm/",
+  "fr": "ferme (n.) ; cultiver, exploiter (v.)",
+  "def": "an area of land used to grow crops or keep animals",
+  "ex": "My grandparents live on a small farm near the village."
+ },
+ {
+  "id": "fast",
+  "word": "fast",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/fæst/",
+  "fr": "rapide (adj.) ; vite (adv.)",
+  "def": "moving or able to move quickly",
+  "ex": "He drives too fast on this narrow road."
+ },
+ {
+  "id": "fat",
+  "word": "fat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/fæt/",
+  "fr": "gros (adj.) ; graisse (n.)",
+  "def": "having a lot of extra weight on the body",
+  "ex": "The cat is too fat and needs more exercise."
+ },
+ {
+  "id": "favor",
+  "word": "favor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈfeɪvɚ/",
+  "fr": "service, faveur (n.) ; préférer, favoriser (v.)",
+  "def": "a kind or helpful act you do for someone",
+  "ex": "I need to ask my neighbor for a small favor."
+ },
+ {
+  "id": "favorite",
+  "word": "favorite",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈfeɪvərɪt/",
+  "fr": "préféré (adj.) ; préféré, chouchou (n.)",
+  "def": "liked more than any other",
+  "ex": "Pizza is my favorite food in the whole world."
+ },
+ {
+  "id": "fear",
+  "word": "fear",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/fɪr/",
+  "fr": "peur (n.) ; craindre (v.)",
+  "def": "the feeling you have when something is dangerous",
+  "ex": "She couldn't hide her fear of the dark water."
+ },
+ {
+  "id": "feature",
+  "word": "feature",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈfiːtʃɚ/",
+  "fr": "particularité, trait (n.) ; présenter (v.)",
+  "def": "an important or typical part of something",
+  "ex": "The new phone has several useful features for students."
+ },
+ {
+  "id": "feed",
+  "word": "feed",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/fiːd/",
+  "fr": "nourrir (v.) ; fil d'actualité (n.)",
+  "def": "to give food to a person or animal",
+  "ex": "I feed my dog twice a day, morning and evening."
+ },
+ {
+  "id": "feel",
+  "word": "feel",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/fiːl/",
+  "fr": "sentir, ressentir (v.) ; sensation (n.)",
+  "def": "to experience a physical or emotional state",
+  "ex": "I feel much better after a good night's sleep."
+ },
+ {
+  "id": "female",
+  "word": "female",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈfiːmeɪl/",
+  "fr": "féminin, femelle (adj.) ; femme, femelle (n.)",
+  "def": "belonging to the sex that can have babies",
+  "ex": "The female lion protects her cubs from danger."
+ },
+ {
+  "id": "fight",
+  "word": "fight",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/faɪt/",
+  "fr": "se battre, lutter (v.) ; bagarre, combat (n.)",
+  "def": "to use physical force against someone",
+  "ex": "The two boys started to fight over the ball."
+ },
+ {
+  "id": "figure",
+  "word": "figure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈfɪɡjɚ/",
+  "fr": "chiffre, silhouette (n.) ; comprendre, calculer (v.)",
+  "def": "a number that represents an amount",
+  "ex": "Sales figures were much higher than expected this month."
+ },
+ {
+  "id": "file",
+  "word": "file",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/faɪl/",
+  "fr": "dossier, fichier (n.) ; classer, déposer (v.)",
+  "def": "a collection of papers or computer data kept together",
+  "ex": "Please save the document in a new file."
+ },
+ {
+  "id": "film",
+  "word": "film",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/fɪlm/",
+  "fr": "film (n.) ; filmer (v.)",
+  "def": "a movie shown at a theater or on television",
+  "ex": "We watched a great film about space travel."
+ },
+ {
+  "id": "final",
+  "word": "final",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈfaɪnl/",
+  "fr": "dernier, final (adj.) ; finale (n.)",
+  "def": "happening at the end of a series",
+  "ex": "This is the final chapter of the book."
+ },
+ {
+  "id": "finance",
+  "word": "finance",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/fəˈnæns/",
+  "fr": "finance (n.) ; financer (v.)",
+  "def": "the management of money",
+  "ex": "She studied finance at a university in Chicago."
+ },
+ {
+  "id": "fine",
+  "word": "fine",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/faɪn/",
+  "fr": "bien, ça va ; excellent",
+  "def": "good, acceptable, or satisfactory",
+  "ex": "Don't worry, everything will be fine in the end."
+ },
+ {
+  "id": "finish",
+  "word": "finish",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈfɪnɪʃ/",
+  "fr": "finir, terminer (v.) ; fin (n.)",
+  "def": "to complete or come to the end of something",
+  "ex": "We need to finish this project before Friday afternoon."
+ },
+ {
+  "id": "fire",
+  "word": "fire",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈfaɪɚ/",
+  "fr": "feu (n.) ; renvoyer, tirer (v.)",
+  "def": "the flames and heat produced when something burns",
+  "ex": "The firefighters quickly put out the fire in the kitchen."
+ }
+]

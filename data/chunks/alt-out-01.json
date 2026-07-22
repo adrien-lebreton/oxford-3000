@@ -1,0 +1,1222 @@
+[
+ {
+  "id": "access",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the chance or right to use, enter, or see something",
+    "ex": "Only staff members have access to this locked room."
+   }
+  ]
+ },
+ {
+  "id": "account",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to explain the reason or cause of something",
+    "ex": "He couldn't account for the missing money in the register."
+   }
+  ]
+ },
+ {
+  "id": "act",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a single thing that a person does",
+    "ex": "Helping a stranger is a simple act of kindness."
+   }
+  ]
+ },
+ {
+  "id": "addition",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the process of adding numbers together",
+    "ex": "Children learn addition and subtraction in first grade."
+   }
+  ]
+ },
+ {
+  "id": "address",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to deal with or begin to solve a problem",
+    "ex": "The manager promised to address our complaints next week."
+   }
+  ]
+ },
+ {
+  "id": "adult",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "fully grown, or relating to adults",
+    "ex": "The college offers adult education classes in the evening."
+   }
+  ]
+ },
+ {
+  "id": "advance",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a movement forward, or new progress in something",
+    "ex": "Doctors made a major advance in cancer treatment last year."
+   }
+  ]
+ },
+ {
+  "id": "affair",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a secret romantic relationship, especially when someone is married",
+    "ex": "He kept his affair with a coworker secret for months."
+   }
+  ]
+ },
+ {
+  "id": "after",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "afterward; at a later time",
+    "ex": "We ate dinner first and watched a movie after."
+   }
+  ]
+ },
+ {
+  "id": "age",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to become older, or to seem older",
+    "ex": "He aged quickly after years of stress at work."
+   }
+  ]
+ },
+ {
+  "id": "aid",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to help someone do something",
+    "ex": "Volunteers worked all night to aid the flood victims."
+   }
+  ]
+ },
+ {
+  "id": "aim",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a purpose or goal that you want to reach",
+    "ex": "Our main aim is to reduce plastic waste by half."
+   }
+  ]
+ },
+ {
+  "id": "alarm",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel worried or frightened",
+    "ex": "The strange noise outside alarmed the whole family last night."
+   }
+  ]
+ },
+ {
+  "id": "all",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "completely; entirely",
+    "ex": "Her hands were all covered in paint after art class."
+   }
+  ]
+ },
+ {
+  "id": "alternative",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "offering another possible choice",
+    "ex": "We need to find an alternative route around the closed road."
+   }
+  ]
+ },
+ {
+  "id": "amount",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to add up to a total; to be equal to",
+    "ex": "Her savings amounted to nearly three thousand dollars last year."
+   }
+  ]
+ },
+ {
+  "id": "answer",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say or write something back to a question",
+    "ex": "He quickly answered the teacher's question about the homework."
+   }
+  ]
+ },
+ {
+  "id": "any",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "at all; to any degree",
+    "ex": "The medicine didn't make her feel any better today."
+   }
+  ]
+ },
+ {
+  "id": "appeal",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the quality of being attractive or interesting",
+    "ex": "The old town has lost some of its appeal for tourists."
+   }
+  ]
+ },
+ {
+  "id": "appearance",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a time when someone appears in public or in a show",
+    "ex": "The singer made a surprise appearance at the charity concert."
+   }
+  ]
+ },
+ {
+  "id": "application",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a computer program designed for a particular use",
+    "ex": "I downloaded a new application to edit my photos."
+   }
+  ]
+ },
+ {
+  "id": "apply",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be relevant to a person or situation",
+    "ex": "This rule applies to every student in the school."
+   }
+  ]
+ },
+ {
+  "id": "approach",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move closer to someone or something",
+    "ex": "The storm is approaching the coast very quickly tonight."
+   }
+  ]
+ },
+ {
+  "id": "argue",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give reasons to support an opinion or idea",
+    "ex": "The lawyer argued that her client was completely innocent."
+   }
+  ]
+ },
+ {
+  "id": "argument",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a reason given to persuade people of something",
+    "ex": "She made a strong argument for reducing plastic use in stores."
+   }
+  ]
+ },
+ {
+  "id": "arrest",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of a police officer catching and holding someone",
+    "ex": "Her arrest made the front page of the local newspaper."
+   }
+  ]
+ },
+ {
+  "id": "as",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "while something else is happening",
+    "ex": "As I was leaving, the phone suddenly started to ring."
+   }
+  ]
+ },
+ {
+  "id": "atmosphere",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the layer of gases surrounding a planet",
+    "ex": "Pollution is damaging the Earth's atmosphere more each year."
+   }
+  ]
+ },
+ {
+  "id": "attack",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sudden violent action against someone",
+    "ex": "There was a sudden attack near the train station last night."
+   }
+  ]
+ },
+ {
+  "id": "attempt",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try to do something, often difficult",
+    "ex": "She attempted to swim across the wide, cold river."
+   }
+  ]
+ },
+ {
+  "id": "attraction",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a strong feeling of liking or wanting someone",
+    "ex": "There was an immediate attraction between the two old friends."
+   }
+  ]
+ },
+ {
+  "id": "average",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to calculate or reach a middle amount",
+    "ex": "Our car averaged fifty miles per gallon on the trip."
+   }
+  ]
+ },
+ {
+  "id": "award",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to officially give someone a prize or reward",
+    "ex": "The judges awarded first prize to a young painter."
+   }
+  ]
+ },
+ {
+  "id": "back",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "toward the back, or to a previous place or time",
+    "ex": "She walked back to the car to get her keys."
+   },
+   {
+    "pos": "v.",
+    "def": "to support a person, plan, or idea",
+    "ex": "Most of the team decided to back the new plan."
+   }
+  ]
+ },
+ {
+  "id": "background",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person's education, experience, or family history",
+    "ex": "She comes from a background in nursing and medicine."
+   }
+  ]
+ },
+ {
+  "id": "balance",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to keep something steady and not let it fall",
+    "ex": "He balanced a stack of books on his head."
+   }
+  ]
+ },
+ {
+  "id": "ban",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an official rule that stops something from happening",
+    "ex": "There is a strict ban on fishing in this lake."
+   }
+  ]
+ },
+ {
+  "id": "bar",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a long, straight piece of solid material",
+    "ex": "He used a metal bar to open the stuck door."
+   },
+   {
+    "pos": "v.",
+    "def": "to officially forbid someone from doing something",
+    "ex": "The club decided to bar him for bad behavior."
+   }
+  ]
+ },
+ {
+  "id": "base",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to use something as a starting point or foundation",
+    "ex": "The movie is based on a true story."
+   }
+  ]
+ },
+ {
+  "id": "battle",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to fight or struggle against something difficult",
+    "ex": "Doctors battled for hours to save the patient's life."
+   }
+  ]
+ },
+ {
+  "id": "beat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a regular rhythm in music",
+    "ex": "The song has a strong beat that makes you want to dance."
+   }
+  ]
+ },
+ {
+  "id": "before",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "at an earlier time; in the past",
+    "ex": "She had never traveled outside her own country before."
+   }
+  ]
+ },
+ {
+  "id": "bend",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a curve or turn, especially in a road or river",
+    "ex": "Drive carefully around the sharp bend in the road."
+   }
+  ]
+ },
+ {
+  "id": "benefit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be helped by or gain from something",
+    "ex": "Many students benefited from the new online course."
+   }
+  ]
+ },
+ {
+  "id": "best",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the highest level of quality or effort",
+    "ex": "She always tries her best in every math class."
+   }
+  ]
+ },
+ {
+  "id": "bet",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an agreement to risk money on a result",
+    "ex": "He made a bet with his friend about the score."
+   }
+  ]
+ },
+ {
+  "id": "better",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a more suitable or skillful way",
+    "ex": "He plays the piano better than his older brother."
+   },
+   {
+    "pos": "n.",
+    "def": "a change to a higher or improved state",
+    "ex": "Things in her life took a turn for the better."
+   }
+  ]
+ },
+ {
+  "id": "between",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in the middle; in the space separating two points",
+    "ex": "The two houses are close, with only a fence between."
+   }
+  ]
+ },
+ {
+  "id": "bill",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to send someone a note asking for payment",
+    "ex": "The hotel will bill you for any extra services."
+   }
+  ]
+ },
+ {
+  "id": "bite",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of biting, or a piece bitten off",
+    "ex": "She took a big bite of her sandwich."
+   }
+  ]
+ },
+ {
+  "id": "blame",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "responsibility for something bad that happened",
+    "ex": "She accepted the blame for the team's big mistake."
+   }
+  ]
+ },
+ {
+  "id": "block",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to stop something from moving or happening",
+    "ex": "A fallen tree blocked the road after the storm."
+   }
+  ]
+ },
+ {
+  "id": "board",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to get on a plane, train, ship, or bus",
+    "ex": "Passengers began to board the plane at gate five."
+   }
+  ]
+ },
+ {
+  "id": "bomb",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to attack a place with bombs",
+    "ex": "Enemy planes bombed the city early in the morning."
+   }
+  ]
+ },
+ {
+  "id": "book",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to arrange to have or use something later",
+    "ex": "We booked a table at the restaurant for dinner."
+   }
+  ]
+ },
+ {
+  "id": "border",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to share a border with; to be next to",
+    "ex": "Their farm borders a quiet river to the north."
+   }
+  ]
+ },
+ {
+  "id": "branch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a local office of a company, bank, or organization",
+    "ex": "She works at the downtown branch of the bank."
+   }
+  ]
+ },
+ {
+  "id": "brand",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to mark an animal, or to label someone unfairly",
+    "ex": "Critics branded the new law completely unfair and unclear."
+   }
+  ]
+ },
+ {
+  "id": "break",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a short pause or rest from work",
+    "ex": "We took a short break after two hours of studying."
+   }
+  ]
+ },
+ {
+  "id": "bright",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "quick to learn and understand things",
+    "ex": "She is a bright student who always asks great questions."
+   }
+  ]
+ },
+ {
+  "id": "broadcast",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a program shown on radio or television",
+    "ex": "We listened to the news broadcast during breakfast this morning."
+   }
+  ]
+ },
+ {
+  "id": "brush",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a tool with bristles used for cleaning or painting",
+    "ex": "She picked up a brush and started painting the fence."
+   }
+  ]
+ },
+ {
+  "id": "burn",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an injury caused by fire or heat",
+    "ex": "He got a small burn on his hand while cooking."
+   }
+  ]
+ },
+ {
+  "id": "but",
+  "alt": [
+   {
+    "pos": "prep.",
+    "def": "except; apart from",
+    "ex": "Everyone but Sarah arrived early for the meeting today."
+   }
+  ]
+ },
+ {
+  "id": "by",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "past; along, without stopping",
+    "ex": "A police car drove slowly by without stopping at all."
+   }
+  ]
+ },
+ {
+  "id": "call",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of speaking to someone by telephone",
+    "ex": "She received an important call from her doctor's office."
+   }
+  ]
+ },
+ {
+  "id": "calm",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel calm and relaxed",
+    "ex": "He tried to calm the crying baby before dinner."
+   }
+  ]
+ },
+ {
+  "id": "camp",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to stay and sleep outdoors in a tent",
+    "ex": "We camped beside a lake during our summer vacation."
+   }
+  ]
+ },
+ {
+  "id": "cap",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a lid or cover for a bottle or pen",
+    "ex": "Please put the cap back on the toothpaste tube."
+   }
+  ]
+ },
+ {
+  "id": "capital",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "written as a large letter, like A instead of a",
+    "ex": "Remember to start each sentence with a capital letter."
+   }
+  ]
+ },
+ {
+  "id": "capture",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of catching or taking something by force",
+    "ex": "The capture of the escaped lion made national news."
+   }
+  ]
+ },
+ {
+  "id": "care",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to feel interest in or worry about something",
+    "ex": "She really cares about protecting the environment for future generations."
+   }
+  ]
+ },
+ {
+  "id": "case",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a crime that police are investigating, or a legal dispute",
+    "ex": "The detective solved the case in just two days."
+   },
+   {
+    "pos": "n.",
+    "def": "a container made to hold or protect something",
+    "ex": "She keeps her glasses in a hard case."
+   }
+  ]
+ },
+ {
+  "id": "cast",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to choose actors for a film or play",
+    "ex": "The director cast a new actress in the lead role."
+   }
+  ]
+ },
+ {
+  "id": "catch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a hidden problem or difficulty in a plan",
+    "ex": "The offer sounded great, but there was a catch."
+   }
+  ]
+ },
+ {
+  "id": "cause",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something happen",
+    "ex": "Loud noises can cause stress in young children."
+   }
+  ]
+ },
+ {
+  "id": "center",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to place something in the middle",
+    "ex": "Please center the title at the top of the page."
+   }
+  ]
+ },
+ {
+  "id": "chain",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to fasten something with a chain",
+    "ex": "He chained his bicycle to the fence outside the store."
+   }
+  ]
+ },
+ {
+  "id": "chair",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be in charge of a meeting or group",
+    "ex": "She will chair tomorrow's meeting about the new budget."
+   }
+  ]
+ },
+ {
+  "id": "challenge",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to invite someone to compete, or question something",
+    "ex": "She challenged her brother to a race across the yard."
+   }
+  ]
+ },
+ {
+  "id": "change",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something that is different from before",
+    "ex": "There has been a big change in the weather today."
+   }
+  ]
+ },
+ {
+  "id": "character",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the qualities that make a person who they are",
+    "ex": "Honesty is an important part of her character."
+   }
+  ]
+ },
+ {
+  "id": "charge",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask someone to pay a certain price",
+    "ex": "The mechanic charged us fifty dollars for the repair."
+   }
+  ]
+ },
+ {
+  "id": "chart",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to record or track something over time",
+    "ex": "Doctors chart a patient's progress after every visit."
+   }
+  ]
+ },
+ {
+  "id": "chat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a friendly, informal conversation",
+    "ex": "We had a nice chat about our summer vacation plans."
+   }
+  ]
+ },
+ {
+  "id": "cheap",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "for a low price; without spending much money",
+    "ex": "You can travel cheap if you plan ahead carefully."
+   }
+  ]
+ },
+ {
+  "id": "cheat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who acts dishonestly to win or gain",
+    "ex": "Everyone at school knew he was a cheat."
+   }
+  ]
+ },
+ {
+  "id": "check",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a printed form used to pay for something",
+    "ex": "She wrote a check to pay her monthly rent."
+   }
+  ]
+ },
+ {
+  "id": "chemical",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to chemistry or chemicals",
+    "ex": "The factory uses a complex chemical process to make plastic."
+   }
+  ]
+ },
+ {
+  "id": "chest",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a large strong box used for storage",
+    "ex": "They found an old wooden chest full of letters."
+   }
+  ]
+ },
+ {
+  "id": "chief",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "most important; main",
+    "ex": "Poor sleep is the chief cause of her constant tiredness."
+   }
+  ]
+ },
+ {
+  "id": "chip",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a thin fried piece of potato",
+    "ex": "We ordered a burger with a side of chips."
+   }
+  ]
+ },
+ {
+  "id": "circle",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to draw a line around something",
+    "ex": "She circled the correct answer on the test."
+   }
+  ]
+ },
+ {
+  "id": "claim",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a formal request for money or a right",
+    "ex": "She filed an insurance claim after the car accident."
+   }
+  ]
+ },
+ {
+  "id": "clause",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a group of words with a subject and a verb",
+    "ex": "This sentence has one main clause and one smaller clause."
+   }
+  ]
+ },
+ {
+  "id": "clean",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to remove dirt from something",
+    "ex": "He cleaned the kitchen before his guests arrived."
+   }
+  ]
+ },
+ {
+  "id": "clear",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to remove things you don't want from a place",
+    "ex": "Please clear the table after we finish eating dinner."
+   }
+  ]
+ },
+ {
+  "id": "click",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a short, sharp sound, like a mouse button",
+    "ex": "I heard a click as the door finally shut."
+   }
+  ]
+ },
+ {
+  "id": "climb",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of climbing, or a steep slope",
+    "ex": "It was a long, difficult climb to the summit."
+   }
+  ]
+ },
+ {
+  "id": "close-1",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the end of an event or period of time",
+    "ex": "The meeting came to a close after two hours."
+   }
+  ]
+ },
+ {
+  "id": "close-2",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a near position; not far away",
+    "ex": "The two runners finished the race very close together."
+   }
+  ]
+ },
+ {
+  "id": "coach",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to train and teach a person or team",
+    "ex": "She coaches the youth soccer team on weekends."
+   }
+  ]
+ },
+ {
+  "id": "cold",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a common illness that affects your nose and throat",
+    "ex": "She stayed home from school with a bad cold."
+   }
+  ]
+ },
+ {
+  "id": "collapse",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sudden fall or failure",
+    "ex": "The company's collapse left hundreds of workers without jobs."
+   }
+  ]
+ },
+ {
+  "id": "comfort",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel better when they are sad",
+    "ex": "She hugged her friend to comfort him after the loss."
+   }
+  ]
+ },
+ {
+  "id": "command",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to order someone to do something",
+    "ex": "The captain commanded his soldiers to hold their position."
+   }
+  ]
+ },
+ {
+  "id": "comment",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say what you think about something",
+    "ex": "Many readers commented on the article about climate change."
+   }
+  ]
+ },
+ {
+  "id": "commercial",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to business, buying, and selling",
+    "ex": "The area near the airport is mostly commercial property."
+   }
+  ]
+ },
+ {
+  "id": "commit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to promise or dedicate yourself to something",
+    "ex": "She committed herself to finishing the marathon this year."
+   }
+  ]
+ },
+ {
+  "id": "company",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the state of being with other people",
+    "ex": "I always enjoy your company on long car trips."
+   }
+  ]
+ },
+ {
+  "id": "complete",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having every part; whole, with nothing missing",
+    "ex": "The museum has a complete collection of ancient Roman coins."
+   }
+  ]
+ },
+ {
+  "id": "complex",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a group of connected buildings, or a related group",
+    "ex": "They built a new shopping complex outside the city center."
+   }
+  ]
+ },
+ {
+  "id": "concern",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to worry or affect someone",
+    "ex": "The rising cost of housing concerns many young families."
+   }
+  ]
+ },
+ {
+  "id": "conduct",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the way a person behaves",
+    "ex": "The students were praised for their excellent conduct on the trip."
+   }
+  ]
+ },
+ {
+  "id": "conflict",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to disagree with or be different from something",
+    "ex": "Her new work schedule conflicts with her college classes."
+   }
+  ]
+ },
+ {
+  "id": "contact",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "communication between people, or a person you know",
+    "ex": "I lost contact with my old college roommate years ago."
+   }
+  ]
+ },
+ {
+  "id": "contest",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to formally disagree with or question a decision",
+    "ex": "He plans to contest the results of the election."
+   }
+  ]
+ },
+ {
+  "id": "contract",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to become smaller or tighter",
+    "ex": "Metal contracts as the temperature drops in winter."
+   }
+  ]
+ },
+ {
+  "id": "contrast",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to show a clear difference between two things",
+    "ex": "Her calm voice contrasted with his loud, angry shouting."
+   }
+  ]
+ },
+ {
+  "id": "control",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have the power to direct or manage something",
+    "ex": "One switch controls all the lights in this room."
+   }
+  ]
+ }
+]

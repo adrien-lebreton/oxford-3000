@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "speed",
+  "ipa": "/spiːd/",
+  "fr": "vitesse (n.) ; accélérer (v.)",
+  "def": "how fast something moves or happens",
+  "ex": "The car was traveling at a very high speed."
+ },
+ {
+  "id": "spell",
+  "ipa": "/spɛl/",
+  "fr": "épeler",
+  "def": "say or write the letters of a word in order",
+  "ex": "Please spell your name slowly for the form."
+ },
+ {
+  "id": "spelling",
+  "ipa": "/ˈspɛlɪŋ/",
+  "fr": "orthographe",
+  "def": "the way a word is written with correct letters",
+  "ex": "Her spelling has improved a lot this year."
+ },
+ {
+  "id": "spend",
+  "ipa": "/spɛnd/",
+  "fr": "dépenser (argent) ; passer (temps)",
+  "def": "use money to pay for something, or use time",
+  "ex": "We spent all our money on the trip."
+ },
+ {
+  "id": "spending",
+  "ipa": "/ˈspɛndɪŋ/",
+  "fr": "dépenses",
+  "def": "the amount of money that a person or group spends",
+  "ex": "The government wants to reduce public spending this year."
+ },
+ {
+  "id": "spicy",
+  "ipa": "/ˈspaɪsi/",
+  "fr": "épicé",
+  "def": "having a strong, hot taste from spices",
+  "ex": "I love spicy food, but my sister doesn't."
+ },
+ {
+  "id": "spider",
+  "ipa": "/ˈspaɪdɚ/",
+  "fr": "araignée",
+  "def": "a small animal with eight legs that makes webs",
+  "ex": "There is a big spider in the bathroom."
+ },
+ {
+  "id": "spirit",
+  "ipa": "/ˈspɪrɪt/",
+  "fr": "esprit",
+  "def": "the part of a person connected to feelings, not the body",
+  "ex": "She kept a positive spirit during the difficult times."
+ },
+ {
+  "id": "spiritual",
+  "ipa": "/ˈspɪrɪtʃuəl/",
+  "fr": "spirituel",
+  "def": "connected to deep feelings and beliefs, not the body",
+  "ex": "He found the ceremony to be a spiritual experience."
+ },
+ {
+  "id": "split",
+  "ipa": "/splɪt/",
+  "fr": "diviser, séparer (v.) ; division (n.)",
+  "def": "divide something into two or more parts",
+  "ex": "Let's split the bill between the four of us."
+ },
+ {
+  "id": "spoken",
+  "ipa": "/ˈspoʊkən/",
+  "fr": "parlé, oral",
+  "def": "used in speech rather than writing",
+  "ex": "Her spoken English is much better than her writing."
+ },
+ {
+  "id": "sponsor",
+  "ipa": "/ˈspɑːnsɚ/",
+  "fr": "sponsoriser, parrainer (v.) ; sponsor (n.)",
+  "def": "give money to support an event, person, or organization",
+  "ex": "A local company agreed to sponsor the football team."
+ },
+ {
+  "id": "spoon",
+  "ipa": "/spuːn/",
+  "fr": "cuillère",
+  "def": "a tool used for eating or serving food",
+  "ex": "She stirred her coffee with a small spoon."
+ },
+ {
+  "id": "sport",
+  "ipa": "/spɔːrt/",
+  "fr": "sport",
+  "def": "a physical activity played by rules, often as a game",
+  "ex": "Basketball is my favorite sport to play with friends."
+ },
+ {
+  "id": "spot",
+  "ipa": "/spɑːt/",
+  "fr": "endroit, tache (n.) ; repérer (v.)",
+  "def": "a particular place, or a small mark",
+  "ex": "We found a quiet spot to have our picnic."
+ },
+ {
+  "id": "spread",
+  "ipa": "/sprɛd/",
+  "fr": "étaler, répandre (v.) ; propagation (n.)",
+  "def": "open or stretch something out over a larger area",
+  "ex": "She spread the butter evenly over the bread."
+ },
+ {
+  "id": "spring",
+  "ipa": "/sprɪŋ/",
+  "fr": "printemps (n.) ; bondir (v.)",
+  "def": "the season between winter and summer",
+  "ex": "The flowers start to bloom early every spring."
+ },
+ {
+  "id": "square",
+  "ipa": "/skwɛr/",
+  "fr": "carré",
+  "def": "having four equal straight sides",
+  "ex": "The table in the kitchen has a square shape."
+ },
+ {
+  "id": "stable",
+  "ipa": "/ˈsteɪbl̩/",
+  "fr": "stable",
+  "def": "not likely to change or move suddenly",
+  "ex": "The doctors say her condition is now stable."
+ },
+ {
+  "id": "stadium",
+  "ipa": "/ˈsteɪdiəm/",
+  "fr": "stade",
+  "def": "a large building with seats for watching sports",
+  "ex": "Thousands of fans filled the stadium for the game."
+ },
+ {
+  "id": "staff",
+  "ipa": "/stæf/",
+  "fr": "personnel, équipe",
+  "def": "all the people who work for an organization",
+  "ex": "The hotel staff were very friendly and helpful."
+ },
+ {
+  "id": "stage",
+  "ipa": "/steɪdʒ/",
+  "fr": "scène, étape (n.) ; organiser (v.)",
+  "def": "a raised platform where performers stand and act",
+  "ex": "The singer walked onto the stage and smiled."
+ },
+ {
+  "id": "stair",
+  "ipa": "/stɛr/",
+  "fr": "marche (d'escalier)",
+  "def": "one of a set of steps between floors",
+  "ex": "Be careful, the top stair is badly broken."
+ },
+ {
+  "id": "stamp",
+  "ipa": "/stæmp/",
+  "fr": "timbre",
+  "def": "a small piece of paper stuck on mail to pay postage",
+  "ex": "I need to buy a stamp for this letter."
+ },
+ {
+  "id": "stand",
+  "ipa": "/stænd/",
+  "fr": "se tenir debout (v.) ; stand (n.)",
+  "def": "be on your feet in an upright position",
+  "ex": "Please stand up when the teacher enters the room."
+ },
+ {
+  "id": "standard",
+  "ipa": "/ˈstændɚd/",
+  "fr": "norme (n.) ; standard, normal (adj.)",
+  "def": "a level of quality that is normal or expected",
+  "ex": "This restaurant has a very high standard of service."
+ },
+ {
+  "id": "star",
+  "ipa": "/stɑːr/",
+  "fr": "étoile (n.) ; jouer le rôle principal (v.)",
+  "def": "a bright point of light seen in the sky at night",
+  "ex": "We looked up and saw thousands of stars."
+ },
+ {
+  "id": "stare",
+  "ipa": "/stɛr/",
+  "fr": "fixer (du regard)",
+  "def": "look at something for a long time without moving your eyes",
+  "ex": "It's rude to stare at strangers on the train."
+ },
+ {
+  "id": "start",
+  "ipa": "/stɑːrt/",
+  "fr": "commencer (v.) ; début (n.)",
+  "def": "begin doing or happening",
+  "ex": "The movie will start again in ten minutes."
+ },
+ {
+  "id": "state",
+  "ipa": "/steɪt/",
+  "fr": "état, région (n.) ; déclarer (v.)",
+  "def": "a country, or part of a country with its own government",
+  "ex": "California is a state on the west coast."
+ },
+ {
+  "id": "statement",
+  "ipa": "/ˈsteɪtmənt/",
+  "fr": "déclaration",
+  "def": "something that a person says or writes clearly",
+  "ex": "The police released a statement about the accident."
+ },
+ {
+  "id": "station",
+  "ipa": "/ˈsteɪʃn̩/",
+  "fr": "gare, station",
+  "def": "a building where trains or buses stop for passengers",
+  "ex": "We waited for the train at the station."
+ },
+ {
+  "id": "statistic",
+  "ipa": "/stəˈtɪstɪk/",
+  "fr": "statistique",
+  "def": "a fact based on numbers that shows information about something",
+  "ex": "This statistic shows that crime rates are falling."
+ },
+ {
+  "id": "statue",
+  "ipa": "/ˈstætʃuː/",
+  "fr": "statue",
+  "def": "a model of a person or animal made of stone or metal",
+  "ex": "There is a famous statue in the city center."
+ },
+ {
+  "id": "status",
+  "ipa": "/ˈsteɪtəs/",
+  "fr": "statut",
+  "def": "the official position or condition of someone or something",
+  "ex": "You can check the status of your order online."
+ },
+ {
+  "id": "stay",
+  "ipa": "/steɪ/",
+  "fr": "rester (v.) ; séjour (n.)",
+  "def": "continue to be in a place or condition",
+  "ex": "We decided to stay home during the storm."
+ },
+ {
+  "id": "steady",
+  "ipa": "/ˈstɛdi/",
+  "fr": "stable, régulier",
+  "def": "developing or moving in a smooth, continuous way",
+  "ex": "The company has shown steady growth this year."
+ },
+ {
+  "id": "steal",
+  "ipa": "/stiːl/",
+  "fr": "voler",
+  "def": "take something that belongs to someone else without permission",
+  "ex": "Someone tried to steal my bicycle yesterday afternoon."
+ },
+ {
+  "id": "steel",
+  "ipa": "/stiːl/",
+  "fr": "acier",
+  "def": "a strong hard metal made mostly of iron",
+  "ex": "The bridge is made of strong steel and concrete."
+ },
+ {
+  "id": "steep",
+  "ipa": "/stiːp/",
+  "fr": "raide, abrupt",
+  "def": "rising or falling sharply, not gently",
+  "ex": "We climbed a steep hill to reach the village."
+ },
+ {
+  "id": "step",
+  "ipa": "/stɛp/",
+  "fr": "pas, étape (n.) ; faire un pas (v.)",
+  "def": "a movement made by lifting your foot and putting it down",
+  "ex": "She took a small step toward the open door."
+ },
+ {
+  "id": "stick-push-into-attach",
+  "ipa": "/stɪk/",
+  "fr": "coller, enfoncer, planter",
+  "def": "push something into a surface, or attach it with glue",
+  "ex": "He stuck a stamp on the envelope before mailing it."
+ },
+ {
+  "id": "stick-piece-of-wood",
+  "ipa": "/stɪk/",
+  "fr": "bâton, branche",
+  "def": "a long thin piece of wood",
+  "ex": "The dog ran across the yard to fetch the stick."
+ },
+ {
+  "id": "sticky",
+  "ipa": "/ˈstɪki/",
+  "fr": "collant",
+  "def": "able to stick to things, like glue",
+  "ex": "My hands are sticky from eating the candy."
+ },
+ {
+  "id": "stiff",
+  "ipa": "/stɪf/",
+  "fr": "raide",
+  "def": "not easy to bend or move",
+  "ex": "My neck feels stiff after sleeping in that position."
+ },
+ {
+  "id": "still",
+  "ipa": "/stɪl/",
+  "fr": "encore, toujours (adv.) ; immobile (adj.)",
+  "def": "continuing to happen up to the present time",
+  "ex": "She still lives in the house where she grew up."
+ },
+ {
+  "id": "stock",
+  "ipa": "/stɑːk/",
+  "fr": "stock, réserve",
+  "def": "a supply of goods kept in a store to sell",
+  "ex": "The shop has run out of stock of that item."
+ },
+ {
+  "id": "stomach",
+  "ipa": "/ˈstʌmək/",
+  "fr": "estomac, ventre",
+  "def": "the organ in your body where food is digested",
+  "ex": "I have a pain in my stomach after lunch."
+ },
+ {
+  "id": "stone",
+  "ipa": "/stoʊn/",
+  "fr": "pierre",
+  "def": "a hard solid mineral substance found in the ground",
+  "ex": "The old house was built from gray stone."
+ },
+ {
+  "id": "stop",
+  "ipa": "/stɑːp/",
+  "fr": "arrêter, s'arrêter (v.) ; arrêt (n.)",
+  "def": "stop moving or doing something",
+  "ex": "The bus will stop here in about two minutes."
+ },
+ {
+  "id": "store",
+  "ipa": "/stɔːr/",
+  "fr": "magasin (n.) ; stocker, ranger (v.)",
+  "def": "a shop where you can buy things",
+  "ex": "She bought some fresh bread at the small store."
+ },
+ {
+  "id": "storm",
+  "ipa": "/stɔːrm/",
+  "fr": "tempête, orage",
+  "def": "very bad weather with strong wind and rain",
+  "ex": "A big storm hit the coast last night."
+ },
+ {
+  "id": "story",
+  "ipa": "/ˈstɔːri/",
+  "fr": "histoire",
+  "def": "a description of imaginary or real events, told or written",
+  "ex": "My grandmother told us a story before bed."
+ },
+ {
+  "id": "stove",
+  "ipa": "/stoʊv/",
+  "fr": "cuisinière, poêle",
+  "def": "a piece of kitchen equipment used for cooking food",
+  "ex": "She put the pan on the stove to heat it."
+ },
+ {
+  "id": "straight",
+  "ipa": "/streɪt/",
+  "fr": "droit, tout droit",
+  "def": "continuing in one direction without bending or turning",
+  "ex": "Walk straight down this road to reach the station."
+ },
+ {
+  "id": "strange",
+  "ipa": "/streɪndʒ/",
+  "fr": "étrange, bizarre",
+  "def": "unusual or difficult to understand",
+  "ex": "I heard a strange noise coming from the kitchen."
+ },
+ {
+  "id": "stranger",
+  "ipa": "/ˈstreɪndʒɚ/",
+  "fr": "étranger, inconnu",
+  "def": "a person you do not know",
+  "ex": "My mother told me never to talk to strangers."
+ },
+ {
+  "id": "strategy",
+  "ipa": "/ˈstrætədʒi/",
+  "fr": "stratégie",
+  "def": "a plan to achieve something over a long time",
+  "ex": "The team needs a new strategy to win the game."
+ },
+ {
+  "id": "stream",
+  "ipa": "/striːm/",
+  "fr": "ruisseau",
+  "def": "a small narrow river",
+  "ex": "We crossed the stream by jumping over the rocks."
+ },
+ {
+  "id": "street",
+  "ipa": "/striːt/",
+  "fr": "rue",
+  "def": "a road in a town or city with buildings",
+  "ex": "They live on a quiet street near the park."
+ },
+ {
+  "id": "strength",
+  "ipa": "/strɛŋkθ/",
+  "fr": "force",
+  "def": "the physical power or energy that a person has",
+  "ex": "He used all his strength to lift the heavy box."
+ },
+ {
+  "id": "stress",
+  "ipa": "/strɛs/",
+  "fr": "stress, tension (n.) ; souligner (v.)",
+  "def": "a feeling of worry caused by difficult situations",
+  "ex": "Too much stress can be bad for your health."
+ },
+ {
+  "id": "stretch",
+  "ipa": "/strɛtʃ/",
+  "fr": "étirer, s'étirer (v.) ; étirement (n.)",
+  "def": "make your body or a material longer or wider",
+  "ex": "She likes to stretch her legs before running."
+ },
+ {
+  "id": "strict",
+  "ipa": "/strɪkt/",
+  "fr": "strict, sévère",
+  "def": "expecting people to obey rules or behave well",
+  "ex": "Our teacher is very strict about being on time."
+ },
+ {
+  "id": "strike",
+  "ipa": "/straɪk/",
+  "fr": "frapper (v.) ; grève (n.)",
+  "def": "hit someone or something hard and suddenly",
+  "ex": "Lightning can strike a tall tree during a storm."
+ },
+ {
+  "id": "string",
+  "ipa": "/strɪŋ/",
+  "fr": "ficelle, corde, fil",
+  "def": "a thin piece of material used for tying things",
+  "ex": "She tied the box shut with a piece of string."
+ },
+ {
+  "id": "strong",
+  "ipa": "/strɔːŋ/",
+  "fr": "fort",
+  "def": "having a lot of physical power or energy",
+  "ex": "You need to be strong to lift these boxes."
+ },
+ {
+  "id": "strongly",
+  "ipa": "/ˈstrɔːŋli/",
+  "fr": "fortement, vivement",
+  "def": "in a way that shows strong feelings or opinions",
+  "ex": "I strongly believe that everyone deserves a second chance."
+ },
+ {
+  "id": "structure",
+  "ipa": "/ˈstrʌktʃɚ/",
+  "fr": "structure (n.) ; structurer (v.)",
+  "def": "the way parts of something are organized or built",
+  "ex": "The structure of the essay was clear and logical."
+ },
+ {
+  "id": "struggle",
+  "ipa": "/ˈstrʌɡl̩/",
+  "fr": "lutter, se débattre (v.) ; lutte (n.)",
+  "def": "try very hard to do something difficult",
+  "ex": "Many students struggle to understand grammar at first."
+ },
+ {
+  "id": "student",
+  "ipa": "/ˈstuːdnt/",
+  "fr": "étudiant, élève",
+  "def": "a person who is studying at a school or college",
+  "ex": "She is a student at the local university."
+ },
+ {
+  "id": "studio",
+  "ipa": "/ˈstuːdioʊ/",
+  "fr": "studio, atelier",
+  "def": "a room where an artist works, or where films are made",
+  "ex": "The artist painted every day in her small studio."
+ },
+ {
+  "id": "study",
+  "ipa": "/ˈstʌdi/",
+  "fr": "étudier (v.) ; étude (n.)",
+  "def": "spend time learning about a subject",
+  "ex": "I need to study for my history exam tonight."
+ },
+ {
+  "id": "stuff",
+  "ipa": "/stʌf/",
+  "fr": "trucs, affaires (n.) ; fourrer, bourrer (v.)",
+  "def": "things or objects of any kind",
+  "ex": "Please put all your stuff away before dinner starts."
+ },
+ {
+  "id": "stupid",
+  "ipa": "/ˈstuːpɪd/",
+  "fr": "stupide, bête",
+  "def": "not intelligent or sensible",
+  "ex": "It was stupid of me to forget my keys."
+ },
+ {
+  "id": "style",
+  "ipa": "/staɪl/",
+  "fr": "style",
+  "def": "a particular way of doing or making something",
+  "ex": "I really like the style of your new jacket."
+ },
+ {
+  "id": "subject",
+  "ipa": "/ˈsʌbdʒɪkt/",
+  "fr": "sujet, matière (n.) ; soumis (adj.)",
+  "def": "the topic that is being discussed or studied",
+  "ex": "History has always been my favorite subject at school."
+ },
+ {
+  "id": "submit",
+  "ipa": "/səbˈmɪt/",
+  "fr": "soumettre",
+  "def": "give a document or plan to someone for approval",
+  "ex": "Please submit your application before the end of the month."
+ },
+ {
+  "id": "substance",
+  "ipa": "/ˈsʌbstəns/",
+  "fr": "substance",
+  "def": "a physical material with particular qualities",
+  "ex": "This cleaning substance can be dangerous if swallowed."
+ },
+ {
+  "id": "subway",
+  "ipa": "/ˈsʌbweɪ/",
+  "fr": "métro",
+  "def": "an underground train system in a city",
+  "ex": "We took the subway to get to the museum."
+ },
+ {
+  "id": "succeed",
+  "ipa": "/səkˈsiːd/",
+  "fr": "réussir",
+  "def": "achieve what you were trying to do",
+  "ex": "She worked hard and finally succeeded in her exams."
+ },
+ {
+  "id": "success",
+  "ipa": "/səkˈsɛs/",
+  "fr": "succès, réussite",
+  "def": "achieving what you wanted to achieve",
+  "ex": "The new restaurant has been a huge success."
+ },
+ {
+  "id": "successful",
+  "ipa": "/səkˈsɛsfl̩/",
+  "fr": "réussi, prospère",
+  "def": "achieving what you wanted to achieve",
+  "ex": "She became a very successful businesswoman in her thirties."
+ },
+ {
+  "id": "successfully",
+  "ipa": "/səkˈsɛsfəli/",
+  "fr": "avec succès",
+  "def": "in a way that achieves the wanted result",
+  "ex": "The team successfully completed the project on time."
+ },
+ {
+  "id": "such",
+  "ipa": "/sʌtʃ/",
+  "fr": "tel, si, pareil",
+  "def": "used to emphasize the degree of something",
+  "ex": "I have never seen such a beautiful sunset before."
+ },
+ {
+  "id": "sudden",
+  "ipa": "/ˈsʌdn̩/",
+  "fr": "soudain",
+  "def": "happening quickly and unexpectedly",
+  "ex": "There was a sudden change in the weather."
+ },
+ {
+  "id": "suddenly",
+  "ipa": "/ˈsʌdənli/",
+  "fr": "soudainement, tout à coup",
+  "def": "quickly and unexpectedly",
+  "ex": "Suddenly, the lights went out in the whole building."
+ },
+ {
+  "id": "suffer",
+  "ipa": "/ˈsʌfɚ/",
+  "fr": "souffrir",
+  "def": "experience pain, illness, or something unpleasant",
+  "ex": "Many people suffer from headaches during exam season."
+ },
+ {
+  "id": "sugar",
+  "ipa": "/ˈʃʊɡɚ/",
+  "fr": "sucre",
+  "def": "a sweet substance used to make food and drinks sweet",
+  "ex": "She added two spoons of sugar to her tea."
+ },
+ {
+  "id": "suggest",
+  "ipa": "/səɡˈdʒɛst/",
+  "fr": "suggérer, proposer",
+  "def": "put forward an idea or plan for others to consider",
+  "ex": "I suggest we leave early to avoid the traffic."
+ },
+ {
+  "id": "suggestion",
+  "ipa": "/səɡˈdʒɛstʃən/",
+  "fr": "suggestion",
+  "def": "an idea or plan that someone offers",
+  "ex": "Thank you for your helpful suggestion about the schedule."
+ },
+ {
+  "id": "suit",
+  "ipa": "/suːt/",
+  "fr": "costume (n.) ; convenir (v.)",
+  "def": "a set of matching clothes worn for formal occasions",
+  "ex": "He wore a dark blue suit to the interview."
+ },
+ {
+  "id": "suitable",
+  "ipa": "/ˈsuːtəbl̩/",
+  "fr": "adapté, approprié",
+  "def": "right or appropriate for a particular purpose",
+  "ex": "This film is not suitable for young children."
+ },
+ {
+  "id": "sum",
+  "ipa": "/sʌm/",
+  "fr": "somme, montant (n.) ; additionner (v.)",
+  "def": "an amount of money, or a total of numbers added",
+  "ex": "They spent a large sum of money on the wedding."
+ },
+ {
+  "id": "summarize",
+  "ipa": "/ˈsʌməraɪz/",
+  "fr": "résumer",
+  "def": "give a short statement of the main points",
+  "ex": "The teacher asked us to summarize the whole chapter."
+ },
+ {
+  "id": "summary",
+  "ipa": "/ˈsʌməri/",
+  "fr": "résumé",
+  "def": "a short statement giving the main points of something",
+  "ex": "She wrote a short summary of the meeting."
+ },
+ {
+  "id": "summer",
+  "ipa": "/ˈsʌmɚ/",
+  "fr": "été",
+  "def": "the warmest season of the year",
+  "ex": "We usually go to the beach in summer."
+ },
+ {
+  "id": "sun",
+  "ipa": "/sʌn/",
+  "fr": "soleil",
+  "def": "the star that gives the earth light and heat",
+  "ex": "The sun was shining very brightly all afternoon long."
+ },
+ {
+  "id": "sunday",
+  "ipa": "/ˈsʌndeɪ/",
+  "fr": "dimanche",
+  "def": "the day of the week after Saturday",
+  "ex": "We usually visit my grandparents every Sunday morning."
+ },
+ {
+  "id": "supermarket",
+  "ipa": "/ˈsuːpɚˌmɑːrkɪt/",
+  "fr": "supermarché",
+  "def": "a large store that sells food and household items",
+  "ex": "I need to buy some milk at the supermarket."
+ },
+ {
+  "id": "supply",
+  "ipa": "/səˈplaɪ/",
+  "fr": "fournir (v.) ; approvisionnement, offre (n.)",
+  "def": "provide something that is needed",
+  "ex": "The farm supplies fresh vegetables to local restaurants."
+ },
+ {
+  "id": "support",
+  "ipa": "/səˈpɔːrt/",
+  "fr": "soutenir, aider (v.) ; soutien (n.)",
+  "def": "help someone by agreeing with or encouraging them",
+  "ex": "My family has always supported my career choices."
+ },
+ {
+  "id": "supporter",
+  "ipa": "/səˈpɔːrtɚ/",
+  "fr": "partisan, supporter",
+  "def": "a person who supports a team, party, or idea",
+  "ex": "He has been a loyal supporter of the club for years."
+ },
+ {
+  "id": "suppose",
+  "ipa": "/səˈpoʊz/",
+  "fr": "supposer",
+  "def": "think that something is likely to be true",
+  "ex": "I suppose we should leave now to catch the bus."
+ },
+ {
+  "id": "sure",
+  "ipa": "/ʃʊr/",
+  "fr": "sûr, certain",
+  "def": "certain about something, with no doubts",
+  "ex": "I am not sure what time the shop closes."
+ },
+ {
+  "id": "surely",
+  "ipa": "/ˈʃʊrli/",
+  "fr": "sûrement, certainement",
+  "def": "used to express that something must be true",
+  "ex": "Surely you remember meeting her at the party."
+ },
+ {
+  "id": "surface",
+  "ipa": "/ˈsɝːfɪs/",
+  "fr": "surface",
+  "def": "the outside or top part of something",
+  "ex": "The water on the lake's surface was completely still."
+ },
+ {
+  "id": "surgery",
+  "ipa": "/ˈsɝːdʒəri/",
+  "fr": "chirurgie",
+  "def": "medical treatment where a doctor cuts open the body",
+  "ex": "She needs surgery to fix her broken knee."
+ },
+ {
+  "id": "surprise",
+  "ipa": "/sɚˈpraɪz/",
+  "fr": "surprise (n.) ; surprendre (v.)",
+  "def": "an unexpected event or piece of news",
+  "ex": "We planned a surprise party for her birthday."
+ },
+ {
+  "id": "surprised",
+  "ipa": "/sɚˈpraɪzd/",
+  "fr": "surpris",
+  "def": "feeling surprise because something unexpected happened",
+  "ex": "I was surprised to see him at the meeting."
+ },
+ {
+  "id": "surprising",
+  "ipa": "/sɚˈpraɪzɪŋ/",
+  "fr": "surprenant",
+  "def": "causing a feeling of surprise",
+  "ex": "It's surprising how quickly the children have grown up."
+ },
+ {
+  "id": "surround",
+  "ipa": "/sɚˈraʊnd/",
+  "fr": "entourer",
+  "def": "be or go all around something",
+  "ex": "Tall mountains surround the small village on all sides."
+ },
+ {
+  "id": "surrounding",
+  "ipa": "/sɚˈraʊndɪŋ/",
+  "fr": "environnant, alentour",
+  "def": "existing or being near a place or thing",
+  "ex": "We explored the town and its surrounding countryside."
+ },
+ {
+  "id": "survey",
+  "ipa": "/ˈsɝːveɪ/ (n.), /sɚˈveɪ/ (v.)",
+  "fr": "sondage, enquête (n.) ; sonder (v.)",
+  "def": "a set of questions asked to a lot of people",
+  "ex": "The company sent a survey to all its customers."
+ },
+ {
+  "id": "survive",
+  "ipa": "/sɚˈvaɪv/",
+  "fr": "survivre",
+  "def": "continue to live after a dangerous event",
+  "ex": "Few animals can survive in such a cold climate."
+ },
+ {
+  "id": "suspect",
+  "ipa": "/səˈspɛkt/ (v.), /ˈsʌspɛkt/ (n.)",
+  "fr": "soupçonner (v.) ; suspect (n.)",
+  "def": "believe that something is probably true or likely",
+  "ex": "The police now suspect the fire was started deliberately."
+ },
+ {
+  "id": "swear",
+  "ipa": "/swɛr/",
+  "fr": "jurer",
+  "def": "make a serious promise to do something",
+  "ex": "I swear I will never tell anyone your secret."
+ },
+ {
+  "id": "sweater",
+  "ipa": "/ˈswɛtɚ/",
+  "fr": "pull, pull-over",
+  "def": "a warm piece of clothing worn on the upper body",
+  "ex": "She wore a thick sweater because it was cold."
+ },
+ {
+  "id": "sweep",
+  "ipa": "/swiːp/",
+  "fr": "balayer",
+  "def": "clean a floor or surface using a brush",
+  "ex": "She swept the kitchen floor after breakfast every morning."
+ },
+ {
+  "id": "sweet",
+  "ipa": "/swiːt/",
+  "fr": "sucré, doux",
+  "def": "having the taste of sugar",
+  "ex": "This cake is much too sweet for me."
+ },
+ {
+  "id": "swim",
+  "ipa": "/swɪm/",
+  "fr": "nager (v.) ; baignade (n.)",
+  "def": "move through water using your arms and legs",
+  "ex": "We like to swim in the lake every summer."
+ },
+ {
+  "id": "swimming",
+  "ipa": "/ˈswɪmɪŋ/",
+  "fr": "natation",
+  "def": "the sport or activity of moving through water",
+  "ex": "Swimming is great exercise for the whole body."
+ },
+ {
+  "id": "switch",
+  "ipa": "/swɪtʃ/",
+  "fr": "changer, basculer (v.) ; interrupteur (n.)",
+  "def": "change from one thing to another",
+  "ex": "We decided to switch to a cheaper phone plan."
+ },
+ {
+  "id": "symbol",
+  "ipa": "/ˈsɪmbl̩/",
+  "fr": "symbole",
+  "def": "a sign or object that represents something else",
+  "ex": "A red rose is often a symbol of love."
+ },
+ {
+  "id": "sympathy",
+  "ipa": "/ˈsɪmpəθi/",
+  "fr": "compassion, sympathie",
+  "def": "a feeling of care for someone who is suffering",
+  "ex": "Everyone showed sympathy for the family after the accident."
+ },
+ {
+  "id": "symptom",
+  "ipa": "/ˈsɪmptəm/",
+  "fr": "symptôme",
+  "def": "a sign that shows you have an illness",
+  "ex": "A high fever is a common symptom of the flu."
+ },
+ {
+  "id": "system",
+  "ipa": "/ˈsɪstəm/",
+  "fr": "système",
+  "def": "a set of things that work together as a whole",
+  "ex": "The school uses a new system for grading tests."
+ },
+ {
+  "id": "table",
+  "ipa": "/ˈteɪbl̩/",
+  "fr": "table",
+  "def": "a piece of furniture with a flat top and legs",
+  "ex": "We set the table before our guests arrived."
+ },
+ {
+  "id": "tablet",
+  "ipa": "/ˈtæblət/",
+  "fr": "comprimé (médicament) ; tablette (appareil)",
+  "def": "a small computer, or a pill of medicine",
+  "ex": "She takes a tablet every morning for her allergies."
+ },
+ {
+  "id": "tail",
+  "ipa": "/teɪl/",
+  "fr": "queue",
+  "def": "the part at the back end of an animal's body",
+  "ex": "The dog wagged its tail when it saw us."
+ },
+ {
+  "id": "take",
+  "ipa": "/teɪk/",
+  "fr": "prendre",
+  "def": "reach out and hold something in your hand",
+  "ex": "Please take a seat while you wait for the doctor."
+ },
+ {
+  "id": "tale",
+  "ipa": "/teɪl/",
+  "fr": "conte, récit",
+  "def": "a story, often about exciting or magical events",
+  "ex": "My grandfather told us an old tale about pirates."
+ },
+ {
+  "id": "talent",
+  "ipa": "/ˈtælənt/",
+  "fr": "talent",
+  "def": "a natural ability to do something well",
+  "ex": "She has a real talent for painting and drawing."
+ },
+ {
+  "id": "talented",
+  "ipa": "/ˈtæləntɪd/",
+  "fr": "talentueux, doué",
+  "def": "having a natural ability to do something well",
+  "ex": "He is one of the most talented musicians in town."
+ },
+ {
+  "id": "talk",
+  "ipa": "/tɔːk/",
+  "fr": "parler (v.) ; conversation, discours (n.)",
+  "def": "say things to communicate with someone",
+  "ex": "We talked for hours about our plans for the future."
+ },
+ {
+  "id": "tall",
+  "ipa": "/tɔːl/",
+  "fr": "grand (en taille)",
+  "def": "having a greater than average height",
+  "ex": "My brother is much taller than me now."
+ },
+ {
+  "id": "tank",
+  "ipa": "/tæŋk/",
+  "fr": "réservoir, char (militaire)",
+  "def": "a large container for storing liquid or gas",
+  "ex": "We filled the car's fuel tank before the trip."
+ },
+ {
+  "id": "tape",
+  "ipa": "/teɪp/",
+  "fr": "ruban adhésif, cassette",
+  "def": "a thin strip of plastic used for sticking things together",
+  "ex": "He used tape to fix the torn poster."
+ },
+ {
+  "id": "target",
+  "ipa": "/ˈtɑːrɡɪt/",
+  "fr": "cible (n.) ; cibler, viser (v.)",
+  "def": "a person, object, or result that you aim for",
+  "ex": "The company set a new sales target for this year."
+ },
+ {
+  "id": "task",
+  "ipa": "/tæsk/",
+  "fr": "tâche",
+  "def": "a piece of work that must be done",
+  "ex": "Cleaning the garage was a difficult task for us."
+ },
+ {
+  "id": "taste",
+  "ipa": "/teɪst/",
+  "fr": "goût (n.) ; goûter (v.)",
+  "def": "the flavor of food or drink in your mouth",
+  "ex": "I love the taste of fresh strawberries in summer."
+ },
+ {
+  "id": "tax",
+  "ipa": "/tæks/",
+  "fr": "impôt, taxe (n.) ; taxer (v.)",
+  "def": "money that people pay to the government",
+  "ex": "We have to pay tax on everything we earn."
+ },
+ {
+  "id": "taxi",
+  "ipa": "/ˈtæksi/",
+  "fr": "taxi",
+  "def": "a car with a driver that you pay to travel in",
+  "ex": "We took a taxi to the airport this morning."
+ },
+ {
+  "id": "tea",
+  "ipa": "/tiː/",
+  "fr": "thé",
+  "def": "a hot drink made from dried leaves and water",
+  "ex": "She drinks a cup of tea every morning."
+ },
+ {
+  "id": "teach",
+  "ipa": "/tiːtʃ/",
+  "fr": "enseigner",
+  "def": "help someone learn something by giving lessons",
+  "ex": "My father taught me how to ride a bike."
+ },
+ {
+  "id": "teacher",
+  "ipa": "/ˈtiːtʃɚ/",
+  "fr": "professeur, enseignant",
+  "def": "a person whose job is to teach students",
+  "ex": "Our teacher explained the lesson very clearly today."
+ },
+ {
+  "id": "teaching",
+  "ipa": "/ˈtiːtʃɪŋ/",
+  "fr": "enseignement",
+  "def": "the job or activity of helping students learn",
+  "ex": "She has enjoyed teaching for more than twenty years."
+ },
+ {
+  "id": "team",
+  "ipa": "/tiːm/",
+  "fr": "équipe",
+  "def": "a group of people who work or play together",
+  "ex": "Our team won the championship game last weekend."
+ },
+ {
+  "id": "tear-1",
+  "ipa": "/tɛr/",
+  "fr": "déchirer (v.) ; déchirure (n.)",
+  "def": "pull something apart or damage it by ripping",
+  "ex": "Be careful not to tear the wrapping paper."
+ },
+ {
+  "id": "tear-2",
+  "ipa": "/tɪr/",
+  "fr": "larme",
+  "def": "a drop of water that falls from your eye when crying",
+  "ex": "A tear rolled down her cheek during the sad movie."
+ },
+ {
+  "id": "technical",
+  "ipa": "/ˈtɛknɪkl̩/",
+  "fr": "technique",
+  "def": "relating to the practical use of machines or science",
+  "ex": "The manual explains all the technical details clearly."
+ },
+ {
+  "id": "technique",
+  "ipa": "/tɛkˈniːk/",
+  "fr": "technique",
+  "def": "a particular way of doing something skillfully",
+  "ex": "She learned a new technique for baking bread."
+ },
+ {
+  "id": "technology",
+  "ipa": "/tɛkˈnɑːlədʒi/",
+  "fr": "technologie",
+  "def": "scientific knowledge used for practical purposes",
+  "ex": "New technology has changed the way we communicate."
+ },
+ {
+  "id": "teenage",
+  "ipa": "/ˈtiːneɪdʒ/",
+  "fr": "adolescent",
+  "def": "relating to people between thirteen and nineteen years old",
+  "ex": "She has two teenage sons who love video games."
+ },
+ {
+  "id": "teenager",
+  "ipa": "/ˈtiːneɪdʒɚ/",
+  "fr": "adolescent, adolescente",
+  "def": "a person between thirteen and nineteen years old",
+  "ex": "My neighbor's teenager just got his driving license."
+ },
+ {
+  "id": "telephone",
+  "ipa": "/ˈtɛləfoʊn/",
+  "fr": "téléphone (n.) ; téléphoner (v.)",
+  "def": "a machine used to talk to someone far away",
+  "ex": "She answered the telephone after the third ring."
+ },
+ {
+  "id": "television",
+  "ipa": "/ˈtɛləvɪʒn̩/",
+  "fr": "télévision",
+  "def": "a machine that shows moving pictures and sound",
+  "ex": "The children watched television all afternoon on Saturday."
+ },
+ {
+  "id": "tell",
+  "ipa": "/tɛl/",
+  "fr": "dire, raconter",
+  "def": "give information to someone by speaking or writing",
+  "ex": "Please tell me what happened at the meeting."
+ },
+ {
+  "id": "temperature",
+  "ipa": "/ˈtɛmprətʃɚ/",
+  "fr": "température",
+  "def": "how hot or cold something is",
+  "ex": "The temperature dropped quickly after the sun went down."
+ },
+ {
+  "id": "temporary",
+  "ipa": "/ˈtɛmpəˌrɛri/",
+  "fr": "temporaire, provisoire",
+  "def": "lasting for only a limited period of time",
+  "ex": "He took a temporary job at the store for summer."
+ },
+ {
+  "id": "ten",
+  "ipa": "/tɛn/",
+  "fr": "dix",
+  "def": "the number 10",
+  "ex": "She counted ten fingers and ten toes on the baby."
+ },
+ {
+  "id": "tend",
+  "ipa": "/tɛnd/",
+  "fr": "avoir tendance à",
+  "def": "be likely to do or be a particular thing",
+  "ex": "People tend to eat more food during the holidays."
+ },
+ {
+  "id": "tennis",
+  "ipa": "/ˈtɛnɪs/",
+  "fr": "tennis",
+  "def": "a sport played with rackets and a small ball",
+  "ex": "We played tennis at the park this morning."
+ },
+ {
+  "id": "tent",
+  "ipa": "/tɛnt/",
+  "fr": "tente",
+  "def": "a shelter made of cloth, used for camping",
+  "ex": "We slept in a tent during our camping trip."
+ },
+ {
+  "id": "term",
+  "ipa": "/tɝːm/",
+  "fr": "terme, trimestre (n.) ; désigner (v.)",
+  "def": "a word or phrase used to describe something",
+  "ex": "This medical term is difficult for most patients to understand."
+ },
+ {
+  "id": "terrible",
+  "ipa": "/ˈtɛrəbl̩/",
+  "fr": "terrible, affreux",
+  "def": "extremely bad or unpleasant",
+  "ex": "We had terrible weather during our entire vacation."
+ },
+ {
+  "id": "test",
+  "ipa": "/tɛst/",
+  "fr": "test, examen (n.) ; tester (v.)",
+  "def": "a set of questions to check knowledge or ability",
+  "ex": "We have an important math test tomorrow morning at school."
+ },
+ {
+  "id": "text",
+  "ipa": "/tɛkst/",
+  "fr": "texte (n.) ; envoyer un texto (v.)",
+  "def": "written words in a book, message, or document",
+  "ex": "I will text you as soon as I arrive."
+ },
+ {
+  "id": "than",
+  "ipa": "/ðæn/",
+  "fr": "que (comparaison)",
+  "def": "used to compare two different things",
+  "ex": "My older sister is much taller than I am."
+ },
+ {
+  "id": "thank",
+  "ipa": "/θæŋk/",
+  "fr": "remercier",
+  "def": "tell someone you are grateful for something",
+  "ex": "I want to thank you for all your help."
+ },
+ {
+  "id": "thanks",
+  "ipa": "/θæŋks/",
+  "fr": "merci",
+  "def": "used to tell someone you are grateful",
+  "ex": "Thanks for helping me carry these heavy boxes."
+ },
+ {
+  "id": "that",
+  "ipa": "/ðæt/",
+  "fr": "ce, cela, celui-là ; que (conj.)",
+  "def": "used to refer to a specific thing already mentioned",
+  "ex": "That book on the shelf belongs to my brother."
+ },
+ {
+  "id": "the",
+  "ipa": "/ðə/",
+  "fr": "le, la, les",
+  "def": "used before a noun to refer to a specific thing",
+  "ex": "The dog next door barks every single night."
+ },
+ {
+  "id": "theater",
+  "ipa": "/ˈθiːətɚ/",
+  "fr": "théâtre",
+  "def": "a building where plays and shows are performed",
+  "ex": "We watched a play at the theater last night."
+ },
+ {
+  "id": "their",
+  "ipa": "/ðɛr/",
+  "fr": "leur, leurs",
+  "def": "belonging to the people or things already mentioned",
+  "ex": "They parked their old car outside the restaurant tonight."
+ },
+ {
+  "id": "theirs",
+  "ipa": "/ðɛrz/",
+  "fr": "le leur, la leur, les leurs",
+  "def": "belonging to the people already mentioned",
+  "ex": "This house on the corner is theirs, not ours."
+ },
+ {
+  "id": "them",
+  "ipa": "/ðɛm/",
+  "fr": "les, leur, eux",
+  "def": "used to refer to people or things already mentioned",
+  "ex": "I saw them walking together at the mall yesterday."
+ },
+ {
+  "id": "theme",
+  "ipa": "/θiːm/",
+  "fr": "thème",
+  "def": "the main subject or idea of a book or event",
+  "ex": "The theme of the party was outer space."
+ },
+ {
+  "id": "themselves",
+  "ipa": "/ðəmˈsɛlvz/",
+  "fr": "eux-mêmes, elles-mêmes",
+  "def": "used to show that people did something to themselves",
+  "ex": "The children made themselves sandwiches for lunch today."
+ },
+ {
+  "id": "then",
+  "ipa": "/ðɛn/",
+  "fr": "alors, ensuite, puis",
+  "def": "at that time, or after that",
+  "ex": "We finished dinner, and then we watched a movie."
+ },
+ {
+  "id": "theory",
+  "ipa": "/ˈθiːəri/",
+  "fr": "théorie",
+  "def": "an idea that explains why something happens",
+  "ex": "Scientists developed a new theory about the universe."
+ },
+ {
+  "id": "therapy",
+  "ipa": "/ˈθɛrəpi/",
+  "fr": "thérapie",
+  "def": "treatment to help a physical or mental problem",
+  "ex": "She started therapy to help with her anxiety."
+ },
+ {
+  "id": "there",
+  "ipa": "/ðɛr/",
+  "fr": "là, y, là-bas",
+  "def": "in, at, or to that place",
+  "ex": "We stopped there for lunch on our way home."
+ },
+ {
+  "id": "therefore",
+  "ipa": "/ˈðɛrfɔːr/",
+  "fr": "donc, par conséquent",
+  "def": "for that reason, as a result",
+  "ex": "The roads are icy; therefore, please drive carefully today."
+ },
+ {
+  "id": "they",
+  "ipa": "/ðeɪ/",
+  "fr": "ils, elles",
+  "def": "used to refer to two or more people or things",
+  "ex": "They arrived quite late because of the heavy traffic."
+ },
+ {
+  "id": "thick",
+  "ipa": "/θɪk/",
+  "fr": "épais",
+  "def": "having a large distance between opposite sides",
+  "ex": "She wore a thick coat to stay warm outside."
+ },
+ {
+  "id": "thief",
+  "ipa": "/θiːf/",
+  "fr": "voleur",
+  "def": "a person who steals things from others",
+  "ex": "The thief ran away before the police arrived."
+ },
+ {
+  "id": "thin",
+  "ipa": "/θɪn/",
+  "fr": "mince, fin",
+  "def": "having a small distance between opposite sides",
+  "ex": "She cut the bread into thin slices for the sandwiches."
+ },
+ {
+  "id": "thing",
+  "ipa": "/θɪŋ/",
+  "fr": "chose",
+  "def": "an object, idea, or event that is not named exactly",
+  "ex": "I have one more thing to tell you."
+ },
+ {
+  "id": "think",
+  "ipa": "/θɪŋk/",
+  "fr": "penser",
+  "def": "use your mind to consider or form ideas",
+  "ex": "I think we should leave before it gets dark."
+ },
+ {
+  "id": "thinking",
+  "ipa": "/ˈθɪŋkɪŋ/",
+  "fr": "réflexion, pensée",
+  "def": "the activity of using your mind to consider something",
+  "ex": "Careful thinking helped her solve the difficult problem."
+ },
+ {
+  "id": "third",
+  "ipa": "/θɝːd/",
+  "fr": "troisième (adj./nombre) ; tiers (n.)",
+  "def": "coming after second and before fourth in a list",
+  "ex": "She finished third in the school running race."
+ },
+ {
+  "id": "thirsty",
+  "ipa": "/ˈθɝːsti/",
+  "fr": "assoiffé",
+  "def": "feeling that you need to drink something",
+  "ex": "After the long run, I felt very thirsty."
+ },
+ {
+  "id": "thirteen",
+  "ipa": "/ˌθɝːˈtiːn/",
+  "fr": "treize",
+  "def": "the number 13",
+  "ex": "My little cousin just turned thirteen years old last week."
+ },
+ {
+  "id": "thirty",
+  "ipa": "/ˈθɝːti/",
+  "fr": "trente",
+  "def": "the number 30",
+  "ex": "My uncle will turn thirty years old next month."
+ },
+ {
+  "id": "this",
+  "ipa": "/ðɪs/",
+  "fr": "ce, cette, ceci",
+  "def": "used to refer to a thing or person close by",
+  "ex": "This restaurant serves the best pizza in town."
+ },
+ {
+  "id": "though",
+  "ipa": "/ðoʊ/",
+  "fr": "bien que, pourtant",
+  "def": "despite the fact that something is true",
+  "ex": "The house is small, though it feels very cozy."
+ },
+ {
+  "id": "thought",
+  "ipa": "/θɔːt/",
+  "fr": "pensée, idée",
+  "def": "an idea or opinion that you have in your mind",
+  "ex": "The thought of losing his job worried him greatly."
+ },
+ {
+  "id": "thousand",
+  "ipa": "/ˈθaʊzn̩d/",
+  "fr": "mille",
+  "def": "the number 1,000",
+  "ex": "More than a thousand people attended the concert."
+ },
+ {
+  "id": "threat",
+  "ipa": "/θrɛt/",
+  "fr": "menace",
+  "def": "a statement or sign that something bad may happen",
+  "ex": "The storm was a serious threat to the coastal town."
+ },
+ {
+  "id": "threaten",
+  "ipa": "/ˈθrɛtn̩/",
+  "fr": "menacer",
+  "def": "say you will hurt someone if they do not obey",
+  "ex": "The manager threatened to fire anyone who was late."
+ },
+ {
+  "id": "three",
+  "ipa": "/θriː/",
+  "fr": "trois",
+  "def": "the number 3",
+  "ex": "She has three older brothers and one younger sister."
+ },
+ {
+  "id": "throat",
+  "ipa": "/θroʊt/",
+  "fr": "gorge",
+  "def": "the front part of your neck inside your body",
+  "ex": "My throat hurts whenever I try to swallow."
+ },
+ {
+  "id": "through",
+  "ipa": "/θruː/",
+  "fr": "à travers, par",
+  "def": "moving from one side of something to the other",
+  "ex": "We walked through the park on our way home."
+ },
+ {
+  "id": "throughout",
+  "ipa": "/θruːˈaʊt/",
+  "fr": "partout dans, tout au long de",
+  "def": "during the whole of a period or place",
+  "ex": "Rain is expected throughout the weekend across the region."
+ },
+ {
+  "id": "throw",
+  "ipa": "/θroʊ/",
+  "fr": "lancer, jeter",
+  "def": "send something through the air using your hand",
+  "ex": "He threw the ball across the yard to his dog."
+ },
+ {
+  "id": "thursday",
+  "ipa": "/ˈθɝːzdeɪ/",
+  "fr": "jeudi",
+  "def": "the day of the week after Wednesday",
+  "ex": "We have a meeting scheduled for Thursday afternoon."
+ },
+ {
+  "id": "thus",
+  "ipa": "/ðʌs/",
+  "fr": "ainsi, donc",
+  "def": "as a result of this; in this way",
+  "ex": "The bridge was closed, thus causing heavy traffic delays."
+ },
+ {
+  "id": "ticket",
+  "ipa": "/ˈtɪkɪt/",
+  "fr": "billet, ticket",
+  "def": "a piece of paper that shows you paid to enter or travel",
+  "ex": "I bought a ticket for the concert next Friday."
+ },
+ {
+  "id": "tie",
+  "ipa": "/taɪ/",
+  "fr": "attacher, nouer (v.) ; cravate (n.)",
+  "def": "fasten something using a knot",
+  "ex": "Please tie your shoes before we go outside."
+ },
+ {
+  "id": "tight",
+  "ipa": "/taɪt/",
+  "fr": "serré",
+  "def": "fitting very closely, often too closely",
+  "ex": "These new shoes feel a little too tight."
+ },
+ {
+  "id": "till",
+  "ipa": "/tɪl/",
+  "fr": "jusqu'à",
+  "def": "up to a particular time",
+  "ex": "We waited till the heavy rain finally stopped completely."
+ },
+ {
+  "id": "time",
+  "ipa": "/taɪm/",
+  "fr": "temps, heure (n.) ; chronométrer (v.)",
+  "def": "what is measured in minutes, hours, days, and years",
+  "ex": "We don't have enough time to finish this today."
+ },
+ {
+  "id": "tiny",
+  "ipa": "/ˈtaɪni/",
+  "fr": "minuscule",
+  "def": "extremely small",
+  "ex": "The kitten was tiny enough to fit in my hand."
+ },
+ {
+  "id": "tip",
+  "ipa": "/tɪp/",
+  "fr": "pourboire, conseil (n.) ; incliner, verser (v.)",
+  "def": "extra money given to someone for good service",
+  "ex": "We left a generous tip for our waiter."
+ },
+ {
+  "id": "tire",
+  "ipa": "/ˈtaɪɚ/",
+  "fr": "pneu",
+  "def": "the rubber part around the wheel of a vehicle",
+  "ex": "We had to change a flat tire on the highway."
+ },
+ {
+  "id": "tired",
+  "ipa": "/ˈtaɪɚd/",
+  "fr": "fatigué",
+  "def": "needing rest or sleep",
+  "ex": "I felt very tired after the long flight."
+ },
+ {
+  "id": "title",
+  "ipa": "/ˈtaɪtl̩/",
+  "fr": "titre (n.) ; intituler (v.)",
+  "def": "the name of a book, movie, or piece of work",
+  "ex": "I forgot the title of that song immediately."
+ },
+ {
+  "id": "to",
+  "ipa": "/tuː/",
+  "fr": "à, vers, pour ; (marqueur de l'infinitif)",
+  "def": "used to show direction, purpose, or the infinitive form",
+  "ex": "We are driving to the coast this weekend."
+ },
+ {
+  "id": "today",
+  "ipa": "/təˈdeɪ/",
+  "fr": "aujourd'hui",
+  "def": "on or during this present day",
+  "ex": "I have a lot of homework to finish today."
+ },
+ {
+  "id": "toe",
+  "ipa": "/toʊ/",
+  "fr": "orteil",
+  "def": "one of the small parts at the end of your foot",
+  "ex": "She hurt her toe on the corner of the bed."
+ },
+ {
+  "id": "together",
+  "ipa": "/təˈɡɛðɚ/",
+  "fr": "ensemble",
+  "def": "with each other, or in the same place",
+  "ex": "We always eat dinner together as a family."
+ },
+ {
+  "id": "toilet",
+  "ipa": "/ˈtɔɪlət/",
+  "fr": "toilettes",
+  "def": "a bowl connected to a pipe, used to remove waste",
+  "ex": "The toilet in the bathroom is not working properly."
+ },
+ {
+  "id": "tomato",
+  "ipa": "/təˈmeɪtoʊ/",
+  "fr": "tomate",
+  "def": "a soft round red fruit eaten as a vegetable",
+  "ex": "She added a sliced tomato to the salad."
+ },
+ {
+  "id": "tomorrow",
+  "ipa": "/təˈmɑːroʊ/",
+  "fr": "demain",
+  "def": "the day after today",
+  "ex": "We will visit the science museum again tomorrow afternoon."
+ },
+ {
+  "id": "ton",
+  "ipa": "/tʌn/",
+  "fr": "tonne",
+  "def": "a unit of weight equal to 2,000 pounds",
+  "ex": "The truck can carry up to one ton of goods."
+ },
+ {
+  "id": "tone",
+  "ipa": "/toʊn/",
+  "fr": "ton (de voix)",
+  "def": "the quality of a sound or way of speaking",
+  "ex": "She spoke in a calm, friendly tone of voice."
+ },
+ {
+  "id": "tongue",
+  "ipa": "/tʌŋ/",
+  "fr": "langue",
+  "def": "the soft part inside your mouth used for tasting",
+  "ex": "The dog licked my hand with its wet tongue."
+ },
+ {
+  "id": "tonight",
+  "ipa": "/təˈnaɪt/",
+  "fr": "ce soir",
+  "def": "on the evening or night of the present day",
+  "ex": "We are going to a concert tonight downtown."
+ },
+ {
+  "id": "too",
+  "ipa": "/tuː/",
+  "fr": "aussi, trop",
+  "def": "more than is wanted or needed",
+  "ex": "This coffee is too hot for me to drink."
+ },
+ {
+  "id": "tool",
+  "ipa": "/tuːl/",
+  "fr": "outil",
+  "def": "an object used to help you do a job",
+  "ex": "A hammer is a useful tool for building things."
+ },
+ {
+  "id": "tooth",
+  "ipa": "/tuːθ/",
+  "fr": "dent",
+  "def": "one of the hard white parts in your mouth",
+  "ex": "The dentist checked every tooth very carefully today."
+ },
+ {
+  "id": "top",
+  "ipa": "/tɑːp/",
+  "fr": "haut, sommet (n.) ; premier (adj.)",
+  "def": "the highest point or part of something",
+  "ex": "We finally reached the top of the mountain."
+ },
+ {
+  "id": "topic",
+  "ipa": "/ˈtɑːpɪk/",
+  "fr": "sujet, thème",
+  "def": "a subject that people talk, write, or learn about",
+  "ex": "We discussed an interesting topic in class today."
+ },
+ {
+  "id": "total",
+  "ipa": "/ˈtoʊtl̩/",
+  "fr": "total",
+  "def": "the complete amount of something added together",
+  "ex": "The total cost of the trip surprised everyone."
+ },
+ {
+  "id": "totally",
+  "ipa": "/ˈtoʊtəli/",
+  "fr": "totalement, complètement",
+  "def": "completely, in every way",
+  "ex": "I totally forgot about our meeting this morning."
+ },
+ {
+  "id": "touch",
+  "ipa": "/tʌtʃ/",
+  "fr": "toucher",
+  "def": "put your hand or fingers on something",
+  "ex": "Please don't touch the paintings in the gallery."
+ },
+ {
+  "id": "tough",
+  "ipa": "/tʌf/",
+  "fr": "difficile, dur, coriace",
+  "def": "difficult, or not easy to deal with",
+  "ex": "It was a tough decision to make so quickly."
+ },
+ {
+  "id": "tour",
+  "ipa": "/tʊr/",
+  "fr": "visite, tournée (n.) ; visiter (v.)",
+  "def": "a trip to see a place or several places",
+  "ex": "We took a tour of the old castle yesterday."
+ },
+ {
+  "id": "tourism",
+  "ipa": "/ˈtʊrɪzəm/",
+  "fr": "tourisme",
+  "def": "the business of providing services for tourists",
+  "ex": "Tourism is very important to the island's economy."
+ },
+ {
+  "id": "tourist",
+  "ipa": "/ˈtʊrɪst/",
+  "fr": "touriste",
+  "def": "a person who travels to visit a place for pleasure",
+  "ex": "Many tourists visit the city during the summer months."
+ },
+ {
+  "id": "toward",
+  "ipa": "/tɔːrd/",
+  "fr": "vers",
+  "def": "in the direction of someone or something",
+  "ex": "She walked slowly toward the old front door."
+ },
+ {
+  "id": "towel",
+  "ipa": "/ˈtaʊəl/",
+  "fr": "serviette",
+  "def": "a piece of cloth used for drying something wet",
+  "ex": "She dried her hair with a soft towel."
+ },
+ {
+  "id": "tower",
+  "ipa": "/ˈtaʊɚ/",
+  "fr": "tour (bâtiment)",
+  "def": "a tall narrow building or part of a building",
+  "ex": "Tourists climbed the tower to see the whole city."
+ },
+ {
+  "id": "town",
+  "ipa": "/taʊn/",
+  "fr": "ville (petite)",
+  "def": "a place with houses and shops, smaller than a city",
+  "ex": "I grew up in a small town near the coast."
+ },
+ {
+  "id": "toy",
+  "ipa": "/tɔɪ/",
+  "fr": "jouet",
+  "def": "an object for children to play with",
+  "ex": "He bought his son a toy for his birthday."
+ },
+ {
+  "id": "track",
+  "ipa": "/træk/",
+  "fr": "piste, voie (n.) ; suivre, pister (v.)",
+  "def": "a path or road made for a particular purpose",
+  "ex": "Runners raced around the track at the stadium."
+ },
+ {
+  "id": "trade",
+  "ipa": "/treɪd/",
+  "fr": "commerce, échange (n.) ; échanger (v.)",
+  "def": "the buying and selling of goods between people or countries",
+  "ex": "The two countries agreed to increase trade next year."
+ },
+ {
+  "id": "tradition",
+  "ipa": "/trəˈdɪʃn̩/",
+  "fr": "tradition",
+  "def": "a custom or belief passed from parents to children",
+  "ex": "It is a tradition to eat turkey on this holiday."
+ },
+ {
+  "id": "traditional",
+  "ipa": "/trəˈdɪʃənl̩/",
+  "fr": "traditionnel",
+  "def": "following old customs or ways of doing things",
+  "ex": "They cooked a traditional meal for the holiday dinner."
+ }
+]

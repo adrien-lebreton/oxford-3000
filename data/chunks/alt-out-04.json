@@ -1,0 +1,1232 @@
+[
+ {
+  "id": "mention",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a brief comment or reference to something",
+    "ex": "Her name got a mention in the school newsletter."
+   }
+  ]
+ },
+ {
+  "id": "mess",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make a place untidy or dirty",
+    "ex": "The dog messed up the living room while we were out."
+   }
+  ]
+ },
+ {
+  "id": "meter",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a device that measures and records an amount",
+    "ex": "The parking meter showed we had ten more minutes."
+   }
+  ]
+ },
+ {
+  "id": "middle",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "positioned between two other things or in the center",
+    "ex": "The middle seat on the plane felt very cramped."
+   }
+  ]
+ },
+ {
+  "id": "mind",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to feel annoyed or bothered by something",
+    "ex": "She doesn't mind waiting a few extra minutes for the bus."
+   }
+  ]
+ },
+ {
+  "id": "mistake",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to wrongly think one person or thing is another",
+    "ex": "People often mistake the twins for each other at school."
+   }
+  ]
+ },
+ {
+  "id": "mix",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a combination of different things or people",
+    "ex": "The party had a great mix of music and food."
+   }
+  ]
+ },
+ {
+  "id": "model",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to wear and display clothes as part of a job",
+    "ex": "She modeled winter coats for a popular clothing brand."
+   }
+  ]
+ },
+ {
+  "id": "monitor",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a screen that shows text or images from a computer",
+    "ex": "She bought a new monitor for her home computer desk."
+   }
+  ]
+ },
+ {
+  "id": "moral",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a lesson about right and wrong taught by a story",
+    "ex": "The moral of the fable is to always tell the truth."
+   }
+  ]
+ },
+ {
+  "id": "move",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an action taken to achieve something, or a change of position",
+    "ex": "Buying that old house turned out to be a smart move."
+   }
+  ]
+ },
+ {
+  "id": "murder",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to deliberately kill a person",
+    "ex": "The man was accused of murdering his business partner."
+   }
+  ]
+ },
+ {
+  "id": "musical",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a play or film that includes singing and dancing",
+    "ex": "We saw a wonderful musical on Broadway last weekend."
+   }
+  ]
+ },
+ {
+  "id": "nail",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the hard layer covering the tip of a finger or toe",
+    "ex": "She painted her nails a bright shade of pink."
+   }
+  ]
+ },
+ {
+  "id": "name",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give a name to someone or something",
+    "ex": "They named their new puppy Max after a week."
+   }
+  ]
+ },
+ {
+  "id": "narrative",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "in the style of telling a story",
+    "ex": "The film uses a narrative style similar to a fairy tale."
+   }
+  ]
+ },
+ {
+  "id": "narrow",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to become smaller in width, or to reduce options",
+    "ex": "We managed to narrow the list down to three candidates."
+   }
+  ]
+ },
+ {
+  "id": "national",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a citizen of a particular country",
+    "ex": "Only Japanese nationals are allowed to vote in Japan."
+   }
+  ]
+ },
+ {
+  "id": "need",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something that is necessary for a person to have",
+    "ex": "Clean water is a basic need for every human being."
+   }
+  ]
+ },
+ {
+  "id": "negative",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a piece of photographic film with a reversed image",
+    "ex": "The old photo negative was damaged by strong sunlight."
+   }
+  ]
+ },
+ {
+  "id": "neither",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "used to say a negative statement is also true for you",
+    "ex": "She can't swim, and neither can her younger brother."
+   }
+  ]
+ },
+ {
+  "id": "next",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the person or thing that comes immediately after this one",
+    "ex": "The next in line was a young woman with two bags."
+   }
+  ]
+ },
+ {
+  "id": "no",
+  "alt": [
+   {
+    "pos": "det.",
+    "def": "not any; not one single",
+    "ex": "There is no milk left in the fridge today."
+   }
+  ]
+ },
+ {
+  "id": "normal",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the usual or expected standard or state",
+    "ex": "After the storm, life slowly returned to normal again."
+   }
+  ]
+ },
+ {
+  "id": "note",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to notice or pay careful attention to something",
+    "ex": "Please note that the office closes early on Fridays."
+   }
+  ]
+ },
+ {
+  "id": "notice",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a written sign giving information, or advance warning of something",
+    "ex": "The landlord gave us one month's notice to move out."
+   }
+  ]
+ },
+ {
+  "id": "now",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "used to mean because or since something has happened",
+    "ex": "Now that you're here, we can finally start the meeting."
+   }
+  ]
+ },
+ {
+  "id": "number",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give a number to each item in a series",
+    "ex": "The teacher numbered each test paper before handing them out."
+   }
+  ]
+ },
+ {
+  "id": "object",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to disagree with something or express opposition to it",
+    "ex": "Several parents objected to the new school dress code."
+   }
+  ]
+ },
+ {
+  "id": "odd",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "a number that cannot be divided exactly by two",
+    "ex": "Three, five, and seven are all odd numbers."
+   }
+  ]
+ },
+ {
+  "id": "off",
+  "alt": [
+   {
+    "pos": "prep.",
+    "def": "no longer touching or attached to a surface",
+    "ex": "The cat jumped off the tall kitchen counter quickly."
+   }
+  ]
+ },
+ {
+  "id": "offense",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of being upset or hurt by someone's words",
+    "ex": "He meant no offense when he asked about her age."
+   }
+  ]
+ },
+ {
+  "id": "offer",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something that someone offers, such as a good price",
+    "ex": "The store made a special offer on winter jackets."
+   }
+  ]
+ },
+ {
+  "id": "official",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who holds a position of authority in an organization",
+    "ex": "A government official spoke to reporters after the meeting."
+   }
+  ]
+ },
+ {
+  "id": "oil",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a natural substance pumped from the ground and used as fuel",
+    "ex": "That country earns most of its money from exporting oil."
+   }
+  ]
+ },
+ {
+  "id": "ok",
+  "alt": [
+   {
+    "pos": "exclam.",
+    "def": "used alone to say you agree or accept something",
+    "ex": "OK, let's meet at the coffee shop at noon."
+   }
+  ]
+ },
+ {
+  "id": "old",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "belonging to an earlier time, or known for a long time",
+    "ex": "We met my old college roommate for dinner last night."
+   }
+  ]
+ },
+ {
+  "id": "on",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "working or functioning, like a light or machine",
+    "ex": "She left the television on all night by mistake."
+   }
+  ]
+ },
+ {
+  "id": "once",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "as soon as something happens or is done",
+    "ex": "Once you finish your homework, you can watch television."
+   }
+  ]
+ },
+ {
+  "id": "only",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "and nothing more than this; merely",
+    "ex": "I only wanted to ask you one quick question."
+   }
+  ]
+ },
+ {
+  "id": "open",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "not closed or shut, allowing people or things to pass",
+    "ex": "The shop stays open until nine o'clock every night."
+   }
+  ]
+ },
+ {
+  "id": "opening",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a job that is available for someone to apply for",
+    "ex": "The company announced a new opening in the sales department."
+   }
+  ]
+ },
+ {
+  "id": "operate",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to perform surgery on a patient in a hospital",
+    "ex": "The surgeon operated on his knee for two hours."
+   }
+  ]
+ },
+ {
+  "id": "order",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the way things are arranged in a sequence, one after another",
+    "ex": "Please put these documents in alphabetical order before filing."
+   },
+   {
+    "pos": "v.",
+    "def": "to instruct someone to do something using your authority",
+    "ex": "The general ordered his troops to retreat immediately."
+   }
+  ]
+ },
+ {
+  "id": "organ",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a large musical instrument played using a keyboard and pipes",
+    "ex": "She played the organ during the church wedding ceremony."
+   }
+  ]
+ },
+ {
+  "id": "original",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the first version of something, not a copy",
+    "ex": "The museum keeps the original locked away for safety."
+   }
+  ]
+ },
+ {
+  "id": "outline",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to describe the main points of something, without details",
+    "ex": "The manager outlined the new plan during the meeting."
+   }
+  ]
+ },
+ {
+  "id": "outside",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the outer part or surface of something",
+    "ex": "They painted the outside of the house bright yellow."
+   }
+  ]
+ },
+ {
+  "id": "over",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "finished or ended completely",
+    "ex": "The long, difficult exam was finally over by noon."
+   }
+  ]
+ },
+ {
+  "id": "overseas",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "located in or coming from another country across the sea",
+    "ex": "She accepted a job offer from an overseas company."
+   }
+  ]
+ },
+ {
+  "id": "own",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have something that legally belongs to you",
+    "ex": "My uncle owns a small farm in the countryside."
+   }
+  ]
+ },
+ {
+  "id": "pace",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to walk back and forth in the same area repeatedly",
+    "ex": "She paced the hallway nervously while waiting for news."
+   }
+  ]
+ },
+ {
+  "id": "pack",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a set of things wrapped or grouped together",
+    "ex": "He bought a pack of batteries at the store."
+   }
+  ]
+ },
+ {
+  "id": "package",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to wrap or pack something for storage or sale",
+    "ex": "The company packages its products in recyclable cardboard boxes."
+   }
+  ]
+ },
+ {
+  "id": "paint",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "colored liquid used to cover a surface",
+    "ex": "The paint on the old fence was starting to peel."
+   }
+  ]
+ },
+ {
+  "id": "panel",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a flat piece of wood, metal, or other material",
+    "ex": "They installed solar panels on the roof last summer."
+   }
+  ]
+ },
+ {
+  "id": "paper",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a newspaper that reports daily news",
+    "ex": "My father reads the paper every morning with coffee."
+   }
+  ]
+ },
+ {
+  "id": "park",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to stop and leave a vehicle somewhere for a time",
+    "ex": "He parked the car right outside the grocery store."
+   }
+  ]
+ },
+ {
+  "id": "party",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an organized group of people with the same political ideas",
+    "ex": "She joined a political party during her university years."
+   }
+  ]
+ },
+ {
+  "id": "pass",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a document that allows you to enter a place or travel",
+    "ex": "You need a valid pass to enter the stadium."
+   }
+  ]
+ },
+ {
+  "id": "passage",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a short section from a book, speech, or piece of writing",
+    "ex": "The teacher asked us to read a passage aloud in class."
+   }
+  ]
+ },
+ {
+  "id": "past",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the time before the present, or events that already happened",
+    "ex": "He rarely talks about his past or his childhood."
+   }
+  ]
+ },
+ {
+  "id": "patient",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "able to wait calmly without becoming annoyed or upset",
+    "ex": "Please be patient while we fix this small problem."
+   }
+  ]
+ },
+ {
+  "id": "pay",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the money someone receives for doing their job",
+    "ex": "Nurses deserve much better pay for their hard work."
+   }
+  ]
+ },
+ {
+  "id": "pepper",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a hollow, colorful vegetable eaten raw or cooked",
+    "ex": "She sliced a red pepper for the fresh salad."
+   }
+  ]
+ },
+ {
+  "id": "perform",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to carry out a task, action, or piece of work",
+    "ex": "The new engine performs well even in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "performance",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "how well a person, machine, or company does something",
+    "ex": "The team's performance improved a lot after more practice."
+   }
+  ]
+ },
+ {
+  "id": "permit",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an official document that gives you permission to do something",
+    "ex": "You need a permit to park in this area."
+   }
+  ]
+ },
+ {
+  "id": "phone",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to call someone using a telephone",
+    "ex": "I'll phone you as soon as I land tonight."
+   }
+  ]
+ },
+ {
+  "id": "photograph",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a printed picture that you can hold, frame, or keep",
+    "ex": "She framed her favorite photograph and put it on the shelf."
+   }
+  ]
+ },
+ {
+  "id": "pick",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a choice, or the act of choosing someone or something",
+    "ex": "The critics named it their pick for best film."
+   }
+  ]
+ },
+ {
+  "id": "picture",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to imagine or form a mental image of something",
+    "ex": "Picture yourself relaxing on a quiet beach next summer."
+   }
+  ]
+ },
+ {
+  "id": "pile",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put things on top of each other in a heap",
+    "ex": "She piled the clean towels neatly on the shelf."
+   }
+  ]
+ },
+ {
+  "id": "pin",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to attach or fasten something using a pin",
+    "ex": "He pinned the notice to the office bulletin board."
+   }
+  ]
+ },
+ {
+  "id": "pipe",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small tube used for smoking tobacco",
+    "ex": "The old man smoked a wooden pipe on his porch."
+   }
+  ]
+ },
+ {
+  "id": "pitch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a marked field used for playing sports like soccer",
+    "ex": "The players ran onto the pitch before the match started."
+   }
+  ]
+ },
+ {
+  "id": "place",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put something carefully in a particular position",
+    "ex": "She placed the vase gently on the wooden table."
+   }
+  ]
+ },
+ {
+  "id": "plain",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "easy to understand or notice; clear and obvious",
+    "ex": "It was plain to everyone that she was upset."
+   }
+  ]
+ },
+ {
+  "id": "plan",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to decide in detail what you will do in the future",
+    "ex": "They are planning a surprise party for their mother."
+   }
+  ]
+ },
+ {
+  "id": "plant",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put a seed or plant into the ground to grow",
+    "ex": "We planted tomatoes and peppers in the backyard garden."
+   }
+  ]
+ },
+ {
+  "id": "platform",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a raised flat structure where a speaker or performer stands",
+    "ex": "The mayor stood on a platform to address the crowd."
+   }
+  ]
+ },
+ {
+  "id": "play",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a story performed by actors on a stage",
+    "ex": "We watched a wonderful play at the local theater."
+   }
+  ]
+ },
+ {
+  "id": "please",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone feel happy or satisfied",
+    "ex": "It's hard to please everyone at a big family dinner."
+   }
+  ]
+ },
+ {
+  "id": "plot",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make a secret plan with others, often something bad",
+    "ex": "The rebels plotted to overthrow the corrupt government leader."
+   }
+  ]
+ },
+ {
+  "id": "plus-1",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an advantage or good point about something or someone",
+    "ex": "Having experience abroad is a big plus for this job."
+   },
+   {
+    "pos": "conj.",
+    "def": "also; in addition to what has just been said",
+    "ex": "The hotel room was cheap, plus it had a great view."
+   }
+  ]
+ },
+ {
+  "id": "point",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to show where something is by holding out a finger",
+    "ex": "She pointed at the map to show our route."
+   }
+  ]
+ },
+ {
+  "id": "poison",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give someone poison in order to harm or kill them",
+    "ex": "Someone tried to poison the king's evening meal."
+   }
+  ]
+ },
+ {
+  "id": "pool",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small area of liquid lying on a surface",
+    "ex": "A pool of water formed on the floor after the storm."
+   }
+  ]
+ },
+ {
+  "id": "poor",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "of low quality or a low standard",
+    "ex": "The hotel got bad reviews because of its poor service."
+   }
+  ]
+ },
+ {
+  "id": "pose",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to cause or create a problem, question, or risk",
+    "ex": "Climate change poses a serious threat to coastal cities."
+   }
+  ]
+ },
+ {
+  "id": "position",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a job or role within an organization",
+    "ex": "She applied for a management position at the bank."
+   },
+   {
+    "pos": "v.",
+    "def": "to put something or someone in a particular place",
+    "ex": "The coach positioned the players before the game began."
+   }
+  ]
+ },
+ {
+  "id": "positive",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a test result showing that something, like a disease, is present",
+    "ex": "The lab confirmed a positive on her recent blood test."
+   }
+  ]
+ },
+ {
+  "id": "post",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "letters and packages that are collected and delivered to people",
+    "ex": "Her birthday card arrived in the post two days late."
+   },
+   {
+    "pos": "v.",
+    "def": "to put a message or picture online for others to see",
+    "ex": "He posted a photo of his dinner on social media."
+   }
+  ]
+ },
+ {
+  "id": "power",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to supply the energy needed to make something work",
+    "ex": "Solar panels power most homes in that small village."
+   }
+  ]
+ },
+ {
+  "id": "practice",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to do an activity repeatedly to improve a skill",
+    "ex": "She practices the piano for an hour every day."
+   }
+  ]
+ },
+ {
+  "id": "praise",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an expression of approval or admiration for someone",
+    "ex": "He received great praise for his role in the school play."
+   }
+  ]
+ },
+ {
+  "id": "present",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "existing or happening now, at this time",
+    "ex": "The present economic situation worries many small business owners."
+   },
+   {
+    "pos": "v.",
+    "def": "to formally give, show, or introduce something to people",
+    "ex": "The scientist will present her research at the big conference."
+   }
+  ]
+ },
+ {
+  "id": "press",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "newspapers and journalists as a group; the news media",
+    "ex": "The press reported on the election results all night."
+   }
+  ]
+ },
+ {
+  "id": "pretty",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "fairly or quite, but not extremely",
+    "ex": "The test was pretty difficult, but I passed anyway."
+   }
+  ]
+ },
+ {
+  "id": "price",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to decide and set the cost of something",
+    "ex": "The shop priced the new shoes at fifty dollars."
+   }
+  ]
+ },
+ {
+  "id": "principal",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "most important or main",
+    "ex": "Lack of sleep was the principal reason for his mistake."
+   }
+  ]
+ },
+ {
+  "id": "print",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "letters or designs printed onto paper or fabric",
+    "ex": "The old book was written in very small print."
+   }
+  ]
+ },
+ {
+  "id": "process",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to deal with or handle something following a set method",
+    "ex": "The bank needs a few days to process your loan."
+   }
+  ]
+ },
+ {
+  "id": "produce",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to bring something out and show it to other people",
+    "ex": "She produced a photo from her bag to prove it."
+   }
+  ]
+ },
+ {
+  "id": "professional",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who works in a job needing special skill or training",
+    "ex": "She hired a professional to fix the leaking roof."
+   }
+  ]
+ },
+ {
+  "id": "program",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to write instructions that make a computer do a task",
+    "ex": "He learned to program computers during his summer break."
+   }
+  ]
+ },
+ {
+  "id": "progress",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to improve or move forward gradually over time",
+    "ex": "Her English progressed quickly after she moved abroad."
+   }
+  ]
+ },
+ {
+  "id": "project",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to guess or calculate what will happen in the future",
+    "ex": "Experts project that sales will rise sharply next year."
+   }
+  ]
+ },
+ {
+  "id": "promise",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a statement that you will definitely do something",
+    "ex": "He kept his promise to visit his grandmother weekly."
+   }
+  ]
+ },
+ {
+  "id": "protest",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to publicly object to something that seems wrong or unfair",
+    "ex": "Workers protested outside the factory about their low pay."
+   }
+  ]
+ },
+ {
+  "id": "pull",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of pulling something toward you",
+    "ex": "She gave the rope a strong pull toward the shore."
+   }
+  ]
+ },
+ {
+  "id": "purchase",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to buy something, often something fairly expensive",
+    "ex": "They purchased a new car after saving for months."
+   }
+  ]
+ },
+ {
+  "id": "push",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of pushing something with force",
+    "ex": "He gave the heavy door a hard push to open it."
+   }
+  ]
+ },
+ {
+  "id": "quarter",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a particular area or district within a city",
+    "ex": "They wandered through the old quarter of the city."
+   },
+   {
+    "pos": "n.",
+    "def": "a coin worth twenty-five cents in the United States",
+    "ex": "He put a quarter into the parking meter."
+   }
+  ]
+ },
+ {
+  "id": "question",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask someone questions, often to check facts",
+    "ex": "Police questioned the witness for almost two hours."
+   }
+  ]
+ },
+ {
+  "id": "quite",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "completely or totally; used for emphasis",
+    "ex": "You are quite right; we should leave right now."
+   }
+  ]
+ },
+ {
+  "id": "quote",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sentence or phrase repeated from someone else's words",
+    "ex": "She wrote her favorite quote on the classroom wall."
+   }
+  ]
+ },
+ {
+  "id": "rain",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "when water falls from the sky in drops",
+    "ex": "It rained heavily all afternoon during the school trip."
+   }
+  ]
+ },
+ {
+  "id": "raise",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an increase in the amount of money someone earns",
+    "ex": "She finally got a raise after five years at work."
+   }
+  ]
+ },
+ {
+  "id": "range",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to vary or extend between an upper and lower limit",
+    "ex": "Prices for the used cars range from cheap to expensive."
+   }
+  ]
+ }
+]

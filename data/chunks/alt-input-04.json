@@ -1,0 +1,2022 @@
+[
+ {
+  "id": "mention",
+  "word": "mention",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈmɛnʃən/",
+  "fr": "mentionner (v.) ; mention (n.)",
+  "def": "to talk or write about something briefly",
+  "ex": "She didn't mention the problem during our meeting."
+ },
+ {
+  "id": "mess",
+  "word": "mess",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/mɛs/",
+  "fr": "désordre (n.) ; mettre en désordre (v.)",
+  "def": "a dirty or untidy state",
+  "ex": "Please clean up this mess in the kitchen now."
+ },
+ {
+  "id": "meter",
+  "word": "meter",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈmiːtɚ/",
+  "fr": "mètre ; compteur",
+  "def": "a unit used for measuring length",
+  "ex": "The public swimming pool is twenty-five meters long."
+ },
+ {
+  "id": "middle",
+  "word": "middle",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈmɪdəl/",
+  "fr": "milieu (n.) ; du milieu (adj.)",
+  "def": "the point equally far from each end or side",
+  "ex": "The lamp stood right in the middle of the table."
+ },
+ {
+  "id": "mind",
+  "word": "mind",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/maɪnd/",
+  "fr": "esprit (n.) ; s'inquiéter (v.)",
+  "def": "the part of a person that thinks and feels",
+  "ex": "Keep an open mind when trying new kinds of food."
+ },
+ {
+  "id": "mistake",
+  "word": "mistake",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/mɪˈsteɪk/",
+  "fr": "erreur (n.) ; confondre (v.)",
+  "def": "an action or decision that is wrong",
+  "ex": "Everyone makes mistakes when learning something completely new."
+ },
+ {
+  "id": "mix",
+  "word": "mix",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/mɪks/",
+  "fr": "mélanger (v.) ; mélange (n.)",
+  "def": "to combine two or more things together",
+  "ex": "Mix the flour and sugar together in a bowl."
+ },
+ {
+  "id": "model",
+  "word": "model",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈmɑːdəl/",
+  "fr": "modèle (n.) ; modeler (v.)",
+  "def": "a small copy of something, or a design of a product",
+  "ex": "He built a small model airplane with his father."
+ },
+ {
+  "id": "monitor",
+  "word": "monitor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈmɑːnɪtɚ/",
+  "fr": "moniteur, écran (n.) ; surveiller (v.)",
+  "def": "to watch and check something over a period of time",
+  "ex": "Doctors monitor the patient's heart rate very closely."
+ },
+ {
+  "id": "moral",
+  "word": "moral",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈmɔːrəl/",
+  "fr": "moral (adj.) ; morale, leçon (n.)",
+  "def": "connected with what is right and wrong behavior",
+  "ex": "The old story teaches an important moral lesson."
+ },
+ {
+  "id": "move",
+  "word": "move",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/muːv/",
+  "fr": "bouger, déménager (v.) ; mouvement (n.)",
+  "def": "to change position or go from place to place",
+  "ex": "We plan to move to a new city soon."
+ },
+ {
+  "id": "murder",
+  "word": "murder",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈmɝːdɚ/",
+  "fr": "meurtre (n.) ; assassiner (v.)",
+  "def": "the crime of deliberately killing a person",
+  "ex": "The detective investigated the murder for several months."
+ },
+ {
+  "id": "musical",
+  "word": "musical",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈmjuːzɪkəl/",
+  "fr": "musical (adj.) ; comédie musicale (n.)",
+  "def": "connected with or skilled at playing music",
+  "ex": "He comes from a very musical, talented family."
+ },
+ {
+  "id": "nail",
+  "word": "nail",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/neɪl/",
+  "fr": "clou ; ongle",
+  "def": "a thin metal pin, or the hard part on a fingertip",
+  "ex": "He carefully hit the nail with a small hammer."
+ },
+ {
+  "id": "name",
+  "word": "name",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/neɪm/",
+  "fr": "nom (n.) ; nommer (v.)",
+  "def": "the word used to identify a person or thing",
+  "ex": "I don't know the name of this quiet street."
+ },
+ {
+  "id": "narrative",
+  "word": "narrative",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈnærətɪv/",
+  "fr": "récit (n.) ; narratif (adj.)",
+  "def": "a spoken or written account of events",
+  "ex": "The novel has a very complex and interesting narrative."
+ },
+ {
+  "id": "narrow",
+  "word": "narrow",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈnæroʊ/",
+  "fr": "étroit (adj.) ; se rétrécir (v.)",
+  "def": "having a small distance from one side to the other",
+  "ex": "The narrow street was too small for any cars."
+ },
+ {
+  "id": "national",
+  "word": "national",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈnæʃənəl/",
+  "fr": "national (adj.) ; ressortissant (n.)",
+  "def": "connected with a whole country",
+  "ex": "The national holiday is celebrated every year in July."
+ },
+ {
+  "id": "need",
+  "word": "need",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "modal v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/niːd/",
+  "fr": "avoir besoin de (v.) ; besoin (n.)",
+  "def": "to require something because it is necessary",
+  "ex": "Plants need water and sunlight to grow well."
+ },
+ {
+  "id": "negative",
+  "word": "negative",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈnɛɡətɪv/",
+  "fr": "négatif",
+  "def": "bad, harmful, or without hope",
+  "ex": "Try not to have a negative attitude about school."
+ },
+ {
+  "id": "neither",
+  "word": "neither",
+  "note": null,
+  "senses": [
+   {
+    "pos": "det./pron.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈniːðɚ/",
+  "fr": "ni l'un ni l'autre ; non plus",
+  "def": "not one nor the other of two things",
+  "ex": "Neither of the two answers was actually correct."
+ },
+ {
+  "id": "next",
+  "word": "next",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/nɛkst/",
+  "fr": "prochain, suivant",
+  "def": "coming immediately after this one",
+  "ex": "We will visit beautiful Paris together next summer."
+ },
+ {
+  "id": "no",
+  "word": "no",
+  "note": null,
+  "senses": [
+   {
+    "pos": "exclam., det.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/noʊ/",
+  "fr": "non (exclam.) ; aucun (det.)",
+  "def": "used to refuse, disagree, or say not any",
+  "ex": "No, I don't want any coffee this morning, thanks."
+ },
+ {
+  "id": "normal",
+  "word": "normal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈnɔːrml/",
+  "fr": "normal ; norme (n.)",
+  "def": "usual, ordinary, and expected",
+  "ex": "It's normal to feel nervous before an exam."
+ },
+ {
+  "id": "note",
+  "word": "note",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/noʊt/",
+  "fr": "note, mot ; noter (v.)",
+  "def": "a short written message or piece of information",
+  "ex": "She left a note on the kitchen table for him."
+ },
+ {
+  "id": "notice",
+  "word": "notice",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈnoʊtɪs/",
+  "fr": "remarquer (v.) ; avis, préavis (n.)",
+  "def": "to see or become aware of something",
+  "ex": "He didn't notice her new haircut this morning."
+ },
+ {
+  "id": "now",
+  "word": "now",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "conj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/naʊ/",
+  "fr": "maintenant",
+  "def": "at this present time or moment",
+  "ex": "I need to leave for work right now."
+ },
+ {
+  "id": "number",
+  "word": "number",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈnʌmbər/",
+  "fr": "nombre, numéro ; numéroter (v.)",
+  "def": "a word or symbol used for counting",
+  "ex": "Please write your phone number on this form."
+ },
+ {
+  "id": "object",
+  "word": "object",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈɑːbdʒɪkt/ (n.), /əbˈdʒekt/ (v.)",
+  "fr": "objet (n.) ; s'opposer, protester (v.)",
+  "def": "a thing that you can see and touch but is not alive",
+  "ex": "There was a strange object lying on the table."
+ },
+ {
+  "id": "odd",
+  "word": "odd",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ɑːd/",
+  "fr": "bizarre, étrange ; impair (nombre)",
+  "def": "strange or unusual",
+  "ex": "It's odd that she hasn't called us back yet."
+ },
+ {
+  "id": "off",
+  "word": "off",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., prep.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ɔːf/",
+  "fr": "éteint, parti ; hors de",
+  "def": "away from a place, or not working",
+  "ex": "Please turn off the lights before you leave."
+ },
+ {
+  "id": "offense",
+  "word": "offense",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/əˈfens/",
+  "fr": "délit, infraction ; offense",
+  "def": "a crime, or something that upsets someone",
+  "ex": "Driving without a license is a serious offense."
+ },
+ {
+  "id": "offer",
+  "word": "offer",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈɔːfər/",
+  "fr": "offrir, proposer (v.) ; offre (n.)",
+  "def": "to ask someone if they would like something",
+  "ex": "My neighbor offered to help me carry the boxes."
+ },
+ {
+  "id": "official",
+  "word": "official",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/əˈfɪʃl/",
+  "fr": "officiel",
+  "def": "approved by the government or someone in authority",
+  "ex": "The president made an official visit to the school."
+ },
+ {
+  "id": "oil",
+  "word": "oil",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ɔɪl/",
+  "fr": "huile ; pétrole",
+  "def": "a thick smooth liquid used for cooking or fuel",
+  "ex": "She cooked the vegetables in a little oil."
+ },
+ {
+  "id": "ok",
+  "word": "OK",
+  "note": null,
+  "senses": [
+   {
+    "pos": "exclam., adj./adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˌoʊˈkeɪ/",
+  "fr": "d'accord ; bien, correct",
+  "def": "used to say you agree or that something is fine",
+  "ex": "It's OK if you open the window now."
+ },
+ {
+  "id": "old",
+  "word": "old",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/oʊld/",
+  "fr": "vieux, âgé ; ancien",
+  "def": "having lived or existed for a long time",
+  "ex": "My grandmother is eighty years old this year."
+ },
+ {
+  "id": "on",
+  "word": "on",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ɑːn/",
+  "fr": "sur ; allumé",
+  "def": "touching or covering the surface of something",
+  "ex": "The keys are on the table by the door."
+ },
+ {
+  "id": "once",
+  "word": "once",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "conj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/wʌns/",
+  "fr": "une fois ; dès que (conj.)",
+  "def": "one time, or on one occasion in the past",
+  "ex": "I have only met her once, at a party."
+ },
+ {
+  "id": "only",
+  "word": "only",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈoʊnli/",
+  "fr": "seul (adj.) ; seulement (adv.)",
+  "def": "no more than, or nothing except this",
+  "ex": "She is the only person who knows the answer."
+ },
+ {
+  "id": "open",
+  "word": "open",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈoʊpən/",
+  "fr": "ouvert (adj.) ; ouvrir (v.)",
+  "def": "not closed, so people or things can go through",
+  "ex": "Please open the window a little, it's warm."
+ },
+ {
+  "id": "opening",
+  "word": "opening",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈoʊpənɪŋ/",
+  "fr": "ouverture ; poste vacant",
+  "def": "a space that something can pass through, or a beginning",
+  "ex": "There is a small opening in the fence."
+ },
+ {
+  "id": "operate",
+  "word": "operate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈɑːpəreɪt/",
+  "fr": "fonctionner ; opérer, faire fonctionner",
+  "def": "to work, or to control a machine",
+  "ex": "She taught me how to operate this new machine."
+ },
+ {
+  "id": "order",
+  "word": "order",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈɔːrdər/",
+  "fr": "ordre ; commande (n.) ; commander, ordonner (v.)",
+  "def": "to ask for something to be brought or done",
+  "ex": "We ordered a large pizza for dinner last night."
+ },
+ {
+  "id": "organ",
+  "word": "organ",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈɔːrɡən/",
+  "fr": "organe ; orgue (instrument)",
+  "def": "a part of the body that has a particular job",
+  "ex": "The heart is an organ that pumps our blood."
+ },
+ {
+  "id": "original",
+  "word": "original",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/əˈrɪdʒənl/",
+  "fr": "original ; d'origine",
+  "def": "existing from the beginning, the first of its kind",
+  "ex": "This is the original painting, not a copy."
+ },
+ {
+  "id": "outline",
+  "word": "outline",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈaʊtlaɪn/",
+  "fr": "grandes lignes, résumé (n.) ; esquisser, résumer (v.)",
+  "def": "a description of the main facts about something",
+  "ex": "She gave a brief outline of the project's plan."
+ },
+ {
+  "id": "outside",
+  "word": "outside",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   },
+   {
+    "pos": "prep., n., adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˌaʊtˈsaɪd/",
+  "fr": "dehors ; extérieur",
+  "def": "in, on, or to a place that is not inside",
+  "ex": "The children are playing outside in the back garden."
+ },
+ {
+  "id": "over",
+  "word": "over",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈoʊvər/",
+  "fr": "au-dessus de ; fini",
+  "def": "above or higher than something else",
+  "ex": "A small bird flew over the tall green trees."
+ },
+ {
+  "id": "overseas",
+  "word": "overseas",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A2"
+   },
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˌoʊvərˈsiːz/",
+  "fr": "à l'étranger ; d'outre-mer",
+  "def": "in, to, or from another country across the sea",
+  "ex": "He moved overseas to study medicine in Canada."
+ },
+ {
+  "id": "own",
+  "word": "own",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj./pron.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/oʊn/",
+  "fr": "propre (à soi) ; posséder (v.)",
+  "def": "belonging to a particular person, or to possess something",
+  "ex": "She has her own car and drives to work."
+ },
+ {
+  "id": "pace",
+  "word": "pace",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/peɪs/",
+  "fr": "rythme, allure (n.) ; avancer, marcher (v.)",
+  "def": "the speed at which someone walks, runs, or moves",
+  "ex": "He set off at a fast pace down the road."
+ },
+ {
+  "id": "pack",
+  "word": "pack",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pæk/",
+  "fr": "faire ses bagages (v.) ; paquet (n.)",
+  "def": "to put things into a bag or box for a trip",
+  "ex": "I need to pack my suitcase before we leave."
+ },
+ {
+  "id": "package",
+  "word": "package",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpækɪdʒ/",
+  "fr": "colis, paquet (n.) ; emballer (v.)",
+  "def": "a thing or things wrapped in paper or a box",
+  "ex": "A large package arrived for you this morning."
+ },
+ {
+  "id": "paint",
+  "word": "paint",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/peɪnt/",
+  "fr": "peindre (v.) ; peinture (n.)",
+  "def": "to cover a surface with color using a brush",
+  "ex": "They painted the bedroom walls a soft blue."
+ },
+ {
+  "id": "panel",
+  "word": "panel",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpænl/",
+  "fr": "panneau ; groupe d'experts",
+  "def": "a flat piece of material, or a group of experts",
+  "ex": "A panel of judges chose the winning design."
+ },
+ {
+  "id": "paper",
+  "word": "paper",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈpeɪpər/",
+  "fr": "papier ; journal",
+  "def": "thin material used for writing, printing, or wrapping",
+  "ex": "She wrote her name on a piece of paper."
+ },
+ {
+  "id": "park",
+  "word": "park",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/pɑːrk/",
+  "fr": "parc (n.) ; se garer, garer (v.)",
+  "def": "a public area with grass and trees for walking",
+  "ex": "We had a nice picnic in the park on Sunday."
+ },
+ {
+  "id": "party",
+  "word": "party",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈpɑːrti/",
+  "fr": "fête ; parti (politique)",
+  "def": "a social event where people enjoy themselves together",
+  "ex": "We are having a big party for my birthday."
+ },
+ {
+  "id": "pass",
+  "word": "pass",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pæs/",
+  "fr": "passer, réussir (v.) ; laissez-passer (n.)",
+  "def": "to move past something, or succeed in a test",
+  "ex": "She studied hard and passed the exam quite easily."
+ },
+ {
+  "id": "passage",
+  "word": "passage",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpæsɪdʒ/",
+  "fr": "passage, couloir ; extrait (texte)",
+  "def": "a narrow area that connects one place to another",
+  "ex": "A narrow passage led to the quiet back garden."
+ },
+ {
+  "id": "past",
+  "word": "past",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n., prep.",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/pæst/",
+  "fr": "passé ; devant, après (prep.)",
+  "def": "the time before now, or later than a time",
+  "ex": "It's ten past six, so we should hurry."
+ },
+ {
+  "id": "patient",
+  "word": "patient",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpeɪʃnt/",
+  "fr": "patient (n.) ; patient (adj.)",
+  "def": "a person getting medical treatment, or able to wait calmly",
+  "ex": "The doctor examined every patient carefully that morning."
+ },
+ {
+  "id": "pay",
+  "word": "pay",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/peɪ/",
+  "fr": "payer (v.) ; salaire (n.)",
+  "def": "to give money for something you buy or owe",
+  "ex": "I paid for the tickets with my credit card."
+ },
+ {
+  "id": "pepper",
+  "word": "pepper",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈpepər/",
+  "fr": "poivre ; poivron",
+  "def": "a spice used to add a hot taste to food",
+  "ex": "Add some salt and pepper to the soup."
+ },
+ {
+  "id": "perform",
+  "word": "perform",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/pərˈfɔːrm/",
+  "fr": "jouer, se produire ; exécuter",
+  "def": "to do something, especially in front of an audience",
+  "ex": "The band will perform live at the festival tonight."
+ },
+ {
+  "id": "performance",
+  "word": "performance",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pərˈfɔːrməns/",
+  "fr": "spectacle, représentation ; performance",
+  "def": "an act of performing a play, concert, or other show",
+  "ex": "We watched an amazing performance at the theater."
+ },
+ {
+  "id": "permit",
+  "word": "permit",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/pərˈmɪt/ (v.), /ˈpɜːrmɪt/ (n.)",
+  "fr": "permettre (v.) ; permis, autorisation (n.)",
+  "def": "to allow something, or an official document allowing it",
+  "ex": "Smoking is not permitted inside the office building."
+ },
+ {
+  "id": "phone",
+  "word": "phone",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/foʊn/",
+  "fr": "téléphone (n.) ; téléphoner (v.)",
+  "def": "a device used to talk to people far away",
+  "ex": "I forgot to bring my phone to work today."
+ },
+ {
+  "id": "photograph",
+  "word": "photograph",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈfoʊtəɡræf/",
+  "fr": "photographie (n.) ; photographier (v.)",
+  "def": "a picture taken with a camera",
+  "ex": "He carefully photographed the mountains during his long trip."
+ },
+ {
+  "id": "pick",
+  "word": "pick",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/pɪk/",
+  "fr": "choisir, cueillir (v.) ; choix (n.)",
+  "def": "to choose one thing from a group of things",
+  "ex": "Please pick a color you would like for the walls."
+ },
+ {
+  "id": "picture",
+  "word": "picture",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpɪktʃər/",
+  "fr": "image, photo (n.) ; imaginer, dépeindre (v.)",
+  "def": "a drawing, painting, or photograph of something",
+  "ex": "He drew a picture of his family in the garden."
+ },
+ {
+  "id": "pile",
+  "word": "pile",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/paɪl/",
+  "fr": "tas, pile (n.) ; empiler (v.)",
+  "def": "a number of things put or lying on top of each other",
+  "ex": "There was a big pile of books on his desk."
+ },
+ {
+  "id": "pin",
+  "word": "pin",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pɪn/",
+  "fr": "épingle (n.) ; épingler (v.)",
+  "def": "a small thin piece of metal with a sharp point",
+  "ex": "She used a pin to fix the fabric together."
+ },
+ {
+  "id": "pipe",
+  "word": "pipe",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/paɪp/",
+  "fr": "tuyau ; pipe",
+  "def": "a long tube that carries water, gas, or oil",
+  "ex": "Water flows through the pipes under the busy street."
+ },
+ {
+  "id": "pitch",
+  "word": "pitch",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/pɪtʃ/",
+  "fr": "hauteur (son) ; terrain (de sport)",
+  "def": "how high or low a musical note or sound is",
+  "ex": "She sang the final note at exactly the right pitch."
+ },
+ {
+  "id": "place",
+  "word": "place",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pleɪs/",
+  "fr": "endroit, lieu (n.) ; placer, poser (v.)",
+  "def": "a particular position, area, building, or town",
+  "ex": "This is a lovely place to have lunch."
+ },
+ {
+  "id": "plain",
+  "word": "plain",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/pleɪn/",
+  "fr": "simple, ordinaire ; clair, évident",
+  "def": "simple, without any pattern or decoration",
+  "ex": "She wore a plain white shirt to the interview."
+ },
+ {
+  "id": "plan",
+  "word": "plan",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/plæn/",
+  "fr": "plan, projet (n.) ; planifier (v.)",
+  "def": "an idea or arrangement for doing something in the future",
+  "ex": "We made plans to visit Italy next summer."
+ },
+ {
+  "id": "plant",
+  "word": "plant",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/plænt/",
+  "fr": "plante (n.) ; planter (v.)",
+  "def": "a living thing that grows in the ground and has leaves",
+  "ex": "She waters the plants in her garden every morning."
+ },
+ {
+  "id": "platform",
+  "word": "platform",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈplætfɔːrm/",
+  "fr": "quai (gare) ; plateforme, estrade",
+  "def": "a flat raised area, such as where you wait for a train",
+  "ex": "The train to Boston leaves from platform four."
+ },
+ {
+  "id": "play",
+  "word": "play",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/pleɪ/",
+  "fr": "jouer (v.) ; pièce de théâtre (n.)",
+  "def": "to spend time doing an enjoyable activity or game",
+  "ex": "The children play in the park every afternoon."
+ },
+ {
+  "id": "please",
+  "word": "please",
+  "note": null,
+  "senses": [
+   {
+    "pos": "exclam.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/pliːz/",
+  "fr": "s'il vous plaît (exclam.) ; faire plaisir à (v.)",
+  "def": "used to ask for something politely",
+  "ex": "Please pass the salt and pepper down the table."
+ },
+ {
+  "id": "plot",
+  "word": "plot",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/plɑːt/",
+  "fr": "intrigue (n.) ; comploter (v.)",
+  "def": "the story of a book, film, or play",
+  "ex": "The movie has a really exciting and clever plot."
+ },
+ {
+  "id": "plus-1",
+  "word": "plus",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep.",
+    "level": "B1"
+   },
+   {
+    "pos": "adj., conj., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/plʌs/",
+  "fr": "plus",
+  "def": "added to, or with the addition of something",
+  "ex": "Two plus two always equals four in math."
+ },
+ {
+  "id": "point",
+  "word": "point",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pɔɪnt/",
+  "fr": "point ; question (n.) ; pointer, indiquer (v.)",
+  "def": "an idea, fact, or opinion that is said or written",
+  "ex": "He made a good point during the team meeting."
+ },
+ {
+  "id": "poison",
+  "word": "poison",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈpɔɪzn/",
+  "fr": "poison (n.) ; empoisonner (v.)",
+  "def": "a substance that can kill or harm you if swallowed",
+  "ex": "The wild plant's berries contain a very dangerous poison."
+ },
+ {
+  "id": "pool",
+  "word": "pool",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/puːl/",
+  "fr": "piscine ; flaque",
+  "def": "a small area of water for swimming",
+  "ex": "The kids spent the afternoon splashing in the pool."
+ },
+ {
+  "id": "poor",
+  "word": "poor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/pʊr/",
+  "fr": "pauvre ; médiocre",
+  "def": "having very little money, or not good in quality",
+  "ex": "The charity helps poor families find safe housing."
+ },
+ {
+  "id": "pose",
+  "word": "pose",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/poʊz/",
+  "fr": "poser (pour une photo) ; poser (problème)",
+  "def": "to sit or stand in a particular way for a photo",
+  "ex": "The whole family posed together for a photograph."
+ },
+ {
+  "id": "position",
+  "word": "position",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/pəˈzɪʃn/",
+  "fr": "position ; poste (n.) ; placer (v.)",
+  "def": "the place where someone or something is",
+  "ex": "He changed his position to see the screen better."
+ },
+ {
+  "id": "positive",
+  "word": "positive",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpɑːzətɪv/",
+  "fr": "positif",
+  "def": "hopeful and confident, or thinking about the good side",
+  "ex": "Try to stay positive even when things go wrong."
+ },
+ {
+  "id": "post",
+  "word": "post",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/poʊst/",
+  "fr": "courrier, poste (n.) ; poster, publier (v.)",
+  "def": "letters and packages sent by mail",
+  "ex": "She posted the letter at the corner mailbox."
+ },
+ {
+  "id": "power",
+  "word": "power",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpaʊɚ/",
+  "fr": "pouvoir, énergie (n.) ; alimenter (v.)",
+  "def": "strength or ability to control people or things",
+  "ex": "The president has the power to change these laws."
+ },
+ {
+  "id": "practice",
+  "word": "practice",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈpræktɪs/",
+  "fr": "pratique, entraînement (n.) ; s'entraîner (v.)",
+  "def": "doing something repeatedly in order to improve",
+  "ex": "Regular practice will help you improve your English."
+ },
+ {
+  "id": "praise",
+  "word": "praise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/preɪz/",
+  "fr": "éloge, compliment (n.) ; féliciter, louer (v.)",
+  "def": "words that say someone or something is good",
+  "ex": "The teacher praised her students for working so hard."
+ },
+ {
+  "id": "present",
+  "word": "present",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈpreznt/ (adj., n.), /prɪˈzent/ (v.)",
+  "fr": "cadeau (n.) ; présent, actuel (adj.) ; présenter (v.)",
+  "def": "a thing that you give someone as a gift",
+  "ex": "They gave her a beautiful present for her birthday."
+ },
+ {
+  "id": "press",
+  "word": "press",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pres/",
+  "fr": "appuyer sur, presser (v.) ; presse (n.)",
+  "def": "to push something firmly with your finger",
+  "ex": "Press the red button to start the machine."
+ },
+ {
+  "id": "pretty",
+  "word": "pretty",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈprɪti/",
+  "fr": "joli (adj.) ; assez, plutôt (adv.)",
+  "def": "attractive in a delicate way",
+  "ex": "She wore a pretty dress to the birthday party."
+ },
+ {
+  "id": "price",
+  "word": "price",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/praɪs/",
+  "fr": "prix (n.) ; fixer le prix (v.)",
+  "def": "the amount of money you pay for something",
+  "ex": "The price of milk increased again this month."
+ },
+ {
+  "id": "principal",
+  "word": "principal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈprɪnsəpl/",
+  "fr": "directeur/directrice (n.) ; principal (adj.)",
+  "def": "the head of a school",
+  "ex": "The principal spoke to all the students this morning."
+ },
+ {
+  "id": "print",
+  "word": "print",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/prɪnt/",
+  "fr": "imprimer (v.) ; impression, caractères (n.)",
+  "def": "to put words or pictures onto paper by machine",
+  "ex": "He printed the document before the important meeting."
+ },
+ {
+  "id": "process",
+  "word": "process",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈprɑːses/",
+  "fr": "processus (n.) ; traiter (v.)",
+  "def": "a series of actions done to achieve a result",
+  "ex": "Learning a new language is a slow but rewarding process."
+ },
+ {
+  "id": "produce",
+  "word": "produce",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/prəˈduːs/",
+  "fr": "produire, fabriquer",
+  "def": "to make or grow something",
+  "ex": "The factory produces thousands of cars every single year."
+ },
+ {
+  "id": "professional",
+  "word": "professional",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/prəˈfeʃənl/",
+  "fr": "professionnel, professionnelle",
+  "def": "relating to a job that needs skill and training",
+  "ex": "He behaved in a very professional manner at work."
+ },
+ {
+  "id": "program",
+  "word": "program",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈproʊɡræm/",
+  "fr": "programme (n.) ; programmer (v.)",
+  "def": "a show on television, or a plan of events",
+  "ex": "We watched an interesting program about wild animals."
+ },
+ {
+  "id": "progress",
+  "word": "progress",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈprɑːɡres/ (n.), /prəˈɡres/ (v.)",
+  "fr": "progrès (n.) ; progresser (v.)",
+  "def": "movement forward or improvement over time",
+  "ex": "She made great progress in her English classes."
+ },
+ {
+  "id": "project",
+  "word": "project",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈprɑːdʒekt/ (n.), /prəˈdʒekt/ (v.)",
+  "fr": "projet (n.) ; projeter (v.)",
+  "def": "a planned piece of work with a goal",
+  "ex": "Our class is working on a big science project."
+ },
+ {
+  "id": "promise",
+  "word": "promise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈprɑːmɪs/",
+  "fr": "promettre (v.) ; promesse (n.)",
+  "def": "to say you will definitely do something",
+  "ex": "She promised to call me as soon as she arrived."
+ },
+ {
+  "id": "protest",
+  "word": "protest",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈproʊtest/ (n.), /prəˈtest/ (v.)",
+  "fr": "protestation, manifestation (n.) ; protester (v.)",
+  "def": "a strong complaint or action against something unfair",
+  "ex": "Thousands of people joined the protest downtown yesterday."
+ },
+ {
+  "id": "pull",
+  "word": "pull",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pʊl/",
+  "fr": "tirer (v.) ; traction (n.)",
+  "def": "to move something toward yourself using force",
+  "ex": "Please pull the door instead of pushing it."
+ },
+ {
+  "id": "purchase",
+  "word": "purchase",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈpɝːtʃəs/",
+  "fr": "achat (n.) ; acheter (v.)",
+  "def": "the act of buying something",
+  "ex": "Keep your receipt in case you return this purchase."
+ },
+ {
+  "id": "push",
+  "word": "push",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/pʊʃ/",
+  "fr": "pousser (v.) ; poussée (n.)",
+  "def": "to use force to move something away from you",
+  "ex": "He pushed the heavy box across the whole room."
+ },
+ {
+  "id": "quarter",
+  "word": "quarter",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈkwɔːrtɚ/",
+  "fr": "quart ; quartier (de ville) ; pièce de 25 cents",
+  "def": "one of four equal parts of something",
+  "ex": "Cut the apple into four equal quarters, please."
+ },
+ {
+  "id": "question",
+  "word": "question",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈkwestʃən/",
+  "fr": "question (n.) ; interroger (v.)",
+  "def": "something you ask to get information",
+  "ex": "She asked a difficult question during the job interview."
+ },
+ {
+  "id": "quite",
+  "word": "quite",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/kwaɪt/",
+  "fr": "assez, plutôt ; tout à fait",
+  "def": "to a fairly large degree; rather",
+  "ex": "The movie was quite good, but a bit long."
+ },
+ {
+  "id": "quote",
+  "word": "quote",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/kwoʊt/",
+  "fr": "citer (v.) ; citation (n.)",
+  "def": "to repeat the exact words that someone said",
+  "ex": "He quoted a line from his favorite old poem."
+ },
+ {
+  "id": "rain",
+  "word": "rain",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/reɪn/",
+  "fr": "pluie (n.) ; pleuvoir (v.)",
+  "def": "water that falls from clouds in the sky",
+  "ex": "The rain stopped just before we left the house."
+ },
+ {
+  "id": "raise",
+  "word": "raise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/reɪz/",
+  "fr": "lever, augmenter (v.) ; augmentation (n.)",
+  "def": "to lift something up, or increase an amount",
+  "ex": "Please raise your hand if you have a question."
+ },
+ {
+  "id": "range",
+  "word": "range",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/reɪndʒ/",
+  "fr": "gamme, éventail (n.) ; varier (v.)",
+  "def": "a group of different things of the same kind",
+  "ex": "The store sells a wide range of children's shoes."
+ }
+]

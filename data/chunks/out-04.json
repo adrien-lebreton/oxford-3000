@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "directly",
+  "ipa": "/dəˈrektli/",
+  "fr": "directement",
+  "def": "in a direct way, without stopping or changing",
+  "ex": "Please look at me and answer the question directly."
+ },
+ {
+  "id": "director",
+  "ipa": "/dəˈrektɚ/",
+  "fr": "directeur, directrice ; réalisateur (cinéma)",
+  "def": "a person who manages a company, film, or organization",
+  "ex": "The director gave clear instructions to the actors."
+ },
+ {
+  "id": "dirt",
+  "ipa": "/dɝːt/",
+  "fr": "saleté, terre",
+  "def": "earth or a substance that makes things not clean",
+  "ex": "The children played in the dirt after school."
+ },
+ {
+  "id": "dirty",
+  "ipa": "/ˈdɝːti/",
+  "fr": "sale",
+  "def": "not clean; covered with dirt, dust, or other marks",
+  "ex": "His shoes were dirty after the long walk."
+ },
+ {
+  "id": "disadvantage",
+  "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+  "fr": "désavantage, inconvénient",
+  "def": "something that makes a person or thing worse off",
+  "ex": "Being short can be a disadvantage in basketball."
+ },
+ {
+  "id": "disagree",
+  "ipa": "/ˌdɪsəˈgriː/",
+  "fr": "ne pas être d'accord, être en désaccord",
+  "def": "to have a different opinion from someone else",
+  "ex": "I disagree with you about the best restaurant."
+ },
+ {
+  "id": "disappear",
+  "ipa": "/ˌdɪsəˈpɪr/",
+  "fr": "disparaître",
+  "def": "to stop being visible or to stop existing",
+  "ex": "The magician made the coin disappear right before us."
+ },
+ {
+  "id": "disappointed",
+  "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+  "fr": "déçu",
+  "def": "unhappy because something was not as good as hoped",
+  "ex": "She felt disappointed when the trip was canceled."
+ },
+ {
+  "id": "disappointing",
+  "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+  "fr": "décevant",
+  "def": "not as good as you hoped or expected",
+  "ex": "The movie's ending was disappointing for most fans."
+ },
+ {
+  "id": "disaster",
+  "ipa": "/dɪˈzæstɚ/",
+  "fr": "catastrophe, désastre",
+  "def": "an event that causes great harm or damage",
+  "ex": "The flood was a terrible disaster for the village."
+ },
+ {
+  "id": "discipline",
+  "ipa": "/ˈdɪsəplɪn/",
+  "fr": "discipline",
+  "def": "training that teaches people to obey rules",
+  "ex": "The coach believes in strong discipline during practice."
+ },
+ {
+  "id": "discount",
+  "ipa": "/ˈdɪskaʊnt/ (n.), /dɪsˈkaʊnt/ (v.)",
+  "fr": "remise, réduction (n.) ; réduire (v.)",
+  "def": "a reduction in the usual price of something",
+  "ex": "Students get a discount on movie tickets here."
+ },
+ {
+  "id": "discover",
+  "ipa": "/dɪˈskʌvɚ/",
+  "fr": "découvrir",
+  "def": "to find something for the first time",
+  "ex": "Scientists discovered a new species of frog recently."
+ },
+ {
+  "id": "discovery",
+  "ipa": "/dɪˈskʌvəri/",
+  "fr": "découverte",
+  "def": "the act of finding something new",
+  "ex": "The discovery of the ancient city surprised everyone."
+ },
+ {
+  "id": "discuss",
+  "ipa": "/dɪˈskʌs/",
+  "fr": "discuter de",
+  "def": "to talk about something with other people",
+  "ex": "We need to discuss the plan for tomorrow."
+ },
+ {
+  "id": "discussion",
+  "ipa": "/dɪˈskʌʃən/",
+  "fr": "discussion",
+  "def": "a conversation about a particular subject",
+  "ex": "The class had a long discussion about climate change."
+ },
+ {
+  "id": "disease",
+  "ipa": "/dɪˈziːz/",
+  "fr": "maladie",
+  "def": "an illness affecting a person, animal, or plant",
+  "ex": "The disease spread quickly through the small town."
+ },
+ {
+  "id": "dish",
+  "ipa": "/dɪʃ/",
+  "fr": "plat ; assiette",
+  "def": "a plate used for cooking or serving food",
+  "ex": "She washed every dish after the big dinner."
+ },
+ {
+  "id": "dishonest",
+  "ipa": "/dɪsˈɑːnɪst/",
+  "fr": "malhonnête",
+  "def": "not honest; likely to lie or cheat",
+  "ex": "It is dishonest to lie about your age."
+ },
+ {
+  "id": "disk",
+  "ipa": "/dɪsk/",
+  "fr": "disque",
+  "def": "a flat round object used to store computer data",
+  "ex": "He saved the files on a hard disk."
+ },
+ {
+  "id": "dislike",
+  "ipa": "/dɪsˈlaɪk/",
+  "fr": "ne pas aimer, détester (v.) ; aversion (n.)",
+  "def": "to feel that you do not like something",
+  "ex": "I really dislike waking up early on weekends."
+ },
+ {
+  "id": "dismiss",
+  "ipa": "/dɪsˈmɪs/",
+  "fr": "rejeter, écarter ; renvoyer (employé)",
+  "def": "to decide that something is not important",
+  "ex": "The teacher will dismiss the class at noon."
+ },
+ {
+  "id": "display",
+  "ipa": "/dɪˈspleɪ/",
+  "fr": "afficher, exposer (v.) ; exposition, écran (n.)",
+  "def": "to show something so people can see it",
+  "ex": "The store will display the new products tomorrow."
+ },
+ {
+  "id": "distance",
+  "ipa": "/ˈdɪstəns/",
+  "fr": "distance",
+  "def": "the amount of space between two places",
+  "ex": "We walked a short distance to the store."
+ },
+ {
+  "id": "distribute",
+  "ipa": "/dɪˈstrɪbjuːt/",
+  "fr": "distribuer",
+  "def": "to give something out to many people",
+  "ex": "Volunteers will distribute food to families in need."
+ },
+ {
+  "id": "distribution",
+  "ipa": "/ˌdɪstrɪˈbjuːʃən/",
+  "fr": "distribution",
+  "def": "the act of giving things out to many people",
+  "ex": "The company controls the distribution of its products."
+ },
+ {
+  "id": "district",
+  "ipa": "/ˈdɪstrɪkt/",
+  "fr": "quartier, district",
+  "def": "an area of a town or country",
+  "ex": "They opened a new restaurant in the shopping district."
+ },
+ {
+  "id": "divide",
+  "ipa": "/dɪˈvaɪd/",
+  "fr": "diviser (v.) ; fossé, division (n.)",
+  "def": "to separate something into two or more parts",
+  "ex": "Let's divide the pizza into eight equal slices."
+ },
+ {
+  "id": "division",
+  "ipa": "/dɪˈvɪʒən/",
+  "fr": "division",
+  "def": "the act of dividing something into separate parts",
+  "ex": "The company has a new marketing division this year."
+ },
+ {
+  "id": "divorced",
+  "ipa": "/dɪˈvɔːrst/",
+  "fr": "divorcé",
+  "def": "no longer legally married to your husband or wife",
+  "ex": "Her parents got divorced when she was young."
+ },
+ {
+  "id": "do-1",
+  "ipa": "/duː/",
+  "fr": "faire ; auxiliaire (questions/négations)",
+  "def": "to perform or complete an action or task",
+  "ex": "I need to do my homework before dinner."
+ },
+ {
+  "id": "doctor",
+  "ipa": "/ˈdɑːktɚ/",
+  "fr": "médecin, docteur",
+  "def": "a person trained to treat sick people",
+  "ex": "The doctor examined the patient carefully this morning."
+ },
+ {
+  "id": "document",
+  "ipa": "/ˈdɑːkjəmənt/ (n.), /ˈdɑːkjəment/ (v.)",
+  "fr": "document (n.) ; documenter (v.)",
+  "def": "a piece of paper with official information on it",
+  "ex": "Please sign the document before you leave today."
+ },
+ {
+  "id": "documentary",
+  "ipa": "/ˌdɑːkjəˈmentri/",
+  "fr": "documentaire",
+  "def": "a film that gives facts about a real subject",
+  "ex": "We watched a documentary about ocean life last night."
+ },
+ {
+  "id": "dog",
+  "ipa": "/dɔːg/",
+  "fr": "chien",
+  "def": "a common animal often kept as a pet",
+  "ex": "Our dog loves to play in the park."
+ },
+ {
+  "id": "dollar",
+  "ipa": "/ˈdɑːlɚ/",
+  "fr": "dollar",
+  "def": "the unit of money used in the US",
+  "ex": "The book costs about ten dollars in total."
+ },
+ {
+  "id": "domestic",
+  "ipa": "/dəˈmestɪk/",
+  "fr": "domestique ; national, intérieur (pays)",
+  "def": "relating to the home or to your own country",
+  "ex": "The airline offers many domestic flights every day."
+ },
+ {
+  "id": "dominate",
+  "ipa": "/ˈdɑːməneɪt/",
+  "fr": "dominer",
+  "def": "to have control or the most power over something",
+  "ex": "The champion continued to dominate the tennis tournament."
+ },
+ {
+  "id": "donate",
+  "ipa": "/ˈdoʊneɪt/",
+  "fr": "faire un don, donner",
+  "def": "to give money or goods to help others",
+  "ex": "Many people donate clothes to charity every winter."
+ },
+ {
+  "id": "door",
+  "ipa": "/dɔːr/",
+  "fr": "porte",
+  "def": "a piece that opens and closes an entrance",
+  "ex": "She closed the front door quietly behind her."
+ },
+ {
+  "id": "double",
+  "ipa": "/ˈdʌbəl/",
+  "fr": "double (adj.) ; doubler (v.)",
+  "def": "twice as much or as many",
+  "ex": "The company plans to double its profits next year."
+ },
+ {
+  "id": "doubt",
+  "ipa": "/daʊt/",
+  "fr": "doute (n.) ; douter (v.)",
+  "def": "a feeling of not being sure about something",
+  "ex": "I have no doubt that she will succeed."
+ },
+ {
+  "id": "down",
+  "ipa": "/daʊn/",
+  "fr": "en bas, vers le bas",
+  "def": "toward a lower place or position",
+  "ex": "Please sit down and relax for a while."
+ },
+ {
+  "id": "download",
+  "ipa": "/ˈdaʊnloʊd/",
+  "fr": "télécharger (v.) ; téléchargement (n.)",
+  "def": "to copy data from the internet onto a device",
+  "ex": "I need to download the file before the meeting."
+ },
+ {
+  "id": "downstairs",
+  "ipa": "/ˌdaʊnˈsterz/",
+  "fr": "en bas (adv.) ; du bas (adj.)",
+  "def": "on or to a lower floor of a building",
+  "ex": "She ran downstairs quickly to answer the door."
+ },
+ {
+  "id": "downtown",
+  "ipa": "/ˌdaʊnˈtaʊn/",
+  "fr": "centre-ville",
+  "def": "in or toward the central business area of a city",
+  "ex": "We took the train downtown to see a movie."
+ },
+ {
+  "id": "downward",
+  "ipa": "/ˈdaʊnwɚd/",
+  "fr": "vers le bas ; descendant (adj.)",
+  "def": "moving or pointing toward a lower position",
+  "ex": "Prices have been moving in a downward direction lately."
+ },
+ {
+  "id": "dozen",
+  "ipa": "/ˈdʌzən/",
+  "fr": "douzaine",
+  "def": "a group of twelve of the same thing",
+  "ex": "She bought a dozen eggs at the store."
+ },
+ {
+  "id": "draft",
+  "ipa": "/dræft/",
+  "fr": "brouillon (n.) ; rédiger (v.)",
+  "def": "an early version of a piece of writing",
+  "ex": "I wrote a first draft of my essay."
+ },
+ {
+  "id": "drag",
+  "ipa": "/dræg/",
+  "fr": "traîner, tirer (v.)",
+  "def": "to pull something heavy along a surface",
+  "ex": "He had to drag the heavy box across the room."
+ },
+ {
+  "id": "drama",
+  "ipa": "/ˈdrɑːmə/",
+  "fr": "théâtre, drame",
+  "def": "a play for theater, television, or radio",
+  "ex": "She studies drama at the university this year."
+ },
+ {
+  "id": "dramatic",
+  "ipa": "/drəˈmætɪk/",
+  "fr": "spectaculaire, dramatique",
+  "def": "sudden, exciting, or surprising in an impressive way",
+  "ex": "There was a dramatic change in the weather today."
+ },
+ {
+  "id": "draw",
+  "ipa": "/drɔː/",
+  "fr": "dessiner",
+  "def": "to make a picture using a pencil or pen",
+  "ex": "My daughter loves to draw animals in her notebook."
+ },
+ {
+  "id": "drawing",
+  "ipa": "/ˈdrɔːɪŋ/",
+  "fr": "dessin",
+  "def": "a picture made with a pencil or pen",
+  "ex": "He showed me his drawing of a dragon."
+ },
+ {
+  "id": "dream",
+  "ipa": "/driːm/",
+  "fr": "rêve (n.) ; rêver (v.)",
+  "def": "images and thoughts that occur in your mind while asleep",
+  "ex": "I had a strange dream about flying last night."
+ },
+ {
+  "id": "dress",
+  "ipa": "/dres/",
+  "fr": "robe (n.) ; s'habiller (v.)",
+  "def": "a piece of clothing worn by women or girls",
+  "ex": "She wore a beautiful blue dress to the party."
+ },
+ {
+  "id": "dressed",
+  "ipa": "/drest/",
+  "fr": "habillé",
+  "def": "wearing clothes, especially of a particular kind",
+  "ex": "He was dressed in a smart black suit."
+ },
+ {
+  "id": "drink",
+  "ipa": "/drɪŋk/",
+  "fr": "boisson (n.) ; boire (v.)",
+  "def": "a liquid you swallow to quench your thirst",
+  "ex": "She poured a cold drink of water for him."
+ },
+ {
+  "id": "drive",
+  "ipa": "/draɪv/",
+  "fr": "conduire (v.) ; trajet, allée (n.)",
+  "def": "to operate and control a car or vehicle",
+  "ex": "He drives to work every morning by himself."
+ },
+ {
+  "id": "driver",
+  "ipa": "/ˈdraɪvɚ/",
+  "fr": "conducteur, conductrice",
+  "def": "a person who drives a car or other vehicle",
+  "ex": "The taxi driver knew all the shortest routes."
+ },
+ {
+  "id": "driving",
+  "ipa": "/ˈdraɪvɪŋ/",
+  "fr": "conduite (n.)",
+  "def": "the activity or skill of controlling a vehicle",
+  "ex": "Driving in the snow can be very dangerous."
+ },
+ {
+  "id": "drop",
+  "ipa": "/drɑːp/",
+  "fr": "laisser tomber (v.) ; goutte, chute (n.)",
+  "def": "to let something fall by accident or on purpose",
+  "ex": "Please don't drop the plates while carrying them."
+ },
+ {
+  "id": "drug",
+  "ipa": "/drʌg/",
+  "fr": "drogue ; médicament",
+  "def": "a substance taken to treat illness or for pleasure",
+  "ex": "The new drug helped reduce her headaches quickly."
+ },
+ {
+  "id": "drum",
+  "ipa": "/drʌm/",
+  "fr": "tambour, batterie",
+  "def": "a musical instrument that you hit to make a beat",
+  "ex": "He plays the drum in a rock band."
+ },
+ {
+  "id": "drunk",
+  "ipa": "/drʌŋk/",
+  "fr": "ivre, saoul",
+  "def": "unable to behave normally because of too much alcohol",
+  "ex": "He felt drunk after just two glasses of wine."
+ },
+ {
+  "id": "dry",
+  "ipa": "/draɪ/",
+  "fr": "sec (adj.) ; sécher (v.)",
+  "def": "having no water or liquid inside or on it",
+  "ex": "The desert air is extremely dry and hot."
+ },
+ {
+  "id": "due",
+  "ipa": "/duː/",
+  "fr": "attendu, prévu ; dû, exigible",
+  "def": "expected to happen or arrive at a certain time",
+  "ex": "The rent is due on the first of the month."
+ },
+ {
+  "id": "during",
+  "ipa": "/ˈdʊrɪŋ/",
+  "fr": "pendant, durant",
+  "def": "all through a period of time",
+  "ex": "We stayed very quiet during the whole movie tonight."
+ },
+ {
+  "id": "dust",
+  "ipa": "/dʌst/",
+  "fr": "poussière",
+  "def": "fine dry powder that covers surfaces indoors",
+  "ex": "Thick dust covered every shelf in the old house."
+ },
+ {
+  "id": "duty",
+  "ipa": "/ˈduːti/",
+  "fr": "devoir ; taxe (douane)",
+  "def": "something you must do because it is right",
+  "ex": "It is our duty to help those in need."
+ },
+ {
+  "id": "dvd",
+  "ipa": "/ˌdiːviːˈdiː/",
+  "fr": "DVD",
+  "def": "a disc used to store and play movies or data",
+  "ex": "We watched a DVD together on Friday night."
+ },
+ {
+  "id": "each",
+  "ipa": "/iːtʃ/",
+  "fr": "chaque ; chacun (pron.)",
+  "def": "every one of two or more things or people",
+  "ex": "Each student in the class received a new book."
+ },
+ {
+  "id": "ear",
+  "ipa": "/ɪr/",
+  "fr": "oreille",
+  "def": "one of the two body parts used for hearing",
+  "ex": "She whispered the secret into his ear quietly."
+ },
+ {
+  "id": "early",
+  "ipa": "/ˈɝːli/",
+  "fr": "tôt, précoce (adj.) ; tôt (adv.)",
+  "def": "before the usual or expected time",
+  "ex": "We woke up early to catch the flight."
+ },
+ {
+  "id": "earn",
+  "ipa": "/ɝːn/",
+  "fr": "gagner (argent)",
+  "def": "to receive money for work that you do",
+  "ex": "She earns a good salary at her new job."
+ },
+ {
+  "id": "earth",
+  "ipa": "/ɝːθ/",
+  "fr": "Terre (planète) ; terre, sol",
+  "def": "the planet we live on",
+  "ex": "The earth travels around the sun every year."
+ },
+ {
+  "id": "earthquake",
+  "ipa": "/ˈɝːθkweɪk/",
+  "fr": "tremblement de terre, séisme",
+  "def": "a sudden violent shaking of the ground",
+  "ex": "The earthquake destroyed many buildings in the city."
+ },
+ {
+  "id": "easily",
+  "ipa": "/ˈiːzəli/",
+  "fr": "facilement",
+  "def": "without difficulty or effort",
+  "ex": "She easily won the race against the other runners."
+ },
+ {
+  "id": "east",
+  "ipa": "/iːst/",
+  "fr": "est",
+  "def": "the direction where the sun rises",
+  "ex": "The sun rises in the east every morning."
+ },
+ {
+  "id": "eastern",
+  "ipa": "/ˈiːstɚn/",
+  "fr": "oriental, de l'est",
+  "def": "located in or coming from the east",
+  "ex": "They traveled through several eastern European countries last summer."
+ },
+ {
+  "id": "easy",
+  "ipa": "/ˈiːzi/",
+  "fr": "facile",
+  "def": "not difficult; simple to do or understand",
+  "ex": "This exercise is very easy for most beginners."
+ },
+ {
+  "id": "eat",
+  "ipa": "/iːt/",
+  "fr": "manger",
+  "def": "to put food into your mouth and swallow it",
+  "ex": "We usually eat dinner together as a family."
+ },
+ {
+  "id": "economic",
+  "ipa": "/ˌiːkəˈnɑːmɪk/",
+  "fr": "économique",
+  "def": "relating to trade, industry, and money in a country",
+  "ex": "The country is facing serious economic problems this year."
+ },
+ {
+  "id": "economy",
+  "ipa": "/ɪˈkɑːnəmi/",
+  "fr": "économie",
+  "def": "the system of trade and money in a place",
+  "ex": "The country's economy grew quickly during the last year."
+ },
+ {
+  "id": "edge",
+  "ipa": "/edʒ/",
+  "fr": "bord, rebord",
+  "def": "the outside limit or line of something",
+  "ex": "She stood at the edge of the cliff."
+ },
+ {
+  "id": "edit",
+  "ipa": "/ˈedɪt/",
+  "fr": "modifier, éditer (texte)",
+  "def": "to change or correct a piece of writing",
+  "ex": "She will edit the article before it is published."
+ },
+ {
+  "id": "edition",
+  "ipa": "/ɪˈdɪʃən/",
+  "fr": "édition",
+  "def": "one version of a book, newspaper, or magazine",
+  "ex": "I bought the latest edition of the magazine."
+ },
+ {
+  "id": "editor",
+  "ipa": "/ˈedɪtɚ/",
+  "fr": "rédacteur, rédactrice ; éditeur",
+  "def": "a person who prepares text for publication",
+  "ex": "The editor corrected several mistakes in my article."
+ },
+ {
+  "id": "educate",
+  "ipa": "/ˈedʒukeɪt/",
+  "fr": "éduquer, instruire",
+  "def": "to teach someone, usually in a school",
+  "ex": "Schools try to educate children about healthy eating."
+ },
+ {
+  "id": "educated",
+  "ipa": "/ˈedʒukeɪtɪd/",
+  "fr": "instruit, éduqué",
+  "def": "having had a lot of education, especially at school",
+  "ex": "Her parents were both well educated professionals in medicine."
+ },
+ {
+  "id": "education",
+  "ipa": "/ˌedʒuˈkeɪʃən/",
+  "fr": "éducation, enseignement",
+  "def": "the process of teaching and learning in school",
+  "ex": "A good education can open many doors later."
+ },
+ {
+  "id": "educational",
+  "ipa": "/ˌedʒuˈkeɪʃənəl/",
+  "fr": "éducatif, pédagogique",
+  "def": "relating to education or providing knowledge",
+  "ex": "The museum offers many educational programs for children."
+ },
+ {
+  "id": "effect",
+  "ipa": "/ɪˈfekt/",
+  "fr": "effet",
+  "def": "a change caused by an event or action",
+  "ex": "The medicine had a strong effect on him."
+ },
+ {
+  "id": "effective",
+  "ipa": "/ɪˈfektɪv/",
+  "fr": "efficace",
+  "def": "producing the result that you want",
+  "ex": "This new method is very effective for learning languages."
+ },
+ {
+  "id": "effectively",
+  "ipa": "/ɪˈfektɪvli/",
+  "fr": "efficacement",
+  "def": "in a way that produces the result you want",
+  "ex": "She communicates effectively with people from other countries."
+ },
+ {
+  "id": "efficient",
+  "ipa": "/ɪˈfɪʃənt/",
+  "fr": "efficace, performant",
+  "def": "working well without wasting time or energy",
+  "ex": "The new engine is more efficient than the old one."
+ },
+ {
+  "id": "effort",
+  "ipa": "/ˈefɚt/",
+  "fr": "effort",
+  "def": "the physical or mental energy needed to do something",
+  "ex": "It took a lot of effort to finish the race."
+ },
+ {
+  "id": "egg",
+  "ipa": "/eg/",
+  "fr": "œuf",
+  "def": "an oval object laid by a bird, used as food",
+  "ex": "I had a fried egg for breakfast today."
+ },
+ {
+  "id": "eight",
+  "ipa": "/eɪt/",
+  "fr": "huit",
+  "def": "the number 8",
+  "ex": "There are eight players on each soccer team."
+ },
+ {
+  "id": "eighteen",
+  "ipa": "/ˌeɪˈtiːn/",
+  "fr": "dix-huit",
+  "def": "the number 18",
+  "ex": "She just turned eighteen years old last September."
+ },
+ {
+  "id": "eighty",
+  "ipa": "/ˈeɪti/",
+  "fr": "quatre-vingts",
+  "def": "the number 80",
+  "ex": "My grandmother will turn eighty next January in Boston."
+ },
+ {
+  "id": "either",
+  "ipa": "/ˈiːðɚ/",
+  "fr": "l'un ou l'autre ; non plus",
+  "def": "used to talk about one of two people or things",
+  "ex": "You can choose either the red or the blue one."
+ },
+ {
+  "id": "elderly",
+  "ipa": "/ˈeldɚli/",
+  "fr": "âgé, personnes âgées",
+  "def": "polite word for old, used about people",
+  "ex": "The elderly man walked slowly with his cane."
+ },
+ {
+  "id": "elect",
+  "ipa": "/ɪˈlekt/",
+  "fr": "élire",
+  "def": "to choose someone by voting",
+  "ex": "Citizens will elect a new president this fall."
+ },
+ {
+  "id": "election",
+  "ipa": "/ɪˈlekʃən/",
+  "fr": "élection",
+  "def": "a time when people vote to choose a leader",
+  "ex": "The presidential election will take place in November."
+ },
+ {
+  "id": "electric",
+  "ipa": "/ɪˈlektrɪk/",
+  "fr": "électrique",
+  "def": "powered by electricity",
+  "ex": "We bought a new electric car last week."
+ },
+ {
+  "id": "electrical",
+  "ipa": "/ɪˈlektrɪkəl/",
+  "fr": "électrique (technique)",
+  "def": "relating to electricity or electrical devices",
+  "ex": "There was an electrical problem in the kitchen."
+ },
+ {
+  "id": "electricity",
+  "ipa": "/ɪˌlekˈtrɪsəti/",
+  "fr": "électricité",
+  "def": "a form of energy used for light and power",
+  "ex": "The storm cut off electricity in half the city."
+ },
+ {
+  "id": "electronic",
+  "ipa": "/ɪˌlekˈtrɑːnɪk/",
+  "fr": "électronique",
+  "def": "having parts like microchips that control a device",
+  "ex": "He repairs electronic devices like phones and laptops."
+ },
+ {
+  "id": "element",
+  "ipa": "/ˈelɪmənt/",
+  "fr": "élément",
+  "def": "one part of a whole system or idea",
+  "ex": "Trust is an important element of any friendship."
+ },
+ {
+  "id": "elephant",
+  "ipa": "/ˈelɪfənt/",
+  "fr": "éléphant",
+  "def": "a very large gray animal with a long trunk",
+  "ex": "The elephant used its trunk to grab food."
+ },
+ {
+  "id": "elevator",
+  "ipa": "/ˈelɪveɪtɚ/",
+  "fr": "ascenseur",
+  "def": "a machine that carries people between floors",
+  "ex": "We took the elevator to the tenth floor."
+ },
+ {
+  "id": "eleven",
+  "ipa": "/ɪˈlevən/",
+  "fr": "onze",
+  "def": "the number 11",
+  "ex": "The movie starts at eleven o'clock this evening."
+ },
+ {
+  "id": "else",
+  "ipa": "/els/",
+  "fr": "d'autre",
+  "def": "in addition to, or different from, something already mentioned",
+  "ex": "He wanted nothing else for his birthday this year."
+ },
+ {
+  "id": "elsewhere",
+  "ipa": "/ˈelswer/",
+  "fr": "ailleurs",
+  "def": "in, at, or to another place",
+  "ex": "If this store is closed, we can shop elsewhere."
+ },
+ {
+  "id": "email",
+  "ipa": "/ˈiːmeɪl/",
+  "fr": "e-mail, courriel (n.) ; envoyer un e-mail (v.)",
+  "def": "a message sent electronically over the internet",
+  "ex": "I will email you the report this afternoon."
+ },
+ {
+  "id": "embarrassed",
+  "ipa": "/ɪmˈbærəst/",
+  "fr": "gêné, embarrassé",
+  "def": "feeling ashamed or shy in front of others",
+  "ex": "He felt embarrassed after tripping in front of everyone."
+ },
+ {
+  "id": "embarrassing",
+  "ipa": "/ɪmˈbærəsɪŋ/",
+  "fr": "gênant, embarrassant",
+  "def": "making you feel ashamed or uncomfortable",
+  "ex": "It was embarrassing when he forgot her name."
+ },
+ {
+  "id": "emerge",
+  "ipa": "/ɪˈmɝːdʒ/",
+  "fr": "émerger, apparaître",
+  "def": "to appear or come out from somewhere",
+  "ex": "The sun began to emerge from behind the clouds."
+ },
+ {
+  "id": "emergency",
+  "ipa": "/ɪˈmɝːdʒənsi/",
+  "fr": "urgence",
+  "def": "a sudden serious situation that needs quick action",
+  "ex": "Call an ambulance immediately in case of emergency."
+ },
+ {
+  "id": "emotion",
+  "ipa": "/ɪˈmoʊʃən/",
+  "fr": "émotion",
+  "def": "a strong feeling such as love or fear",
+  "ex": "She showed a lot of emotion at the wedding."
+ },
+ {
+  "id": "emotional",
+  "ipa": "/ɪˈmoʊʃənəl/",
+  "fr": "émotionnel, émouvant",
+  "def": "relating to feelings, or showing strong feelings",
+  "ex": "It was an emotional goodbye at the train station."
+ },
+ {
+  "id": "emphasis",
+  "ipa": "/ˈemfəsɪs/",
+  "fr": "accent, importance particulière",
+  "def": "special importance given to something",
+  "ex": "The school puts great emphasis on good manners."
+ },
+ {
+  "id": "emphasize",
+  "ipa": "/ˈemfəsaɪz/",
+  "fr": "souligner, insister sur",
+  "def": "to show that something is very important",
+  "ex": "The doctor emphasized the importance of regular exercise."
+ },
+ {
+  "id": "employ",
+  "ipa": "/ɪmˈplɔɪ/",
+  "fr": "employer",
+  "def": "to pay someone to work for you",
+  "ex": "The factory employs about two hundred workers locally."
+ },
+ {
+  "id": "employee",
+  "ipa": "/ɪmˈplɔɪiː/",
+  "fr": "employé, employée",
+  "def": "a person who works for a company or person",
+  "ex": "Every employee received a small bonus this December."
+ },
+ {
+  "id": "employer",
+  "ipa": "/ɪmˈplɔɪɚ/",
+  "fr": "employeur, employeuse",
+  "def": "a person or company that pays people to work",
+  "ex": "Her employer offered her a promotion last week."
+ },
+ {
+  "id": "employment",
+  "ipa": "/ɪmˈplɔɪmənt/",
+  "fr": "emploi, travail",
+  "def": "the state of having paid work",
+  "ex": "The factory offers employment to many local workers."
+ },
+ {
+  "id": "empty",
+  "ipa": "/ˈempti/",
+  "fr": "vide (adj.) ; vider (v.)",
+  "def": "having nothing or no one inside",
+  "ex": "The classroom was empty after the students left."
+ },
+ {
+  "id": "enable",
+  "ipa": "/ɪˈneɪbəl/",
+  "fr": "permettre à, rendre possible",
+  "def": "to make it possible for someone to do something",
+  "ex": "This app enables users to track their spending easily."
+ },
+ {
+  "id": "encounter",
+  "ipa": "/ɪnˈkaʊntɚ/",
+  "fr": "rencontrer, rencontre",
+  "def": "to meet or experience something, often unexpectedly",
+  "ex": "We encountered a few problems during the trip."
+ },
+ {
+  "id": "encourage",
+  "ipa": "/ɪnˈkɝːɪdʒ/",
+  "fr": "encourager",
+  "def": "to give someone support or confidence to do something",
+  "ex": "Her teacher encouraged her to keep practicing piano."
+ },
+ {
+  "id": "end",
+  "ipa": "/end/",
+  "fr": "fin (n.) ; finir, terminer (v.)",
+  "def": "the last part or point of something",
+  "ex": "The movie ends with a very surprising twist."
+ },
+ {
+  "id": "ending",
+  "ipa": "/ˈendɪŋ/",
+  "fr": "fin (histoire, film)",
+  "def": "the final part of a story or event",
+  "ex": "I really loved the ending of that book."
+ },
+ {
+  "id": "enemy",
+  "ipa": "/ˈenəmi/",
+  "fr": "ennemi",
+  "def": "a person who hates or fights against you",
+  "ex": "The two nations had been enemies for decades."
+ },
+ {
+  "id": "energy",
+  "ipa": "/ˈenɚdʒi/",
+  "fr": "énergie",
+  "def": "the power that makes things work or move",
+  "ex": "Solar panels turn sunlight into clean electrical energy."
+ },
+ {
+  "id": "engage",
+  "ipa": "/ɪnˈgeɪdʒ/",
+  "fr": "engager, impliquer",
+  "def": "to become involved in an activity with others",
+  "ex": "The teacher tried to engage every student in discussion."
+ },
+ {
+  "id": "engaged",
+  "ipa": "/ɪnˈgeɪdʒd/",
+  "fr": "fiancé ; occupé, engagé",
+  "def": "having formally agreed to marry someone",
+  "ex": "They got engaged last summer at the beach."
+ },
+ {
+  "id": "engine",
+  "ipa": "/ˈendʒɪn/",
+  "fr": "moteur",
+  "def": "the part of a vehicle that makes it move",
+  "ex": "The mechanic fixed the engine in an hour."
+ },
+ {
+  "id": "engineer",
+  "ipa": "/ˌendʒɪˈnɪr/",
+  "fr": "ingénieur, ingénieure",
+  "def": "a person trained to design and build machines or structures",
+  "ex": "She works as an engineer for a car company."
+ },
+ {
+  "id": "engineering",
+  "ipa": "/ˌendʒɪˈnɪrɪŋ/",
+  "fr": "ingénierie",
+  "def": "the science of designing and building machines or structures",
+  "ex": "He studied mechanical engineering at a top university."
+ },
+ {
+  "id": "enhance",
+  "ipa": "/ɪnˈhæns/",
+  "fr": "améliorer, renforcer",
+  "def": "to improve the quality or value of something",
+  "ex": "New lighting will enhance the look of the room."
+ },
+ {
+  "id": "enjoy",
+  "ipa": "/ɪnˈdʒɔɪ/",
+  "fr": "aimer, apprécier",
+  "def": "to get pleasure from something",
+  "ex": "We really enjoyed our vacation in the mountains."
+ },
+ {
+  "id": "enormous",
+  "ipa": "/ɪˈnɔːrməs/",
+  "fr": "énorme",
+  "def": "extremely large in size or amount",
+  "ex": "They live in an enormous house near the lake."
+ },
+ {
+  "id": "enough",
+  "ipa": "/ɪˈnʌf/",
+  "fr": "assez (de)",
+  "def": "as much or as many as needed",
+  "ex": "We don't have enough chairs for everyone here."
+ },
+ {
+  "id": "ensure",
+  "ipa": "/ɪnˈʃʊr/",
+  "fr": "s'assurer que, garantir",
+  "def": "to make certain that something will happen",
+  "ex": "Please ensure the doors are locked before leaving."
+ },
+ {
+  "id": "enter",
+  "ipa": "/ˈentɚ/",
+  "fr": "entrer dans",
+  "def": "to come or go into a place",
+  "ex": "Please knock before you enter the main office."
+ },
+ {
+  "id": "entertain",
+  "ipa": "/ˌentɚˈteɪn/",
+  "fr": "divertir, distraire",
+  "def": "to keep someone interested or amused",
+  "ex": "The clown entertained the children at the party."
+ },
+ {
+  "id": "entertainment",
+  "ipa": "/ˌentɚˈteɪnmənt/",
+  "fr": "divertissement",
+  "def": "movies, music, and shows that amuse people",
+  "ex": "The cruise ship offers entertainment every single night."
+ },
+ {
+  "id": "enthusiasm",
+  "ipa": "/ɪnˈθuːziæzəm/",
+  "fr": "enthousiasme",
+  "def": "strong excitement or interest in something",
+  "ex": "The team showed great enthusiasm before the big game."
+ },
+ {
+  "id": "enthusiastic",
+  "ipa": "/ɪnˌθuːziˈæstɪk/",
+  "fr": "enthousiaste",
+  "def": "showing strong excitement or interest in something",
+  "ex": "She was very enthusiastic about starting her new job."
+ },
+ {
+  "id": "entire",
+  "ipa": "/ɪnˈtaɪɚ/",
+  "fr": "entier, tout",
+  "def": "whole, with no part left out",
+  "ex": "She read the entire book in one day."
+ },
+ {
+  "id": "entirely",
+  "ipa": "/ɪnˈtaɪɚli/",
+  "fr": "entièrement, complètement",
+  "def": "completely, in every way",
+  "ex": "I entirely agree with your opinion on this."
+ },
+ {
+  "id": "entrance",
+  "ipa": "/ˈentrəns/",
+  "fr": "entrée",
+  "def": "the door or way into a place",
+  "ex": "We waited at the entrance of the museum."
+ },
+ {
+  "id": "entry",
+  "ipa": "/ˈentri/",
+  "fr": "entrée ; inscription (concours)",
+  "def": "the act of entering, or a way in",
+  "ex": "Entry to the museum is free on Sundays."
+ },
+ {
+  "id": "environment",
+  "ipa": "/ɪnˈvaɪrənmənt/",
+  "fr": "environnement",
+  "def": "the natural world of land, air, and water",
+  "ex": "We should all work to protect the environment."
+ },
+ {
+  "id": "environmental",
+  "ipa": "/ɪnˌvaɪrənˈmentəl/",
+  "fr": "environnemental, écologique",
+  "def": "relating to the natural world around us",
+  "ex": "The factory caused serious environmental damage to the river."
+ },
+ {
+  "id": "episode",
+  "ipa": "/ˈepɪsoʊd/",
+  "fr": "épisode",
+  "def": "one part of a TV or radio series",
+  "ex": "We watched the final episode of the series."
+ },
+ {
+  "id": "equal",
+  "ipa": "/ˈiːkwəl/",
+  "fr": "égal (adj.) ; égaler (v.)",
+  "def": "the same in size, number, or value",
+  "ex": "The two teams scored an equal number of points."
+ },
+ {
+  "id": "equally",
+  "ipa": "/ˈiːkwəli/",
+  "fr": "également, de façon égale",
+  "def": "in equal parts or amounts",
+  "ex": "They divided the money equally between the two of them."
+ },
+ {
+  "id": "equipment",
+  "ipa": "/ɪˈkwɪpmənt/",
+  "fr": "équipement, matériel",
+  "def": "the tools or items needed for an activity",
+  "ex": "The gym has excellent equipment for weight training."
+ },
+ {
+  "id": "error",
+  "ipa": "/ˈerɚ/",
+  "fr": "erreur",
+  "def": "a mistake, often in a document or system",
+  "ex": "There was a small error in the report."
+ },
+ {
+  "id": "escape",
+  "ipa": "/ɪˈskeɪp/",
+  "fr": "s'échapper, s'évader (v.) ; évasion (n.)",
+  "def": "to get free from a place or danger",
+  "ex": "The prisoner tried to escape during the night."
+ },
+ {
+  "id": "especially",
+  "ipa": "/ɪˈspeʃəli/",
+  "fr": "surtout, particulièrement",
+  "def": "more than usual, or more than others",
+  "ex": "I love fruit, especially strawberries in the summer."
+ },
+ {
+  "id": "essay",
+  "ipa": "/ˈeseɪ/",
+  "fr": "dissertation, essai (texte)",
+  "def": "a short piece of writing on one subject",
+  "ex": "She wrote an essay about climate change for class."
+ },
+ {
+  "id": "essential",
+  "ipa": "/ɪˈsenʃəl/",
+  "fr": "essentiel, indispensable",
+  "def": "completely necessary; extremely important",
+  "ex": "Clean water is essential for good human health."
+ },
+ {
+  "id": "establish",
+  "ipa": "/ɪˈstæblɪʃ/",
+  "fr": "établir, fonder",
+  "def": "to start or create something that will last",
+  "ex": "They established the company more than fifty years ago."
+ },
+ {
+  "id": "estate",
+  "ipa": "/ɪˈsteɪt/",
+  "fr": "propriété, domaine ; patrimoine",
+  "def": "a large area of land with a house",
+  "ex": "The family owns a large estate in the countryside."
+ },
+ {
+  "id": "estimate",
+  "ipa": "/ˈestɪmət/ (n.), /ˈestɪmeɪt/ (v.)",
+  "fr": "estimer (v.) ; estimation (n.)",
+  "def": "to guess the size, value, or amount of something",
+  "ex": "We estimate the trip will take three hours."
+ },
+ {
+  "id": "ethical",
+  "ipa": "/ˈeθɪkəl/",
+  "fr": "éthique, moral",
+  "def": "morally right and good",
+  "ex": "Doctors must follow strict ethical rules at work."
+ },
+ {
+  "id": "euro",
+  "ipa": "/ˈjʊroʊ/",
+  "fr": "euro",
+  "def": "the money used in most of the European Union",
+  "ex": "The meal cost about twenty euros in Paris."
+ },
+ {
+  "id": "evaluate",
+  "ipa": "/ɪˈvæljueɪt/",
+  "fr": "évaluer",
+  "def": "to judge the value or quality of something",
+  "ex": "Teachers evaluate students' work at the end of term."
+ },
+ {
+  "id": "even",
+  "ipa": "/ˈiːvən/",
+  "fr": "même (adv.) ; régulier, pair (adj.)",
+  "def": "used to emphasize something surprising or extreme",
+  "ex": "Even my little brother can solve this puzzle."
+ },
+ {
+  "id": "evening",
+  "ipa": "/ˈiːvnɪŋ/",
+  "fr": "soir, soirée",
+  "def": "the part of the day between afternoon and night",
+  "ex": "We usually have dinner in the evening together."
+ },
+ {
+  "id": "event",
+  "ipa": "/ɪˈvent/",
+  "fr": "événement",
+  "def": "something that happens, especially something important",
+  "ex": "The wedding was a wonderful event for everyone."
+ },
+ {
+  "id": "eventually",
+  "ipa": "/ɪˈventʃuəli/",
+  "fr": "finalement, éventuellement (avec le temps)",
+  "def": "after a long time, or in the end",
+  "ex": "Eventually, she found the perfect job for her."
+ },
+ {
+  "id": "ever",
+  "ipa": "/ˈevɚ/",
+  "fr": "jamais, déjà (question)",
+  "def": "at any time",
+  "ex": "She asked if I had ever visited Japan before."
+ },
+ {
+  "id": "every",
+  "ipa": "/ˈevri/",
+  "fr": "chaque",
+  "def": "used to refer to all members of a group",
+  "ex": "Every student must bring a pencil to class."
+ },
+ {
+  "id": "everybody",
+  "ipa": "/ˈevribɑːdi/",
+  "fr": "tout le monde",
+  "def": "every person; all people",
+  "ex": "Everybody enjoyed the delicious food at the party."
+ },
+ {
+  "id": "everyday",
+  "ipa": "/ˈevrideɪ/",
+  "fr": "quotidien, de tous les jours",
+  "def": "happening or used every day; ordinary",
+  "ex": "Cooking is part of our everyday routine at home."
+ },
+ {
+  "id": "everyone",
+  "ipa": "/ˈevriwʌn/",
+  "fr": "tout le monde",
+  "def": "every person; all people",
+  "ex": "Everyone was happy to see the final results."
+ },
+ {
+  "id": "everything",
+  "ipa": "/ˈevriθɪŋ/",
+  "fr": "tout",
+  "def": "all things; the whole of something",
+  "ex": "She packed everything she needed for the trip."
+ },
+ {
+  "id": "everywhere",
+  "ipa": "/ˈevriwer/",
+  "fr": "partout",
+  "def": "in, at, or to every place",
+  "ex": "We looked everywhere for the missing house keys."
+ },
+ {
+  "id": "evidence",
+  "ipa": "/ˈevɪdəns/",
+  "fr": "preuve(s)",
+  "def": "facts or signs that show something is true",
+  "ex": "The police found new evidence at the scene."
+ },
+ {
+  "id": "evil",
+  "ipa": "/ˈiːvəl/",
+  "fr": "mauvais, maléfique (adj.) ; mal (n.)",
+  "def": "very bad or cruel",
+  "ex": "The story is about a battle between good and evil."
+ },
+ {
+  "id": "exact",
+  "ipa": "/ɪgˈzækt/",
+  "fr": "exact, précis",
+  "def": "completely correct in every detail",
+  "ex": "I don't know the exact time of the meeting."
+ },
+ {
+  "id": "exactly",
+  "ipa": "/ɪgˈzæktli/",
+  "fr": "exactement",
+  "def": "in a precise and accurate way",
+  "ex": "This is exactly what I wanted for dinner."
+ },
+ {
+  "id": "exam",
+  "ipa": "/ɪgˈzæm/",
+  "fr": "examen",
+  "def": "a formal test of knowledge or skill",
+  "ex": "She studied hard for her math exam yesterday."
+ },
+ {
+  "id": "examination",
+  "ipa": "/ɪgˌzæməˈneɪʃən/",
+  "fr": "examen (formel) ; contrôle médical",
+  "def": "a formal test, or a careful check of something",
+  "ex": "The doctor performed a full medical examination today."
+ },
+ {
+  "id": "examine",
+  "ipa": "/ɪgˈzæmɪn/",
+  "fr": "examiner",
+  "def": "to look at something carefully",
+  "ex": "The doctor examined the boy's broken arm carefully."
+ },
+ {
+  "id": "example",
+  "ipa": "/ɪgˈzæmpəl/",
+  "fr": "exemple",
+  "def": "something that shows what a general idea means",
+  "ex": "She gave a good example to explain her point."
+ },
+ {
+  "id": "excellent",
+  "ipa": "/ˈeksələnt/",
+  "fr": "excellent",
+  "def": "extremely good",
+  "ex": "The chef prepared an excellent meal for everyone."
+ },
+ {
+  "id": "except",
+  "ipa": "/ɪkˈsept/",
+  "fr": "sauf, excepté",
+  "def": "not including; other than",
+  "ex": "Everyone came to the party except my brother."
+ },
+ {
+  "id": "exchange",
+  "ipa": "/ɪksˈtʃeɪndʒ/",
+  "fr": "échanger (v.) ; échange (n.)",
+  "def": "to give something and receive something else in return",
+  "ex": "They agreed to exchange phone numbers after class."
+ },
+ {
+  "id": "excited",
+  "ipa": "/ɪkˈsaɪtɪd/",
+  "fr": "excité, enthousiaste",
+  "def": "feeling very happy and eager about something",
+  "ex": "The kids were excited about the trip to Disneyland."
+ },
+ {
+  "id": "excitement",
+  "ipa": "/ɪkˈsaɪtmənt/",
+  "fr": "excitation, enthousiasme",
+  "def": "a feeling of great happiness and energy",
+  "ex": "There was great excitement before the concert began."
+ },
+ {
+  "id": "exciting",
+  "ipa": "/ɪkˈsaɪtɪŋ/",
+  "fr": "excitant, passionnant",
+  "def": "causing feelings of excitement and interest",
+  "ex": "The soccer match was really exciting to watch."
+ },
+ {
+  "id": "excuse",
+  "ipa": "/ɪkˈskjuːs/ (n.), /ɪkˈskjuːz/ (v.)",
+  "fr": "excuse (n.) ; excuser (v.)",
+  "def": "a reason given to explain a mistake",
+  "ex": "He gave a good excuse for being late."
+ },
+ {
+  "id": "executive",
+  "ipa": "/ɪgˈzekjətɪv/",
+  "fr": "cadre, dirigeant (n.) ; exécutif (adj.)",
+  "def": "a person with a senior role in a company",
+  "ex": "She became a senior executive at the bank."
+ },
+ {
+  "id": "exercise",
+  "ipa": "/ˈeksɚsaɪz/",
+  "fr": "exercice (n.) ; faire de l'exercice (v.)",
+  "def": "physical activity done to stay healthy and strong",
+  "ex": "She exercises every morning before going to work."
+ },
+ {
+  "id": "exhibit",
+  "ipa": "/ɪgˈzɪbɪt/",
+  "fr": "exposer (v.) ; objet exposé (n.)",
+  "def": "to show something in public, as in a museum",
+  "ex": "The gallery will exhibit new paintings next month."
+ },
+ {
+  "id": "exhibition",
+  "ipa": "/ˌeksɪˈbɪʃən/",
+  "fr": "exposition",
+  "def": "a public show of art or interesting objects",
+  "ex": "We visited an art exhibition downtown last weekend."
+ },
+ {
+  "id": "exist",
+  "ipa": "/ɪgˈzɪst/",
+  "fr": "exister",
+  "def": "to be real or to be present",
+  "ex": "Many rare animals still exist in this forest."
+ },
+ {
+  "id": "existence",
+  "ipa": "/ɪgˈzɪstəns/",
+  "fr": "existence",
+  "def": "the state of being real or alive",
+  "ex": "Scientists debated the existence of life on Mars."
+ },
+ {
+  "id": "exit",
+  "ipa": "/ˈeksɪt/",
+  "fr": "sortie (n.) ; sortir de (v.)",
+  "def": "a way out of a building or place",
+  "ex": "The nearest exit is at the end of the hall."
+ },
+ {
+  "id": "expand",
+  "ipa": "/ɪkˈspænd/",
+  "fr": "s'étendre, se développer, agrandir",
+  "def": "to become or make something larger",
+  "ex": "The company plans to expand into new markets."
+ },
+ {
+  "id": "expect",
+  "ipa": "/ɪkˈspekt/",
+  "fr": "s'attendre à, attendre",
+  "def": "to think that something will probably happen",
+  "ex": "We expect the package to arrive tomorrow morning."
+ },
+ {
+  "id": "expectation",
+  "ipa": "/ˌekspekˈteɪʃən/",
+  "fr": "attente (espoir)",
+  "def": "a strong belief that something will happen",
+  "ex": "The movie failed to meet everyone's high expectations."
+ },
+ {
+  "id": "expected",
+  "ipa": "/ɪkˈspektɪd/",
+  "fr": "attendu, prévu",
+  "def": "thought likely to happen or arrive",
+  "ex": "The train arrived earlier than expected this morning."
+ },
+ {
+  "id": "expense",
+  "ipa": "/ɪkˈspens/",
+  "fr": "dépense, frais",
+  "def": "an amount of money that you spend",
+  "ex": "Travel is a big expense for the company."
+ },
+ {
+  "id": "expensive",
+  "ipa": "/ɪkˈspensɪv/",
+  "fr": "cher, coûteux",
+  "def": "costing a lot of money",
+  "ex": "That restaurant is too expensive for us tonight."
+ },
+ {
+  "id": "experience",
+  "ipa": "/ɪkˈspɪriəns/",
+  "fr": "expérience (n.) ; vivre, éprouver (v.)",
+  "def": "knowledge or skill gained from doing something",
+  "ex": "She has a lot of experience teaching young children."
+ },
+ {
+  "id": "experienced",
+  "ipa": "/ɪkˈspɪriənst/",
+  "fr": "expérimenté",
+  "def": "having skill or knowledge from doing something often",
+  "ex": "We hired an experienced chef for the restaurant."
+ },
+ {
+  "id": "experiment",
+  "ipa": "/ɪkˈsperəmənt/ (n.), /ɪkˈsperəment/ (v.)",
+  "fr": "expérience (n.) ; expérimenter (v.)",
+  "def": "a scientific test to discover something",
+  "ex": "The students did a science experiment in class."
+ },
+ {
+  "id": "expert",
+  "ipa": "/ˈekspɝːt/",
+  "fr": "expert, spécialiste",
+  "def": "a person with great knowledge or skill in something",
+  "ex": "She is an expert in ancient Greek history."
+ },
+ {
+  "id": "explain",
+  "ipa": "/ɪkˈspleɪn/",
+  "fr": "expliquer",
+  "def": "to make something clear or easy to understand",
+  "ex": "The teacher explained how the machine works clearly."
+ },
+ {
+  "id": "explanation",
+  "ipa": "/ˌekspləˈneɪʃən/",
+  "fr": "explication",
+  "def": "a statement that makes something clear",
+  "ex": "He gave a clear explanation of the problem."
+ },
+ {
+  "id": "explode",
+  "ipa": "/ɪkˈsploʊd/",
+  "fr": "exploser",
+  "def": "to burst suddenly with a loud noise",
+  "ex": "The bomb exploded loudly in the middle of the night."
+ },
+ {
+  "id": "exploration",
+  "ipa": "/ˌekspləˈreɪʃən/",
+  "fr": "exploration",
+  "def": "the act of traveling to learn about a place",
+  "ex": "Space exploration has taught us a lot about stars."
+ },
+ {
+  "id": "explore",
+  "ipa": "/ɪkˈsplɔːr/",
+  "fr": "explorer",
+  "def": "to travel around a place to learn about it",
+  "ex": "We spent the day exploring the old city center."
+ },
+ {
+  "id": "explosion",
+  "ipa": "/ɪkˈsploʊʒən/",
+  "fr": "explosion",
+  "def": "a sudden burst of energy, noise, and force",
+  "ex": "A huge explosion could be heard across the city."
+ },
+ {
+  "id": "export",
+  "ipa": "/ˈekspɔːrt/ (n.), /ɪkˈspɔːrt/ (v.)",
+  "fr": "exportation (n.) ; exporter (v.)",
+  "def": "to sell and send goods to another country",
+  "ex": "The country exports coffee to markets around the world."
+ },
+ {
+  "id": "expose",
+  "ipa": "/ɪkˈspoʊz/",
+  "fr": "exposer, révéler",
+  "def": "to show or make known something hidden",
+  "ex": "The report exposed serious problems within the company."
+ },
+ {
+  "id": "express",
+  "ipa": "/ɪkˈspres/",
+  "fr": "exprimer",
+  "def": "to show your feelings or ideas in words",
+  "ex": "She struggled to express her true feelings clearly."
+ },
+ {
+  "id": "expression",
+  "ipa": "/ɪkˈspreʃən/",
+  "fr": "expression",
+  "def": "a look on your face, or a phrase",
+  "ex": "Her expression showed how surprised she really was."
+ },
+ {
+  "id": "extend",
+  "ipa": "/ɪkˈstend/",
+  "fr": "prolonger, étendre",
+  "def": "to make something longer, larger, or last longer",
+  "ex": "They decided to extend the meeting by an hour."
+ },
+ {
+  "id": "extent",
+  "ipa": "/ɪkˈstent/",
+  "fr": "étendue, mesure",
+  "def": "the size or degree of something",
+  "ex": "We don't yet know the extent of the damage."
+ },
+ {
+  "id": "external",
+  "ipa": "/ɪkˈstɝːnəl/",
+  "fr": "externe, extérieur",
+  "def": "coming from or existing outside something",
+  "ex": "The device has an external battery for extra power."
+ },
+ {
+  "id": "extra",
+  "ipa": "/ˈekstrə/",
+  "fr": "supplémentaire, en plus",
+  "def": "more than what is usual or expected",
+  "ex": "She brought an extra chair for her friend."
+ },
+ {
+  "id": "extraordinary",
+  "ipa": "/ɪkˈstrɔːrdəneri/",
+  "fr": "extraordinaire",
+  "def": "very unusual, special, or surprising",
+  "ex": "She has an extraordinary talent for painting portraits."
+ },
+ {
+  "id": "extreme",
+  "ipa": "/ɪkˈstriːm/",
+  "fr": "extrême",
+  "def": "very great in degree; not moderate at all",
+  "ex": "The climbers faced extreme cold near the summit."
+ },
+ {
+  "id": "extremely",
+  "ipa": "/ɪkˈstriːmli/",
+  "fr": "extrêmement",
+  "def": "to a very high degree",
+  "ex": "The test was extremely difficult for most students."
+ },
+ {
+  "id": "eye",
+  "ipa": "/aɪ/",
+  "fr": "œil",
+  "def": "one of the two body parts used for seeing",
+  "ex": "She has bright blue eyes and dark hair."
+ },
+ {
+  "id": "face",
+  "ipa": "/feɪs/",
+  "fr": "visage (n.) ; faire face à (v.)",
+  "def": "the front part of the head",
+  "ex": "She washed her face before going to bed."
+ },
+ {
+  "id": "facility",
+  "ipa": "/fəˈsɪləti/",
+  "fr": "installation, équipement",
+  "def": "a building or equipment used for a purpose",
+  "ex": "The university has an excellent sports facility on campus."
+ },
+ {
+  "id": "fact",
+  "ipa": "/fækt/",
+  "fr": "fait",
+  "def": "a thing that is known to be true",
+  "ex": "It is a fact that the earth orbits the sun."
+ },
+ {
+  "id": "factor",
+  "ipa": "/ˈfæktɚ/",
+  "fr": "facteur (élément)",
+  "def": "one thing that helps cause a result",
+  "ex": "Price is an important factor when buying a car."
+ },
+ {
+  "id": "factory",
+  "ipa": "/ˈfæktri/",
+  "fr": "usine",
+  "def": "a building where goods are made in large numbers",
+  "ex": "Her father works at a car factory downtown."
+ },
+ {
+  "id": "fail",
+  "ipa": "/feɪl/",
+  "fr": "échouer",
+  "def": "to not succeed at something you tried to do",
+  "ex": "He was afraid to fail the driving test."
+ },
+ {
+  "id": "failure",
+  "ipa": "/ˈfeɪljɚ/",
+  "fr": "échec",
+  "def": "a lack of success at something",
+  "ex": "The project ended in complete failure last year."
+ },
+ {
+  "id": "fair",
+  "ipa": "/fer/",
+  "fr": "juste, équitable",
+  "def": "treating people equally and in a reasonable way",
+  "ex": "The teacher tried to be fair to every student."
+ },
+ {
+  "id": "fairly",
+  "ipa": "/ˈferli/",
+  "fr": "assez, plutôt ; équitablement",
+  "def": "to a moderate degree; quite",
+  "ex": "The exam was fairly easy compared to last time."
+ },
+ {
+  "id": "faith",
+  "ipa": "/feɪθ/",
+  "fr": "foi, confiance",
+  "def": "strong trust or belief in someone or something",
+  "ex": "She has great faith in her best friend."
+ },
+ {
+  "id": "fall",
+  "ipa": "/fɔːl/",
+  "fr": "tomber (v.) ; automne (n.)",
+  "def": "to move down suddenly toward the ground or a lower level",
+  "ex": "Be careful not to fall when you climb the ladder."
+ },
+ {
+  "id": "false",
+  "ipa": "/fɔːls/",
+  "fr": "faux",
+  "def": "not true or not correct",
+  "ex": "That last statement he made was completely false."
+ },
+ {
+  "id": "familiar",
+  "ipa": "/fəˈmɪljɚ/",
+  "fr": "familier, connu",
+  "def": "well known to you; easy to recognize",
+  "ex": "That song sounds familiar, but I forget its name."
+ },
+ {
+  "id": "family",
+  "ipa": "/ˈfæməli/",
+  "fr": "famille (n.) ; familial (adj.)",
+  "def": "a group of parents and their children",
+  "ex": "Our whole family gathers together every year for Thanksgiving."
+ },
+ {
+  "id": "famous",
+  "ipa": "/ˈfeɪməs/",
+  "fr": "célèbre, connu",
+  "def": "known by many people",
+  "ex": "The actor became famous after his first movie."
+ },
+ {
+  "id": "fan",
+  "ipa": "/fæn/",
+  "fr": "fan, admirateur ; ventilateur",
+  "def": "a person who admires someone or something a lot",
+  "ex": "He is a huge fan of that basketball team."
+ },
+ {
+  "id": "fancy",
+  "ipa": "/ˈfænsi/",
+  "fr": "chic, sophistiqué",
+  "def": "expensive and elegant; not plain or simple",
+  "ex": "They ate dinner at a fancy restaurant downtown."
+ }
+]

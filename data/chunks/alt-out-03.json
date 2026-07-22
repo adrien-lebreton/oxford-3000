@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "first",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an achievement or event that has never happened before",
+    "ex": "Winning the championship was a first for our small town."
+   }
+  ]
+ },
+ {
+  "id": "fish",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try to catch fish, especially as a sport or job",
+    "ex": "My father likes to fish in the river every Sunday morning."
+   }
+  ]
+ },
+ {
+  "id": "fit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be the right size or shape for someone or something",
+    "ex": "These shoes are too small and do not fit me well."
+   }
+  ]
+ },
+ {
+  "id": "fix",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a quick solution to a problem",
+    "ex": "Engineers found a simple fix for the software error."
+   }
+  ]
+ },
+ {
+  "id": "flash",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to shine brightly and quickly, on and off",
+    "ex": "The police car's lights flashed red and blue in the dark."
+   }
+  ]
+ },
+ {
+  "id": "flood",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to cover an area with a large amount of water",
+    "ex": "Heavy storms flooded the streets near the river last night."
+   }
+  ]
+ },
+ {
+  "id": "flow",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a steady, continuous movement of something, like liquid or traffic",
+    "ex": "There was a constant flow of traffic through the city center."
+   }
+  ]
+ },
+ {
+  "id": "fly",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small flying insect with two wings",
+    "ex": "A fly landed on the kitchen table during lunch."
+   }
+  ]
+ },
+ {
+  "id": "flying",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "able to fly or moving through the air",
+    "ex": "Flying fish can jump out of the water to escape danger."
+   }
+  ]
+ },
+ {
+  "id": "focus",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the main thing that gets attention or interest",
+    "ex": "The focus of the meeting was next year's budget plan."
+   }
+  ]
+ },
+ {
+  "id": "fold",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a line or crease made by folding something",
+    "ex": "He smoothed out every fold in the paper map."
+   }
+  ]
+ },
+ {
+  "id": "folk",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "traditional, from ordinary people of a region",
+    "ex": "My grandmother taught me an old folk song from Ireland."
+   }
+  ]
+ },
+ {
+  "id": "following",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a group of people who support or admire someone",
+    "ex": "The young singer already has a large following online."
+   },
+   {
+    "pos": "prep.",
+    "def": "after or as a result of something",
+    "ex": "Following the accident, the road was closed for hours."
+   }
+  ]
+ },
+ {
+  "id": "force",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone do something they do not want to do",
+    "ex": "The manager forced his team to work through the weekend."
+   }
+  ]
+ },
+ {
+  "id": "form",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to start to exist, or to make something take shape",
+    "ex": "The teacher asked the students to form small groups."
+   }
+  ]
+ },
+ {
+  "id": "forward",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "moving or planning toward the future or ahead",
+    "ex": "The company shared its forward plans for next year."
+   }
+  ]
+ },
+ {
+  "id": "frame",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put a picture or photo into a frame",
+    "ex": "He decided to frame the old photograph for his office."
+   }
+  ]
+ },
+ {
+  "id": "free",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "without having to pay anything",
+    "ex": "Children under five can enter the zoo free."
+   },
+   {
+    "pos": "v.",
+    "def": "to let a person or animal go free",
+    "ex": "The rescue team worked to free the trapped miners quickly."
+   }
+  ]
+ },
+ {
+  "id": "front",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "at the front, facing forward",
+    "ex": "She parked her bike near the front door."
+   }
+  ]
+ },
+ {
+  "id": "fuel",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to supply something with fuel, or to make stronger",
+    "ex": "Rising prices continue to fuel anger among local shoppers."
+   }
+  ]
+ },
+ {
+  "id": "fun",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "enjoyable and full of fun",
+    "ex": "We had a fun afternoon playing games in the park."
+   }
+  ]
+ },
+ {
+  "id": "function",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to work or operate in the correct way",
+    "ex": "The old printer still functions well after ten years."
+   }
+  ]
+ },
+ {
+  "id": "fund",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to provide money for a project or organization",
+    "ex": "The government agreed to fund the new hospital project."
+   }
+  ]
+ },
+ {
+  "id": "further",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "at or to a greater distance",
+    "ex": "The hikers walked further into the forest before stopping."
+   }
+  ]
+ },
+ {
+  "id": "future",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "happening or existing at a later time",
+    "ex": "She is saving money for her future career plans."
+   }
+  ]
+ },
+ {
+  "id": "gain",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an increase or improvement in something",
+    "ex": "The company reported a small gain in profits this year."
+   }
+  ]
+ },
+ {
+  "id": "go",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an attempt to do something",
+    "ex": "She decided to have a go at painting this weekend."
+   }
+  ]
+ },
+ {
+  "id": "gold",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having a bright yellow color like gold",
+    "ex": "The sky turned a warm gold color at sunset."
+   }
+  ]
+ },
+ {
+  "id": "good",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "what is right, moral, or beneficial",
+    "ex": "She always tries to do good in her community."
+   }
+  ]
+ },
+ {
+  "id": "grade",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give a mark to show the quality of work",
+    "ex": "The teacher will grade our essays over the weekend."
+   }
+  ]
+ },
+ {
+  "id": "graduate",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who has completed a degree or course",
+    "ex": "He is a recent graduate looking for his first job."
+   }
+  ]
+ },
+ {
+  "id": "grant",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "money given by an organization for a specific purpose",
+    "ex": "The artist received a grant to finish her new project."
+   }
+  ]
+ },
+ {
+  "id": "guarantee",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a promise that something will happen or work",
+    "ex": "The new phone comes with a two-year guarantee."
+   }
+  ]
+ },
+ {
+  "id": "guard",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to protect a place or person from danger",
+    "ex": "Two large dogs guard the farm every night without fail."
+   }
+  ]
+ },
+ {
+  "id": "guess",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an answer or opinion based on incomplete information",
+    "ex": "My guess is that the meeting will end late."
+   }
+  ]
+ },
+ {
+  "id": "guide",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to show someone the way or help them decide",
+    "ex": "The teacher will guide the students through the museum tour."
+   }
+  ]
+ },
+ {
+  "id": "half",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "partly, or not completely",
+    "ex": "He was half asleep when the phone suddenly rang."
+   }
+  ]
+ },
+ {
+  "id": "hand",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to pass something to someone using your hand",
+    "ex": "She handed him the keys before leaving for work."
+   }
+  ]
+ },
+ {
+  "id": "handle",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the part of an object that you hold with your hand",
+    "ex": "The handle on this old door is loose and squeaky."
+   }
+  ]
+ },
+ {
+  "id": "hard",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "with a lot of effort, force, or energy",
+    "ex": "The students studied hard before their final exams."
+   }
+  ]
+ },
+ {
+  "id": "harm",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to hurt or damage someone or something",
+    "ex": "Smoking can seriously harm your health over time."
+   }
+  ]
+ },
+ {
+  "id": "hate",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a very strong feeling of dislike",
+    "ex": "There is no place for hate in our school."
+   }
+  ]
+ },
+ {
+  "id": "have",
+  "alt": [
+   {
+    "pos": "auxiliary v.",
+    "def": "used with a past participle to form perfect tenses",
+    "ex": "She has already finished all of her homework tonight."
+   }
+  ]
+ },
+ {
+  "id": "head",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to move in a particular direction",
+    "ex": "The travelers headed north toward the small mountain village."
+   }
+  ]
+ },
+ {
+  "id": "hearing",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a formal meeting to examine facts about a legal case",
+    "ex": "The judge scheduled a hearing for next Tuesday morning."
+   }
+  ]
+ },
+ {
+  "id": "heat",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something warmer or hot",
+    "ex": "Please heat the soup before serving it for dinner."
+   }
+  ]
+ },
+ {
+  "id": "help",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "assistance or support given to someone",
+    "ex": "Thank you for all your help with the move."
+   }
+  ]
+ },
+ {
+  "id": "her",
+  "alt": [
+   {
+    "pos": "pron.",
+    "def": "used in place of 'she' as the object of a verb",
+    "ex": "I saw her at the market yesterday afternoon."
+   }
+  ]
+ },
+ {
+  "id": "high",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "at or to a great height",
+    "ex": "The kite flew high above the trees in the park."
+   },
+   {
+    "pos": "n.",
+    "def": "the highest point or level reached",
+    "ex": "Stock prices reached a new high this week."
+   }
+  ]
+ },
+ {
+  "id": "highlight",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the most interesting or exciting part of something",
+    "ex": "The highlight of our trip was visiting the old castle."
+   }
+  ]
+ },
+ {
+  "id": "hire",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the act of renting something for a short time",
+    "ex": "The price includes the hire of a small car."
+   }
+  ]
+ },
+ {
+  "id": "his",
+  "alt": [
+   {
+    "pos": "pron.",
+    "def": "the one or ones belonging to a man or boy",
+    "ex": "This blue jacket on the chair is his, not mine."
+   }
+  ]
+ },
+ {
+  "id": "hit",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a great success, especially a popular song or film",
+    "ex": "Her new song became a huge hit worldwide this summer."
+   }
+  ]
+ },
+ {
+  "id": "hold",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a firm grip on something",
+    "ex": "He kept a tight hold on the rope while climbing."
+   }
+  ]
+ },
+ {
+  "id": "home",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "connected with your own house, country, or team",
+    "ex": "We enjoyed a delicious home-cooked meal on Sunday evening."
+   }
+  ]
+ },
+ {
+  "id": "honor",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to show great respect for someone publicly",
+    "ex": "The city decided to honor the firefighters with a medal."
+   }
+  ]
+ },
+ {
+  "id": "hope",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling that something good will happen",
+    "ex": "She never lost hope during the difficult years."
+   }
+  ]
+ },
+ {
+  "id": "host",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to organize an event and invite guests",
+    "ex": "The city will host the international games next summer."
+   }
+  ]
+ },
+ {
+  "id": "house",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to provide a place for someone or something to stay",
+    "ex": "The old building now houses a small local museum."
+   }
+  ]
+ },
+ {
+  "id": "hunt",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an attempt to find or catch something",
+    "ex": "The police began a hunt for the missing car."
+   }
+  ]
+ },
+ {
+  "id": "hurry",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the need to do something quickly",
+    "ex": "There is no hurry, so please take your time."
+   }
+  ]
+ },
+ {
+  "id": "hurt",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "injured, or feeling upset and offended",
+    "ex": "He looked hurt after his friends forgot his birthday."
+   },
+   {
+    "pos": "n.",
+    "def": "emotional pain or suffering",
+    "ex": "The divorce caused a lot of hurt for the children."
+   }
+  ]
+ },
+ {
+  "id": "ideal",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a perfect standard that people hope to achieve",
+    "ex": "Equality remains an important ideal in modern society."
+   }
+  ]
+ },
+ {
+  "id": "impact",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have a strong effect on someone or something",
+    "ex": "Climate change continues to impact farmers around the world."
+   }
+  ]
+ },
+ {
+  "id": "import",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a product brought in from another country to sell",
+    "ex": "Cheap imports from overseas hurt the local factory badly."
+   }
+  ]
+ },
+ {
+  "id": "increase",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a rise in the amount or number of something",
+    "ex": "There has been a sharp increase in online shopping."
+   }
+  ]
+ },
+ {
+  "id": "individual",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "considered separately, relating to just one person",
+    "ex": "The coach gives each player individual attention during practice."
+   }
+  ]
+ },
+ {
+  "id": "influence",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to affect the way someone thinks or behaves",
+    "ex": "Advertising can strongly influence what children want to buy."
+   }
+  ]
+ },
+ {
+  "id": "interest",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make someone want to know more",
+    "ex": "The strange story interested everyone at the dinner table."
+   }
+  ]
+ },
+ {
+  "id": "interview",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask someone questions in a formal meeting",
+    "ex": "The reporter interviewed the mayor about the new park."
+   }
+  ]
+ },
+ {
+  "id": "iron",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make clothes smooth using a heated iron",
+    "ex": "He irons his shirts carefully before important meetings."
+   }
+  ]
+ },
+ {
+  "id": "issue",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to officially give out or make something public",
+    "ex": "The government issued a warning about the coming storm."
+   }
+  ]
+ },
+ {
+  "id": "joke",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say funny things, not to be taken seriously",
+    "ex": "Stop joking around and help me finish this project."
+   }
+  ]
+ },
+ {
+  "id": "judge",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to form an opinion about someone or something",
+    "ex": "Please don't judge him before you hear his story."
+   }
+  ]
+ },
+ {
+  "id": "jump",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sudden movement upward or forward",
+    "ex": "The horse made a perfect jump over the fence."
+   }
+  ]
+ },
+ {
+  "id": "key",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "very important, necessary for success",
+    "ex": "Trust is a key factor in any good friendship."
+   },
+   {
+    "pos": "v.",
+    "def": "to type information into a computer or phone",
+    "ex": "She keyed the numbers into her phone quickly."
+   }
+  ]
+ },
+ {
+  "id": "kick",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a hit made using the foot",
+    "ex": "The goalkeeper stopped the kick with both hands."
+   }
+  ]
+ },
+ {
+  "id": "kiss",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a touch with the lips to show love",
+    "ex": "He gave his grandmother a kiss on the cheek."
+   }
+  ]
+ },
+ {
+  "id": "knock",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a sharp hit or sound made by hitting something",
+    "ex": "She heard a loud knock at the front door."
+   }
+  ]
+ },
+ {
+  "id": "label",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put a label on something, or to describe someone unfairly",
+    "ex": "Teachers should never label a student as lazy."
+   }
+  ]
+ },
+ {
+  "id": "lack",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to not have something that is needed",
+    "ex": "This essay lacks clear examples to support its argument."
+   }
+  ]
+ },
+ {
+  "id": "land",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to come down to the ground after flying",
+    "ex": "The plane will land at the airport in ten minutes."
+   }
+  ]
+ },
+ {
+  "id": "last-1-final",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "after all others, at the end",
+    "ex": "He finished last in the marathon this year."
+   }
+  ]
+ },
+ {
+  "id": "later",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "happening after something else, or further in the future",
+    "ex": "We will discuss this issue in a later chapter."
+   }
+  ]
+ },
+ {
+  "id": "latest",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the most recent news or information",
+    "ex": "Everyone was talking about the latest in the office."
+   }
+  ]
+ },
+ {
+  "id": "launch",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the start of something new, like a product",
+    "ex": "Thousands of fans watched the launch of the new game."
+   }
+  ]
+ },
+ {
+  "id": "lead-1",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the position of being first or in front",
+    "ex": "Our runner took the lead in the final lap."
+   }
+  ]
+ },
+ {
+  "id": "leave",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "time away from work that is allowed",
+    "ex": "She took two weeks of leave after having her baby."
+   }
+  ]
+ },
+ {
+  "id": "level",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "flat and even, without slopes",
+    "ex": "Make sure the shelf is level before you let go."
+   },
+   {
+    "pos": "v.",
+    "def": "to make something flat or equal",
+    "ex": "Workers leveled the ground before building the new house."
+   }
+  ]
+ },
+ {
+  "id": "lie-2-tell-a-lie",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to say something you know is not true",
+    "ex": "He lied to his parents about where he had been."
+   }
+  ]
+ },
+ {
+  "id": "light-from-the-sun-a-lamp",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having a lot of natural light, not dark",
+    "ex": "The kitchen is light and airy in the morning."
+   },
+   {
+    "pos": "v.",
+    "def": "to make something start burning or shining",
+    "ex": "She lit a candle to light the dark room."
+   }
+  ]
+ },
+ {
+  "id": "like-find-sb-sth-pleasant",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a thing that a person enjoys or prefers",
+    "ex": "The app suggests songs based on your likes and dislikes."
+   }
+  ]
+ },
+ {
+  "id": "limit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to keep something within a certain amount",
+    "ex": "Doctors advise people to limit how much sugar they eat."
+   }
+  ]
+ },
+ {
+  "id": "line",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to form a row along the edge of something",
+    "ex": "Tall trees lined both sides of the quiet street."
+   }
+  ]
+ },
+ {
+  "id": "link",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to connect two or more things together",
+    "ex": "Scientists linked the disease to poor water quality."
+   }
+  ]
+ },
+ {
+  "id": "list",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to write a group of items one after another",
+    "ex": "Please list your three favorite books in the form."
+   }
+  ]
+ },
+ {
+  "id": "little",
+  "alt": [
+   {
+    "pos": "det./adv.",
+    "def": "not much, only a small amount",
+    "ex": "We have little time left before the train leaves."
+   }
+  ]
+ },
+ {
+  "id": "living",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "alive, not dead",
+    "ex": "Coral reefs are home to many living creatures."
+   }
+  ]
+ },
+ {
+  "id": "load",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put a large amount of something into or onto",
+    "ex": "Workers loaded boxes onto the truck all morning."
+   }
+  ]
+ },
+ {
+  "id": "local",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who lives in a particular area",
+    "ex": "Ask a local for the best restaurant nearby."
+   }
+  ]
+ },
+ {
+  "id": "lock",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a device that keeps a door or box closed",
+    "ex": "She changed the lock after losing her keys."
+   }
+  ]
+ },
+ {
+  "id": "look",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the appearance of a person or thing",
+    "ex": "She changed her look before the big interview."
+   }
+  ]
+ },
+ {
+  "id": "love",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a strong feeling of deep affection for someone",
+    "ex": "Their love for each other grew stronger every year."
+   }
+  ]
+ },
+ {
+  "id": "low",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the lowest point, amount, or level",
+    "ex": "The company's sales hit a new low last quarter."
+   }
+  ]
+ },
+ {
+  "id": "mad",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "mentally ill, or behaving in a wild, unreasonable way",
+    "ex": "He must be mad to drive in this terrible storm."
+   }
+  ]
+ },
+ {
+  "id": "magic",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having a special power to make impossible things happen",
+    "ex": "The old book seemed to have magic powers."
+   }
+  ]
+ },
+ {
+  "id": "mail",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "letters and packages sent through the postal system",
+    "ex": "There was a lot of mail waiting in the box today."
+   }
+  ]
+ },
+ {
+  "id": "major",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an officer rank in the army",
+    "ex": "Her uncle retired as a major after twenty years."
+   }
+  ]
+ },
+ {
+  "id": "make",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the brand or company that made a product",
+    "ex": "He always buys the same make of car."
+   }
+  ]
+ },
+ {
+  "id": "map",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make a detailed plan or drawing of an area",
+    "ex": "Scientists are working to map the ocean floor."
+   }
+  ]
+ },
+ {
+  "id": "mark",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small spot, line, or score showing something",
+    "ex": "There was a dark mark on the white tablecloth."
+   }
+  ]
+ },
+ {
+  "id": "market",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to advertise and sell a product",
+    "ex": "The company plans to market its new product worldwide."
+   }
+  ]
+ },
+ {
+  "id": "mass",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "involving a very large number of people or things",
+    "ex": "The factory uses mass production to make cheap toys."
+   }
+  ]
+ },
+ {
+  "id": "master",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who is very skilled at something",
+    "ex": "He is a true master of traditional woodworking."
+   }
+  ]
+ },
+ {
+  "id": "match-contest-correspond",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be similar to or go well with something",
+    "ex": "Her shoes perfectly match the color of her dress."
+   }
+  ]
+ },
+ {
+  "id": "material",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to physical objects or money, not ideas",
+    "ex": "Many people today care too much about material wealth."
+   }
+  ]
+ },
+ {
+  "id": "matter",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a subject, situation, or problem to deal with",
+    "ex": "This is a serious matter that needs our attention."
+   }
+  ]
+ },
+ {
+  "id": "measure",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an action taken to achieve a particular result",
+    "ex": "The school introduced new measures to improve safety."
+   }
+  ]
+ },
+ {
+  "id": "medicine",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the science and practice of treating illness and injury",
+    "ex": "She has always dreamed of studying medicine at university."
+   }
+  ]
+ },
+ {
+  "id": "medium",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a method used to communicate or express something",
+    "ex": "Television remains a powerful medium for advertising today."
+   }
+  ]
+ }
+]

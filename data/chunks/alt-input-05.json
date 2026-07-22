@@ -1,0 +1,1954 @@
+[
+ {
+  "id": "rank",
+  "word": "rank",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ræŋk/",
+  "fr": "rang, grade (n.) ; classer (v.)",
+  "def": "a position in a group, such as the army",
+  "ex": "He reached the rank of captain in the army."
+ },
+ {
+  "id": "rate",
+  "word": "rate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/reɪt/",
+  "fr": "taux, rythme, tarif (n.) ; évaluer (v.)",
+  "def": "the speed at which something happens, or a price",
+  "ex": "The interest rate on the loan increased last month."
+ },
+ {
+  "id": "reach",
+  "word": "reach",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/riːtʃ/",
+  "fr": "atteindre, arriver à (v.) ; portée (n.)",
+  "def": "to arrive at a place, or stretch out your hand",
+  "ex": "We finally reached the top of the tall mountain."
+ },
+ {
+  "id": "record",
+  "word": "record",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈrekɚd/ (n.), /rɪˈkɔːrd/ (v.)",
+  "fr": "record, dossier (n.) ; enregistrer (v.)",
+  "def": "to store sound, video, or information for later use",
+  "ex": "She recorded the meeting so she could listen again later."
+ },
+ {
+  "id": "reflect",
+  "word": "reflect",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈflekt/",
+  "fr": "refléter ; réfléchir (penser)",
+  "def": "to show an image, or think carefully",
+  "ex": "The calm lake reflected the mountains perfectly this morning."
+ },
+ {
+  "id": "regard",
+  "word": "regard",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɪˈɡɑːrd/",
+  "fr": "considérer (v.) ; égard, estime (n.)",
+  "def": "to think of someone or something in a certain way",
+  "ex": "People regard her as one of the best writers today."
+ },
+ {
+  "id": "register",
+  "word": "register",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈredʒɪstɚ/",
+  "fr": "s'inscrire, enregistrer (v.) ; registre (n.)",
+  "def": "to put your name on an official list",
+  "ex": "You must register before the course begins next week."
+ },
+ {
+  "id": "regret",
+  "word": "regret",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɪˈɡret/",
+  "fr": "regretter (v.) ; regret (n.)",
+  "def": "to feel sorry about something you did",
+  "ex": "He regrets not studying harder when he was young."
+ },
+ {
+  "id": "relate",
+  "word": "relate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈleɪt/",
+  "fr": "relier, associer ; s'identifier à",
+  "def": "to show a connection between two things",
+  "ex": "It's hard to relate these two separate events."
+ },
+ {
+  "id": "relative",
+  "word": "relative",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈrelətɪv/",
+  "fr": "relatif (adj.) ; parent, membre de la famille (n.)",
+  "def": "a member of your family",
+  "ex": "She invited all her relatives to the small wedding."
+ },
+ {
+  "id": "release",
+  "word": "release",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈliːs/",
+  "fr": "libérer, sortir (v.) ; libération (n.)",
+  "def": "to let someone or something go free",
+  "ex": "The zoo released the bird back into the wild."
+ },
+ {
+  "id": "remark",
+  "word": "remark",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɪˈmɑːrk/",
+  "fr": "remarque (n.) ; remarquer (v.)",
+  "def": "something you say, a comment",
+  "ex": "He made a rude remark about her cooking skills."
+ },
+ {
+  "id": "rent",
+  "word": "rent",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rent/",
+  "fr": "loyer (n.) ; louer (v.)",
+  "def": "money you pay regularly to use a home",
+  "ex": "They pay their rent on the first of every month."
+ },
+ {
+  "id": "repair",
+  "word": "repair",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈper/",
+  "fr": "réparer (v.) ; réparation (n.)",
+  "def": "to fix something that is broken",
+  "ex": "He repaired the bike so it works again perfectly."
+ },
+ {
+  "id": "repeat",
+  "word": "repeat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈpiːt/",
+  "fr": "répéter (v.) ; répétition (n.)",
+  "def": "to say or do something again",
+  "ex": "She asked him to repeat the question again."
+ },
+ {
+  "id": "reply",
+  "word": "reply",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rɪˈplaɪ/",
+  "fr": "répondre (v.) ; réponse (n.)",
+  "def": "to say or write something as an answer",
+  "ex": "She replied to my email within just an hour."
+ },
+ {
+  "id": "report",
+  "word": "report",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rɪˈpɔːrt/",
+  "fr": "rapport (n.) ; signaler, rapporter (v.)",
+  "def": "a written or spoken description of an event",
+  "ex": "He wrote a report about the company's yearly sales."
+ },
+ {
+  "id": "representative",
+  "word": "representative",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˌreprɪˈzentətɪv/",
+  "fr": "représentant, représentante (n.) ; représentatif (adj.)",
+  "def": "a person chosen to act or speak for others",
+  "ex": "He is a sales representative for a software company."
+ },
+ {
+  "id": "request",
+  "word": "request",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈkwest/",
+  "fr": "demande (n.) ; demander (v.)",
+  "def": "a polite or formal way of asking for something",
+  "ex": "She made a request for extra time on the test."
+ },
+ {
+  "id": "rescue",
+  "word": "rescue",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈreskjuː/",
+  "fr": "sauver (v.) ; sauvetage (n.)",
+  "def": "to save someone from danger",
+  "ex": "Firefighters rescued the cat from the tall tree."
+ },
+ {
+  "id": "research",
+  "word": "research",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rɪˈsɝːtʃ/",
+  "fr": "recherche (n.) ; faire des recherches (v.)",
+  "def": "the careful study of a subject to learn new facts",
+  "ex": "Scientists are doing research on a new vaccine today."
+ },
+ {
+  "id": "reserve",
+  "word": "reserve",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɪˈzɝːv/",
+  "fr": "réserver (v.) ; réserve (n.)",
+  "def": "to arrange to have something kept for you",
+  "ex": "We reserved a table for dinner on Friday night."
+ },
+ {
+  "id": "resident",
+  "word": "resident",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈrezɪdənt/",
+  "fr": "résident, résidente (n.) ; résidant (adj.)",
+  "def": "a person who lives in a particular place",
+  "ex": "Every resident of the building received a friendly letter."
+ },
+ {
+  "id": "respect",
+  "word": "respect",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈspekt/",
+  "fr": "respect (n.) ; respecter (v.)",
+  "def": "a feeling of admiration for someone or something",
+  "ex": "Students should respect their teachers and their classmates."
+ },
+ {
+  "id": "rest-sleep-relax",
+  "word": "rest",
+  "note": "sleep/relax",
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rest/",
+  "fr": "repos (n.) ; se reposer (v.)",
+  "def": "a period of relaxing or sleeping",
+  "ex": "You should get some rest before your long trip."
+ },
+ {
+  "id": "result",
+  "word": "result",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪˈzʌlt/",
+  "fr": "résultat (n.) ; résulter (v.)",
+  "def": "something that happens because of something else",
+  "ex": "The test results will be ready again next week."
+ },
+ {
+  "id": "return",
+  "word": "return",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/rɪˈtɝːn/",
+  "fr": "revenir, retourner, rendre (v.) ; retour (n.)",
+  "def": "to come or go back to a place",
+  "ex": "They will return home from vacation on Sunday night."
+ },
+ {
+  "id": "review",
+  "word": "review",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rɪˈvjuː/",
+  "fr": "critique, examen (n.) ; examiner (v.)",
+  "def": "a report that gives an opinion about something",
+  "ex": "The film received great reviews from most critics."
+ },
+ {
+  "id": "reward",
+  "word": "reward",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rɪˈwɔːrd/",
+  "fr": "récompense (n.) ; récompenser (v.)",
+  "def": "something given in return for good behavior or work",
+  "ex": "She received a reward for finding the lost dog."
+ },
+ {
+  "id": "ride",
+  "word": "ride",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/raɪd/",
+  "fr": "monter à, rouler à (v.) ; balade, trajet (n.)",
+  "def": "to travel by sitting on or in something",
+  "ex": "She rides her bike to school every single day."
+ },
+ {
+  "id": "right",
+  "word": "right",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/raɪt/",
+  "fr": "correct (adj.) ; droite (adv., n.)",
+  "def": "correct or true, not wrong",
+  "ex": "That is not the right answer to this question."
+ },
+ {
+  "id": "ring-2",
+  "word": "ring",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪŋ/",
+  "fr": "sonner (v.) ; sonnerie (n.)",
+  "def": "to make a clear sound, like a bell",
+  "ex": "The phone rang three times before she finally answered."
+ },
+ {
+  "id": "rise",
+  "word": "rise",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/raɪz/",
+  "fr": "monter, augmenter, se lever (v.) ; hausse (n.)",
+  "def": "to move upward or increase",
+  "ex": "Prices continue to rise a little every single month."
+ },
+ {
+  "id": "risk",
+  "word": "risk",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rɪsk/",
+  "fr": "risque (n.) ; risquer (v.)",
+  "def": "the possibility that something bad will happen",
+  "ex": "Smoking increases the risk of serious heart disease."
+ },
+ {
+  "id": "roll",
+  "word": "roll",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/roʊl/",
+  "fr": "rouler ; petit pain (n.)",
+  "def": "to move along a surface by turning over",
+  "ex": "The ball rolled slowly down the hill into the river."
+ },
+ {
+  "id": "room",
+  "word": "room",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ruːm/",
+  "fr": "pièce, chambre ; espace",
+  "def": "a part of a building with its own walls",
+  "ex": "She cleaned her room before her friends came to visit."
+ },
+ {
+  "id": "rough",
+  "word": "rough",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/rʌf/",
+  "fr": "rugueux, brut ; difficile",
+  "def": "not smooth or even; having an uneven surface",
+  "ex": "The old wooden table had a rough, unfinished surface."
+ },
+ {
+  "id": "round",
+  "word": "round",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., adv., prep.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/raʊnd/",
+  "fr": "rond (adj.) ; autour de (prép.) ; manche, tour (n.)",
+  "def": "shaped like a circle or a ball",
+  "ex": "The children sat in a round circle on the grass."
+ },
+ {
+  "id": "routine",
+  "word": "routine",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ruːˈtiːn/",
+  "fr": "routine (n.) ; habituel (adj.)",
+  "def": "the usual things you do regularly in a fixed order",
+  "ex": "Every morning she follows the same routine before work."
+ },
+ {
+  "id": "rubber",
+  "word": "rubber",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈrʌbɚ/",
+  "fr": "caoutchouc (n.) ; en caoutchouc (adj.)",
+  "def": "a strong material used to make tires and boots",
+  "ex": "Her boots were made of thick, waterproof rubber material."
+ },
+ {
+  "id": "rule",
+  "word": "rule",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ruːl/",
+  "fr": "règle (n.) ; gouverner, régner (v.)",
+  "def": "an official statement that says what you must do",
+  "ex": "Students must follow the rules of the classroom carefully."
+ },
+ {
+  "id": "run",
+  "word": "run",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/rʌn/",
+  "fr": "courir (v.) ; course (n.)",
+  "def": "to move quickly using your legs, faster than walking",
+  "ex": "She runs five kilometers every morning before breakfast."
+ },
+ {
+  "id": "rush",
+  "word": "rush",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/rʌʃ/",
+  "fr": "se précipiter (v.) ; précipitation, ruée (n.)",
+  "def": "to move or do something very quickly",
+  "ex": "We had to rush to catch the last train home."
+ },
+ {
+  "id": "sadly",
+  "word": "sadly",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsædli/",
+  "fr": "tristement ; malheureusement",
+  "def": "in a sad way, or unfortunately",
+  "ex": "Sadly, the old cinema closed down last year."
+ },
+ {
+  "id": "sail",
+  "word": "sail",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/seɪl/",
+  "fr": "naviguer (v.) ; voile (n.)",
+  "def": "to travel across water in a boat with sails",
+  "ex": "They sailed across the lake on a sunny afternoon."
+ },
+ {
+  "id": "sale",
+  "word": "sale",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/seɪl/",
+  "fr": "vente ; solde",
+  "def": "the act of selling something, or a price reduction",
+  "ex": "The store is having a big sale this weekend."
+ },
+ {
+  "id": "sample",
+  "word": "sample",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsæmpəl/",
+  "fr": "échantillon (n.) ; goûter, tester (v.)",
+  "def": "a small amount of something that shows what it's like",
+  "ex": "The shop gave us a free sample of cheese."
+ },
+ {
+  "id": "save",
+  "word": "save",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/seɪv/",
+  "fr": "sauver ; économiser ; enregistrer",
+  "def": "to keep someone or something safe from danger",
+  "ex": "The firefighters worked quickly to save the trapped family."
+ },
+ {
+  "id": "scale",
+  "word": "scale",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/skeɪl/",
+  "fr": "échelle ; balance",
+  "def": "the size or extent of something",
+  "ex": "The company plans to increase production on a large scale."
+ },
+ {
+  "id": "scan",
+  "word": "scan",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/skæn/",
+  "fr": "scanner ; parcourir du regard",
+  "def": "to look at something quickly, or copy it with a machine",
+  "ex": "She scanned the document and sent it by email."
+ },
+ {
+  "id": "schedule",
+  "word": "schedule",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈskedʒuːl/",
+  "fr": "emploi du temps, programme (n.) ; programmer (v.)",
+  "def": "a plan that lists events and the times they happen",
+  "ex": "Our teacher gave us a schedule for the school week."
+ },
+ {
+  "id": "score",
+  "word": "score",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/skɔːr/",
+  "fr": "marquer (des points) (v.) ; score (n.)",
+  "def": "to get points in a game or test",
+  "ex": "Our team scored three goals in the first half."
+ },
+ {
+  "id": "scream",
+  "word": "scream",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/skriːm/",
+  "fr": "crier, hurler (v.) ; cri (n.)",
+  "def": "to shout in a loud high voice, from fear or pain",
+  "ex": "She screamed loudly when she saw the huge spider."
+ },
+ {
+  "id": "screen",
+  "word": "screen",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/skriːn/",
+  "fr": "écran (n.) ; filtrer, examiner (v.)",
+  "def": "the flat surface on a device that shows pictures or words",
+  "ex": "He watched the movie on a big television screen."
+ },
+ {
+  "id": "search",
+  "word": "search",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/sɜːrtʃ/",
+  "fr": "recherche (n.) ; chercher (v.)",
+  "def": "to look carefully in order to find something",
+  "ex": "They searched the whole house for the missing keys."
+ },
+ {
+  "id": "seat",
+  "word": "seat",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/siːt/",
+  "fr": "siège, place (n.) ; asseoir (v.)",
+  "def": "a place where you can sit",
+  "ex": "Please take a seat while you wait for the doctor."
+ },
+ {
+  "id": "second-1-next-after-the-first",
+  "word": "second",
+  "note": "next after the first",
+  "senses": [
+   {
+    "pos": "det./ number",
+    "level": "A1"
+   },
+   {
+    "pos": "adv.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsekənd/",
+  "fr": "deuxième, second",
+  "def": "coming after the first in a list or order",
+  "ex": "She finished second in the race behind her sister."
+ },
+ {
+  "id": "secure",
+  "word": "secure",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/sɪˈkjʊr/",
+  "fr": "sécuriser, obtenir (v.) ; sûr, en sécurité (adj.)",
+  "def": "safe and protected from danger",
+  "ex": "Make sure all the windows are secure before you leave."
+ },
+ {
+  "id": "senior",
+  "word": "senior",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsiːnjɚ/",
+  "fr": "supérieur, haut placé ; aîné",
+  "def": "having a higher or more important position",
+  "ex": "He was promoted to a senior position at the company."
+ },
+ {
+  "id": "sense",
+  "word": "sense",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/sens/",
+  "fr": "sens (n.) ; sentir, percevoir (v.)",
+  "def": "a feeling about something, or the ability to understand it",
+  "ex": "She had a strange sense that something was wrong."
+ },
+ {
+  "id": "sentence",
+  "word": "sentence",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsentəns/",
+  "fr": "phrase (n.) ; condamner (v.)",
+  "def": "a group of words that expresses a complete idea",
+  "ex": "Write a short sentence using the new vocabulary word."
+ },
+ {
+  "id": "separate",
+  "word": "separate",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈsepərət/ (adj.), /ˈsepəreɪt/ (v.)",
+  "fr": "séparé (adj.) ; séparer (v.)",
+  "def": "not joined or connected to something else",
+  "ex": "Keep the raw meat separate from other food in the fridge."
+ },
+ {
+  "id": "serious",
+  "word": "serious",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsɪriəs/",
+  "fr": "sérieux ; grave",
+  "def": "important and needing careful thought or attention",
+  "ex": "The doctor said her illness was not very serious."
+ },
+ {
+  "id": "seriously",
+  "word": "seriously",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈsɪriəsli/",
+  "fr": "sérieusement ; gravement",
+  "def": "in a serious way, or very badly",
+  "ex": "He was seriously injured in the car accident yesterday."
+ },
+ {
+  "id": "set-put",
+  "word": "set",
+  "note": "put",
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/set/",
+  "fr": "poser, mettre ; fixer, régler",
+  "def": "to put something in a particular place or position",
+  "ex": "She set the plates carefully on the wooden table."
+ },
+ {
+  "id": "setting",
+  "word": "setting",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈsetɪŋ/",
+  "fr": "cadre, décor ; réglage",
+  "def": "the place and time where something happens",
+  "ex": "The movie's setting was a small village in France."
+ },
+ {
+  "id": "settle",
+  "word": "settle",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈsetəl/",
+  "fr": "s'installer ; régler (un problème)",
+  "def": "to start living in a place permanently, or end an argument",
+  "ex": "They decided to settle in a small town near the coast."
+ },
+ {
+  "id": "shade",
+  "word": "shade",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃeɪd/",
+  "fr": "ombre ; teinte, nuance",
+  "def": "an area sheltered from direct sunlight",
+  "ex": "We sat in the shade under a large tree."
+ },
+ {
+  "id": "shake",
+  "word": "shake",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A2"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʃeɪk/",
+  "fr": "secouer, trembler (v.) ; secousse (n.)",
+  "def": "to move quickly from side to side or up and down",
+  "ex": "The ground began to shake during the small earthquake."
+ },
+ {
+  "id": "shame",
+  "word": "shame",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃeɪm/",
+  "fr": "honte ; dommage",
+  "def": "a painful feeling caused by doing something wrong",
+  "ex": "He felt shame after lying to his best friend."
+ },
+ {
+  "id": "shape",
+  "word": "shape",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃeɪp/",
+  "fr": "forme (n.) ; façonner (v.)",
+  "def": "the outer form or outline of something",
+  "ex": "The cookies were cut into the shape of stars."
+ },
+ {
+  "id": "share",
+  "word": "share",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʃer/",
+  "fr": "partager (v.) ; part (n.)",
+  "def": "to give part of what you have to someone else",
+  "ex": "The children shared their toys nicely with each other."
+ },
+ {
+  "id": "sharp",
+  "word": "sharp",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʃɑːrp/",
+  "fr": "tranchant, pointu ; vif",
+  "def": "having a thin edge or point that can cut",
+  "ex": "Be careful, that kitchen knife is extremely sharp today."
+ },
+ {
+  "id": "sheet",
+  "word": "sheet",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ʃiːt/",
+  "fr": "drap ; feuille (papier)",
+  "def": "a large piece of cloth used on a bed, or thin paper",
+  "ex": "She changed the sheets on the bed this morning."
+ },
+ {
+  "id": "shelter",
+  "word": "shelter",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈʃeltɚ/",
+  "fr": "abri (n.) ; abriter, protéger (v.)",
+  "def": "a place that protects you from bad weather or danger",
+  "ex": "They found shelter from the rain under a big tree."
+ },
+ {
+  "id": "shift",
+  "word": "shift",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃɪft/",
+  "fr": "poste, équipe (n.) ; changer, déplacer (v.)",
+  "def": "a fixed period of time when a person is at work",
+  "ex": "She works the night shift at the hospital this week."
+ },
+ {
+  "id": "ship",
+  "word": "ship",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃɪp/",
+  "fr": "navire, bateau (n.) ; expédier (v.)",
+  "def": "a large boat used for carrying people or goods",
+  "ex": "The huge ship sailed slowly out of the busy harbor."
+ },
+ {
+  "id": "shock",
+  "word": "shock",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃɑːk/",
+  "fr": "choc (n.) ; choquer (v.)",
+  "def": "a sudden strong feeling of surprise, often unpleasant",
+  "ex": "The news of his sudden departure was a real shock."
+ },
+ {
+  "id": "shoot",
+  "word": "shoot",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ʃuːt/",
+  "fr": "tirer (avec une arme) ; filmer",
+  "def": "to fire a bullet from a gun at someone or something",
+  "ex": "The hunter tried to shoot the deer in the forest."
+ },
+ {
+  "id": "shooting",
+  "word": "shooting",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈʃuːtɪŋ/",
+  "fr": "fusillade ; tournage (film)",
+  "def": "an event in which someone is shot with a gun",
+  "ex": "Police are investigating the shooting that happened downtown last night."
+ },
+ {
+  "id": "shop",
+  "word": "shop",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ʃɑːp/",
+  "fr": "magasin (n.) ; faire les courses (v.)",
+  "def": "a place where you can buy things",
+  "ex": "She bought fresh bread from the small shop nearby."
+ },
+ {
+  "id": "short",
+  "word": "short",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ʃɔːrt/",
+  "fr": "court ; petit (taille)",
+  "def": "not long in length, distance, or time",
+  "ex": "She has short hair and always wears round glasses."
+ },
+ {
+  "id": "shot",
+  "word": "shot",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ʃɑːt/",
+  "fr": "coup de feu ; tir ; photo",
+  "def": "an act of firing a gun, or an attempt to score",
+  "ex": "He took a shot at the goal but missed."
+ },
+ {
+  "id": "shout",
+  "word": "shout",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ʃaʊt/",
+  "fr": "crier (v.) ; cri (n.)",
+  "def": "to say something very loudly",
+  "ex": "He shouted loudly to warn them about the danger."
+ },
+ {
+  "id": "show",
+  "word": "show",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ʃoʊ/",
+  "fr": "montrer (v.) ; spectacle, émission (n.)",
+  "def": "to let someone see something",
+  "ex": "She showed us photos from her trip to Italy."
+ },
+ {
+  "id": "shower",
+  "word": "shower",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/ˈʃaʊɚ/",
+  "fr": "douche ; averse",
+  "def": "a device you stand under to wash your whole body",
+  "ex": "He takes a quick shower every morning before work."
+ },
+ {
+  "id": "shut",
+  "word": "shut",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ʃʌt/",
+  "fr": "fermer (v.) ; fermé (adj.)",
+  "def": "to close something, such as a door or window",
+  "ex": "Please shut the door quietly when you leave the room."
+ },
+ {
+  "id": "sight",
+  "word": "sight",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/saɪt/",
+  "fr": "vue ; spectacle",
+  "def": "the ability to see, or something you see",
+  "ex": "The mountains were a beautiful sight from our hotel window."
+ },
+ {
+  "id": "sign",
+  "word": "sign",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/saɪn/",
+  "fr": "signe, panneau (n.) ; signer (v.)",
+  "def": "a mark, object, or action that gives information",
+  "ex": "The sign showed the way to the nearest hospital."
+ },
+ {
+  "id": "signal",
+  "word": "signal",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈsɪɡnəl/",
+  "fr": "signal (n.) ; faire signe (v.)",
+  "def": "a sound, action, or light that gives a message",
+  "ex": "The driver gave a signal before turning left."
+ },
+ {
+  "id": "silver",
+  "word": "silver",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsɪlvɚ/",
+  "fr": "argent (métal) (n.) ; argenté (adj.)",
+  "def": "a shiny gray-white precious metal",
+  "ex": "She received a silver necklace as a birthday gift."
+ },
+ {
+  "id": "since",
+  "word": "since",
+  "note": null,
+  "senses": [
+   {
+    "pos": "prep., conj.",
+    "level": "A2"
+   },
+   {
+    "pos": "adv.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/sɪns/",
+  "fr": "depuis (prép./conj.) ; depuis lors (adv.)",
+  "def": "from a particular time in the past until now",
+  "ex": "She has lived in Paris since she was eighteen."
+ },
+ {
+  "id": "single",
+  "word": "single",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈsɪŋɡəl/",
+  "fr": "seul, unique ; célibataire (adj.) ; single (n.)",
+  "def": "only one; not accompanied by any others",
+  "ex": "He didn't say a single word during the meeting."
+ },
+ {
+  "id": "ski",
+  "word": "ski",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/skiː/",
+  "fr": "skier (v.) ; ski (n.)",
+  "def": "to move over snow on skis",
+  "ex": "They ski down the mountain every winter with their friends."
+ },
+ {
+  "id": "sleep",
+  "word": "sleep",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/sliːp/",
+  "fr": "dormir (v.) ; sommeil (n.)",
+  "def": "to rest with your eyes closed and mind unconscious",
+  "ex": "Babies usually sleep for many hours during the day."
+ },
+ {
+  "id": "slice",
+  "word": "slice",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/slaɪs/",
+  "fr": "tranche (n.) ; couper en tranches (v.)",
+  "def": "a thin flat piece cut from something larger",
+  "ex": "She ate a slice of bread with butter for breakfast."
+ },
+ {
+  "id": "slide",
+  "word": "slide",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/slaɪd/",
+  "fr": "glisser (v.) ; toboggan, diapositive (n.)",
+  "def": "to move smoothly over a surface",
+  "ex": "The children love to slide down the playground slide."
+ },
+ {
+  "id": "slope",
+  "word": "slope",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/sloʊp/",
+  "fr": "pente (n.) ; être en pente (v.)",
+  "def": "a surface that is higher at one end than the other",
+  "ex": "Skiers raced down the steep slope of the mountain."
+ },
+ {
+  "id": "slow",
+  "word": "slow",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/sloʊ/",
+  "fr": "lent (adj.) ; ralentir (v.)",
+  "def": "not fast; taking a long time",
+  "ex": "The traffic was extremely slow during the morning rush hour."
+ },
+ {
+  "id": "smart",
+  "word": "smart",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/smɑːrt/",
+  "fr": "intelligent ; élégant",
+  "def": "intelligent, or neat and well-dressed",
+  "ex": "She's a smart student who always finishes her homework early."
+ },
+ {
+  "id": "smell",
+  "word": "smell",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/smel/",
+  "fr": "sentir (v.) ; odeur (n.)",
+  "def": "to notice something using your nose",
+  "ex": "I can smell fresh bread baking in the kitchen."
+ },
+ {
+  "id": "smoke",
+  "word": "smoke",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/smoʊk/",
+  "fr": "fumée (n.) ; fumer (v.)",
+  "def": "the gray or black gas produced when something burns",
+  "ex": "Thick smoke rose from the chimney into the cold air."
+ },
+ {
+  "id": "smooth",
+  "word": "smooth",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/smuːð/",
+  "fr": "lisse ; fluide",
+  "def": "having an even surface, with no lumps or bumps",
+  "ex": "The baby's skin felt very smooth and soft."
+ },
+ {
+  "id": "snow",
+  "word": "snow",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/snoʊ/",
+  "fr": "neige (n.) ; neiger (v.)",
+  "def": "soft white frozen water that falls from the sky",
+  "ex": "It began to snow heavily during the night."
+ },
+ {
+  "id": "so",
+  "word": "so",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adv., conj.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/soʊ/",
+  "fr": "donc, alors ; tellement, si",
+  "def": "to such a great degree; therefore",
+  "ex": "She was so tired that she fell asleep immediately."
+ },
+ {
+  "id": "solid",
+  "word": "solid",
+  "note": null,
+  "senses": [
+   {
+    "pos": "adj., n.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈsɑːləd/",
+  "fr": "solide (adj.) ; solide, corps solide (n.)",
+  "def": "hard and firm, keeping its shape; not liquid or gas",
+  "ex": "The lake water had frozen completely solid overnight."
+ },
+ {
+  "id": "sort",
+  "word": "sort",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/sɔːrt/",
+  "fr": "genre, sorte (n.) ; trier (v.)",
+  "def": "a type or kind of person or thing",
+  "ex": "This sort of weather makes everyone feel a bit sleepy."
+ },
+ {
+  "id": "sound",
+  "word": "sound",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/saʊnd/",
+  "fr": "son, bruit (n.) ; sonner, sembler (v.)",
+  "def": "something that you can hear",
+  "ex": "The strange sound woke everyone up in the middle of the night."
+ },
+ {
+  "id": "speaker",
+  "word": "speaker",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/ˈspiːkɚ/",
+  "fr": "orateur, intervenant ; haut-parleur",
+  "def": "a person who gives a speech, or a device that produces sound",
+  "ex": "The main speaker talked about climate change for an hour."
+ },
+ {
+  "id": "speech",
+  "word": "speech",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   }
+  ],
+  "ipa": "/spiːtʃ/",
+  "fr": "discours ; parole",
+  "def": "a formal talk given to an audience",
+  "ex": "The president gave a long speech about the economy."
+ },
+ {
+  "id": "speed",
+  "word": "speed",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/spiːd/",
+  "fr": "vitesse (n.) ; accélérer (v.)",
+  "def": "how fast something moves or happens",
+  "ex": "The car was traveling at a very high speed."
+ },
+ {
+  "id": "spend",
+  "word": "spend",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   }
+  ],
+  "ipa": "/spɛnd/",
+  "fr": "dépenser (argent) ; passer (temps)",
+  "def": "use money to pay for something, or use time",
+  "ex": "We spent all our money on the trip."
+ },
+ {
+  "id": "split",
+  "word": "split",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/splɪt/",
+  "fr": "diviser, séparer (v.) ; division (n.)",
+  "def": "divide something into two or more parts",
+  "ex": "Let's split the bill between the four of us."
+ },
+ {
+  "id": "sponsor",
+  "word": "sponsor",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v., n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/ˈspɑːnsɚ/",
+  "fr": "sponsoriser, parrainer (v.) ; sponsor (n.)",
+  "def": "give money to support an event, person, or organization",
+  "ex": "A local company agreed to sponsor the football team."
+ },
+ {
+  "id": "spot",
+  "word": "spot",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "B1"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/spɑːt/",
+  "fr": "endroit, tache (n.) ; repérer (v.)",
+  "def": "a particular place, or a small mark",
+  "ex": "We found a quiet spot to have our picnic."
+ },
+ {
+  "id": "spread",
+  "word": "spread",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "B1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/sprɛd/",
+  "fr": "étaler, répandre (v.) ; propagation (n.)",
+  "def": "open or stretch something out over a larger area",
+  "ex": "She spread the butter evenly over the bread."
+ },
+ {
+  "id": "spring",
+  "word": "spring",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A1"
+   },
+   {
+    "pos": "v.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/sprɪŋ/",
+  "fr": "printemps (n.) ; bondir (v.)",
+  "def": "the season between winter and summer",
+  "ex": "The flowers start to bloom early every spring."
+ },
+ {
+  "id": "stage",
+  "word": "stage",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n.",
+    "level": "A2"
+   },
+   {
+    "pos": "v.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/steɪdʒ/",
+  "fr": "scène, étape (n.) ; organiser (v.)",
+  "def": "a raised platform where performers stand and act",
+  "ex": "The singer walked onto the stage and smiled."
+ },
+ {
+  "id": "stand",
+  "word": "stand",
+  "note": null,
+  "senses": [
+   {
+    "pos": "v.",
+    "level": "A1"
+   },
+   {
+    "pos": "n.",
+    "level": "B2"
+   }
+  ],
+  "ipa": "/stænd/",
+  "fr": "se tenir debout (v.) ; stand (n.)",
+  "def": "be on your feet in an upright position",
+  "ex": "Please stand up when the teacher enters the room."
+ },
+ {
+  "id": "standard",
+  "word": "standard",
+  "note": null,
+  "senses": [
+   {
+    "pos": "n., adj.",
+    "level": "B1"
+   }
+  ],
+  "ipa": "/ˈstændɚd/",
+  "fr": "norme (n.) ; standard, normal (adj.)",
+  "def": "a level of quality that is normal or expected",
+  "ex": "This restaurant has a very high standard of service."
+ }
+]

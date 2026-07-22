@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "combination",
+  "ipa": "/ˌkɑːmbɪˈneɪʃn/",
+  "fr": "combinaison",
+  "def": "a mixture of two or more different things",
+  "ex": "This recipe uses a combination of chocolate and orange flavors."
+ },
+ {
+  "id": "combine",
+  "ipa": "/kəmˈbaɪn/",
+  "fr": "combiner, associer",
+  "def": "to join two or more things together",
+  "ex": "We combined our savings to buy a new car."
+ },
+ {
+  "id": "come",
+  "ipa": "/kʌm/",
+  "fr": "venir",
+  "def": "to move toward the person who is speaking",
+  "ex": "Please come to the kitchen and help me cook."
+ },
+ {
+  "id": "comedy",
+  "ipa": "/ˈkɑːmədi/",
+  "fr": "comédie",
+  "def": "a funny film, play, or television program",
+  "ex": "We watched a comedy that made us laugh loudly."
+ },
+ {
+  "id": "comfort",
+  "ipa": "/ˈkʌmfɚt/",
+  "fr": "confort (n.) ; réconforter, consoler (v.)",
+  "def": "a pleasant feeling of being relaxed and safe",
+  "ex": "Her kind words gave me great comfort during difficult times."
+ },
+ {
+  "id": "comfortable",
+  "ipa": "/ˈkʌmftɚbl/",
+  "fr": "confortable",
+  "def": "making you feel physically relaxed and at ease",
+  "ex": "These new shoes are very comfortable for long walks."
+ },
+ {
+  "id": "command",
+  "ipa": "/kəˈmænd/",
+  "fr": "ordre (n.) ; commander, ordonner (v.)",
+  "def": "an order given by someone in authority",
+  "ex": "The general gave a command to attack at dawn."
+ },
+ {
+  "id": "comment",
+  "ipa": "/ˈkɑːment/",
+  "fr": "commentaire (n.) ; commenter (v.)",
+  "def": "something you say that expresses your opinion",
+  "ex": "He made a rude comment about her new haircut."
+ },
+ {
+  "id": "commercial",
+  "ipa": "/kəˈmɝːʃl/",
+  "fr": "commercial (adj.) ; publicité (n.)",
+  "def": "connected with buying and selling goods or services",
+  "ex": "A commercial for the new phone played before the movie."
+ },
+ {
+  "id": "commission",
+  "ipa": "/kəˈmɪʃn/",
+  "fr": "commission",
+  "def": "money paid to someone for selling something",
+  "ex": "She earns a good commission for every house sold."
+ },
+ {
+  "id": "commit",
+  "ipa": "/kəˈmɪt/",
+  "fr": "commettre (un crime) ; s'engager (v.)",
+  "def": "to do something wrong or illegal",
+  "ex": "The thief committed a robbery near the train station."
+ },
+ {
+  "id": "commitment",
+  "ipa": "/kəˈmɪtmənt/",
+  "fr": "engagement",
+  "def": "a promise or firm decision to do something",
+  "ex": "Buying a house is a big financial commitment for anyone."
+ },
+ {
+  "id": "committee",
+  "ipa": "/kəˈmɪti/",
+  "fr": "comité",
+  "def": "a group of people chosen to make decisions",
+  "ex": "The committee will decide who wins the school prize."
+ },
+ {
+  "id": "common",
+  "ipa": "/ˈkɑːmən/",
+  "fr": "courant, commun",
+  "def": "happening often or found in many places",
+  "ex": "It is common for students to feel nervous before exams."
+ },
+ {
+  "id": "commonly",
+  "ipa": "/ˈkɑːmənli/",
+  "fr": "communément, couramment",
+  "def": "in a way that happens or is done often",
+  "ex": "This herb is commonly used in Italian and French cooking."
+ },
+ {
+  "id": "communicate",
+  "ipa": "/kəˈmjuːnɪkeɪt/",
+  "fr": "communiquer",
+  "def": "to share information, ideas, or feelings with someone",
+  "ex": "Good friends communicate honestly about their problems and feelings."
+ },
+ {
+  "id": "communication",
+  "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+  "fr": "communication",
+  "def": "the act of sharing or exchanging information with others",
+  "ex": "Clear communication helps teams work together more effectively."
+ },
+ {
+  "id": "community",
+  "ipa": "/kəˈmjuːnəti/",
+  "fr": "communauté",
+  "def": "a group of people living in the same area",
+  "ex": "The whole community came together to clean the park."
+ },
+ {
+  "id": "company",
+  "ipa": "/ˈkʌmpəni/",
+  "fr": "entreprise, société ; compagnie",
+  "def": "a business that makes or sells goods or services",
+  "ex": "My sister started her own company last year."
+ },
+ {
+  "id": "compare",
+  "ipa": "/kəmˈpɛr/",
+  "fr": "comparer",
+  "def": "to examine how two things are similar or different",
+  "ex": "Let's compare these two laptops before we decide."
+ },
+ {
+  "id": "comparison",
+  "ipa": "/kəmˈpærɪsn/",
+  "fr": "comparaison",
+  "def": "the act of comparing two or more things",
+  "ex": "In comparison with last winter, this one feels much colder."
+ },
+ {
+  "id": "compete",
+  "ipa": "/kəmˈpiːt/",
+  "fr": "concourir, être en compétition",
+  "def": "to try to win something against other people",
+  "ex": "Athletes from many countries compete in the Olympic Games."
+ },
+ {
+  "id": "competition",
+  "ipa": "/ˌkɑːmpəˈtɪʃn/",
+  "fr": "compétition, concours",
+  "def": "an event in which people try to win",
+  "ex": "She won first prize in the school art competition."
+ },
+ {
+  "id": "competitive",
+  "ipa": "/kəmˈpetətɪv/",
+  "fr": "compétitif",
+  "def": "wanting very much to win or be the best",
+  "ex": "He has always been a very competitive tennis player."
+ },
+ {
+  "id": "competitor",
+  "ipa": "/kəmˈpetətɚ/",
+  "fr": "concurrent",
+  "def": "a person or company competing against others",
+  "ex": "Our main competitor just lowered the price of their product."
+ },
+ {
+  "id": "complain",
+  "ipa": "/kəmˈpleɪn/",
+  "fr": "se plaindre",
+  "def": "to say that you are unhappy about something",
+  "ex": "Guests complained about the noise coming from the street."
+ },
+ {
+  "id": "complaint",
+  "ipa": "/kəmˈpleɪnt/",
+  "fr": "plainte, réclamation",
+  "def": "a statement that something is wrong or unsatisfactory",
+  "ex": "The manager received a complaint about the cold food."
+ },
+ {
+  "id": "complete",
+  "ipa": "/kəmˈpliːt/",
+  "fr": "complet (adj.) ; compléter, terminer (v.)",
+  "def": "having all the parts needed; not missing anything",
+  "ex": "Please complete the application form before Friday afternoon arrives."
+ },
+ {
+  "id": "completely",
+  "ipa": "/kəmˈpliːtli/",
+  "fr": "complètement, totalement",
+  "def": "in every way possible; totally",
+  "ex": "I completely forgot that today was your birthday."
+ },
+ {
+  "id": "complex",
+  "ipa": "/ˈkɑːmpleks/",
+  "fr": "complexe (adj.) ; complexe, ensemble (n.)",
+  "def": "having many parts and difficult to understand",
+  "ex": "The instructions were too complex for young children to follow."
+ },
+ {
+  "id": "complicated",
+  "ipa": "/ˈkɑːmplɪkeɪtɪd/",
+  "fr": "compliqué",
+  "def": "made of many parts and hard to understand",
+  "ex": "Filling out these tax forms is always so complicated."
+ },
+ {
+  "id": "component",
+  "ipa": "/kəmˈpoʊnənt/",
+  "fr": "composant, élément",
+  "def": "one of the parts that make up something",
+  "ex": "Trust is an important component of any good relationship."
+ },
+ {
+  "id": "computer",
+  "ipa": "/kəmˈpjuːtɚ/",
+  "fr": "ordinateur",
+  "def": "an electronic machine that stores and processes information",
+  "ex": "She types all her college essays on her computer."
+ },
+ {
+  "id": "concentrate",
+  "ipa": "/ˈkɑːnsntreɪt/",
+  "fr": "se concentrer",
+  "def": "to give all your attention to one thing",
+  "ex": "I need quiet to concentrate on my studies tonight."
+ },
+ {
+  "id": "concentration",
+  "ipa": "/ˌkɑːnsnˈtreɪʃn/",
+  "fr": "concentration",
+  "def": "the ability to think carefully about one thing",
+  "ex": "Playing chess requires a lot of concentration and patience."
+ },
+ {
+  "id": "concept",
+  "ipa": "/ˈkɑːnsept/",
+  "fr": "concept, notion",
+  "def": "a general idea of how something works",
+  "ex": "The teacher explained the concept of gravity clearly."
+ },
+ {
+  "id": "concern",
+  "ipa": "/kənˈsɝːn/",
+  "fr": "préoccupation, souci (n.) ; concerner, préoccuper (v.)",
+  "def": "a feeling of worry about something important",
+  "ex": "Many parents share the same concern about screen time."
+ },
+ {
+  "id": "concerned",
+  "ipa": "/kənˈsɝːnd/",
+  "fr": "inquiet, préoccupé",
+  "def": "feeling worried about someone or something",
+  "ex": "We are concerned about the rising cost of living."
+ },
+ {
+  "id": "concert",
+  "ipa": "/ˈkɑːnsɚt/",
+  "fr": "concert",
+  "def": "a musical performance given in front of an audience",
+  "ex": "We bought tickets for the jazz concert next Friday."
+ },
+ {
+  "id": "conclude",
+  "ipa": "/kənˈkluːd/",
+  "fr": "conclure",
+  "def": "to decide something after thinking about the facts",
+  "ex": "The scientists concluded that the medicine was safe."
+ },
+ {
+  "id": "conclusion",
+  "ipa": "/kənˈkluːʒn/",
+  "fr": "conclusion",
+  "def": "the final decision reached after considering the facts",
+  "ex": "We came to the conclusion that moving was the best choice."
+ },
+ {
+  "id": "condition",
+  "ipa": "/kənˈdɪʃn/",
+  "fr": "état, condition",
+  "def": "the physical state that something or someone is in",
+  "ex": "The old house was sold in poor condition."
+ },
+ {
+  "id": "conduct",
+  "ipa": "/kənˈdʌkt/ (v.), /ˈkɑːndʌkt/ (n.)",
+  "fr": "mener, effectuer (v.) ; conduite, comportement (n.)",
+  "def": "to organize and carry out a particular activity",
+  "ex": "Researchers conducted a study on children's sleeping habits."
+ },
+ {
+  "id": "conference",
+  "ipa": "/ˈkɑːnfɚəns/",
+  "fr": "conférence",
+  "def": "a large formal meeting held to discuss something",
+  "ex": "Hundreds of doctors attended the medical conference in Boston."
+ },
+ {
+  "id": "confidence",
+  "ipa": "/ˈkɑːnfɪdəns/",
+  "fr": "confiance (en soi)",
+  "def": "the feeling of being sure about your own abilities",
+  "ex": "Practicing every day gave her more confidence on stage."
+ },
+ {
+  "id": "confident",
+  "ipa": "/ˈkɑːnfɪdənt/",
+  "fr": "confiant, sûr de soi",
+  "def": "feeling sure about your own abilities or ideas",
+  "ex": "He felt confident about passing his driving test."
+ },
+ {
+  "id": "confirm",
+  "ipa": "/kənˈfɝːm/",
+  "fr": "confirmer",
+  "def": "to say that something is definitely true or correct",
+  "ex": "Please confirm your reservation by replying to this email."
+ },
+ {
+  "id": "conflict",
+  "ipa": "/ˈkɑːnflɪkt/ (n.), /kənˈflɪkt/ (v.)",
+  "fr": "conflit (n.) ; s'opposer, être en conflit (v.)",
+  "def": "a serious disagreement between people or countries",
+  "ex": "The conflict between the two neighbors lasted several years."
+ },
+ {
+  "id": "confuse",
+  "ipa": "/kənˈfjuːz/",
+  "fr": "confondre, embrouiller",
+  "def": "to make someone unable to think clearly",
+  "ex": "The map's small print confused most of the tourists."
+ },
+ {
+  "id": "confused",
+  "ipa": "/kənˈfjuːzd/",
+  "fr": "confus, désorienté",
+  "def": "unable to think clearly or understand something",
+  "ex": "I felt confused after hearing so many different opinions."
+ },
+ {
+  "id": "confusing",
+  "ipa": "/kənˈfjuːzɪŋ/",
+  "fr": "déroutant, déconcertant",
+  "def": "difficult to understand and causing confusion",
+  "ex": "The road signs were confusing and we got lost."
+ },
+ {
+  "id": "congress",
+  "ipa": "/ˈkɑːŋɡrəs/",
+  "fr": "congrès (assemblée législative)",
+  "def": "a group of elected people who make a country's laws",
+  "ex": "Congress voted to approve the new education budget."
+ },
+ {
+  "id": "connect",
+  "ipa": "/kəˈnekt/",
+  "fr": "connecter, relier",
+  "def": "to join two or more things together",
+  "ex": "This cable connects the printer to the computer."
+ },
+ {
+  "id": "connected",
+  "ipa": "/kəˈnektɪd/",
+  "fr": "connecté, relié",
+  "def": "joined to something else or to each other",
+  "ex": "Make sure your phone is connected to the WiFi."
+ },
+ {
+  "id": "connection",
+  "ipa": "/kəˈnekʃn/",
+  "fr": "connexion, lien",
+  "def": "a link or relationship between two things",
+  "ex": "There is a clear connection between exercise and good health."
+ },
+ {
+  "id": "conscious",
+  "ipa": "/ˈkɑːnʃəs/",
+  "fr": "conscient",
+  "def": "awake and able to understand what is happening",
+  "ex": "The patient was conscious during the short operation."
+ },
+ {
+  "id": "consequence",
+  "ipa": "/ˈkɑːnsəkwens/",
+  "fr": "conséquence",
+  "def": "a result of something that happened before",
+  "ex": "Losing his job was a consequence of being late."
+ },
+ {
+  "id": "conservative",
+  "ipa": "/kənˈsɝːvətɪv/",
+  "fr": "conservateur",
+  "def": "not liking changes or new ideas very much",
+  "ex": "Her parents have quite conservative views about marriage."
+ },
+ {
+  "id": "consider",
+  "ipa": "/kənˈsɪdɚ/",
+  "fr": "considérer, envisager",
+  "def": "to think carefully about something before deciding",
+  "ex": "We are considering moving to a smaller apartment."
+ },
+ {
+  "id": "consideration",
+  "ipa": "/kənˌsɪdəˈreɪʃn/",
+  "fr": "considération",
+  "def": "careful thought about something before making a decision",
+  "ex": "Please give my simple request some serious and careful consideration."
+ },
+ {
+  "id": "consist",
+  "ipa": "/kənˈsɪst/",
+  "fr": "consister, se composer (de)",
+  "def": "to be made up of particular parts or people",
+  "ex": "The team consists of ten players and two coaches."
+ },
+ {
+  "id": "consistent",
+  "ipa": "/kənˈsɪstənt/",
+  "fr": "cohérent, constant",
+  "def": "always behaving or happening in the same way",
+  "ex": "Her grades have been consistent throughout the whole year."
+ },
+ {
+  "id": "constant",
+  "ipa": "/ˈkɑːnstənt/",
+  "fr": "constant, continu",
+  "def": "happening all the time without stopping",
+  "ex": "The constant noise from traffic kept us awake."
+ },
+ {
+  "id": "constantly",
+  "ipa": "/ˈkɑːnstəntli/",
+  "fr": "constamment",
+  "def": "all the time; again and again",
+  "ex": "My little brother constantly asks for more candy."
+ },
+ {
+  "id": "construct",
+  "ipa": "/kənˈstrʌkt/",
+  "fr": "construire",
+  "def": "to build something large, such as a road",
+  "ex": "Workers will construct a new bridge over the river."
+ },
+ {
+  "id": "construction",
+  "ipa": "/kənˈstrʌkʃn/",
+  "fr": "construction",
+  "def": "the process or work of building something",
+  "ex": "Construction of the new school starts next month."
+ },
+ {
+  "id": "consume",
+  "ipa": "/kənˈsuːm/",
+  "fr": "consommer",
+  "def": "to eat, drink, or use something",
+  "ex": "Children should not consume too much sugar every single day."
+ },
+ {
+  "id": "consumer",
+  "ipa": "/kənˈsuːmɚ/",
+  "fr": "consommateur",
+  "def": "a person who buys or uses goods and services",
+  "ex": "Consumers are buying more products online these days."
+ },
+ {
+  "id": "contact",
+  "ipa": "/ˈkɑːntækt/",
+  "fr": "contact (n.) ; contacter (v.)",
+  "def": "communication between people, by phone, letter, or meeting",
+  "ex": "Please contact me if you have any questions."
+ },
+ {
+  "id": "contain",
+  "ipa": "/kənˈteɪn/",
+  "fr": "contenir",
+  "def": "to have something inside",
+  "ex": "This old box contains all my favorite childhood photographs and letters."
+ },
+ {
+  "id": "container",
+  "ipa": "/kənˈteɪnɚ/",
+  "fr": "récipient, conteneur",
+  "def": "an object used for holding or storing things",
+  "ex": "She poured the soup into a plastic container."
+ },
+ {
+  "id": "contemporary",
+  "ipa": "/kənˈtempəreri/",
+  "fr": "contemporain",
+  "def": "belonging to the present time; modern",
+  "ex": "The museum shows contemporary art from young artists."
+ },
+ {
+  "id": "content-1",
+  "ipa": "/ˈkɑːntent/",
+  "fr": "contenu",
+  "def": "the ideas or information contained in something",
+  "ex": "We need to check the content of this report."
+ },
+ {
+  "id": "contest",
+  "ipa": "/ˈkɑːntest/ (n.), /kənˈtest/ (v.)",
+  "fr": "concours (n.) ; contester (v.)",
+  "def": "a competition in which people try to win",
+  "ex": "She entered a local photography contest last summer with friends."
+ },
+ {
+  "id": "context",
+  "ipa": "/ˈkɑːntekst/",
+  "fr": "contexte",
+  "def": "the situation in which something happens",
+  "ex": "You need more context to understand this joke."
+ },
+ {
+  "id": "continent",
+  "ipa": "/ˈkɑːntɪnənt/",
+  "fr": "continent",
+  "def": "one of the world's large land areas",
+  "ex": "Africa is the second largest continent on Earth."
+ },
+ {
+  "id": "continue",
+  "ipa": "/kənˈtɪnjuː/",
+  "fr": "continuer",
+  "def": "to keep happening or doing something",
+  "ex": "Please continue reading the next chapter before you go to sleep."
+ },
+ {
+  "id": "continuous",
+  "ipa": "/kənˈtɪnjuəs/",
+  "fr": "continu",
+  "def": "happening without stopping or being interrupted",
+  "ex": "We heard a continuous noise from the machine."
+ },
+ {
+  "id": "contract",
+  "ipa": "/ˈkɑːntrækt/ (n.), /kənˈtrækt/ (v.)",
+  "fr": "contrat (n.) ; se contracter (v.)",
+  "def": "a written legal agreement between people or companies",
+  "ex": "Both companies finally signed the contract early this morning."
+ },
+ {
+  "id": "contrast",
+  "ipa": "/ˈkɑːntræst/ (n.), /kənˈtræst/ (v.)",
+  "fr": "contraste (n.) ; contraster (v.)",
+  "def": "a clear difference between two things",
+  "ex": "There is a big contrast between city and country life."
+ },
+ {
+  "id": "contribute",
+  "ipa": "/kənˈtrɪbjuːt/",
+  "fr": "contribuer",
+  "def": "to give money, help, or ideas to something",
+  "ex": "Everyone contributed money to buy her a present."
+ },
+ {
+  "id": "contribution",
+  "ipa": "/ˌkɑːntrɪˈbjuːʃn/",
+  "fr": "contribution",
+  "def": "something you give to help achieve something",
+  "ex": "His contribution to the project was very valuable."
+ },
+ {
+  "id": "control",
+  "ipa": "/kənˈtroʊl/",
+  "fr": "contrôle (n.) ; contrôler (v.)",
+  "def": "the power to make decisions about something",
+  "ex": "She lost control of the car on the ice."
+ },
+ {
+  "id": "convenient",
+  "ipa": "/kənˈviːniənt/",
+  "fr": "pratique, commode",
+  "def": "easy or suitable for a particular purpose",
+  "ex": "It is convenient for us to meet at your office tomorrow."
+ },
+ {
+  "id": "conversation",
+  "ipa": "/ˌkɑːnvɚˈseɪʃn/",
+  "fr": "conversation",
+  "def": "an informal talk between two or more people",
+  "ex": "We had a long conversation about our future plans."
+ },
+ {
+  "id": "convert",
+  "ipa": "/kənˈvɝːt/",
+  "fr": "convertir, transformer",
+  "def": "to change something into a different form",
+  "ex": "We plan to convert the garage into a bedroom."
+ },
+ {
+  "id": "convince",
+  "ipa": "/kənˈvɪns/",
+  "fr": "convaincre",
+  "def": "to make someone believe that something is true",
+  "ex": "She convinced her parents to let her travel alone."
+ },
+ {
+  "id": "convinced",
+  "ipa": "/kənˈvɪnst/",
+  "fr": "convaincu",
+  "def": "completely sure that something is true",
+  "ex": "I am convinced that he is telling the truth."
+ },
+ {
+  "id": "cook",
+  "ipa": "/kʊk/",
+  "fr": "cuisiner (v.) ; cuisinier, cuisinière (n.)",
+  "def": "to prepare food by heating it",
+  "ex": "My father cooks dinner for us every Sunday."
+ },
+ {
+  "id": "cookie",
+  "ipa": "/ˈkʊki/",
+  "fr": "biscuit, cookie",
+  "def": "a small flat sweet cake, baked until hard",
+  "ex": "She baked chocolate chip cookies for the party."
+ },
+ {
+  "id": "cooking",
+  "ipa": "/ˈkʊkɪŋ/",
+  "fr": "cuisine (activité)",
+  "def": "the activity of preparing and heating food",
+  "ex": "My grandmother taught me traditional Italian cooking every summer holiday."
+ },
+ {
+  "id": "cool",
+  "ipa": "/kuːl/",
+  "fr": "frais ; cool (adj.) ; refroidir (v.)",
+  "def": "slightly cold, in a pleasant way",
+  "ex": "Let's have a cool drink on this hot day."
+ },
+ {
+  "id": "copy",
+  "ipa": "/ˈkɑːpi/",
+  "fr": "copie (n.) ; copier (v.)",
+  "def": "something made to look exactly like another thing",
+  "ex": "Please make a copy of this document for the meeting."
+ },
+ {
+  "id": "core",
+  "ipa": "/kɔːr/",
+  "fr": "noyau, cœur (n.) ; central (adj.)",
+  "def": "the central or most important part of something",
+  "ex": "Honesty is at the core of their friendship."
+ },
+ {
+  "id": "corn",
+  "ipa": "/kɔːrn/",
+  "fr": "maïs",
+  "def": "a tall plant that produces yellow grain",
+  "ex": "Farmers grow corn in the fields near here."
+ },
+ {
+  "id": "corner",
+  "ipa": "/ˈkɔːrnɚ/",
+  "fr": "coin, angle",
+  "def": "the place where two lines, streets, or walls meet",
+  "ex": "There is a small bakery on the corner."
+ },
+ {
+  "id": "corporate",
+  "ipa": "/ˈkɔːrpərət/",
+  "fr": "d'entreprise, corporatif",
+  "def": "relating to a large company or business",
+  "ex": "The corporate offices are located in downtown Chicago."
+ },
+ {
+  "id": "correct",
+  "ipa": "/kəˈrekt/",
+  "fr": "correct, exact (adj.) ; corriger (v.)",
+  "def": "right or true, without any mistakes",
+  "ex": "Please check carefully if your final answer is correct."
+ },
+ {
+  "id": "correctly",
+  "ipa": "/kəˈrektli/",
+  "fr": "correctement",
+  "def": "in a way that is right or true",
+  "ex": "I hope I spelled your name correctly this time."
+ },
+ {
+  "id": "cost",
+  "ipa": "/kɔːst/",
+  "fr": "coût, prix (n.) ; coûter (v.)",
+  "def": "the amount of money needed to buy something",
+  "ex": "The cost of living has risen sharply this year."
+ },
+ {
+  "id": "costume",
+  "ipa": "/ˈkɑːstuːm/",
+  "fr": "costume, déguisement",
+  "def": "special clothes worn to look like someone else",
+  "ex": "She wore a witch costume for the Halloween party."
+ },
+ {
+  "id": "cotton",
+  "ipa": "/ˈkɑːtn/",
+  "fr": "coton",
+  "def": "a soft white material used to make cloth",
+  "ex": "This shirt is made of one hundred percent cotton."
+ },
+ {
+  "id": "could",
+  "ipa": "/kʊd/",
+  "fr": "pouvoir (passé, conditionnel)",
+  "def": "used to say someone was able to do something",
+  "ex": "When I was young, I could run very fast."
+ },
+ {
+  "id": "council",
+  "ipa": "/ˈkaʊnsl/",
+  "fr": "conseil (municipal, etc.)",
+  "def": "a group of people elected to manage a local area",
+  "ex": "The city council meets every Tuesday evening at the town hall."
+ },
+ {
+  "id": "count",
+  "ipa": "/kaʊnt/",
+  "fr": "compter (v.) ; compte (n.)",
+  "def": "to say numbers in order, one by one",
+  "ex": "The children learned to count to one hundred."
+ },
+ {
+  "id": "country",
+  "ipa": "/ˈkʌntri/",
+  "fr": "pays",
+  "def": "an area of land with its own government",
+  "ex": "France is a beautiful country in Western Europe."
+ },
+ {
+  "id": "countryside",
+  "ipa": "/ˈkʌntrisaɪd/",
+  "fr": "campagne",
+  "def": "land outside cities, with fields and villages",
+  "ex": "We enjoyed a peaceful walk through the countryside."
+ },
+ {
+  "id": "county",
+  "ipa": "/ˈkaʊnti/",
+  "fr": "comté",
+  "def": "an area of a country with its own local government",
+  "ex": "Our county holds a big fair every summer."
+ },
+ {
+  "id": "couple",
+  "ipa": "/ˈkʌpl/",
+  "fr": "couple ; quelques",
+  "def": "two people who are married or in a relationship",
+  "ex": "A young couple moved into the house next door."
+ },
+ {
+  "id": "courage",
+  "ipa": "/ˈkɝːɪdʒ/",
+  "fr": "courage",
+  "def": "the ability to do something dangerous or difficult",
+  "ex": "It took courage for her to speak in public."
+ },
+ {
+  "id": "course",
+  "ipa": "/kɔːrs/",
+  "fr": "cours ; parcours",
+  "def": "a series of lessons on a particular subject",
+  "ex": "I am taking a Spanish course this semester."
+ },
+ {
+  "id": "court",
+  "ipa": "/kɔːrt/",
+  "fr": "tribunal ; court (sport)",
+  "def": "a place where legal cases are decided",
+  "ex": "The judge listened carefully in the crowded court."
+ },
+ {
+  "id": "cousin",
+  "ipa": "/ˈkʌzn/",
+  "fr": "cousin, cousine",
+  "def": "the child of your aunt or uncle",
+  "ex": "My cousin is coming to visit us this weekend."
+ },
+ {
+  "id": "cover",
+  "ipa": "/ˈkʌvɚ/",
+  "fr": "couvrir (v.) ; couverture (n.)",
+  "def": "to put something over another thing to protect it",
+  "ex": "She covered the baby with a warm blanket."
+ },
+ {
+  "id": "covered",
+  "ipa": "/ˈkʌvɚd/",
+  "fr": "couvert",
+  "def": "having something spread or placed over the top",
+  "ex": "The hills were covered with snow all winter."
+ },
+ {
+  "id": "cow",
+  "ipa": "/kaʊ/",
+  "fr": "vache",
+  "def": "a large farm animal kept for milk or meat",
+  "ex": "The farmer milks his cows early every morning."
+ },
+ {
+  "id": "crash",
+  "ipa": "/kræʃ/",
+  "fr": "accident, collision (n.) ; s'écraser (v.)",
+  "def": "an accident in which a vehicle hits something",
+  "ex": "Two cars were badly damaged in the crash yesterday."
+ },
+ {
+  "id": "crazy",
+  "ipa": "/ˈkreɪzi/",
+  "fr": "fou, folle",
+  "def": "not sensible; behaving in a strange way",
+  "ex": "It would be crazy to drive in this storm."
+ },
+ {
+  "id": "cream",
+  "ipa": "/kriːm/",
+  "fr": "crème (n.) ; crème, couleur crème (adj.)",
+  "def": "a thick liquid made from the fat in milk",
+  "ex": "She added cream to her coffee this morning."
+ },
+ {
+  "id": "create",
+  "ipa": "/kriˈeɪt/",
+  "fr": "créer",
+  "def": "to make something new that did not exist before",
+  "ex": "The artist created a beautiful painting of the sea."
+ },
+ {
+  "id": "creation",
+  "ipa": "/kriˈeɪʃn/",
+  "fr": "création",
+  "def": "the act of making something new",
+  "ex": "The creation of the new park took two years."
+ },
+ {
+  "id": "creative",
+  "ipa": "/kriˈeɪtɪv/",
+  "fr": "créatif",
+  "def": "good at producing new and original ideas",
+  "ex": "My daughter is very creative and loves painting."
+ },
+ {
+  "id": "creature",
+  "ipa": "/ˈkriːtʃɚ/",
+  "fr": "créature",
+  "def": "any living thing, such as an animal",
+  "ex": "Strange creatures live deep in the dark ocean waters."
+ },
+ {
+  "id": "credit",
+  "ipa": "/ˈkredɪt/",
+  "fr": "crédit (n.) ; créditer, attribuer (v.)",
+  "def": "an arrangement to pay for something later",
+  "ex": "I paid for the tickets using my credit card."
+ },
+ {
+  "id": "crew",
+  "ipa": "/kruː/",
+  "fr": "équipage, équipe",
+  "def": "a group of people who work together on a ship or plane",
+  "ex": "The plane's crew welcomed us as we boarded."
+ },
+ {
+  "id": "crime",
+  "ipa": "/kraɪm/",
+  "fr": "crime, délinquance",
+  "def": "an illegal act that can be punished by law",
+  "ex": "The police are investigating a crime in the park."
+ },
+ {
+  "id": "criminal",
+  "ipa": "/ˈkrɪmɪnl/",
+  "fr": "criminel, criminelle (n.) ; criminel (adj.)",
+  "def": "a person who has committed a crime",
+  "ex": "The criminal was caught by the police last night."
+ },
+ {
+  "id": "crisis",
+  "ipa": "/ˈkraɪsɪs/",
+  "fr": "crise",
+  "def": "a time of great danger or difficulty",
+  "ex": "The country is facing a serious economic crisis."
+ },
+ {
+  "id": "criterion",
+  "ipa": "/kraɪˈtɪriən/",
+  "fr": "critère",
+  "def": "a standard used to judge or decide something",
+  "ex": "Experience is the main criterion for this job."
+ },
+ {
+  "id": "critic",
+  "ipa": "/ˈkrɪtɪk/",
+  "fr": "critique (personne)",
+  "def": "a person who gives opinions about books or films",
+  "ex": "The film critic gave the new movie a bad review."
+ },
+ {
+  "id": "critical",
+  "ipa": "/ˈkrɪtɪkl/",
+  "fr": "critique (important, ou négatif)",
+  "def": "extremely important, or pointing out faults",
+  "ex": "Getting enough sleep is critical for good health."
+ },
+ {
+  "id": "criticism",
+  "ipa": "/ˈkrɪtɪsɪzəm/",
+  "fr": "critique (négative)",
+  "def": "comments that say what is wrong with something",
+  "ex": "The new policy received harsh criticism from voters."
+ },
+ {
+  "id": "criticize",
+  "ipa": "/ˈkrɪtɪsaɪz/",
+  "fr": "critiquer",
+  "def": "to say what is wrong or bad about something",
+  "ex": "He often criticizes his coworkers in front of others."
+ },
+ {
+  "id": "crop",
+  "ipa": "/krɑːp/",
+  "fr": "récolte, culture",
+  "def": "a plant grown in large amounts for food",
+  "ex": "Farmers harvest the wheat crop in late summer."
+ },
+ {
+  "id": "cross",
+  "ipa": "/krɔːs/",
+  "fr": "traverser (v.) ; croix (n.)",
+  "def": "to go from one side of something to the other",
+  "ex": "Look both ways before you cross the street."
+ },
+ {
+  "id": "crowd",
+  "ipa": "/kraʊd/",
+  "fr": "foule",
+  "def": "a large group of people gathered together",
+  "ex": "A huge crowd gathered to watch the parade."
+ },
+ {
+  "id": "crowded",
+  "ipa": "/ˈkraʊdɪd/",
+  "fr": "bondé, plein de monde",
+  "def": "full of people",
+  "ex": "The train was too crowded to find a seat."
+ },
+ {
+  "id": "crucial",
+  "ipa": "/ˈkruːʃl/",
+  "fr": "crucial, essentiel",
+  "def": "extremely important for future success",
+  "ex": "Getting enough sleep is crucial for children's healthy growth."
+ },
+ {
+  "id": "cruel",
+  "ipa": "/ˈkruːəl/",
+  "fr": "cruel",
+  "def": "causing pain or suffering to others deliberately",
+  "ex": "It is cruel to leave a dog alone all day."
+ },
+ {
+  "id": "cry",
+  "ipa": "/kraɪ/",
+  "fr": "pleurer (v.) ; cri, pleurs (n.)",
+  "def": "to produce tears because you are sad",
+  "ex": "The little girl started to cry when she fell."
+ },
+ {
+  "id": "cultural",
+  "ipa": "/ˈkʌltʃərəl/",
+  "fr": "culturel",
+  "def": "relating to the customs and ideas of a society",
+  "ex": "The festival celebrates the cultural traditions of the region."
+ },
+ {
+  "id": "culture",
+  "ipa": "/ˈkʌltʃɚ/",
+  "fr": "culture",
+  "def": "the customs, arts, and beliefs of a group",
+  "ex": "I love learning about different cultures around the world."
+ },
+ {
+  "id": "cup",
+  "ipa": "/kʌp/",
+  "fr": "tasse",
+  "def": "a small round container used for drinking",
+  "ex": "She made a cup of tea for her guest."
+ },
+ {
+  "id": "cupboard",
+  "ipa": "/ˈkʌbɚd/",
+  "fr": "placard",
+  "def": "a piece of furniture with doors and shelves for storage",
+  "ex": "He put the clean plates back in the cupboard."
+ },
+ {
+  "id": "cure",
+  "ipa": "/kjʊr/",
+  "fr": "guérir (v.) ; remède, guérison (n.)",
+  "def": "to make an illness go away completely",
+  "ex": "Scientists are trying to cure this rare disease."
+ },
+ {
+  "id": "curly",
+  "ipa": "/ˈkɝːli/",
+  "fr": "bouclé, frisé",
+  "def": "having a curved, twisted shape",
+  "ex": "Her curly hair bounces when she walks fast."
+ },
+ {
+  "id": "currency",
+  "ipa": "/ˈkɝːənsi/",
+  "fr": "devise, monnaie",
+  "def": "the money used in a particular country",
+  "ex": "The euro is the currency used in many European countries."
+ },
+ {
+  "id": "current",
+  "ipa": "/ˈkɝːənt/",
+  "fr": "actuel (adj.) ; courant, eau/électricité (n.)",
+  "def": "happening or existing now",
+  "ex": "Please tell me your current address and phone number."
+ },
+ {
+  "id": "currently",
+  "ipa": "/ˈkɝːəntli/",
+  "fr": "actuellement",
+  "def": "at the present time; now",
+  "ex": "She is currently studying medicine at a university in Paris."
+ },
+ {
+  "id": "curtain",
+  "ipa": "/ˈkɝːtn/",
+  "fr": "rideau",
+  "def": "a piece of cloth hung to cover a window",
+  "ex": "Please close the curtain; the sun is bright."
+ },
+ {
+  "id": "curve",
+  "ipa": "/kɝːv/",
+  "fr": "courbe (n.) ; se courber (v.)",
+  "def": "a line that bends smoothly, like part of a circle",
+  "ex": "The road has a sharp curve near the lake."
+ },
+ {
+  "id": "curved",
+  "ipa": "/kɝːvd/",
+  "fr": "courbé, incurvé",
+  "def": "having the shape of a curve; not straight",
+  "ex": "The old bridge has a beautiful curved wooden design."
+ },
+ {
+  "id": "custom",
+  "ipa": "/ˈkʌstəm/",
+  "fr": "coutume, tradition",
+  "def": "a traditional way of behaving in a society",
+  "ex": "It's a custom to remove your shoes indoors here."
+ },
+ {
+  "id": "customer",
+  "ipa": "/ˈkʌstəmɚ/",
+  "fr": "client, cliente",
+  "def": "a person who buys goods or services",
+  "ex": "The shop was full of customers on Saturday morning."
+ },
+ {
+  "id": "cut",
+  "ipa": "/kʌt/",
+  "fr": "couper (v.) ; coupure (n.)",
+  "def": "to divide or open something with a sharp tool",
+  "ex": "She cut the fresh bread into thin slices."
+ },
+ {
+  "id": "cycle",
+  "ipa": "/ˈsaɪkl/",
+  "fr": "cycle (n.) ; faire du vélo (v.)",
+  "def": "a series of events that happen again and again",
+  "ex": "We watched the whole life cycle of a butterfly."
+ },
+ {
+  "id": "dad",
+  "ipa": "/dæd/",
+  "fr": "papa",
+  "def": "a child's word for father",
+  "ex": "My dad taught me how to ride a bike."
+ },
+ {
+  "id": "daily",
+  "ipa": "/ˈdeɪli/",
+  "fr": "quotidien (adj.) ; quotidiennement (adv.)",
+  "def": "happening or done every day",
+  "ex": "Reading the newspaper is part of my daily routine."
+ },
+ {
+  "id": "damage",
+  "ipa": "/ˈdæmɪdʒ/",
+  "fr": "dommage, dégât (n.) ; endommager (v.)",
+  "def": "harm or injury caused to something",
+  "ex": "The storm caused serious damage to the roof."
+ },
+ {
+  "id": "dance",
+  "ipa": "/dæns/",
+  "fr": "danse (n.) ; danser (v.)",
+  "def": "to move your body to the rhythm of music",
+  "ex": "We danced together happily at my cousin's wedding party."
+ },
+ {
+  "id": "dancer",
+  "ipa": "/ˈdænsɚ/",
+  "fr": "danseur, danseuse",
+  "def": "a person who dances, especially as a job",
+  "ex": "She trained for years to become a professional dancer."
+ },
+ {
+  "id": "dancing",
+  "ipa": "/ˈdænsɪŋ/",
+  "fr": "danse (activité)",
+  "def": "the activity of moving your body to music",
+  "ex": "They took dancing lessons before their wedding day."
+ },
+ {
+  "id": "danger",
+  "ipa": "/ˈdeɪndʒɚ/",
+  "fr": "danger",
+  "def": "the possibility that something harmful may happen",
+  "ex": "Swimmers should be aware of the danger of strong currents."
+ },
+ {
+  "id": "dangerous",
+  "ipa": "/ˈdeɪndʒərəs/",
+  "fr": "dangereux",
+  "def": "likely to cause harm or injury",
+  "ex": "It is dangerous to text while driving a car."
+ },
+ {
+  "id": "dark",
+  "ipa": "/dɑːrk/",
+  "fr": "sombre, foncé (adj.) ; obscurité (n.)",
+  "def": "with little or no light",
+  "ex": "It gets dark very early in winter here."
+ },
+ {
+  "id": "data",
+  "ipa": "/ˈdeɪtə/",
+  "fr": "données",
+  "def": "facts or information, especially for analysis",
+  "ex": "The scientists collected data for their new study."
+ },
+ {
+  "id": "date",
+  "ipa": "/deɪt/",
+  "fr": "date (n.) ; sortir avec, dater (v.)",
+  "def": "a particular day of the month or year",
+  "ex": "Please tell me the date of your final exam."
+ },
+ {
+  "id": "daughter",
+  "ipa": "/ˈdɔːtɚ/",
+  "fr": "fille (enfant)",
+  "def": "a person's female child",
+  "ex": "Their daughter just started her first year of school."
+ },
+ {
+  "id": "day",
+  "ipa": "/deɪ/",
+  "fr": "jour, journée",
+  "def": "a period of twenty-four hours",
+  "ex": "We spent the whole day at the beach."
+ },
+ {
+  "id": "dead",
+  "ipa": "/ded/",
+  "fr": "mort",
+  "def": "no longer alive",
+  "ex": "The old tree in our yard is completely dead."
+ },
+ {
+  "id": "deal",
+  "ipa": "/diːl/",
+  "fr": "traiter, gérer (v.) ; accord, affaire (n.)",
+  "def": "to take action to solve or handle something",
+  "ex": "We need to deal with this issue right away."
+ },
+ {
+  "id": "dear",
+  "ipa": "/dɪr/",
+  "fr": "cher, chère",
+  "def": "loved very much; used to begin a letter",
+  "ex": "Dear Sarah, thank you for your lovely letter."
+ },
+ {
+  "id": "death",
+  "ipa": "/deθ/",
+  "fr": "mort, décès",
+  "def": "the end of life; when someone dies",
+  "ex": "The whole town mourned the death of the mayor."
+ },
+ {
+  "id": "debate",
+  "ipa": "/dɪˈbeɪt/",
+  "fr": "débat (n.) ; débattre (v.)",
+  "def": "a formal discussion where people share different opinions",
+  "ex": "Students held a debate about climate change policies."
+ },
+ {
+  "id": "debt",
+  "ipa": "/det/",
+  "fr": "dette",
+  "def": "money that you owe to someone else",
+  "ex": "It took him years to pay off his debt."
+ },
+ {
+  "id": "decade",
+  "ipa": "/ˈdekeɪd/",
+  "fr": "décennie",
+  "def": "a period of ten years",
+  "ex": "The city has changed a lot over the last decade."
+ },
+ {
+  "id": "december",
+  "ipa": "/dɪˈsembɚ/",
+  "fr": "décembre",
+  "def": "the twelfth and last month of the year",
+  "ex": "We always visit our grandparents in December for the holidays."
+ },
+ {
+  "id": "decent",
+  "ipa": "/ˈdiːsnt/",
+  "fr": "décent, correct",
+  "def": "good enough or acceptable in quality",
+  "ex": "He finally found a decent job near his home."
+ },
+ {
+  "id": "decide",
+  "ipa": "/dɪˈsaɪd/",
+  "fr": "décider",
+  "def": "to choose something after thinking about it",
+  "ex": "We haven't decided where to go on vacation."
+ },
+ {
+  "id": "decision",
+  "ipa": "/dɪˈsɪʒn/",
+  "fr": "décision",
+  "def": "a choice you make after thinking about options",
+  "ex": "Choosing a career is an important life decision."
+ },
+ {
+  "id": "declare",
+  "ipa": "/dɪˈkler/",
+  "fr": "déclarer",
+  "def": "to say something officially or clearly",
+  "ex": "The government declared a public holiday for the festival."
+ },
+ {
+  "id": "decline",
+  "ipa": "/dɪˈklaɪn/",
+  "fr": "décliner, refuser (v.) ; déclin, baisse (n.)",
+  "def": "to become smaller, weaker, or worse",
+  "ex": "Sales have declined sharply since the summer season ended."
+ },
+ {
+  "id": "decorate",
+  "ipa": "/ˈdekəreɪt/",
+  "fr": "décorer",
+  "def": "to make something look nicer by adding things",
+  "ex": "We decorated the classroom for the holiday party."
+ },
+ {
+  "id": "decoration",
+  "ipa": "/ˌdekəˈreɪʃn/",
+  "fr": "décoration",
+  "def": "something added to make a place look attractive",
+  "ex": "They hung colorful decorations all around the room."
+ },
+ {
+  "id": "decrease",
+  "ipa": "/dɪˈkriːs/ (v.), /ˈdiːkriːs/ (n.)",
+  "fr": "diminuer (v.) ; diminution, baisse (n.)",
+  "def": "to become smaller in size, number, or amount",
+  "ex": "The number of visitors decreased during the winter months."
+ },
+ {
+  "id": "deep",
+  "ipa": "/diːp/",
+  "fr": "profond",
+  "def": "going a long way down from the top",
+  "ex": "The lake is very deep near the middle."
+ },
+ {
+  "id": "deeply",
+  "ipa": "/ˈdiːpli/",
+  "fr": "profondément",
+  "def": "very much; in a strong or serious way",
+  "ex": "She was deeply moved by the sad film."
+ },
+ {
+  "id": "defeat",
+  "ipa": "/dɪˈfiːt/",
+  "fr": "vaincre, battre (v.) ; défaite (n.)",
+  "def": "to win against someone in a fight or game",
+  "ex": "Our team defeated the champions in the final match."
+ },
+ {
+  "id": "defend",
+  "ipa": "/dɪˈfend/",
+  "fr": "défendre",
+  "def": "to protect someone or something from attack",
+  "ex": "Soldiers were quickly sent to defend the northern border."
+ },
+ {
+  "id": "defense",
+  "ipa": "/dɪˈfens/",
+  "fr": "défense",
+  "def": "action taken to protect against attack",
+  "ex": "The lawyer prepared a strong defense for her client."
+ },
+ {
+  "id": "define",
+  "ipa": "/dɪˈfaɪn/",
+  "fr": "définir",
+  "def": "to explain exactly what a word or idea means",
+  "ex": "Please define this word clearly for the whole class."
+ },
+ {
+  "id": "definite",
+  "ipa": "/ˈdefɪnət/",
+  "fr": "précis, certain",
+  "def": "certain or fixed; not likely to change",
+  "ex": "We still don't have a definite date for the trip."
+ },
+ {
+  "id": "definitely",
+  "ipa": "/ˈdefɪnətli/",
+  "fr": "certainement, absolument",
+  "def": "without any doubt; certainly",
+  "ex": "I will definitely call you when I arrive."
+ },
+ {
+  "id": "definition",
+  "ipa": "/ˌdefɪˈnɪʃn/",
+  "fr": "définition",
+  "def": "an explanation of what a word means",
+  "ex": "Look up the definition of this word in the dictionary."
+ },
+ {
+  "id": "degree",
+  "ipa": "/dɪˈɡriː/",
+  "fr": "degré ; diplôme",
+  "def": "a unit used to measure temperature or angles",
+  "ex": "The temperature dropped to five degrees during the night."
+ },
+ {
+  "id": "delay",
+  "ipa": "/dɪˈleɪ/",
+  "fr": "retarder (v.) ; retard (n.)",
+  "def": "to make something happen later than planned",
+  "ex": "Heavy snow delayed our flight by three hours."
+ },
+ {
+  "id": "deliberate",
+  "ipa": "/dɪˈlɪbərət/",
+  "fr": "délibéré, intentionnel",
+  "def": "done on purpose; planned in advance",
+  "ex": "It was a deliberate attempt to avoid paying taxes."
+ },
+ {
+  "id": "deliberately",
+  "ipa": "/dɪˈlɪbərətli/",
+  "fr": "délibérément, exprès",
+  "def": "on purpose; not by accident",
+  "ex": "He deliberately ignored all my messages this week."
+ },
+ {
+  "id": "delicious",
+  "ipa": "/dɪˈlɪʃəs/",
+  "fr": "délicieux",
+  "def": "having a very pleasant taste",
+  "ex": "This homemade vegetable soup smells absolutely delicious tonight."
+ },
+ {
+  "id": "deliver",
+  "ipa": "/dɪˈlɪvɚ/",
+  "fr": "livrer",
+  "def": "to take something to a place or person",
+  "ex": "The company delivers packages within two business days."
+ },
+ {
+  "id": "delivery",
+  "ipa": "/dɪˈlɪvəri/",
+  "fr": "livraison",
+  "def": "the act of bringing goods to a place",
+  "ex": "The delivery of our new sofa arrives tomorrow morning."
+ },
+ {
+  "id": "demand",
+  "ipa": "/dɪˈmænd/",
+  "fr": "demande, exigence (n.) ; exiger (v.)",
+  "def": "a strong request or need for something",
+  "ex": "Workers are demanding better pay and safer conditions."
+ },
+ {
+  "id": "demonstrate",
+  "ipa": "/ˈdemənstreɪt/",
+  "fr": "démontrer, manifester",
+  "def": "to show clearly that something is true",
+  "ex": "The teacher demonstrated how to solve the equation."
+ },
+ {
+  "id": "dentist",
+  "ipa": "/ˈdentɪst/",
+  "fr": "dentiste",
+  "def": "a doctor who takes care of teeth",
+  "ex": "I have an appointment with the dentist tomorrow."
+ },
+ {
+  "id": "deny",
+  "ipa": "/dɪˈnaɪ/",
+  "fr": "nier, démentir",
+  "def": "to say that something is not true",
+  "ex": "He denied stealing money from the small store."
+ },
+ {
+  "id": "department",
+  "ipa": "/dɪˈpɑːrtmənt/",
+  "fr": "département, service, rayon",
+  "def": "one section of a large organization or store",
+  "ex": "She works in the marketing department of her company."
+ },
+ {
+  "id": "departure",
+  "ipa": "/dɪˈpɑːrtʃɚ/",
+  "fr": "départ",
+  "def": "the act of leaving a place",
+  "ex": "Please arrive two hours before your flight's departure."
+ },
+ {
+  "id": "depend",
+  "ipa": "/dɪˈpend/",
+  "fr": "dépendre",
+  "def": "to be decided by or need something else",
+  "ex": "Our picnic plans depend entirely on tomorrow's weather forecast."
+ },
+ {
+  "id": "depressed",
+  "ipa": "/dɪˈprest/",
+  "fr": "déprimé",
+  "def": "feeling very sad and without hope",
+  "ex": "She felt depressed after losing her favorite job."
+ },
+ {
+  "id": "depressing",
+  "ipa": "/dɪˈpresɪŋ/",
+  "fr": "déprimant",
+  "def": "making you feel very sad",
+  "ex": "The news about the war was really depressing."
+ },
+ {
+  "id": "depth",
+  "ipa": "/depθ/",
+  "fr": "profondeur",
+  "def": "how deep something is, from top to bottom",
+  "ex": "Scientists measured the depth of the ocean floor."
+ },
+ {
+  "id": "describe",
+  "ipa": "/dɪˈskraɪb/",
+  "fr": "décrire",
+  "def": "to say what someone or something is like",
+  "ex": "Please describe the man you saw near the bank."
+ },
+ {
+  "id": "description",
+  "ipa": "/dɪˈskrɪpʃn/",
+  "fr": "description",
+  "def": "words that say what someone or something is like",
+  "ex": "The witness gave a detailed description of the car."
+ },
+ {
+  "id": "desert",
+  "ipa": "/ˈdezɚt/ (n.), /dɪˈzɝːt/ (v.)",
+  "fr": "désert (n.) ; abandonner, déserter (v.)",
+  "def": "a large area of land with very little rain",
+  "ex": "The Sahara is the largest hot desert in the world."
+ },
+ {
+  "id": "deserve",
+  "ipa": "/dɪˈzɝːv/",
+  "fr": "mériter",
+  "def": "to be good enough for a reward or punishment",
+  "ex": "She deserves a promotion after all her hard work."
+ },
+ {
+  "id": "design",
+  "ipa": "/dɪˈzaɪn/",
+  "fr": "conception, design (n.) ; concevoir (v.)",
+  "def": "a drawing or plan that shows how to make something",
+  "ex": "The architect showed us the design for our new house."
+ },
+ {
+  "id": "designer",
+  "ipa": "/dɪˈzaɪnɚ/",
+  "fr": "créateur, designer, styliste",
+  "def": "a person who plans how something will look",
+  "ex": "She works as a fashion designer in New York."
+ },
+ {
+  "id": "desire",
+  "ipa": "/dɪˈzaɪɚ/",
+  "fr": "désir, envie (n.) ; désirer (v.)",
+  "def": "a strong feeling of wanting something",
+  "ex": "He has always had a strong desire to travel."
+ },
+ {
+  "id": "desk",
+  "ipa": "/desk/",
+  "fr": "bureau (meuble)",
+  "def": "a table used for writing or working",
+  "ex": "My laptop is on the desk in my bedroom."
+ },
+ {
+  "id": "desperate",
+  "ipa": "/ˈdespərət/",
+  "fr": "désespéré",
+  "def": "willing to do anything because a situation is so bad",
+  "ex": "The desperate family searched everywhere for their lost dog."
+ },
+ {
+  "id": "despite",
+  "ipa": "/dɪˈspaɪt/",
+  "fr": "malgré",
+  "def": "without being affected by something; in spite of",
+  "ex": "Despite the rain, we still enjoyed our picnic."
+ },
+ {
+  "id": "dessert",
+  "ipa": "/dɪˈzɝːt/",
+  "fr": "dessert",
+  "def": "sweet food eaten at the end of a meal",
+  "ex": "We shared a rich chocolate cake for dessert tonight."
+ },
+ {
+  "id": "destination",
+  "ipa": "/ˌdestɪˈneɪʃn/",
+  "fr": "destination",
+  "def": "the place someone is traveling to",
+  "ex": "Paris is a popular destination for summer tourists."
+ },
+ {
+  "id": "destroy",
+  "ipa": "/dɪˈstrɔɪ/",
+  "fr": "détruire",
+  "def": "to damage something so badly it no longer exists",
+  "ex": "The fire destroyed almost the entire office building downtown."
+ },
+ {
+  "id": "detail",
+  "ipa": "/ˈdiːteɪl/",
+  "fr": "détail (n.) ; détailler, préciser (v.)",
+  "def": "a small individual fact or piece of information",
+  "ex": "She remembered every detail of that special day."
+ },
+ {
+  "id": "detailed",
+  "ipa": "/ˈdiːteɪld/",
+  "fr": "détaillé",
+  "def": "giving a lot of information or small facts",
+  "ex": "He gave a detailed explanation of the accident."
+ },
+ {
+  "id": "detect",
+  "ipa": "/dɪˈtekt/",
+  "fr": "détecter",
+  "def": "to notice or discover something that is hard to see",
+  "ex": "This device can detect smoke before a fire starts."
+ },
+ {
+  "id": "detective",
+  "ipa": "/dɪˈtektɪv/",
+  "fr": "détective, inspecteur",
+  "def": "a person, often a police officer, who investigates crimes",
+  "ex": "The detective found an important clue at the scene."
+ },
+ {
+  "id": "determine",
+  "ipa": "/dɪˈtɝːmɪn/",
+  "fr": "déterminer",
+  "def": "to find out or decide something exactly",
+  "ex": "Doctors ran tests to determine the cause of illness."
+ },
+ {
+  "id": "determined",
+  "ipa": "/dɪˈtɝːmɪnd/",
+  "fr": "déterminé, résolu",
+  "def": "having firmly decided to do something",
+  "ex": "She is determined to finish the marathon this year."
+ },
+ {
+  "id": "develop",
+  "ipa": "/dɪˈveləp/",
+  "fr": "développer",
+  "def": "to grow or change into something bigger or better",
+  "ex": "Children develop new skills as they get older."
+ },
+ {
+  "id": "development",
+  "ipa": "/dɪˈveləpmənt/",
+  "fr": "développement",
+  "def": "the process of growing or becoming more advanced",
+  "ex": "The company invests heavily in new software development every year."
+ },
+ {
+  "id": "device",
+  "ipa": "/dɪˈvaɪs/",
+  "fr": "appareil, dispositif",
+  "def": "an object or tool made for a particular purpose",
+  "ex": "This small device can measure your heart rate."
+ },
+ {
+  "id": "diagram",
+  "ipa": "/ˈdaɪəɡræm/",
+  "fr": "diagramme, schéma",
+  "def": "a simple drawing that explains something",
+  "ex": "The diagram shows how the human heart works."
+ },
+ {
+  "id": "dialogue",
+  "ipa": "/ˈdaɪəlɔːɡ/",
+  "fr": "dialogue",
+  "def": "a conversation between people, in a book or film",
+  "ex": "The movie's dialogue felt very natural and funny."
+ },
+ {
+  "id": "diamond",
+  "ipa": "/ˈdaɪmənd/",
+  "fr": "diamant",
+  "def": "a hard, clear, precious stone",
+  "ex": "He gave her a diamond ring for their anniversary."
+ },
+ {
+  "id": "diary",
+  "ipa": "/ˈdaɪəri/",
+  "fr": "journal intime",
+  "def": "a book where you write about your daily life",
+  "ex": "She writes in her diary every single night."
+ },
+ {
+  "id": "dictionary",
+  "ipa": "/ˈdɪkʃəneri/",
+  "fr": "dictionnaire",
+  "def": "a book that explains the meanings of words",
+  "ex": "Look up any new word in your dictionary."
+ },
+ {
+  "id": "die",
+  "ipa": "/daɪ/",
+  "fr": "mourir",
+  "def": "to stop living",
+  "ex": "Many plants die if you forget to water them."
+ },
+ {
+  "id": "diet",
+  "ipa": "/ˈdaɪət/",
+  "fr": "régime, alimentation",
+  "def": "the food that a person or animal usually eats",
+  "ex": "A healthy diet includes plenty of fruit and vegetables."
+ },
+ {
+  "id": "difference",
+  "ipa": "/ˈdɪfrəns/",
+  "fr": "différence",
+  "def": "the way in which two things are not the same",
+  "ex": "There is a big difference between the two designs."
+ },
+ {
+  "id": "different",
+  "ipa": "/ˈdɪfrənt/",
+  "fr": "différent",
+  "def": "not the same as another person or thing",
+  "ex": "My sister and I have very different personalities."
+ },
+ {
+  "id": "differently",
+  "ipa": "/ˈdɪfrəntli/",
+  "fr": "différemment",
+  "def": "in a way that is not the same",
+  "ex": "Everyone in the room reacted differently to the surprising news."
+ },
+ {
+  "id": "difficult",
+  "ipa": "/ˈdɪfɪkəlt/",
+  "fr": "difficile",
+  "def": "not easy to do or understand",
+  "ex": "This math problem is too difficult for me."
+ },
+ {
+  "id": "difficulty",
+  "ipa": "/ˈdɪfɪkəlti/",
+  "fr": "difficulté",
+  "def": "a problem that makes something hard to do",
+  "ex": "He had difficulty finding a job after moving."
+ },
+ {
+  "id": "dig",
+  "ipa": "/dɪɡ/",
+  "fr": "creuser",
+  "def": "to make a hole in the ground",
+  "ex": "The dog dug a hole under the fence."
+ },
+ {
+  "id": "digital",
+  "ipa": "/ˈdɪdʒɪtl/",
+  "fr": "numérique, digital",
+  "def": "using computer technology to store or send information",
+  "ex": "We keep all our old photos in a digital album."
+ },
+ {
+  "id": "dinner",
+  "ipa": "/ˈdɪnɚ/",
+  "fr": "dîner",
+  "def": "the main meal of the day, often in the evening",
+  "ex": "We usually have dinner together at seven o'clock."
+ },
+ {
+  "id": "direct",
+  "ipa": "/dɪˈrekt/",
+  "fr": "direct (adj.) ; diriger, mettre en scène (v.)",
+  "def": "going straight to a place without stopping",
+  "ex": "We took a direct flight from Paris to Tokyo."
+ },
+ {
+  "id": "direction",
+  "ipa": "/dɪˈrekʃn/",
+  "fr": "direction",
+  "def": "the way you must go to reach a place",
+  "ex": "Please tell me the direction to the train station."
+ }
+]

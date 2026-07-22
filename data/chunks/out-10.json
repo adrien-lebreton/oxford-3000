@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "robot",
+  "ipa": "/ˈroʊbɑːt/",
+  "fr": "robot",
+  "def": "a machine that can do jobs like a person",
+  "ex": "The robot cleaned the kitchen floor while we were out."
+ },
+ {
+  "id": "rock-stone",
+  "ipa": "/rɑːk/",
+  "fr": "rocher, pierre",
+  "def": "a hard natural substance found in the ground",
+  "ex": "The children climbed over the rocks near the beach."
+ },
+ {
+  "id": "rock-music",
+  "ipa": "/rɑːk/",
+  "fr": "rock (musique)",
+  "def": "a type of loud music played with guitars and drums",
+  "ex": "My brother listens to rock music every single evening."
+ },
+ {
+  "id": "role",
+  "ipa": "/roʊl/",
+  "fr": "rôle",
+  "def": "the job or purpose someone has in a situation",
+  "ex": "She played an important role in the school play."
+ },
+ {
+  "id": "roll",
+  "ipa": "/roʊl/",
+  "fr": "rouler ; petit pain (n.)",
+  "def": "to move along a surface by turning over",
+  "ex": "The ball rolled slowly down the hill into the river."
+ },
+ {
+  "id": "romantic",
+  "ipa": "/roʊˈmæntɪk/",
+  "fr": "romantique",
+  "def": "connected with love, or showing feelings of love",
+  "ex": "They had a romantic dinner together on their anniversary."
+ },
+ {
+  "id": "roof",
+  "ipa": "/ruːf/",
+  "fr": "toit",
+  "def": "the covering on top of a building",
+  "ex": "Snow covered the roof of the old wooden house."
+ },
+ {
+  "id": "room",
+  "ipa": "/ruːm/",
+  "fr": "pièce, chambre ; espace",
+  "def": "a part of a building with its own walls",
+  "ex": "She cleaned her room before her friends came to visit."
+ },
+ {
+  "id": "root",
+  "ipa": "/ruːt/",
+  "fr": "racine",
+  "def": "the part of a plant that grows under the ground",
+  "ex": "The old tree's roots spread deep beneath the garden."
+ },
+ {
+  "id": "rope",
+  "ipa": "/roʊp/",
+  "fr": "corde",
+  "def": "strong thick string made of twisted threads",
+  "ex": "The climbers used a long rope to reach the top."
+ },
+ {
+  "id": "rough",
+  "ipa": "/rʌf/",
+  "fr": "rugueux, brut ; difficile",
+  "def": "not smooth or even; having an uneven surface",
+  "ex": "The old wooden table had a rough, unfinished surface."
+ },
+ {
+  "id": "round",
+  "ipa": "/raʊnd/",
+  "fr": "rond (adj.) ; autour de (prép.) ; manche, tour (n.)",
+  "def": "shaped like a circle or a ball",
+  "ex": "The children sat in a round circle on the grass."
+ },
+ {
+  "id": "route",
+  "ipa": "/ruːt/",
+  "fr": "itinéraire, route",
+  "def": "a way that you follow to get from one place to another",
+  "ex": "We took a shorter route to avoid the heavy traffic."
+ },
+ {
+  "id": "routine",
+  "ipa": "/ruːˈtiːn/",
+  "fr": "routine (n.) ; habituel (adj.)",
+  "def": "the usual things you do regularly in a fixed order",
+  "ex": "Every morning she follows the same routine before work."
+ },
+ {
+  "id": "row-1",
+  "ipa": "/roʊ/",
+  "fr": "rangée, file",
+  "def": "a line of people or things next to each other",
+  "ex": "We sat in the front row during the whole concert."
+ },
+ {
+  "id": "royal",
+  "ipa": "/ˈrɔɪəl/",
+  "fr": "royal",
+  "def": "belonging to or connected with a king or queen",
+  "ex": "The royal family waved to the crowd from the balcony."
+ },
+ {
+  "id": "rub",
+  "ipa": "/rʌb/",
+  "fr": "frotter",
+  "def": "to move your hand firmly over a surface",
+  "ex": "He rubbed his eyes because he felt very tired."
+ },
+ {
+  "id": "rubber",
+  "ipa": "/ˈrʌbɚ/",
+  "fr": "caoutchouc (n.) ; en caoutchouc (adj.)",
+  "def": "a strong material used to make tires and boots",
+  "ex": "Her boots were made of thick, waterproof rubber material."
+ },
+ {
+  "id": "rude",
+  "ipa": "/ruːd/",
+  "fr": "impoli",
+  "def": "not polite; showing no respect for other people",
+  "ex": "It was rude of him to interrupt the teacher constantly."
+ },
+ {
+  "id": "rule",
+  "ipa": "/ruːl/",
+  "fr": "règle (n.) ; gouverner, régner (v.)",
+  "def": "an official statement that says what you must do",
+  "ex": "Students must follow the rules of the classroom carefully."
+ },
+ {
+  "id": "run",
+  "ipa": "/rʌn/",
+  "fr": "courir (v.) ; course (n.)",
+  "def": "to move quickly using your legs, faster than walking",
+  "ex": "She runs five kilometers every morning before breakfast."
+ },
+ {
+  "id": "runner",
+  "ipa": "/ˈrʌnɚ/",
+  "fr": "coureur, coureuse",
+  "def": "a person who runs, especially in a race",
+  "ex": "The runner crossed the finish line first in the race."
+ },
+ {
+  "id": "running",
+  "ipa": "/ˈrʌnɪŋ/",
+  "fr": "course à pied",
+  "def": "the sport or activity of running",
+  "ex": "Running every day has helped him stay fit and healthy."
+ },
+ {
+  "id": "rural",
+  "ipa": "/ˈrʊrəl/",
+  "fr": "rural, campagnard",
+  "def": "in or connected with the countryside, not the city",
+  "ex": "They moved from the city to a quiet rural village."
+ },
+ {
+  "id": "rush",
+  "ipa": "/rʌʃ/",
+  "fr": "se précipiter (v.) ; précipitation, ruée (n.)",
+  "def": "to move or do something very quickly",
+  "ex": "We had to rush to catch the last train home."
+ },
+ {
+  "id": "sad",
+  "ipa": "/sæd/",
+  "fr": "triste",
+  "def": "feeling unhappy, often because something bad happened",
+  "ex": "She felt sad when her best friend moved away."
+ },
+ {
+  "id": "sadly",
+  "ipa": "/ˈsædli/",
+  "fr": "tristement ; malheureusement",
+  "def": "in a sad way, or unfortunately",
+  "ex": "Sadly, the old cinema closed down last year."
+ },
+ {
+  "id": "safe",
+  "ipa": "/seɪf/",
+  "fr": "sûr, en sécurité",
+  "def": "not in danger; protected from harm",
+  "ex": "Children feel safe when their parents are close by."
+ },
+ {
+  "id": "safety",
+  "ipa": "/ˈseɪfti/",
+  "fr": "sécurité",
+  "def": "the state of being safe from harm or danger",
+  "ex": "Wearing a helmet is important for your own safety."
+ },
+ {
+  "id": "sail",
+  "ipa": "/seɪl/",
+  "fr": "naviguer (v.) ; voile (n.)",
+  "def": "to travel across water in a boat with sails",
+  "ex": "They sailed across the lake on a sunny afternoon."
+ },
+ {
+  "id": "sailing",
+  "ipa": "/ˈseɪlɪŋ/",
+  "fr": "voile (sport)",
+  "def": "the sport or activity of traveling in a boat",
+  "ex": "He goes sailing with his father every summer weekend."
+ },
+ {
+  "id": "sailor",
+  "ipa": "/ˈseɪlɚ/",
+  "fr": "marin",
+  "def": "a person who works on or sails a ship",
+  "ex": "The old sailor told stories about his years at sea."
+ },
+ {
+  "id": "salad",
+  "ipa": "/ˈsæləd/",
+  "fr": "salade",
+  "def": "a cold mixture of vegetables eaten as a meal",
+  "ex": "She made a fresh salad with tomatoes and cucumbers."
+ },
+ {
+  "id": "salary",
+  "ipa": "/ˈsæləri/",
+  "fr": "salaire",
+  "def": "money that you earn regularly from your job",
+  "ex": "He receives a good salary for his new job."
+ },
+ {
+  "id": "sale",
+  "ipa": "/seɪl/",
+  "fr": "vente ; solde",
+  "def": "the act of selling something, or a price reduction",
+  "ex": "The store is having a big sale this weekend."
+ },
+ {
+  "id": "salt",
+  "ipa": "/sɔːlt/",
+  "fr": "sel",
+  "def": "a white substance used to add flavor to food",
+  "ex": "Please pass the salt for my soup, thank you."
+ },
+ {
+  "id": "same",
+  "ipa": "/seɪm/",
+  "fr": "même",
+  "def": "not different; exactly like another thing or person",
+  "ex": "We both wore the same shirt to the party."
+ },
+ {
+  "id": "sample",
+  "ipa": "/ˈsæmpəl/",
+  "fr": "échantillon (n.) ; goûter, tester (v.)",
+  "def": "a small amount of something that shows what it's like",
+  "ex": "The shop gave us a free sample of cheese."
+ },
+ {
+  "id": "sand",
+  "ipa": "/sænd/",
+  "fr": "sable",
+  "def": "very small pieces of rock found on beaches",
+  "ex": "The children built a castle out of wet sand."
+ },
+ {
+  "id": "sandwich",
+  "ipa": "/ˈsænwɪtʃ/",
+  "fr": "sandwich",
+  "def": "food made of bread with meat or cheese inside",
+  "ex": "He ate a cheese sandwich for lunch at school."
+ },
+ {
+  "id": "satellite",
+  "ipa": "/ˈsætəlaɪt/",
+  "fr": "satellite",
+  "def": "a machine sent into space that moves around Earth",
+  "ex": "The satellite sends television signals down to our homes."
+ },
+ {
+  "id": "satisfied",
+  "ipa": "/ˈsætɪsfaɪd/",
+  "fr": "satisfait",
+  "def": "pleased because you got what you wanted",
+  "ex": "She was satisfied with the results of her hard work."
+ },
+ {
+  "id": "satisfy",
+  "ipa": "/ˈsætɪsfaɪ/",
+  "fr": "satisfaire",
+  "def": "to make someone pleased by giving them what they want",
+  "ex": "This meal should satisfy even the hungriest of guests."
+ },
+ {
+  "id": "saturday",
+  "ipa": "/ˈsætɚdeɪ/",
+  "fr": "samedi",
+  "def": "the day of the week after Friday",
+  "ex": "We always visit our grandparents on Saturday afternoon."
+ },
+ {
+  "id": "sauce",
+  "ipa": "/sɔːs/",
+  "fr": "sauce",
+  "def": "a thick liquid eaten with or on food",
+  "ex": "She poured tomato sauce over the pasta before serving."
+ },
+ {
+  "id": "save",
+  "ipa": "/seɪv/",
+  "fr": "sauver ; économiser ; enregistrer",
+  "def": "to keep someone or something safe from danger",
+  "ex": "The firefighters worked quickly to save the trapped family."
+ },
+ {
+  "id": "saving",
+  "ipa": "/ˈseɪvɪŋ/",
+  "fr": "économie(s)",
+  "def": "money that you keep instead of spending",
+  "ex": "He put his savings into a bank account each month."
+ },
+ {
+  "id": "say",
+  "ipa": "/seɪ/",
+  "fr": "dire",
+  "def": "to speak words using your voice",
+  "ex": "She said hello to everyone when she entered the room."
+ },
+ {
+  "id": "scale",
+  "ipa": "/skeɪl/",
+  "fr": "échelle ; balance",
+  "def": "the size or extent of something",
+  "ex": "The company plans to increase production on a large scale."
+ },
+ {
+  "id": "scan",
+  "ipa": "/skæn/",
+  "fr": "scanner ; parcourir du regard",
+  "def": "to look at something quickly, or copy it with a machine",
+  "ex": "She scanned the document and sent it by email."
+ },
+ {
+  "id": "scared",
+  "ipa": "/skerd/",
+  "fr": "effrayé, apeuré",
+  "def": "feeling afraid of something",
+  "ex": "The little boy was scared of the dark basement."
+ },
+ {
+  "id": "scary",
+  "ipa": "/ˈskeri/",
+  "fr": "effrayant, qui fait peur",
+  "def": "making you feel afraid",
+  "ex": "We watched a scary movie together on Halloween night."
+ },
+ {
+  "id": "scene",
+  "ipa": "/siːn/",
+  "fr": "scène",
+  "def": "a place where something happens, or a part of a film",
+  "ex": "Police arrived quickly at the scene of the accident."
+ },
+ {
+  "id": "schedule",
+  "ipa": "/ˈskedʒuːl/",
+  "fr": "emploi du temps, programme (n.) ; programmer (v.)",
+  "def": "a plan that lists events and the times they happen",
+  "ex": "Our teacher gave us a schedule for the school week."
+ },
+ {
+  "id": "school",
+  "ipa": "/skuːl/",
+  "fr": "école",
+  "def": "a place where children go to learn",
+  "ex": "My children walk to school together every morning."
+ },
+ {
+  "id": "science",
+  "ipa": "/ˈsaɪəns/",
+  "fr": "science",
+  "def": "the study of nature through tests and observation",
+  "ex": "She studies science at university because she loves biology."
+ },
+ {
+  "id": "scientific",
+  "ipa": "/ˌsaɪənˈtɪfɪk/",
+  "fr": "scientifique",
+  "def": "connected with science or using its methods",
+  "ex": "The team published their scientific research in a journal."
+ },
+ {
+  "id": "scientist",
+  "ipa": "/ˈsaɪəntɪst/",
+  "fr": "scientifique",
+  "def": "a person who studies or works in science",
+  "ex": "The scientist discovered a new type of butterfly last year."
+ },
+ {
+  "id": "score",
+  "ipa": "/skɔːr/",
+  "fr": "marquer (des points) (v.) ; score (n.)",
+  "def": "to get points in a game or test",
+  "ex": "Our team scored three goals in the first half."
+ },
+ {
+  "id": "scream",
+  "ipa": "/skriːm/",
+  "fr": "crier, hurler (v.) ; cri (n.)",
+  "def": "to shout in a loud high voice, from fear or pain",
+  "ex": "She screamed loudly when she saw the huge spider."
+ },
+ {
+  "id": "screen",
+  "ipa": "/skriːn/",
+  "fr": "écran (n.) ; filtrer, examiner (v.)",
+  "def": "the flat surface on a device that shows pictures or words",
+  "ex": "He watched the movie on a big television screen."
+ },
+ {
+  "id": "script",
+  "ipa": "/skrɪpt/",
+  "fr": "scénario, script",
+  "def": "the written words used in a film, play, or speech",
+  "ex": "The actors learned their lines from the film script."
+ },
+ {
+  "id": "sculpture",
+  "ipa": "/ˈskʌlptʃɚ/",
+  "fr": "sculpture",
+  "def": "a piece of art made of stone, wood, or metal",
+  "ex": "The museum displayed a beautiful sculpture made of marble."
+ },
+ {
+  "id": "sea",
+  "ipa": "/siː/",
+  "fr": "mer",
+  "def": "the salt water that covers most of the Earth",
+  "ex": "We swam in the sea during our summer vacation."
+ },
+ {
+  "id": "search",
+  "ipa": "/sɜːrtʃ/",
+  "fr": "recherche (n.) ; chercher (v.)",
+  "def": "to look carefully in order to find something",
+  "ex": "They searched the whole house for the missing keys."
+ },
+ {
+  "id": "season",
+  "ipa": "/ˈsiːzən/",
+  "fr": "saison",
+  "def": "one of the four periods of the year, like summer",
+  "ex": "Autumn is my favorite season because of the colorful leaves."
+ },
+ {
+  "id": "seat",
+  "ipa": "/siːt/",
+  "fr": "siège, place (n.) ; asseoir (v.)",
+  "def": "a place where you can sit",
+  "ex": "Please take a seat while you wait for the doctor."
+ },
+ {
+  "id": "second-1-next-after-the-first",
+  "ipa": "/ˈsekənd/",
+  "fr": "deuxième, second",
+  "def": "coming after the first in a list or order",
+  "ex": "She finished second in the race behind her sister."
+ },
+ {
+  "id": "second-1-unit-of-time",
+  "ipa": "/ˈsekənd/",
+  "fr": "seconde",
+  "def": "a very short unit of time, sixty in one minute",
+  "ex": "Wait a second, I need to tie my shoe."
+ },
+ {
+  "id": "secondary",
+  "ipa": "/ˈsekənderi/",
+  "fr": "secondaire",
+  "def": "less important than something else, or coming after",
+  "ex": "He attended secondary school in a small town nearby."
+ },
+ {
+  "id": "secret",
+  "ipa": "/ˈsiːkrət/",
+  "fr": "secret",
+  "def": "something you do not tell other people",
+  "ex": "She kept the surprise party a secret from her husband."
+ },
+ {
+  "id": "secretary",
+  "ipa": "/ˈsekrəteri/",
+  "fr": "secrétaire",
+  "def": "a person who types letters and organizes office work",
+  "ex": "The secretary answered calls and scheduled all the meetings."
+ },
+ {
+  "id": "section",
+  "ipa": "/ˈsekʃən/",
+  "fr": "section, partie",
+  "def": "one of the parts that something is divided into",
+  "ex": "Please read the first section of the report tonight."
+ },
+ {
+  "id": "sector",
+  "ipa": "/ˈsektɚ/",
+  "fr": "secteur",
+  "def": "one part of a country's business or economic activity",
+  "ex": "She works in the public sector as a nurse."
+ },
+ {
+  "id": "secure",
+  "ipa": "/sɪˈkjʊr/",
+  "fr": "sécuriser, obtenir (v.) ; sûr, en sécurité (adj.)",
+  "def": "safe and protected from danger",
+  "ex": "Make sure all the windows are secure before you leave."
+ },
+ {
+  "id": "security",
+  "ipa": "/sɪˈkjʊrəti/",
+  "fr": "sécurité",
+  "def": "protection against danger, or a feeling of safety",
+  "ex": "Airport security checked every bag before we could board."
+ },
+ {
+  "id": "see",
+  "ipa": "/siː/",
+  "fr": "voir",
+  "def": "to notice things with your eyes",
+  "ex": "I can see the mountains clearly from my bedroom window."
+ },
+ {
+  "id": "seed",
+  "ipa": "/siːd/",
+  "fr": "graine",
+  "def": "a small part of a plant that grows into a new plant",
+  "ex": "She planted seeds in the garden early this spring."
+ },
+ {
+  "id": "seek",
+  "ipa": "/siːk/",
+  "fr": "chercher, rechercher",
+  "def": "to try to find or get something",
+  "ex": "Many young graduates seek jobs in the technology industry."
+ },
+ {
+  "id": "seem",
+  "ipa": "/siːm/",
+  "fr": "sembler, paraître",
+  "def": "to appear to be or to do something",
+  "ex": "He seems very happy with his new job lately."
+ },
+ {
+  "id": "select",
+  "ipa": "/səˈlekt/",
+  "fr": "sélectionner, choisir",
+  "def": "to choose someone or something from a group",
+  "ex": "Please select your favorite color from the list below."
+ },
+ {
+  "id": "selection",
+  "ipa": "/səˈlekʃən/",
+  "fr": "sélection, choix",
+  "def": "a group of things chosen from a larger number",
+  "ex": "The shop offers a wide selection of fresh vegetables."
+ },
+ {
+  "id": "self",
+  "ipa": "/self/",
+  "fr": "soi, moi",
+  "def": "a person's own nature, character, or identity",
+  "ex": "After the vacation, she finally felt like herself again."
+ },
+ {
+  "id": "sell",
+  "ipa": "/sel/",
+  "fr": "vendre",
+  "def": "to give something to someone who pays for it",
+  "ex": "They sell fresh bread at the market every morning."
+ },
+ {
+  "id": "senate",
+  "ipa": "/ˈsenət/",
+  "fr": "sénat",
+  "def": "a group of people who make laws in some countries",
+  "ex": "The senate voted on the new law yesterday afternoon."
+ },
+ {
+  "id": "senator",
+  "ipa": "/ˈsenətɚ/",
+  "fr": "sénateur, sénatrice",
+  "def": "a member of a senate",
+  "ex": "The senator gave a speech about education reform today."
+ },
+ {
+  "id": "send",
+  "ipa": "/send/",
+  "fr": "envoyer",
+  "def": "to make something go from one place to another",
+  "ex": "She sent a text message to her friend last night."
+ },
+ {
+  "id": "senior",
+  "ipa": "/ˈsiːnjɚ/",
+  "fr": "supérieur, haut placé ; aîné",
+  "def": "having a higher or more important position",
+  "ex": "He was promoted to a senior position at the company."
+ },
+ {
+  "id": "sense",
+  "ipa": "/sens/",
+  "fr": "sens (n.) ; sentir, percevoir (v.)",
+  "def": "a feeling about something, or the ability to understand it",
+  "ex": "She had a strange sense that something was wrong."
+ },
+ {
+  "id": "sensible",
+  "ipa": "/ˈsensəbəl/",
+  "fr": "raisonnable, sensé",
+  "def": "showing good judgment; practical and reasonable",
+  "ex": "It was sensible of her to save some money monthly."
+ },
+ {
+  "id": "sensitive",
+  "ipa": "/ˈsensətɪv/",
+  "fr": "sensible",
+  "def": "easily affected, hurt, or upset by things",
+  "ex": "He is very sensitive about comments on his work."
+ },
+ {
+  "id": "sentence",
+  "ipa": "/ˈsentəns/",
+  "fr": "phrase (n.) ; condamner (v.)",
+  "def": "a group of words that expresses a complete idea",
+  "ex": "Write a short sentence using the new vocabulary word."
+ },
+ {
+  "id": "separate",
+  "ipa": "/ˈsepərət/ (adj.), /ˈsepəreɪt/ (v.)",
+  "fr": "séparé (adj.) ; séparer (v.)",
+  "def": "not joined or connected to something else",
+  "ex": "Keep the raw meat separate from other food in the fridge."
+ },
+ {
+  "id": "september",
+  "ipa": "/sepˈtembɚ/",
+  "fr": "septembre",
+  "def": "the ninth month of the year",
+  "ex": "School usually starts again in early September every year."
+ },
+ {
+  "id": "sequence",
+  "ipa": "/ˈsiːkwəns/",
+  "fr": "séquence, suite",
+  "def": "a series of events or things in a particular order",
+  "ex": "The story follows a sequence of strange, exciting events."
+ },
+ {
+  "id": "series",
+  "ipa": "/ˈsɪriːz/",
+  "fr": "série",
+  "def": "a number of similar things or events, one after another",
+  "ex": "We watched a whole series of shows over the weekend."
+ },
+ {
+  "id": "serious",
+  "ipa": "/ˈsɪriəs/",
+  "fr": "sérieux ; grave",
+  "def": "important and needing careful thought or attention",
+  "ex": "The doctor said her illness was not very serious."
+ },
+ {
+  "id": "seriously",
+  "ipa": "/ˈsɪriəsli/",
+  "fr": "sérieusement ; gravement",
+  "def": "in a serious way, or very badly",
+  "ex": "He was seriously injured in the car accident yesterday."
+ },
+ {
+  "id": "servant",
+  "ipa": "/ˈsɜːrvənt/",
+  "fr": "domestique, serviteur",
+  "def": "a person who works in someone else's house, doing jobs for them",
+  "ex": "The wealthy family had several servants working in their home."
+ },
+ {
+  "id": "serve",
+  "ipa": "/sɜːrv/",
+  "fr": "servir",
+  "def": "to give food or drink to someone",
+  "ex": "The waiter served our meals quickly and with a smile."
+ },
+ {
+  "id": "service",
+  "ipa": "/ˈsɜːrvɪs/",
+  "fr": "service",
+  "def": "help or work that is provided for other people",
+  "ex": "The hotel offers excellent service to all of its guests."
+ },
+ {
+  "id": "session",
+  "ipa": "/ˈseʃən/",
+  "fr": "séance",
+  "def": "a period of time used for a particular activity",
+  "ex": "We had a long training session at the gym today."
+ },
+ {
+  "id": "set-put",
+  "ipa": "/set/",
+  "fr": "poser, mettre ; fixer, régler",
+  "def": "to put something in a particular place or position",
+  "ex": "She set the plates carefully on the wooden table."
+ },
+ {
+  "id": "set-group",
+  "ipa": "/set/",
+  "fr": "ensemble, jeu, série",
+  "def": "a group of things that belong together",
+  "ex": "He bought a new set of golf clubs yesterday."
+ },
+ {
+  "id": "setting",
+  "ipa": "/ˈsetɪŋ/",
+  "fr": "cadre, décor ; réglage",
+  "def": "the place and time where something happens",
+  "ex": "The movie's setting was a small village in France."
+ },
+ {
+  "id": "settle",
+  "ipa": "/ˈsetəl/",
+  "fr": "s'installer ; régler (un problème)",
+  "def": "to start living in a place permanently, or end an argument",
+  "ex": "They decided to settle in a small town near the coast."
+ },
+ {
+  "id": "seven",
+  "ipa": "/ˈsevən/",
+  "fr": "sept",
+  "def": "the number 7",
+  "ex": "She has seven books on the shelf in her room."
+ },
+ {
+  "id": "seventeen",
+  "ipa": "/ˌsevənˈtiːn/",
+  "fr": "dix-sept",
+  "def": "the number 17",
+  "ex": "He turned seventeen years old last week in June."
+ },
+ {
+  "id": "seventy",
+  "ipa": "/ˈsevənti/",
+  "fr": "soixante-dix",
+  "def": "the number 70",
+  "ex": "My grandmother will turn seventy years old this December."
+ },
+ {
+  "id": "several",
+  "ipa": "/ˈsevrəl/",
+  "fr": "plusieurs",
+  "def": "more than two but not very many",
+  "ex": "Several students were absent from class this morning."
+ },
+ {
+  "id": "severe",
+  "ipa": "/səˈvɪr/",
+  "fr": "sévère, grave",
+  "def": "very bad, serious, or extreme",
+  "ex": "The region suffered severe damage after the storm passed."
+ },
+ {
+  "id": "sex",
+  "ipa": "/seks/",
+  "fr": "sexe",
+  "def": "the state of being male or female",
+  "ex": "The form asked for her name, age, and sex."
+ },
+ {
+  "id": "sexual",
+  "ipa": "/ˈsekʃuəl/",
+  "fr": "sexuel",
+  "def": "connected with sex or the differences between males and females",
+  "ex": "The class discussed sexual health as part of the course."
+ },
+ {
+  "id": "shade",
+  "ipa": "/ʃeɪd/",
+  "fr": "ombre ; teinte, nuance",
+  "def": "an area sheltered from direct sunlight",
+  "ex": "We sat in the shade under a large tree."
+ },
+ {
+  "id": "shadow",
+  "ipa": "/ˈʃædoʊ/",
+  "fr": "ombre",
+  "def": "a dark shape made when something blocks light",
+  "ex": "Her shadow grew longer as the sun went down."
+ },
+ {
+  "id": "shake",
+  "ipa": "/ʃeɪk/",
+  "fr": "secouer, trembler (v.) ; secousse (n.)",
+  "def": "to move quickly from side to side or up and down",
+  "ex": "The ground began to shake during the small earthquake."
+ },
+ {
+  "id": "shall",
+  "ipa": "/ʃæl/",
+  "fr": "devoir (futur, suggestion)",
+  "def": "used to say what will happen or to make a suggestion",
+  "ex": "I shall call you as soon as I arrive."
+ },
+ {
+  "id": "shallow",
+  "ipa": "/ˈʃæloʊ/",
+  "fr": "peu profond",
+  "def": "not deep; with only a short distance to the bottom",
+  "ex": "Children can safely swim in the shallow end of the pool."
+ },
+ {
+  "id": "shame",
+  "ipa": "/ʃeɪm/",
+  "fr": "honte ; dommage",
+  "def": "a painful feeling caused by doing something wrong",
+  "ex": "He felt shame after lying to his best friend."
+ },
+ {
+  "id": "shape",
+  "ipa": "/ʃeɪp/",
+  "fr": "forme (n.) ; façonner (v.)",
+  "def": "the outer form or outline of something",
+  "ex": "The cookies were cut into the shape of stars."
+ },
+ {
+  "id": "share",
+  "ipa": "/ʃer/",
+  "fr": "partager (v.) ; part (n.)",
+  "def": "to give part of what you have to someone else",
+  "ex": "The children shared their toys nicely with each other."
+ },
+ {
+  "id": "sharp",
+  "ipa": "/ʃɑːrp/",
+  "fr": "tranchant, pointu ; vif",
+  "def": "having a thin edge or point that can cut",
+  "ex": "Be careful, that kitchen knife is extremely sharp today."
+ },
+ {
+  "id": "she",
+  "ipa": "/ʃiː/",
+  "fr": "elle",
+  "def": "used to talk about a female person already mentioned",
+  "ex": "She works as a teacher at the local school."
+ },
+ {
+  "id": "sheep",
+  "ipa": "/ʃiːp/",
+  "fr": "mouton, brebis",
+  "def": "a farm animal kept for its wool and meat",
+  "ex": "The farmer keeps sheep in the field behind his house."
+ },
+ {
+  "id": "sheet",
+  "ipa": "/ʃiːt/",
+  "fr": "drap ; feuille (papier)",
+  "def": "a large piece of cloth used on a bed, or thin paper",
+  "ex": "She changed the sheets on the bed this morning."
+ },
+ {
+  "id": "shelf",
+  "ipa": "/ʃelf/",
+  "fr": "étagère",
+  "def": "a flat surface for putting things on, fixed to a wall",
+  "ex": "He placed the new books on the top shelf."
+ },
+ {
+  "id": "shell",
+  "ipa": "/ʃel/",
+  "fr": "coquille, coquillage",
+  "def": "the hard outer covering of an egg, nut, or animal",
+  "ex": "We collected colorful shells along the sandy beach yesterday."
+ },
+ {
+  "id": "shelter",
+  "ipa": "/ˈʃeltɚ/",
+  "fr": "abri (n.) ; abriter, protéger (v.)",
+  "def": "a place that protects you from bad weather or danger",
+  "ex": "They found shelter from the rain under a big tree."
+ },
+ {
+  "id": "shift",
+  "ipa": "/ʃɪft/",
+  "fr": "poste, équipe (n.) ; changer, déplacer (v.)",
+  "def": "a fixed period of time when a person is at work",
+  "ex": "She works the night shift at the hospital this week."
+ },
+ {
+  "id": "shine",
+  "ipa": "/ʃaɪn/",
+  "fr": "briller",
+  "def": "to produce or reflect bright light",
+  "ex": "The sun shone brightly over the calm blue ocean."
+ },
+ {
+  "id": "shiny",
+  "ipa": "/ˈʃaɪni/",
+  "fr": "brillant, luisant",
+  "def": "bright and reflecting light",
+  "ex": "She wore a pair of shiny new shoes to school."
+ },
+ {
+  "id": "ship",
+  "ipa": "/ʃɪp/",
+  "fr": "navire, bateau (n.) ; expédier (v.)",
+  "def": "a large boat used for carrying people or goods",
+  "ex": "The huge ship sailed slowly out of the busy harbor."
+ },
+ {
+  "id": "shirt",
+  "ipa": "/ʃɜːrt/",
+  "fr": "chemise",
+  "def": "a piece of clothing worn on the upper body",
+  "ex": "He wore a blue shirt with his gray suit."
+ },
+ {
+  "id": "shock",
+  "ipa": "/ʃɑːk/",
+  "fr": "choc (n.) ; choquer (v.)",
+  "def": "a sudden strong feeling of surprise, often unpleasant",
+  "ex": "The news of his sudden departure was a real shock."
+ },
+ {
+  "id": "shocked",
+  "ipa": "/ʃɑːkt/",
+  "fr": "choqué",
+  "def": "feeling very surprised and upset about something",
+  "ex": "We were shocked to hear about the factory closing down."
+ },
+ {
+  "id": "shoe",
+  "ipa": "/ʃuː/",
+  "fr": "chaussure",
+  "def": "a covering worn on your foot, usually made of leather",
+  "ex": "She bought a new pair of shoes for the wedding."
+ },
+ {
+  "id": "shoot",
+  "ipa": "/ʃuːt/",
+  "fr": "tirer (avec une arme) ; filmer",
+  "def": "to fire a bullet from a gun at someone or something",
+  "ex": "The hunter tried to shoot the deer in the forest."
+ },
+ {
+  "id": "shooting",
+  "ipa": "/ˈʃuːtɪŋ/",
+  "fr": "fusillade ; tournage (film)",
+  "def": "an event in which someone is shot with a gun",
+  "ex": "Police are investigating the shooting that happened downtown last night."
+ },
+ {
+  "id": "shop",
+  "ipa": "/ʃɑːp/",
+  "fr": "magasin (n.) ; faire les courses (v.)",
+  "def": "a place where you can buy things",
+  "ex": "She bought fresh bread from the small shop nearby."
+ },
+ {
+  "id": "shopping",
+  "ipa": "/ˈʃɑːpɪŋ/",
+  "fr": "courses, shopping",
+  "def": "the activity of buying things from shops",
+  "ex": "We usually go shopping for groceries on Saturday mornings."
+ },
+ {
+  "id": "short",
+  "ipa": "/ʃɔːrt/",
+  "fr": "court ; petit (taille)",
+  "def": "not long in length, distance, or time",
+  "ex": "She has short hair and always wears round glasses."
+ },
+ {
+  "id": "shot",
+  "ipa": "/ʃɑːt/",
+  "fr": "coup de feu ; tir ; photo",
+  "def": "an act of firing a gun, or an attempt to score",
+  "ex": "He took a shot at the goal but missed."
+ },
+ {
+  "id": "should",
+  "ipa": "/ʃʊd/",
+  "fr": "devoir (conseil)",
+  "def": "used to say what is the right or best thing to do",
+  "ex": "You should drink more water during the hot summer days."
+ },
+ {
+  "id": "shoulder",
+  "ipa": "/ˈʃoʊldɚ/",
+  "fr": "épaule",
+  "def": "the part of your body between your neck and arm",
+  "ex": "He carried his backpack over one shoulder to school."
+ },
+ {
+  "id": "shout",
+  "ipa": "/ʃaʊt/",
+  "fr": "crier (v.) ; cri (n.)",
+  "def": "to say something very loudly",
+  "ex": "He shouted loudly to warn them about the danger."
+ },
+ {
+  "id": "show",
+  "ipa": "/ʃoʊ/",
+  "fr": "montrer (v.) ; spectacle, émission (n.)",
+  "def": "to let someone see something",
+  "ex": "She showed us photos from her trip to Italy."
+ },
+ {
+  "id": "shower",
+  "ipa": "/ˈʃaʊɚ/",
+  "fr": "douche ; averse",
+  "def": "a device you stand under to wash your whole body",
+  "ex": "He takes a quick shower every morning before work."
+ },
+ {
+  "id": "shut",
+  "ipa": "/ʃʌt/",
+  "fr": "fermer (v.) ; fermé (adj.)",
+  "def": "to close something, such as a door or window",
+  "ex": "Please shut the door quietly when you leave the room."
+ },
+ {
+  "id": "shy",
+  "ipa": "/ʃaɪ/",
+  "fr": "timide",
+  "def": "nervous about meeting or talking to new people",
+  "ex": "The shy boy didn't speak much at the party."
+ },
+ {
+  "id": "sick",
+  "ipa": "/sɪk/",
+  "fr": "malade",
+  "def": "feeling unwell or having an illness",
+  "ex": "She stayed home from school because she felt sick."
+ },
+ {
+  "id": "side",
+  "ipa": "/saɪd/",
+  "fr": "côté",
+  "def": "a position to the left or right of something",
+  "ex": "He stood on the other side of the street."
+ },
+ {
+  "id": "sight",
+  "ipa": "/saɪt/",
+  "fr": "vue ; spectacle",
+  "def": "the ability to see, or something you see",
+  "ex": "The mountains were a beautiful sight from our hotel window."
+ },
+ {
+  "id": "sign",
+  "ipa": "/saɪn/",
+  "fr": "signe, panneau (n.) ; signer (v.)",
+  "def": "a mark, object, or action that gives information",
+  "ex": "The sign showed the way to the nearest hospital."
+ },
+ {
+  "id": "signal",
+  "ipa": "/ˈsɪɡnəl/",
+  "fr": "signal (n.) ; faire signe (v.)",
+  "def": "a sound, action, or light that gives a message",
+  "ex": "The driver gave a signal before turning left."
+ },
+ {
+  "id": "significant",
+  "ipa": "/sɪɡˈnɪfɪkənt/",
+  "fr": "important, significatif",
+  "def": "large or important enough to be noticed",
+  "ex": "There has been a significant increase in online shopping recently."
+ },
+ {
+  "id": "significantly",
+  "ipa": "/sɪɡˈnɪfɪkəntli/",
+  "fr": "considérablement, de manière significative",
+  "def": "in a large or noticeable way",
+  "ex": "Prices have risen significantly over the past few years."
+ },
+ {
+  "id": "silence",
+  "ipa": "/ˈsaɪləns/",
+  "fr": "silence",
+  "def": "complete quiet, with no sound at all",
+  "ex": "There was total silence in the room after the announcement."
+ },
+ {
+  "id": "silent",
+  "ipa": "/ˈsaɪlənt/",
+  "fr": "silencieux",
+  "def": "not making any sound; completely quiet",
+  "ex": "The library was completely silent while everyone was studying."
+ },
+ {
+  "id": "silk",
+  "ipa": "/sɪlk/",
+  "fr": "soie",
+  "def": "a smooth, expensive cloth made by silkworms",
+  "ex": "She wore a beautiful dress made of red silk."
+ },
+ {
+  "id": "silly",
+  "ipa": "/ˈsɪli/",
+  "fr": "bête, idiot",
+  "def": "not sensible; showing a lack of good judgment",
+  "ex": "It was silly of him to forget his umbrella again."
+ },
+ {
+  "id": "silver",
+  "ipa": "/ˈsɪlvɚ/",
+  "fr": "argent (métal) (n.) ; argenté (adj.)",
+  "def": "a shiny gray-white precious metal",
+  "ex": "She received a silver necklace as a birthday gift."
+ },
+ {
+  "id": "similar",
+  "ipa": "/ˈsɪmələr/",
+  "fr": "similaire, semblable",
+  "def": "almost the same as something else, but not exactly",
+  "ex": "Her jacket is similar to the one I bought last year."
+ },
+ {
+  "id": "similarity",
+  "ipa": "/ˌsɪməˈlærəti/",
+  "fr": "similitude, ressemblance",
+  "def": "the quality of being similar to something else",
+  "ex": "There are many similarities between the two novels."
+ },
+ {
+  "id": "similarly",
+  "ipa": "/ˈsɪmələrli/",
+  "fr": "de la même manière, pareillement",
+  "def": "in almost the same way as something else",
+  "ex": "Similarly, the second experiment produced very unusual results too."
+ },
+ {
+  "id": "simple",
+  "ipa": "/ˈsɪmpəl/",
+  "fr": "simple",
+  "def": "easy to understand or do; not complicated",
+  "ex": "The instructions were simple enough for a child to follow."
+ },
+ {
+  "id": "simply",
+  "ipa": "/ˈsɪmpli/",
+  "fr": "simplement",
+  "def": "in a simple way, or just, only",
+  "ex": "You can simply press this button to turn it off."
+ },
+ {
+  "id": "since",
+  "ipa": "/sɪns/",
+  "fr": "depuis (prép./conj.) ; depuis lors (adv.)",
+  "def": "from a particular time in the past until now",
+  "ex": "She has lived in Paris since she was eighteen."
+ },
+ {
+  "id": "sincere",
+  "ipa": "/sɪnˈsɪr/",
+  "fr": "sincère",
+  "def": "honest and truly meaning what you say",
+  "ex": "He gave a sincere apology for missing the meeting."
+ },
+ {
+  "id": "sing",
+  "ipa": "/sɪŋ/",
+  "fr": "chanter",
+  "def": "to make music with your voice",
+  "ex": "The children sang songs together around the campfire."
+ },
+ {
+  "id": "singer",
+  "ipa": "/ˈsɪŋɚ/",
+  "fr": "chanteur, chanteuse",
+  "def": "a person who sings, especially as a job",
+  "ex": "The famous singer performed for thousands of fans last night."
+ },
+ {
+  "id": "singing",
+  "ipa": "/ˈsɪŋɪŋ/",
+  "fr": "chant",
+  "def": "the activity of making music with your voice",
+  "ex": "Her singing filled the whole house with joy."
+ },
+ {
+  "id": "single",
+  "ipa": "/ˈsɪŋɡəl/",
+  "fr": "seul, unique ; célibataire (adj.) ; single (n.)",
+  "def": "only one; not accompanied by any others",
+  "ex": "He didn't say a single word during the meeting."
+ },
+ {
+  "id": "sink",
+  "ipa": "/sɪŋk/",
+  "fr": "couler, sombrer",
+  "def": "to go down below the surface of water",
+  "ex": "The old boat began to sink slowly into the lake."
+ },
+ {
+  "id": "sir",
+  "ipa": "/sɜːr/",
+  "fr": "monsieur",
+  "def": "a polite way to address a man",
+  "ex": "Excuse me, sir, this seat next to you is free."
+ },
+ {
+  "id": "sister",
+  "ipa": "/ˈsɪstɚ/",
+  "fr": "sœur",
+  "def": "a girl or woman who has the same parents as you",
+  "ex": "My younger sister is studying medicine at university."
+ },
+ {
+  "id": "sit",
+  "ipa": "/sɪt/",
+  "fr": "s'asseoir, être assis",
+  "def": "to rest your body with your weight on your bottom",
+  "ex": "Please sit down and make yourself comfortable on the sofa."
+ },
+ {
+  "id": "site",
+  "ipa": "/saɪt/",
+  "fr": "site",
+  "def": "a place where a particular thing happens or is built",
+  "ex": "Workers began building on the construction site this week."
+ },
+ {
+  "id": "situation",
+  "ipa": "/ˌsɪtʃuˈeɪʃən/",
+  "fr": "situation",
+  "def": "everything that is happening at a particular time and place",
+  "ex": "She handled the difficult situation very calmly and wisely."
+ },
+ {
+  "id": "six",
+  "ipa": "/sɪks/",
+  "fr": "six",
+  "def": "the number 6",
+  "ex": "The family has six chickens in their back garden."
+ },
+ {
+  "id": "sixteen",
+  "ipa": "/ˌsɪksˈtiːn/",
+  "fr": "seize",
+  "def": "the number 16",
+  "ex": "She will turn sixteen years old next month."
+ },
+ {
+  "id": "sixty",
+  "ipa": "/ˈsɪksti/",
+  "fr": "soixante",
+  "def": "the number 60",
+  "ex": "My grandfather is turning sixty years old this year."
+ },
+ {
+  "id": "size",
+  "ipa": "/saɪz/",
+  "fr": "taille",
+  "def": "how big or small something is",
+  "ex": "This shirt is the wrong size for my brother."
+ },
+ {
+  "id": "ski",
+  "ipa": "/skiː/",
+  "fr": "skier (v.) ; ski (n.)",
+  "def": "to move over snow on skis",
+  "ex": "They ski down the mountain every winter with their friends."
+ },
+ {
+  "id": "skiing",
+  "ipa": "/ˈskiːɪŋ/",
+  "fr": "ski (activité)",
+  "def": "the sport of moving over snow on skis",
+  "ex": "Skiing is a popular winter sport in the Alps."
+ },
+ {
+  "id": "skill",
+  "ipa": "/skɪl/",
+  "fr": "compétence, habileté",
+  "def": "the ability to do something well, learned through practice",
+  "ex": "Cooking is a useful skill that everyone should learn."
+ },
+ {
+  "id": "skin",
+  "ipa": "/skɪn/",
+  "fr": "peau",
+  "def": "the natural outer covering of a person's body",
+  "ex": "She uses cream to keep her skin soft and healthy."
+ },
+ {
+  "id": "skirt",
+  "ipa": "/skɜːrt/",
+  "fr": "jupe",
+  "def": "a piece of clothing worn by women, hanging from the waist",
+  "ex": "She wore a long black skirt to the office."
+ },
+ {
+  "id": "sky",
+  "ipa": "/skaɪ/",
+  "fr": "ciel",
+  "def": "the space above the Earth that you see from outside",
+  "ex": "The sky turned orange and pink at sunset."
+ },
+ {
+  "id": "slave",
+  "ipa": "/sleɪv/",
+  "fr": "esclave",
+  "def": "a person owned by another person and forced to work",
+  "ex": "Many slaves fought bravely for their freedom throughout history."
+ },
+ {
+  "id": "sleep",
+  "ipa": "/sliːp/",
+  "fr": "dormir (v.) ; sommeil (n.)",
+  "def": "to rest with your eyes closed and mind unconscious",
+  "ex": "Babies usually sleep for many hours during the day."
+ },
+ {
+  "id": "slice",
+  "ipa": "/slaɪs/",
+  "fr": "tranche (n.) ; couper en tranches (v.)",
+  "def": "a thin flat piece cut from something larger",
+  "ex": "She ate a slice of bread with butter for breakfast."
+ },
+ {
+  "id": "slide",
+  "ipa": "/slaɪd/",
+  "fr": "glisser (v.) ; toboggan, diapositive (n.)",
+  "def": "to move smoothly over a surface",
+  "ex": "The children love to slide down the playground slide."
+ },
+ {
+  "id": "slight",
+  "ipa": "/slaɪt/",
+  "fr": "léger, faible",
+  "def": "small in degree or amount; not serious",
+  "ex": "There was a slight problem with our hotel reservation."
+ },
+ {
+  "id": "slightly",
+  "ipa": "/ˈslaɪtli/",
+  "fr": "légèrement",
+  "def": "to a small degree; a little",
+  "ex": "The temperature dropped slightly during the night yesterday."
+ },
+ {
+  "id": "slip",
+  "ipa": "/slɪp/",
+  "fr": "glisser (et tomber)",
+  "def": "to slide accidentally and fall or almost fall",
+  "ex": "She slipped on the wet floor and hurt her knee."
+ },
+ {
+  "id": "slope",
+  "ipa": "/sloʊp/",
+  "fr": "pente (n.) ; être en pente (v.)",
+  "def": "a surface that is higher at one end than the other",
+  "ex": "Skiers raced down the steep slope of the mountain."
+ },
+ {
+  "id": "slow",
+  "ipa": "/sloʊ/",
+  "fr": "lent (adj.) ; ralentir (v.)",
+  "def": "not fast; taking a long time",
+  "ex": "The traffic was extremely slow during the morning rush hour."
+ },
+ {
+  "id": "slowly",
+  "ipa": "/ˈsloʊli/",
+  "fr": "lentement",
+  "def": "not quickly; taking a long time",
+  "ex": "He walked slowly because his leg was still hurting."
+ },
+ {
+  "id": "small",
+  "ipa": "/smɔːl/",
+  "fr": "petit",
+  "def": "not large in size or amount",
+  "ex": "They live in a small apartment near the city center."
+ },
+ {
+  "id": "smart",
+  "ipa": "/smɑːrt/",
+  "fr": "intelligent ; élégant",
+  "def": "intelligent, or neat and well-dressed",
+  "ex": "She's a smart student who always finishes her homework early."
+ },
+ {
+  "id": "smartphone",
+  "ipa": "/ˈsmɑːrtfoʊn/",
+  "fr": "smartphone",
+  "def": "a mobile phone that works like a small computer",
+  "ex": "He uses his smartphone to check emails every morning."
+ },
+ {
+  "id": "smell",
+  "ipa": "/smel/",
+  "fr": "sentir (v.) ; odeur (n.)",
+  "def": "to notice something using your nose",
+  "ex": "I can smell fresh bread baking in the kitchen."
+ },
+ {
+  "id": "smile",
+  "ipa": "/smaɪl/",
+  "fr": "sourire",
+  "def": "to move your mouth to show you are happy",
+  "ex": "She smiled warmly when she saw her old friend."
+ },
+ {
+  "id": "smoke",
+  "ipa": "/smoʊk/",
+  "fr": "fumée (n.) ; fumer (v.)",
+  "def": "the gray or black gas produced when something burns",
+  "ex": "Thick smoke rose from the chimney into the cold air."
+ },
+ {
+  "id": "smoking",
+  "ipa": "/ˈsmoʊkɪŋ/",
+  "fr": "tabagisme, le fait de fumer",
+  "def": "the act of breathing in smoke from a cigarette",
+  "ex": "Smoking is not allowed inside any of the restaurants."
+ },
+ {
+  "id": "smooth",
+  "ipa": "/smuːð/",
+  "fr": "lisse ; fluide",
+  "def": "having an even surface, with no lumps or bumps",
+  "ex": "The baby's skin felt very smooth and soft."
+ },
+ {
+  "id": "snake",
+  "ipa": "/sneɪk/",
+  "fr": "serpent",
+  "def": "a long thin reptile with no legs",
+  "ex": "A snake moved silently through the tall grass."
+ },
+ {
+  "id": "sneaker",
+  "ipa": "/ˈsniːkɚ/",
+  "fr": "basket, tennis (chaussure)",
+  "def": "a soft comfortable shoe worn for sports or casually",
+  "ex": "He wore white sneakers to play basketball with friends."
+ },
+ {
+  "id": "snow",
+  "ipa": "/snoʊ/",
+  "fr": "neige (n.) ; neiger (v.)",
+  "def": "soft white frozen water that falls from the sky",
+  "ex": "It began to snow heavily during the night."
+ },
+ {
+  "id": "so",
+  "ipa": "/soʊ/",
+  "fr": "donc, alors ; tellement, si",
+  "def": "to such a great degree; therefore",
+  "ex": "She was so tired that she fell asleep immediately."
+ },
+ {
+  "id": "soap",
+  "ipa": "/soʊp/",
+  "fr": "savon",
+  "def": "a substance used with water for washing",
+  "ex": "He washed his hands with soap before eating dinner."
+ },
+ {
+  "id": "soccer",
+  "ipa": "/ˈsɑːkɚ/",
+  "fr": "football",
+  "def": "a game played by two teams kicking a ball into a goal",
+  "ex": "The boys play soccer in the park after school."
+ },
+ {
+  "id": "social",
+  "ipa": "/ˈsoʊʃəl/",
+  "fr": "social",
+  "def": "connected with living and spending time with other people",
+  "ex": "She has excellent social skills and makes friends easily."
+ },
+ {
+  "id": "society",
+  "ipa": "/səˈsaɪəti/",
+  "fr": "société",
+  "def": "a large group of people who live together in a community",
+  "ex": "Modern society relies heavily on technology and the internet."
+ },
+ {
+  "id": "sock",
+  "ipa": "/sɑːk/",
+  "fr": "chaussette",
+  "def": "a soft piece of clothing worn on your foot",
+  "ex": "He couldn't find a matching pair of socks this morning."
+ },
+ {
+  "id": "soft",
+  "ipa": "/sɔːft/",
+  "fr": "doux, moelleux",
+  "def": "not hard or firm; pleasant to touch",
+  "ex": "The kitten's fur felt incredibly soft and warm."
+ },
+ {
+  "id": "software",
+  "ipa": "/ˈsɔːftwer/",
+  "fr": "logiciel",
+  "def": "computer programs that let you do particular tasks",
+  "ex": "The company develops software for managing hospital records."
+ },
+ {
+  "id": "soil",
+  "ipa": "/sɔɪl/",
+  "fr": "sol, terre",
+  "def": "the top layer of earth in which plants grow",
+  "ex": "Farmers checked the soil before planting the new seeds."
+ },
+ {
+  "id": "solar",
+  "ipa": "/ˈsoʊlɚ/",
+  "fr": "solaire",
+  "def": "connected with or using energy from the sun",
+  "ex": "Their house is powered entirely by solar energy panels."
+ },
+ {
+  "id": "soldier",
+  "ipa": "/ˈsoʊldʒɚ/",
+  "fr": "soldat",
+  "def": "a member of an army",
+  "ex": "The young soldier wrote letters home to his family."
+ },
+ {
+  "id": "solid",
+  "ipa": "/ˈsɑːləd/",
+  "fr": "solide (adj.) ; solide, corps solide (n.)",
+  "def": "hard and firm, keeping its shape; not liquid or gas",
+  "ex": "The lake water had frozen completely solid overnight."
+ },
+ {
+  "id": "solution",
+  "ipa": "/səˈluːʃən/",
+  "fr": "solution",
+  "def": "an answer to a problem",
+  "ex": "They finally found a solution to the parking problem."
+ },
+ {
+  "id": "solve",
+  "ipa": "/sɑːlv/",
+  "fr": "résoudre",
+  "def": "to find an answer to a problem",
+  "ex": "The detective managed to solve the mystery within days."
+ },
+ {
+  "id": "some",
+  "ipa": "/sʌm/",
+  "fr": "quelques, du, de la",
+  "def": "an amount or number of something, not exact",
+  "ex": "She bought some apples and bananas at the market."
+ },
+ {
+  "id": "somebody",
+  "ipa": "/ˈsʌmbɑːdi/",
+  "fr": "quelqu'un",
+  "def": "an unknown or unspecified person",
+  "ex": "Somebody left their umbrella outside the classroom door."
+ },
+ {
+  "id": "someone",
+  "ipa": "/ˈsʌmwʌn/",
+  "fr": "quelqu'un",
+  "def": "an unknown or unspecified person",
+  "ex": "Someone knocked on the door late last night."
+ },
+ {
+  "id": "something",
+  "ipa": "/ˈsʌmθɪŋ/",
+  "fr": "quelque chose",
+  "def": "a thing that is not named or known exactly",
+  "ex": "I think something is wrong with the car engine."
+ },
+ {
+  "id": "sometimes",
+  "ipa": "/ˈsʌmtaɪmz/",
+  "fr": "parfois, quelquefois",
+  "def": "on some occasions, but not always",
+  "ex": "Sometimes we walk to school instead of taking the bus."
+ },
+ {
+  "id": "somewhat",
+  "ipa": "/ˈsʌmwʌt/",
+  "fr": "quelque peu, plutôt",
+  "def": "to a certain degree; a little",
+  "ex": "The test results were somewhat better than we expected."
+ },
+ {
+  "id": "somewhere",
+  "ipa": "/ˈsʌmwer/",
+  "fr": "quelque part",
+  "def": "in, at, or to a place that is not named",
+  "ex": "They wanted to travel somewhere warm for the winter holidays."
+ },
+ {
+  "id": "son",
+  "ipa": "/sʌn/",
+  "fr": "fils",
+  "def": "a person's male child",
+  "ex": "Their son plays football for the local youth team."
+ },
+ {
+  "id": "song",
+  "ipa": "/sɔːŋ/",
+  "fr": "chanson",
+  "def": "a short piece of music with words that you sing",
+  "ex": "She sang her favorite song at the school concert."
+ },
+ {
+  "id": "soon",
+  "ipa": "/suːn/",
+  "fr": "bientôt",
+  "def": "in a short time from now",
+  "ex": "We will arrive soon if the traffic stays light."
+ },
+ {
+  "id": "sorry",
+  "ipa": "/ˈsɑːri/",
+  "fr": "désolé",
+  "def": "feeling sad about a mistake or about someone's problem",
+  "ex": "I'm sorry that I forgot to call you yesterday."
+ },
+ {
+  "id": "sort",
+  "ipa": "/sɔːrt/",
+  "fr": "genre, sorte (n.) ; trier (v.)",
+  "def": "a type or kind of person or thing",
+  "ex": "This sort of weather makes everyone feel a bit sleepy."
+ },
+ {
+  "id": "soul",
+  "ipa": "/soʊl/",
+  "fr": "âme",
+  "def": "the spiritual part of a person, believed to live on",
+  "ex": "She believes the soul continues after the body dies."
+ },
+ {
+  "id": "sound",
+  "ipa": "/saʊnd/",
+  "fr": "son, bruit (n.) ; sonner, sembler (v.)",
+  "def": "something that you can hear",
+  "ex": "The strange sound woke everyone up in the middle of the night."
+ },
+ {
+  "id": "soup",
+  "ipa": "/suːp/",
+  "fr": "soupe",
+  "def": "a liquid food made by cooking vegetables, meat, or fish",
+  "ex": "She made hot soup for dinner on the cold night."
+ },
+ {
+  "id": "source",
+  "ipa": "/sɔːrs/",
+  "fr": "source",
+  "def": "the place where something comes from",
+  "ex": "Solar power is a clean source of renewable energy."
+ },
+ {
+  "id": "south",
+  "ipa": "/saʊθ/",
+  "fr": "sud",
+  "def": "one of the four main compass directions, opposite north",
+  "ex": "Birds fly south for the winter every single year."
+ },
+ {
+  "id": "southern",
+  "ipa": "/ˈsʌðɚn/",
+  "fr": "sud, méridional",
+  "def": "in or from the south part of an area",
+  "ex": "They spent their vacation in southern Spain last summer."
+ },
+ {
+  "id": "space",
+  "ipa": "/speɪs/",
+  "fr": "espace",
+  "def": "an empty area, or the area beyond Earth's atmosphere",
+  "ex": "Astronauts spend many months living and working in space."
+ },
+ {
+  "id": "speak",
+  "ipa": "/spiːk/",
+  "fr": "parler",
+  "def": "to talk and say words",
+  "ex": "She can speak three languages fluently, including French and Spanish."
+ },
+ {
+  "id": "speaker",
+  "ipa": "/ˈspiːkɚ/",
+  "fr": "orateur, intervenant ; haut-parleur",
+  "def": "a person who gives a speech, or a device that produces sound",
+  "ex": "The main speaker talked about climate change for an hour."
+ },
+ {
+  "id": "special",
+  "ipa": "/ˈspeʃəl/",
+  "fr": "spécial",
+  "def": "different from what is usual; important",
+  "ex": "We had a special dinner to celebrate her birthday."
+ },
+ {
+  "id": "specialist",
+  "ipa": "/ˈspeʃəlɪst/",
+  "fr": "spécialiste",
+  "def": "a person with detailed knowledge or skill in one area",
+  "ex": "The hospital sent her to see a heart specialist."
+ },
+ {
+  "id": "species",
+  "ipa": "/ˈspiːʃiːz/",
+  "fr": "espèce",
+  "def": "a group of animals or plants that are similar",
+  "ex": "This species of bird is found only in Australia."
+ },
+ {
+  "id": "specific",
+  "ipa": "/spəˈsɪfɪk/",
+  "fr": "précis, spécifique",
+  "def": "clear and exact; particular, not general",
+  "ex": "Please give me specific instructions on how to get there."
+ },
+ {
+  "id": "specifically",
+  "ipa": "/spəˈsɪfɪkli/",
+  "fr": "précisément, spécifiquement",
+  "def": "in a way that is exact and clear; particularly",
+  "ex": "This book was written specifically for beginner language learners."
+ },
+ {
+  "id": "speech",
+  "ipa": "/spiːtʃ/",
+  "fr": "discours ; parole",
+  "def": "a formal talk given to an audience",
+  "ex": "The president gave a long speech about the economy."
+ }
+]

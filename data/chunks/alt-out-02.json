@@ -1,0 +1,1212 @@
+[
+ {
+  "id": "cook",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person whose job is preparing and cooking food",
+    "ex": "My uncle works as a cook at a popular restaurant."
+   }
+  ]
+ },
+ {
+  "id": "cool",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something less warm, or to become less warm",
+    "ex": "Let the soup cool for a few minutes before serving."
+   }
+  ]
+ },
+ {
+  "id": "copy",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something that looks exactly like another thing",
+    "ex": "He copied the address from the envelope onto the form."
+   }
+  ]
+ },
+ {
+  "id": "core",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "being the most important or basic part of something",
+    "ex": "Trust is one of the core values at our company."
+   }
+  ]
+ },
+ {
+  "id": "correct",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to make something right by fixing its mistakes",
+    "ex": "The teacher corrected our homework and gave it back."
+   }
+  ]
+ },
+ {
+  "id": "cost",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have a particular price that must be paid",
+    "ex": "This new laptop costs almost a thousand dollars online."
+   }
+  ]
+ },
+ {
+  "id": "count",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the total number of things counted, or the act of counting",
+    "ex": "The final count showed more than three hundred votes."
+   }
+  ]
+ },
+ {
+  "id": "couple",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small number of things or people; a few",
+    "ex": "I will call you back in a couple of minutes."
+   }
+  ]
+ },
+ {
+  "id": "course",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the route or direction that someone or something follows",
+    "ex": "The pilot changed course to avoid the storm ahead."
+   }
+  ]
+ },
+ {
+  "id": "court",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an outdoor or indoor area marked for playing a sport",
+    "ex": "We played tennis on the court behind our school."
+   }
+  ]
+ },
+ {
+  "id": "cover",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the outer front and back part of a book",
+    "ex": "The novel has a bright red cover with gold letters."
+   }
+  ]
+ },
+ {
+  "id": "crash",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to hit something hard and suddenly, causing damage",
+    "ex": "The car crashed into a fence but no one was hurt."
+   }
+  ]
+ },
+ {
+  "id": "cream",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "having a pale yellowish-white color",
+    "ex": "She painted the kitchen walls a soft cream color."
+   }
+  ]
+ },
+ {
+  "id": "credit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to give someone praise or recognition for something good",
+    "ex": "The coach credited the whole team for their victory."
+   }
+  ]
+ },
+ {
+  "id": "criminal",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "connected with crime, or against the law",
+    "ex": "Stealing money from your employer is a criminal offense."
+   }
+  ]
+ },
+ {
+  "id": "cross",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a mark or shape made of two crossing lines",
+    "ex": "She marked each wrong answer with a small cross."
+   }
+  ]
+ },
+ {
+  "id": "cry",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a loud sound that expresses strong emotion or pain",
+    "ex": "We heard a sudden cry coming from the next room."
+   }
+  ]
+ },
+ {
+  "id": "cure",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a medicine or treatment that ends an illness",
+    "ex": "Scientists have not yet found a cure for that disease."
+   }
+  ]
+ },
+ {
+  "id": "current",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a continuous flow of water, air, or electricity",
+    "ex": "The swimmer was pulled away by a strong ocean current."
+   }
+  ]
+ },
+ {
+  "id": "curve",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to bend or move in the shape of a curve",
+    "ex": "The road curves sharply just before the old bridge."
+   }
+  ]
+ },
+ {
+  "id": "cut",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an injury or opening made by something sharp",
+    "ex": "He got a small cut on his finger while cooking."
+   }
+  ]
+ },
+ {
+  "id": "cycle",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ride a bicycle",
+    "ex": "They cycle to school together every morning before class."
+   }
+  ]
+ },
+ {
+  "id": "daily",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "every day; once each day",
+    "ex": "The doctor told her to take this medicine daily."
+   }
+  ]
+ },
+ {
+  "id": "damage",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to harm, break, or spoil something",
+    "ex": "The heavy rain damaged several houses near the river."
+   }
+  ]
+ },
+ {
+  "id": "dance",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a series of movements performed to music",
+    "ex": "They performed a beautiful traditional dance at the festival."
+   }
+  ]
+ },
+ {
+  "id": "dark",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the absence of light; darkness",
+    "ex": "Many young children are afraid of the dark at night."
+   }
+  ]
+ },
+ {
+  "id": "date",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to go out with someone as a romantic partner",
+    "ex": "They have been dating each other for almost two years."
+   }
+  ]
+ },
+ {
+  "id": "deal",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an agreement made between two people or companies",
+    "ex": "The two companies signed a deal worth millions of dollars."
+   }
+  ]
+ },
+ {
+  "id": "debate",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to discuss something formally and give different opinions",
+    "ex": "Politicians debated the new tax law for several hours."
+   }
+  ]
+ },
+ {
+  "id": "decline",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to politely refuse or turn down an offer",
+    "ex": "She declined the invitation because she had to work."
+   },
+   {
+    "pos": "n.",
+    "def": "a decrease in the amount, size, or quality of something",
+    "ex": "The report showed a steady decline in customer satisfaction."
+   }
+  ]
+ },
+ {
+  "id": "decrease",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a reduction in the size, number, or amount of something",
+    "ex": "There was a sharp decrease in the number of visitors."
+   }
+  ]
+ },
+ {
+  "id": "deep",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "far down or far into something",
+    "ex": "The rescue team dug deep into the snow to find them."
+   }
+  ]
+ },
+ {
+  "id": "defeat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a loss in a battle, game, or competition",
+    "ex": "The team suffered a painful defeat in the final match."
+   }
+  ]
+ },
+ {
+  "id": "degree",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a qualification given by a university after study",
+    "ex": "She earned a degree in biology from a large university."
+   }
+  ]
+ },
+ {
+  "id": "delay",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a period of time when something happens later than expected",
+    "ex": "Passengers were angry about the long delay at the airport."
+   }
+  ]
+ },
+ {
+  "id": "demand",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to ask for something firmly, as if it is a right",
+    "ex": "The customers demanded a full refund for the broken item."
+   }
+  ]
+ },
+ {
+  "id": "desert",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to leave a person or place completely and not return",
+    "ex": "The soldiers were punished for deserting their post at night."
+   }
+  ]
+ },
+ {
+  "id": "design",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to plan and create how something will look or work",
+    "ex": "She designs websites for small businesses in her city."
+   }
+  ]
+ },
+ {
+  "id": "desire",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to want something very much",
+    "ex": "Everyone desires happiness and success in their own life."
+   }
+  ]
+ },
+ {
+  "id": "detail",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to describe something fully, giving all the facts",
+    "ex": "The report detailed every step of the new project plan."
+   }
+  ]
+ },
+ {
+  "id": "direct",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to control or guide something, or to make a film",
+    "ex": "She directed her first movie when she was only twenty-five."
+   }
+  ]
+ },
+ {
+  "id": "director",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person in charge of managing a company or organization",
+    "ex": "She was recently promoted to director of the marketing department."
+   }
+  ]
+ },
+ {
+  "id": "discount",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to reduce the price of something being sold",
+    "ex": "The store discounted all winter coats by thirty percent."
+   }
+  ]
+ },
+ {
+  "id": "dish",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a type of food prepared in a particular way",
+    "ex": "Pasta is my favorite dish to cook on weekends."
+   }
+  ]
+ },
+ {
+  "id": "dislike",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a feeling of not liking someone or something",
+    "ex": "He has a strong dislike for loud, crowded parties."
+   }
+  ]
+ },
+ {
+  "id": "dismiss",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to officially remove someone from their job",
+    "ex": "The company dismissed him after he missed too many deadlines."
+   }
+  ]
+ },
+ {
+  "id": "display",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a screen that shows information, or a public show of something",
+    "ex": "The store window had a colorful display of fresh flowers."
+   }
+  ]
+ },
+ {
+  "id": "divide",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a big difference that separates two groups of people",
+    "ex": "There is a growing divide between rich and poor areas."
+   }
+  ]
+ },
+ {
+  "id": "do-1",
+  "alt": [
+   {
+    "pos": "auxiliary v.",
+    "def": "used with another verb to make questions or negative sentences",
+    "ex": "She does not eat meat or fish at all."
+   }
+  ]
+ },
+ {
+  "id": "document",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to record information about something in detail",
+    "ex": "The scientist documented every stage of the experiment carefully."
+   }
+  ]
+ },
+ {
+  "id": "domestic",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to the home, family, or household",
+    "ex": "He hired someone to help with domestic chores like cleaning."
+   }
+  ]
+ },
+ {
+  "id": "double",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "twice as much, or in a doubled way",
+    "ex": "After riding the merry-go-round, she felt dizzy and saw double."
+   }
+  ]
+ },
+ {
+  "id": "doubt",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to feel unsure about something, or not fully believe it",
+    "ex": "I doubt that he will finish the project on time."
+   }
+  ]
+ },
+ {
+  "id": "download",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a file copied from the internet onto a device",
+    "ex": "This app is available as a free download for students."
+   }
+  ]
+ },
+ {
+  "id": "downstairs",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "located on a lower floor of a building",
+    "ex": "The downstairs bathroom needs some new paint this weekend."
+   }
+  ]
+ },
+ {
+  "id": "downward",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "toward a lower place; down",
+    "ex": "The trail leads downward through the thick, quiet forest."
+   }
+  ]
+ },
+ {
+  "id": "draft",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to write a first or early version of something",
+    "ex": "The lawyer drafted a contract for the new business deal."
+   }
+  ]
+ },
+ {
+  "id": "dream",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to hope for or imagine something you want in the future",
+    "ex": "She dreams of becoming a famous singer one day."
+   }
+  ]
+ },
+ {
+  "id": "dress",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put clothes on yourself or someone else",
+    "ex": "She dressed quickly this morning and rushed to work."
+   }
+  ]
+ },
+ {
+  "id": "drink",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to take liquid into your mouth and swallow it",
+    "ex": "He drinks a large glass of water every morning."
+   }
+  ]
+ },
+ {
+  "id": "drive",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a trip made in a car or other vehicle",
+    "ex": "We went for a long drive along the coast."
+   }
+  ]
+ },
+ {
+  "id": "drop",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a small round amount of liquid, or a fall in amount",
+    "ex": "A single drop of rain landed on her hand."
+   }
+  ]
+ },
+ {
+  "id": "drug",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an illegal substance some people take for pleasure",
+    "ex": "The police arrested him for selling illegal drugs downtown."
+   }
+  ]
+ },
+ {
+  "id": "dry",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to become dry, or to remove water from something",
+    "ex": "She hung the towels outside to dry in the sun."
+   }
+  ]
+ },
+ {
+  "id": "due",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "expected to happen, arrive, or be ready at a stated time",
+    "ex": "The next train is due to arrive at noon."
+   }
+  ]
+ },
+ {
+  "id": "duty",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a tax paid on goods brought into a country",
+    "ex": "Travelers must pay duty on expensive items at customs."
+   }
+  ]
+ },
+ {
+  "id": "each",
+  "alt": [
+   {
+    "pos": "pron.",
+    "def": "every one of a group, considered separately",
+    "ex": "The teacher gave a book to each of us."
+   }
+  ]
+ },
+ {
+  "id": "early",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "happening near the beginning of a period of time",
+    "ex": "We booked an early flight to avoid the traffic."
+   }
+  ]
+ },
+ {
+  "id": "earth",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the soft substance on the ground where plants grow",
+    "ex": "The farmer turned the earth before planting new seeds."
+   }
+  ]
+ },
+ {
+  "id": "editor",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who selects and prepares books for a publishing company",
+    "ex": "Her editor at the publishing house loved the new manuscript."
+   }
+  ]
+ },
+ {
+  "id": "either",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "used after a negative statement to mean also not",
+    "ex": "She doesn't like coffee, and I don't like it either."
+   }
+  ]
+ },
+ {
+  "id": "email",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to send someone a message using the internet",
+    "ex": "Please email me the final report before Friday afternoon."
+   }
+  ]
+ },
+ {
+  "id": "empty",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to remove everything that is inside something",
+    "ex": "He emptied his backpack to find his lost keys."
+   }
+  ]
+ },
+ {
+  "id": "end",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to finish, stop, or come to an end",
+    "ex": "The meeting ended much earlier than everyone had expected."
+   }
+  ]
+ },
+ {
+  "id": "engaged",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "busy with an activity, or not available right now",
+    "ex": "I tried calling twice, but the line was engaged."
+   }
+  ]
+ },
+ {
+  "id": "entry",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "something you submit to take part in a competition",
+    "ex": "She sent her painting as an entry for the art contest."
+   }
+  ]
+ },
+ {
+  "id": "equal",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be exactly the same as something in amount",
+    "ex": "In mathematics, two plus two always equals four."
+   },
+   {
+    "pos": "n.",
+    "def": "a person with the same rank, status, or ability as another",
+    "ex": "In the boardroom, she was treated as an equal by everyone."
+   }
+  ]
+ },
+ {
+  "id": "escape",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of getting free from a place or situation",
+    "ex": "The prisoner's escape shocked everyone in the small town."
+   }
+  ]
+ },
+ {
+  "id": "estate",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "all the money and property a person owns, especially after death",
+    "ex": "After he died, his estate was divided among his children."
+   }
+  ]
+ },
+ {
+  "id": "estimate",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a guess or calculation of the cost, size, or value of something",
+    "ex": "The builder gave us an estimate for the new roof."
+   }
+  ]
+ },
+ {
+  "id": "even",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "flat and smooth, or exactly divisible by two",
+    "ex": "Four, six, and eight are examples of even numbers."
+   }
+  ]
+ },
+ {
+  "id": "evil",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "very bad, cruel, or morally wrong",
+    "ex": "The evil king ruled the kingdom with great cruelty."
+   }
+  ]
+ },
+ {
+  "id": "examination",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a formal test of someone's knowledge or skill",
+    "ex": "She passed her final examination with very good marks."
+   }
+  ]
+ },
+ {
+  "id": "except",
+  "alt": [
+   {
+    "pos": "conj.",
+    "def": "apart from the fact that; but",
+    "ex": "I would go to the beach, except it's raining today."
+   }
+  ]
+ },
+ {
+  "id": "exchange",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an act of giving and receiving something in return",
+    "ex": "The peace talks began with a friendly exchange of gifts."
+   }
+  ]
+ },
+ {
+  "id": "excuse",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to forgive someone for a small mistake or fault",
+    "ex": "Please excuse my late arrival; the traffic was terrible."
+   }
+  ]
+ },
+ {
+  "id": "executive",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to managing a business or making important decisions",
+    "ex": "The committee has executive power to make final decisions."
+   }
+  ]
+ },
+ {
+  "id": "exercise",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a task done to practice or test a skill",
+    "ex": "Our teacher assigned a difficult exercise for homework tonight."
+   }
+  ]
+ },
+ {
+  "id": "exhibit",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "an object or collection shown to the public, as in a museum",
+    "ex": "The dinosaur exhibit was the most popular part of the museum."
+   }
+  ]
+ },
+ {
+  "id": "exit",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to leave or go out of a place",
+    "ex": "Passengers must exit the plane through the front door."
+   }
+  ]
+ },
+ {
+  "id": "experience",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to have something happen to you; to feel or undergo it",
+    "ex": "Many tourists experience culture shock during their first week abroad."
+   }
+  ]
+ },
+ {
+  "id": "experiment",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to try new things in order to discover something",
+    "ex": "Chefs love to experiment with new flavors and ingredients."
+   }
+  ]
+ },
+ {
+  "id": "export",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a product sent to another country to be sold",
+    "ex": "Coffee is one of the country's most valuable exports."
+   }
+  ]
+ },
+ {
+  "id": "extra",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a person who plays a small background role in a film",
+    "ex": "He worked as an extra in several popular movies."
+   }
+  ]
+ },
+ {
+  "id": "extreme",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the highest or furthest possible degree of something",
+    "ex": "Her mood swings from one extreme to the other."
+   }
+  ]
+ },
+ {
+  "id": "face",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to deal with or confront a difficult situation",
+    "ex": "The team must face many challenges before the final match."
+   }
+  ]
+ },
+ {
+  "id": "fairly",
+  "alt": [
+   {
+    "pos": "adv.",
+    "def": "in a fair, honest, and equal way",
+    "ex": "The judge treated both sides fairly during the trial."
+   }
+  ]
+ },
+ {
+  "id": "fall",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the season between summer and winter; autumn",
+    "ex": "The leaves turn bright orange and red every fall."
+   }
+  ]
+ },
+ {
+  "id": "family",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "relating to or belonging to a family",
+    "ex": "We watched a fun family movie together on Friday."
+   }
+  ]
+ },
+ {
+  "id": "fan",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a device that moves air to cool a room",
+    "ex": "She turned on the fan to cool the hot room."
+   }
+  ]
+ },
+ {
+  "id": "far",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "more distant of two things; furthest away",
+    "ex": "The library is at the far end of the hallway."
+   }
+  ]
+ },
+ {
+  "id": "farm",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to use land to grow crops or raise animals",
+    "ex": "His family has farmed this land for three generations."
+   }
+  ]
+ },
+ {
+  "id": "fast",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "moving or able to move at high speed",
+    "ex": "She is the fastest runner on our school team."
+   }
+  ]
+ },
+ {
+  "id": "fat",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the greasy substance found in meat, oil, or under skin",
+    "ex": "Olive oil contains a healthy kind of natural fat."
+   }
+  ]
+ },
+ {
+  "id": "favor",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to prefer or support one person or option over another",
+    "ex": "Most voters seem to favor the candidate with more experience."
+   }
+  ]
+ },
+ {
+  "id": "favorite",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the person or thing that someone likes best",
+    "ex": "This song has always been my favorite since childhood."
+   }
+  ]
+ },
+ {
+  "id": "fear",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to be afraid of someone or something",
+    "ex": "Many people fear public speaking more than anything else."
+   }
+  ]
+ },
+ {
+  "id": "feature",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to include someone or something as an important part",
+    "ex": "The concert will feature several well-known local musicians tonight."
+   }
+  ]
+ },
+ {
+  "id": "feed",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a stream of updates shown on a website or app",
+    "ex": "She scrolled through her social media feed before bed."
+   }
+  ]
+ },
+ {
+  "id": "feel",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the quality something has when you touch it",
+    "ex": "I love the soft feel of this warm blanket."
+   }
+  ]
+ },
+ {
+  "id": "female",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a woman, girl, or animal of that sex",
+    "ex": "The clinic sees both males and females for checkups."
+   }
+  ]
+ },
+ {
+  "id": "fight",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "a situation in which people use violence against each other",
+    "ex": "A fight broke out between two men outside the bar."
+   }
+  ]
+ },
+ {
+  "id": "figure",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to understand or calculate something after thinking about it",
+    "ex": "It took her a while to figure out the answer."
+   }
+  ]
+ },
+ {
+  "id": "file",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to put documents in order, or to submit something officially",
+    "ex": "She filed the complaint with the local police station."
+   }
+  ]
+ },
+ {
+  "id": "film",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to record moving pictures of something with a camera",
+    "ex": "They filmed the entire wedding from start to finish."
+   }
+  ]
+ },
+ {
+  "id": "final",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the last match in a sports competition",
+    "ex": "Our team will play in the championship final tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "finance",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to provide the money needed for something",
+    "ex": "The bank agreed to finance their new family home."
+   }
+  ]
+ },
+ {
+  "id": "fine",
+  "alt": [
+   {
+    "pos": "adj.",
+    "def": "of very high quality; excellent",
+    "ex": "The restaurant is famous for its fine French cuisine."
+   }
+  ]
+ },
+ {
+  "id": "finish",
+  "alt": [
+   {
+    "pos": "n.",
+    "def": "the end or last part of a race or activity",
+    "ex": "All the runners sprinted hard toward the finish line."
+   }
+  ]
+ },
+ {
+  "id": "fire",
+  "alt": [
+   {
+    "pos": "v.",
+    "def": "to dismiss someone from their job",
+    "ex": "The manager decided to fire two careless employees today."
+   }
+  ]
+ }
+]

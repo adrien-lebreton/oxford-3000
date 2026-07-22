@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "leadership",
+  "ipa": "/ˈliːdɚʃɪp/",
+  "fr": "direction, leadership (n.)",
+  "def": "the job or ability of leading a group of people",
+  "ex": "Good leadership helps a whole team work well together."
+ },
+ {
+  "id": "leading",
+  "ipa": "/ˈliːdɪŋ/",
+  "fr": "principal, dominant",
+  "def": "most important or most successful",
+  "ex": "She is a leading expert in modern medicine today."
+ },
+ {
+  "id": "leaf",
+  "ipa": "/liːf/",
+  "fr": "feuille",
+  "def": "a flat green part of a plant that grows from a stem",
+  "ex": "A single leaf fell slowly from the tall tree."
+ },
+ {
+  "id": "league",
+  "ipa": "/liːɡ/",
+  "fr": "ligue",
+  "def": "a group of sports teams that play against each other",
+  "ex": "Our team finished second in the league this year."
+ },
+ {
+  "id": "lean",
+  "ipa": "/liːn/",
+  "fr": "se pencher, s'appuyer",
+  "def": "to bend your body in a particular direction",
+  "ex": "She leaned against the wall and waited very quietly."
+ },
+ {
+  "id": "learn",
+  "ipa": "/lɝːn/",
+  "fr": "apprendre",
+  "def": "to get knowledge or skill by studying or practicing",
+  "ex": "Young children learn new words every single day."
+ },
+ {
+  "id": "learning",
+  "ipa": "/ˈlɝːnɪŋ/",
+  "fr": "apprentissage",
+  "def": "the process of gaining knowledge or a skill",
+  "ex": "Learning a new language takes time and patience."
+ },
+ {
+  "id": "least",
+  "ipa": "/liːst/",
+  "fr": "le moins",
+  "def": "the smallest amount or degree possible",
+  "ex": "She spent the least money of all her friends."
+ },
+ {
+  "id": "leather",
+  "ipa": "/ˈlɛðɚ/",
+  "fr": "cuir",
+  "def": "strong material made from the skin of an animal",
+  "ex": "He wore a brown leather jacket to the party."
+ },
+ {
+  "id": "leave",
+  "ipa": "/liːv/",
+  "fr": "partir, quitter (v.) ; congé (n.)",
+  "def": "to go away from a person or place",
+  "ex": "We must leave the house before eight o'clock tomorrow."
+ },
+ {
+  "id": "lecture",
+  "ipa": "/ˈlɛktʃɚ/",
+  "fr": "cours magistral, conférence",
+  "def": "a talk that teaches people about a subject",
+  "ex": "The professor gave a long lecture about ancient history."
+ },
+ {
+  "id": "left",
+  "ipa": "/lɛft/",
+  "fr": "gauche",
+  "def": "on or toward the side opposite the right",
+  "ex": "Please turn left at the next street corner."
+ },
+ {
+  "id": "leg",
+  "ipa": "/lɛɡ/",
+  "fr": "jambe",
+  "def": "one of the parts of the body used for walking",
+  "ex": "He hurt his leg while playing soccer yesterday afternoon."
+ },
+ {
+  "id": "legal",
+  "ipa": "/ˈliːɡəl/",
+  "fr": "légal, juridique",
+  "def": "allowed or connected with the law",
+  "ex": "Smoking in that public area is not legal anymore."
+ },
+ {
+  "id": "leisure",
+  "ipa": "/ˈliːʒɚ/",
+  "fr": "loisir",
+  "def": "time when you are not working and can relax",
+  "ex": "She spends her leisure time reading and painting pictures."
+ },
+ {
+  "id": "lemon",
+  "ipa": "/ˈlɛmən/",
+  "fr": "citron",
+  "def": "a sour yellow fruit used in cooking and drinks",
+  "ex": "Add a fresh slice of lemon to your tea."
+ },
+ {
+  "id": "lend",
+  "ipa": "/lɛnd/",
+  "fr": "prêter",
+  "def": "to give something to someone for a short time",
+  "ex": "She agreed to lend me her pen for a minute."
+ },
+ {
+  "id": "length",
+  "ipa": "/lɛŋθ/",
+  "fr": "longueur",
+  "def": "the measurement of something from one end to the other",
+  "ex": "The length of the room is about five meters."
+ },
+ {
+  "id": "less",
+  "ipa": "/lɛs/",
+  "fr": "moins",
+  "def": "a smaller amount of something",
+  "ex": "I have much less time than I thought today."
+ },
+ {
+  "id": "lesson",
+  "ipa": "/ˈlɛsən/",
+  "fr": "leçon, cours",
+  "def": "a period of time when someone learns something",
+  "ex": "Our English lesson starts at nine tomorrow morning."
+ },
+ {
+  "id": "let",
+  "ipa": "/lɛt/",
+  "fr": "laisser, permettre",
+  "def": "to allow someone to do something",
+  "ex": "Please let me help you carry those heavy bags."
+ },
+ {
+  "id": "letter",
+  "ipa": "/ˈlɛtɚ/",
+  "fr": "lettre",
+  "def": "a written message sent to someone, or a symbol",
+  "ex": "She wrote a long letter to her grandmother last week."
+ },
+ {
+  "id": "level",
+  "ipa": "/ˈlɛvəl/",
+  "fr": "niveau (n.) ; horizontal (adj.) ; niveler (v.)",
+  "def": "the amount, standard, or height of something",
+  "ex": "The water level rose quickly after the heavy rain."
+ },
+ {
+  "id": "library",
+  "ipa": "/ˈlaɪbrɛri/",
+  "fr": "bibliothèque",
+  "def": "a building where books are kept for people to read",
+  "ex": "I borrowed three new books from the library today."
+ },
+ {
+  "id": "license",
+  "ipa": "/ˈlaɪsəns/",
+  "fr": "permis, licence",
+  "def": "an official document that allows you to do something",
+  "ex": "You need a license to legally drive a car."
+ },
+ {
+  "id": "lie-1",
+  "ipa": "/laɪ/",
+  "fr": "être allongé, s'allonger",
+  "def": "to be in a flat position on a surface",
+  "ex": "He likes to lie on the grass in summer."
+ },
+ {
+  "id": "lie-2-tell-a-lie",
+  "ipa": "/laɪ/",
+  "fr": "mentir (v.) ; mensonge (n.)",
+  "def": "to say something that is not true",
+  "ex": "She told a strange lie about where she'd been."
+ },
+ {
+  "id": "life",
+  "ipa": "/laɪf/",
+  "fr": "vie",
+  "def": "the period of time between birth and death",
+  "ex": "He lived a long and very happy life."
+ },
+ {
+  "id": "lifestyle",
+  "ipa": "/ˈlaɪfstaɪl/",
+  "fr": "mode de vie",
+  "def": "the way in which a person or group lives",
+  "ex": "They have a healthy lifestyle with lots of exercise."
+ },
+ {
+  "id": "lift",
+  "ipa": "/lɪft/",
+  "fr": "soulever, lever",
+  "def": "to move something to a higher position",
+  "ex": "He lifted the heavy box onto the wooden table."
+ },
+ {
+  "id": "light-from-the-sun-a-lamp",
+  "ipa": "/laɪt/",
+  "fr": "lumière (n.) ; clair (adj.) ; allumer (v.)",
+  "def": "the brightness that comes from the sun or a lamp",
+  "ex": "She turned on the light because the room was getting dark."
+ },
+ {
+  "id": "light-not-heavy",
+  "ipa": "/laɪt/",
+  "fr": "léger",
+  "def": "not heavy and easy to lift or carry",
+  "ex": "This bag is light enough to carry easily."
+ },
+ {
+  "id": "like-similar",
+  "ipa": "/laɪk/",
+  "fr": "comme",
+  "def": "similar to something or someone",
+  "ex": "She really looks just like her older sister."
+ },
+ {
+  "id": "like-find-sb-sth-pleasant",
+  "ipa": "/laɪk/",
+  "fr": "aimer (v.) ; préférence, goût (n.)",
+  "def": "to enjoy or feel positive about someone or something",
+  "ex": "I like chocolate ice cream more than vanilla."
+ },
+ {
+  "id": "likely",
+  "ipa": "/ˈlaɪkli/",
+  "fr": "probable",
+  "def": "expected to happen or be true",
+  "ex": "It is likely to rain later this afternoon."
+ },
+ {
+  "id": "limit",
+  "ipa": "/ˈlɪmɪt/",
+  "fr": "limite (n.) ; limiter (v.)",
+  "def": "the greatest amount or level that is allowed",
+  "ex": "There is a strict speed limit on this road."
+ },
+ {
+  "id": "limited",
+  "ipa": "/ˈlɪmɪtɪd/",
+  "fr": "limité",
+  "def": "small in amount, number, or extent",
+  "ex": "We have only limited time to finish this project."
+ },
+ {
+  "id": "line",
+  "ipa": "/laɪn/",
+  "fr": "ligne (n.) ; border, aligner (v.)",
+  "def": "a long thin mark drawn on a surface",
+  "ex": "Please draw a straight line across the page."
+ },
+ {
+  "id": "link",
+  "ipa": "/lɪŋk/",
+  "fr": "lien (n.) ; relier (v.)",
+  "def": "a connection between two things or people",
+  "ex": "There is a clear link between smoking and illness."
+ },
+ {
+  "id": "lion",
+  "ipa": "/ˈlaɪən/",
+  "fr": "lion",
+  "def": "a large wild cat that lives in Africa",
+  "ex": "The lion slept peacefully under a tree all afternoon."
+ },
+ {
+  "id": "lip",
+  "ipa": "/lɪp/",
+  "fr": "lèvre",
+  "def": "one of the two soft edges of the mouth",
+  "ex": "She smiled gently and bit her lower lip."
+ },
+ {
+  "id": "liquid",
+  "ipa": "/ˈlɪkwɪd/",
+  "fr": "liquide",
+  "def": "a substance that flows and is not solid",
+  "ex": "Water is a liquid that we drink every day."
+ },
+ {
+  "id": "list",
+  "ipa": "/lɪst/",
+  "fr": "liste (n.) ; lister, énumérer (v.)",
+  "def": "a set of names or items written down together",
+  "ex": "She made a short list of things to buy."
+ },
+ {
+  "id": "listen",
+  "ipa": "/ˈlɪsən/",
+  "fr": "écouter",
+  "def": "to pay attention to sounds or someone speaking",
+  "ex": "Please listen carefully to the teacher's new instructions."
+ },
+ {
+  "id": "listener",
+  "ipa": "/ˈlɪsənɚ/",
+  "fr": "auditeur, auditrice",
+  "def": "a person who listens, especially to radio or music",
+  "ex": "The radio show has millions of listeners every week."
+ },
+ {
+  "id": "literature",
+  "ipa": "/ˈlɪtərətʃɚ/",
+  "fr": "littérature",
+  "def": "books and writing valued for their artistic quality",
+  "ex": "She studies English literature at the big university."
+ },
+ {
+  "id": "little",
+  "ipa": "/ˈlɪtəl/",
+  "fr": "petit (adj.) ; peu (de) (det./adv.)",
+  "def": "small in size or amount",
+  "ex": "The little girl held her mother's hand tightly."
+ },
+ {
+  "id": "live-1",
+  "ipa": "/lɪv/",
+  "fr": "vivre, habiter",
+  "def": "to have your home in a particular place",
+  "ex": "My family has lived in this city for years."
+ },
+ {
+  "id": "live-2",
+  "ipa": "/laɪv/",
+  "fr": "en direct",
+  "def": "happening now and broadcast at the same time",
+  "ex": "We watched the concert live on television last night."
+ },
+ {
+  "id": "lively",
+  "ipa": "/ˈlaɪvli/",
+  "fr": "vif, animé",
+  "def": "full of energy, enthusiasm, and excitement",
+  "ex": "The children were lively and excited at the party."
+ },
+ {
+  "id": "living",
+  "ipa": "/ˈlɪvɪŋ/",
+  "fr": "vivant (adj.) ; subsistance (n.)",
+  "def": "alive now, or the money you need to live",
+  "ex": "He earns his living as a professional photographer downtown."
+ },
+ {
+  "id": "load",
+  "ipa": "/loʊd/",
+  "fr": "charge (n.) ; charger (v.)",
+  "def": "an amount of something that is carried or moved",
+  "ex": "The truck carried a heavy load of bricks."
+ },
+ {
+  "id": "loan",
+  "ipa": "/loʊn/",
+  "fr": "prêt",
+  "def": "money that a bank or person lends to someone",
+  "ex": "They took out a bank loan to buy a house."
+ },
+ {
+  "id": "local",
+  "ipa": "/ˈloʊkəl/",
+  "fr": "local (adj.) ; habitant du coin (n.)",
+  "def": "belonging to or connected with the area nearby",
+  "ex": "We shop at the local farmers market every Saturday."
+ },
+ {
+  "id": "locate",
+  "ipa": "/ˈloʊkeɪt/",
+  "fr": "localiser, situer",
+  "def": "to find the exact position of something",
+  "ex": "The app helped us locate the nearest hospital quickly."
+ },
+ {
+  "id": "located",
+  "ipa": "/ˈloʊkeɪtɪd/",
+  "fr": "situé",
+  "def": "existing or being in a particular place",
+  "ex": "The hotel is located near the busy train station."
+ },
+ {
+  "id": "location",
+  "ipa": "/loʊˈkeɪʃən/",
+  "fr": "emplacement, lieu",
+  "def": "a particular place or position",
+  "ex": "This restaurant has a great location right downtown."
+ },
+ {
+  "id": "lock",
+  "ipa": "/lɑːk/",
+  "fr": "fermer à clé (v.) ; serrure (n.)",
+  "def": "to close something with a key so it stays shut",
+  "ex": "Remember to lock the front door before you leave."
+ },
+ {
+  "id": "logical",
+  "ipa": "/ˈlɑːdʒɪkəl/",
+  "fr": "logique",
+  "def": "based on reason and making good sense",
+  "ex": "Her decision seemed like the most logical choice."
+ },
+ {
+  "id": "lonely",
+  "ipa": "/ˈloʊnli/",
+  "fr": "seul, solitaire",
+  "def": "unhappy because you are alone",
+  "ex": "He felt lonely after moving to a new city."
+ },
+ {
+  "id": "long-1",
+  "ipa": "/lɔːŋ/",
+  "fr": "long",
+  "def": "measuring a great distance from one end to another",
+  "ex": "She has long brown hair down to her waist."
+ },
+ {
+  "id": "long-term",
+  "ipa": "/ˌlɔːŋˈtɝːm/",
+  "fr": "à long terme",
+  "def": "happening or continuing over a long period",
+  "ex": "We need a solid long-term plan for the company."
+ },
+ {
+  "id": "look",
+  "ipa": "/lʊk/",
+  "fr": "regarder (v.) ; regard, apparence (n.)",
+  "def": "to turn your eyes toward something to see it",
+  "ex": "Look at the beautiful sunset over the calm ocean."
+ },
+ {
+  "id": "loose",
+  "ipa": "/luːs/",
+  "fr": "lâche, ample",
+  "def": "not fixed tightly or firmly in place",
+  "ex": "His shirt felt loose after he lost weight."
+ },
+ {
+  "id": "lord",
+  "ipa": "/lɔːrd/",
+  "fr": "seigneur, lord",
+  "def": "a man with a high rank in society",
+  "ex": "The lord owned all the land in the village."
+ },
+ {
+  "id": "lose",
+  "ipa": "/luːz/",
+  "fr": "perdre",
+  "def": "to no longer have something because it is lost",
+  "ex": "Please don't lose your keys again this week."
+ },
+ {
+  "id": "loss",
+  "ipa": "/lɔːs/",
+  "fr": "perte",
+  "def": "the fact of no longer having something",
+  "ex": "The company reported a big financial loss this year."
+ },
+ {
+  "id": "lost",
+  "ipa": "/lɔːst/",
+  "fr": "perdu",
+  "def": "unable to find your way somewhere",
+  "ex": "We got completely lost driving through the unfamiliar city."
+ },
+ {
+  "id": "lot",
+  "ipa": "/lɑːt/",
+  "fr": "beaucoup",
+  "def": "a large amount or number of something",
+  "ex": "She has a lot of close friends at school."
+ },
+ {
+  "id": "loud",
+  "ipa": "/laʊd/",
+  "fr": "fort, bruyant",
+  "def": "making a lot of noise, not quiet",
+  "ex": "The music was far too loud for the neighbors."
+ },
+ {
+  "id": "loudly",
+  "ipa": "/ˈlaʊdli/",
+  "fr": "fort, bruyamment",
+  "def": "in a way that makes a lot of noise",
+  "ex": "He laughed loudly at his best friend's joke."
+ },
+ {
+  "id": "love",
+  "ipa": "/lʌv/",
+  "fr": "amour (n.) ; aimer (v.)",
+  "def": "a strong feeling of caring about someone",
+  "ex": "She loves her family more than anything else."
+ },
+ {
+  "id": "low",
+  "ipa": "/loʊ/",
+  "fr": "bas",
+  "def": "not high; close to the ground or bottom",
+  "ex": "The small plane flew low over the mountains."
+ },
+ {
+  "id": "lower",
+  "ipa": "/ˈloʊɚ/",
+  "fr": "baisser, abaisser",
+  "def": "to move something down or make it less",
+  "ex": "Please lower your voice inside the public library."
+ },
+ {
+  "id": "luck",
+  "ipa": "/lʌk/",
+  "fr": "chance",
+  "def": "good things that happen to you by chance",
+  "ex": "We wished her good luck before the big exam."
+ },
+ {
+  "id": "lucky",
+  "ipa": "/ˈlʌki/",
+  "fr": "chanceux",
+  "def": "having good luck",
+  "ex": "He felt lucky to find his lost wallet again."
+ },
+ {
+  "id": "lunch",
+  "ipa": "/lʌntʃ/",
+  "fr": "déjeuner",
+  "def": "a meal eaten in the middle of the day",
+  "ex": "We usually eat lunch together at noon each day."
+ },
+ {
+  "id": "lung",
+  "ipa": "/lʌŋ/",
+  "fr": "poumon",
+  "def": "one of the two organs used for breathing",
+  "ex": "Smoking can seriously damage your lungs over time."
+ },
+ {
+  "id": "luxury",
+  "ipa": "/ˈlʌkʃəri/",
+  "fr": "luxe",
+  "def": "great comfort provided by expensive, beautiful things",
+  "ex": "They stayed in a luxury hotel by the beach."
+ },
+ {
+  "id": "machine",
+  "ipa": "/məˈʃiːn/",
+  "fr": "machine",
+  "def": "a piece of equipment that does a particular job",
+  "ex": "This machine washes our clothes automatically every single morning."
+ },
+ {
+  "id": "mad",
+  "ipa": "/mæd/",
+  "fr": "fou ; furieux",
+  "def": "very angry, or mentally ill",
+  "ex": "My mom got really mad when I broke the vase."
+ },
+ {
+  "id": "magazine",
+  "ipa": "/ˈmæɡəziːn/",
+  "fr": "magazine",
+  "def": "a thin book with articles and pictures, sold regularly",
+  "ex": "She reads a fashion magazine every single month."
+ },
+ {
+  "id": "magic",
+  "ipa": "/ˈmædʒɪk/",
+  "fr": "magie (n.) ; magique (adj.)",
+  "def": "special power that makes impossible things happen",
+  "ex": "The children still believed in magic when they were young."
+ },
+ {
+  "id": "mail",
+  "ipa": "/meɪl/",
+  "fr": "courrier (n.) ; poster, envoyer (v.)",
+  "def": "letters and packages sent through the postal system",
+  "ex": "I need to mail this letter to my aunt."
+ },
+ {
+  "id": "main",
+  "ipa": "/meɪn/",
+  "fr": "principal",
+  "def": "most important, largest, or most central",
+  "ex": "The main road leads directly into the city center."
+ },
+ {
+  "id": "mainly",
+  "ipa": "/ˈmeɪnli/",
+  "fr": "principalement",
+  "def": "mostly, or for the most important reason",
+  "ex": "The class is mainly made up of young students."
+ },
+ {
+  "id": "maintain",
+  "ipa": "/meɪnˈteɪn/",
+  "fr": "maintenir, entretenir",
+  "def": "to make something continue at the same level",
+  "ex": "It is hard to maintain a healthy diet sometimes."
+ },
+ {
+  "id": "major",
+  "ipa": "/ˈmeɪdʒɚ/",
+  "fr": "majeur, important (adj.) ; commandant (n.)",
+  "def": "very large, important, or serious",
+  "ex": "Losing his job was a major problem for him."
+ },
+ {
+  "id": "majority",
+  "ipa": "/məˈdʒɔːrəti/",
+  "fr": "majorité",
+  "def": "the larger part of a group of people",
+  "ex": "The majority of students passed the final exam."
+ },
+ {
+  "id": "make",
+  "ipa": "/meɪk/",
+  "fr": "faire, fabriquer (v.) ; marque (n.)",
+  "def": "to produce, create, or cause something to happen",
+  "ex": "She likes to make cookies on quiet weekends."
+ },
+ {
+  "id": "male",
+  "ipa": "/meɪl/",
+  "fr": "mâle, masculin",
+  "def": "belonging to the sex that does not have babies",
+  "ex": "The male lion has a large furry mane."
+ },
+ {
+  "id": "mall",
+  "ipa": "/mɔːl/",
+  "fr": "centre commercial",
+  "def": "a large building containing many different shops",
+  "ex": "We spent the whole afternoon shopping at the mall."
+ },
+ {
+  "id": "man",
+  "ipa": "/mæn/",
+  "fr": "homme",
+  "def": "an adult male person",
+  "ex": "The man crossed the busy street to catch his bus."
+ },
+ {
+  "id": "manage",
+  "ipa": "/ˈmænɪdʒ/",
+  "fr": "gérer, réussir à",
+  "def": "to succeed in doing something difficult",
+  "ex": "She managed to finish the race despite her injury."
+ },
+ {
+  "id": "management",
+  "ipa": "/ˈmænɪdʒmənt/",
+  "fr": "gestion, direction",
+  "def": "the control and organization of a business or activity",
+  "ex": "Good management is important for any successful business."
+ },
+ {
+  "id": "manager",
+  "ipa": "/ˈmænɪdʒɚ/",
+  "fr": "directeur, gérant",
+  "def": "a person who controls an organization or part of it",
+  "ex": "The manager scheduled an important meeting for tomorrow morning."
+ },
+ {
+  "id": "manner",
+  "ipa": "/ˈmænɚ/",
+  "fr": "manière, façon",
+  "def": "the way that something is done or happens",
+  "ex": "She answered the difficult question in a calm manner."
+ },
+ {
+  "id": "many",
+  "ipa": "/ˈmɛni/",
+  "fr": "beaucoup (de), de nombreux",
+  "def": "a large number of people or things",
+  "ex": "Many students study hard for their final exams."
+ },
+ {
+  "id": "map",
+  "ipa": "/mæp/",
+  "fr": "carte (n.) ; cartographier (v.)",
+  "def": "a drawing that shows where places are located",
+  "ex": "She used an old map to find the museum."
+ },
+ {
+  "id": "march",
+  "ipa": "/mɑːrtʃ/",
+  "fr": "mars",
+  "def": "the third month of the year",
+  "ex": "Spring usually begins in the month of March."
+ },
+ {
+  "id": "mark",
+  "ipa": "/mɑːrk/",
+  "fr": "marquer (v.) ; marque, note (n.)",
+  "def": "to make a small line or symbol on something",
+  "ex": "The teacher will mark our tests this coming weekend."
+ },
+ {
+  "id": "market",
+  "ipa": "/ˈmɑːrkɪt/",
+  "fr": "marché (n.) ; commercialiser (v.)",
+  "def": "a place where people buy and sell goods",
+  "ex": "We bought fresh vegetables at the market this morning."
+ },
+ {
+  "id": "marketing",
+  "ipa": "/ˈmɑːrkɪtɪŋ/",
+  "fr": "marketing, commercialisation",
+  "def": "the activity of promoting and selling products",
+  "ex": "She works in marketing for a large software company."
+ },
+ {
+  "id": "marriage",
+  "ipa": "/ˈmɛrɪdʒ/",
+  "fr": "mariage",
+  "def": "the legal relationship between a husband and wife",
+  "ex": "They celebrated fifty happy years of marriage together."
+ },
+ {
+  "id": "married",
+  "ipa": "/ˈmɛrid/",
+  "fr": "marié",
+  "def": "having a husband or a wife",
+  "ex": "My older sister got married last summer in June."
+ },
+ {
+  "id": "marry",
+  "ipa": "/ˈmɛri/",
+  "fr": "épouser, se marier",
+  "def": "to become someone's husband or wife",
+  "ex": "They plan to marry next spring in a garden."
+ },
+ {
+  "id": "mass",
+  "ipa": "/mæs/",
+  "fr": "masse (n.) ; de masse (adj.)",
+  "def": "a large amount or number of something",
+  "ex": "A huge mass of clouds gathered before the storm."
+ },
+ {
+  "id": "massive",
+  "ipa": "/ˈmæsɪv/",
+  "fr": "massif, énorme",
+  "def": "extremely large in size, amount, or degree",
+  "ex": "The company suffered a massive financial loss last year."
+ },
+ {
+  "id": "master",
+  "ipa": "/ˈmæstɚ/",
+  "fr": "maître (n.) ; maîtriser (v.)",
+  "def": "to learn how to do something very well",
+  "ex": "It takes years of practice to master an instrument."
+ },
+ {
+  "id": "match-contest-correspond",
+  "ipa": "/mætʃ/",
+  "fr": "match ; correspondre",
+  "def": "a game in which two people or teams compete",
+  "ex": "Our team won the football match last night easily."
+ },
+ {
+  "id": "matching",
+  "ipa": "/ˈmætʃɪŋ/",
+  "fr": "assorti",
+  "def": "the same as, or similar to, something else",
+  "ex": "She wore a matching hat and scarf that day."
+ },
+ {
+  "id": "material",
+  "ipa": "/məˈtɪriəl/",
+  "fr": "matériau, tissu (n.) ; matériel (adj.)",
+  "def": "the substance that something is made of",
+  "ex": "This soft shirt is made of pure cotton material."
+ },
+ {
+  "id": "math",
+  "ipa": "/mæθ/",
+  "fr": "maths",
+  "def": "the study of numbers, shapes, and quantities",
+  "ex": "He is very good at math and science class."
+ },
+ {
+  "id": "mathematics",
+  "ipa": "/ˌmæθəˈmætɪks/",
+  "fr": "mathématiques",
+  "def": "the study of numbers, shapes, and quantities",
+  "ex": "Mathematics is one of her favorite school subjects."
+ },
+ {
+  "id": "matter",
+  "ipa": "/ˈmætɚ/",
+  "fr": "question, affaire (n.) ; importer (v.)",
+  "def": "a subject or situation that people deal with",
+  "ex": "It really doesn't matter what time we arrive."
+ },
+ {
+  "id": "maximum",
+  "ipa": "/ˈmæksɪməm/",
+  "fr": "maximum",
+  "def": "the largest amount or number allowed or possible",
+  "ex": "The maximum speed allowed on this road is fifty."
+ },
+ {
+  "id": "may-proper",
+  "ipa": "/meɪ/",
+  "fr": "mai",
+  "def": "the fifth month of the year",
+  "ex": "Her birthday falls on the first day of May."
+ },
+ {
+  "id": "may",
+  "ipa": "/meɪ/",
+  "fr": "pouvoir (permission, possibilité)",
+  "def": "used to say something is possible or allowed",
+  "ex": "You may leave the classroom once you finish."
+ },
+ {
+  "id": "maybe",
+  "ipa": "/ˈmeɪbi/",
+  "fr": "peut-être",
+  "def": "possibly, or perhaps",
+  "ex": "Maybe we should ask someone for clear directions."
+ },
+ {
+  "id": "mayor",
+  "ipa": "/ˈmeɪɚ/",
+  "fr": "maire",
+  "def": "the leader of a city or town government",
+  "ex": "The mayor gave a speech at the opening ceremony."
+ },
+ {
+  "id": "me",
+  "ipa": "/miː/",
+  "fr": "moi, me",
+  "def": "used by a speaker to refer to himself",
+  "ex": "Please give that heavy book to me now."
+ },
+ {
+  "id": "meal",
+  "ipa": "/miːl/",
+  "fr": "repas",
+  "def": "an occasion when food is eaten",
+  "ex": "We shared a delicious meal at the new restaurant."
+ },
+ {
+  "id": "mean",
+  "ipa": "/miːn/",
+  "fr": "signifier, vouloir dire",
+  "def": "to have a particular meaning",
+  "ex": "Nobody understood what that strange new word could mean."
+ },
+ {
+  "id": "meaning",
+  "ipa": "/ˈmiːnɪŋ/",
+  "fr": "sens, signification",
+  "def": "what something means or is intended to express",
+  "ex": "I don't understand the meaning of this sentence."
+ },
+ {
+  "id": "means",
+  "ipa": "/miːnz/",
+  "fr": "moyen",
+  "def": "a method or way of doing something",
+  "ex": "A bicycle is a cheap means of transportation."
+ },
+ {
+  "id": "meanwhile",
+  "ipa": "/ˈmiːnwaɪl/",
+  "fr": "pendant ce temps",
+  "def": "while something else is happening",
+  "ex": "Meanwhile, the children were playing quietly in the yard."
+ },
+ {
+  "id": "measure",
+  "ipa": "/ˈmɛʒɚ/",
+  "fr": "mesurer (v.) ; mesure (n.)",
+  "def": "to find the size or amount of something",
+  "ex": "Please measure the table before you buy a cloth."
+ },
+ {
+  "id": "measurement",
+  "ipa": "/ˈmɛʒɚmənt/",
+  "fr": "mesure",
+  "def": "the size, length, or amount of something",
+  "ex": "Take the exact measurement before ordering new curtains."
+ },
+ {
+  "id": "meat",
+  "ipa": "/miːt/",
+  "fr": "viande",
+  "def": "the flesh of an animal eaten as food",
+  "ex": "They don't eat meat, only vegetables and fresh fruit."
+ },
+ {
+  "id": "media",
+  "ipa": "/ˈmiːdiə/",
+  "fr": "médias",
+  "def": "television, radio, and newspapers as a group",
+  "ex": "The story was reported by the media worldwide."
+ },
+ {
+  "id": "medical",
+  "ipa": "/ˈmɛdɪkəl/",
+  "fr": "médical",
+  "def": "connected with medicine and treating illness",
+  "ex": "She needed medical attention right after the accident."
+ },
+ {
+  "id": "medicine",
+  "ipa": "/ˈmɛdɪsən/",
+  "fr": "médicament ; médecine",
+  "def": "a substance used to treat an illness",
+  "ex": "Take this medicine twice a day with food."
+ },
+ {
+  "id": "medium",
+  "ipa": "/ˈmiːdiəm/",
+  "fr": "moyen",
+  "def": "middle in size, degree, or amount",
+  "ex": "I would like a medium coffee with milk, please."
+ },
+ {
+  "id": "meet",
+  "ipa": "/miːt/",
+  "fr": "rencontrer",
+  "def": "to come together with someone in the same place",
+  "ex": "Let's meet at the coffee shop around noon."
+ },
+ {
+  "id": "meeting",
+  "ipa": "/ˈmiːtɪŋ/",
+  "fr": "réunion",
+  "def": "an event when people gather to discuss something",
+  "ex": "We have an important meeting tomorrow morning at nine."
+ },
+ {
+  "id": "melt",
+  "ipa": "/mɛlt/",
+  "fr": "fondre",
+  "def": "to change from solid to liquid because of heat",
+  "ex": "The ice cream started to melt in the sun."
+ },
+ {
+  "id": "member",
+  "ipa": "/ˈmɛmbɚ/",
+  "fr": "membre",
+  "def": "a person who belongs to a group or club",
+  "ex": "She is an active member of the tennis club."
+ },
+ {
+  "id": "memory",
+  "ipa": "/ˈmɛməri/",
+  "fr": "mémoire, souvenir",
+  "def": "the ability to remember things, or a thing remembered",
+  "ex": "He has fond memories of his childhood summer vacations."
+ },
+ {
+  "id": "mental",
+  "ipa": "/ˈmɛntəl/",
+  "fr": "mental",
+  "def": "connected with the mind rather than the body",
+  "ex": "Exercise is good for your mental health too."
+ },
+ {
+  "id": "mention",
+  "ipa": "/ˈmɛnʃən/",
+  "fr": "mentionner (v.) ; mention (n.)",
+  "def": "to talk or write about something briefly",
+  "ex": "She didn't mention the problem during our meeting."
+ },
+ {
+  "id": "menu",
+  "ipa": "/ˈmɛnjuː/",
+  "fr": "menu, carte",
+  "def": "a list of food available in a restaurant",
+  "ex": "We looked at the menu before placing our order."
+ },
+ {
+  "id": "mess",
+  "ipa": "/mɛs/",
+  "fr": "désordre (n.) ; mettre en désordre (v.)",
+  "def": "a dirty or untidy state",
+  "ex": "Please clean up this mess in the kitchen now."
+ },
+ {
+  "id": "message",
+  "ipa": "/ˈmɛsɪdʒ/",
+  "fr": "message",
+  "def": "a short piece of information sent to someone",
+  "ex": "She sent me a message about the birthday party."
+ },
+ {
+  "id": "metal",
+  "ipa": "/ˈmɛtəl/",
+  "fr": "métal",
+  "def": "a hard material such as iron, gold, or steel",
+  "ex": "The old fence was made of strong metal bars."
+ },
+ {
+  "id": "meter",
+  "ipa": "/ˈmiːtɚ/",
+  "fr": "mètre ; compteur",
+  "def": "a unit used for measuring length",
+  "ex": "The public swimming pool is twenty-five meters long."
+ },
+ {
+  "id": "method",
+  "ipa": "/ˈmɛθəd/",
+  "fr": "méthode",
+  "def": "a particular way of doing something",
+  "ex": "This is the fastest method for learning new vocabulary."
+ },
+ {
+  "id": "middle",
+  "ipa": "/ˈmɪdəl/",
+  "fr": "milieu (n.) ; du milieu (adj.)",
+  "def": "the point equally far from each end or side",
+  "ex": "The lamp stood right in the middle of the table."
+ },
+ {
+  "id": "midnight",
+  "ipa": "/ˈmɪdnaɪt/",
+  "fr": "minuit",
+  "def": "twelve o'clock at night",
+  "ex": "We stayed up talking until midnight last night."
+ },
+ {
+  "id": "might",
+  "ipa": "/maɪt/",
+  "fr": "pourrait, pourrait bien",
+  "def": "used to say that something is possible",
+  "ex": "It might rain later, so bring an umbrella."
+ },
+ {
+  "id": "mild",
+  "ipa": "/maɪld/",
+  "fr": "doux, léger",
+  "def": "not strong, severe, or extreme; gentle",
+  "ex": "We had a mild winter with very little snow."
+ },
+ {
+  "id": "mile",
+  "ipa": "/maɪl/",
+  "fr": "mile, mille",
+  "def": "a unit of distance equal to 1.6 kilometers",
+  "ex": "The nearest store is about a mile from here."
+ },
+ {
+  "id": "military",
+  "ipa": "/ˈmɪlɪtɛri/",
+  "fr": "militaire",
+  "def": "connected with soldiers, armies, and war",
+  "ex": "His father served in the military for years."
+ },
+ {
+  "id": "milk",
+  "ipa": "/mɪlk/",
+  "fr": "lait",
+  "def": "a white liquid produced by cows for drinking",
+  "ex": "She drinks a glass of cold milk every morning."
+ },
+ {
+  "id": "million",
+  "ipa": "/ˈmɪljən/",
+  "fr": "million",
+  "def": "the number 1,000,000",
+  "ex": "The company earned about a million dollars last year."
+ },
+ {
+  "id": "mind",
+  "ipa": "/maɪnd/",
+  "fr": "esprit (n.) ; s'inquiéter (v.)",
+  "def": "the part of a person that thinks and feels",
+  "ex": "Keep an open mind when trying new kinds of food."
+ },
+ {
+  "id": "mine-belongs-to-me",
+  "ipa": "/maɪn/",
+  "fr": "le mien, la mienne",
+  "def": "the one or ones that belong to me",
+  "ex": "This old blue book on the shelf is mine."
+ },
+ {
+  "id": "mine-hole-in-the-ground",
+  "ipa": "/maɪn/",
+  "fr": "mine",
+  "def": "a deep hole dug in the ground for coal or metal",
+  "ex": "His grandfather worked in a coal mine for years."
+ },
+ {
+  "id": "mineral",
+  "ipa": "/ˈmɪnərəl/",
+  "fr": "minéral",
+  "def": "a natural substance found in rocks or soil",
+  "ex": "This spring water contains many healthy natural minerals."
+ },
+ {
+  "id": "minimum",
+  "ipa": "/ˈmɪnɪməm/",
+  "fr": "minimum",
+  "def": "the smallest amount or number allowed or possible",
+  "ex": "The minimum age to drive here is sixteen."
+ },
+ {
+  "id": "minister",
+  "ipa": "/ˈmɪnɪstɚ/",
+  "fr": "ministre",
+  "def": "a senior member of a government",
+  "ex": "The minister announced new plans for public education."
+ },
+ {
+  "id": "minor",
+  "ipa": "/ˈmaɪnɚ/",
+  "fr": "mineur, secondaire",
+  "def": "not very important, serious, or large",
+  "ex": "It was only a minor problem, nothing very serious."
+ },
+ {
+  "id": "minority",
+  "ipa": "/maɪˈnɔːrəti/",
+  "fr": "minorité",
+  "def": "the smaller part of a larger group",
+  "ex": "Only a small minority of students disagreed with the plan."
+ },
+ {
+  "id": "minute-1",
+  "ipa": "/ˈmɪnɪt/",
+  "fr": "minute",
+  "def": "a unit of time equal to sixty seconds",
+  "ex": "Wait a minute, I need to find my keys."
+ },
+ {
+  "id": "mirror",
+  "ipa": "/ˈmɪrɚ/",
+  "fr": "miroir",
+  "def": "a piece of glass that shows your reflection",
+  "ex": "She checked her hair quickly in the bathroom mirror."
+ },
+ {
+  "id": "miss",
+  "ipa": "/mɪs/",
+  "fr": "manquer, rater",
+  "def": "to feel sad because someone is not there",
+  "ex": "I really miss my family whenever I travel abroad."
+ },
+ {
+  "id": "missing",
+  "ipa": "/ˈmɪsɪŋ/",
+  "fr": "manquant, disparu",
+  "def": "not in the usual place; lost",
+  "ex": "One small piece of the puzzle is missing."
+ },
+ {
+  "id": "mission",
+  "ipa": "/ˈmɪʃən/",
+  "fr": "mission",
+  "def": "an important job that a person or group must do",
+  "ex": "The whole team completed their difficult mission successfully."
+ },
+ {
+  "id": "mistake",
+  "ipa": "/mɪˈsteɪk/",
+  "fr": "erreur (n.) ; confondre (v.)",
+  "def": "an action or decision that is wrong",
+  "ex": "Everyone makes mistakes when learning something completely new."
+ },
+ {
+  "id": "mix",
+  "ipa": "/mɪks/",
+  "fr": "mélanger (v.) ; mélange (n.)",
+  "def": "to combine two or more things together",
+  "ex": "Mix the flour and sugar together in a bowl."
+ },
+ {
+  "id": "mixed",
+  "ipa": "/mɪkst/",
+  "fr": "mixte, mélangé",
+  "def": "made of different things or types together",
+  "ex": "We had a mixed salad with lots of vegetables."
+ },
+ {
+  "id": "mixture",
+  "ipa": "/ˈmɪkstʃɚ/",
+  "fr": "mélange",
+  "def": "a combination of two or more different things",
+  "ex": "The cake batter is a mixture of eggs and flour."
+ },
+ {
+  "id": "model",
+  "ipa": "/ˈmɑːdəl/",
+  "fr": "modèle (n.) ; modeler (v.)",
+  "def": "a small copy of something, or a design of a product",
+  "ex": "He built a small model airplane with his father."
+ },
+ {
+  "id": "modern",
+  "ipa": "/ˈmɑːdɚn/",
+  "fr": "moderne",
+  "def": "using the newest ideas, methods, or technology",
+  "ex": "They live in a modern apartment right downtown."
+ },
+ {
+  "id": "modify",
+  "ipa": "/ˈmɑːdɪfaɪ/",
+  "fr": "modifier",
+  "def": "to change something slightly",
+  "ex": "We had to modify our travel plans because of rain."
+ },
+ {
+  "id": "mom",
+  "ipa": "/mɑːm/",
+  "fr": "maman",
+  "def": "a person's mother",
+  "ex": "My mom picks me up from school every day."
+ },
+ {
+  "id": "moment",
+  "ipa": "/ˈmoʊmənt/",
+  "fr": "moment, instant",
+  "def": "a very short period of time",
+  "ex": "Please wait a moment while I finish this call."
+ },
+ {
+  "id": "monday",
+  "ipa": "/ˈmʌndeɪ/",
+  "fr": "lundi",
+  "def": "the day after Sunday and before Tuesday",
+  "ex": "We start our new class next Monday morning."
+ },
+ {
+  "id": "money",
+  "ipa": "/ˈmʌni/",
+  "fr": "argent",
+  "def": "coins and paper notes used to buy things",
+  "ex": "She saved her money to buy a new bike."
+ },
+ {
+  "id": "monitor",
+  "ipa": "/ˈmɑːnɪtɚ/",
+  "fr": "moniteur, écran (n.) ; surveiller (v.)",
+  "def": "to watch and check something over a period of time",
+  "ex": "Doctors monitor the patient's heart rate very closely."
+ },
+ {
+  "id": "monkey",
+  "ipa": "/ˈmʌŋki/",
+  "fr": "singe",
+  "def": "an animal with a long tail that climbs trees",
+  "ex": "The small monkey swung quickly from branch to branch."
+ },
+ {
+  "id": "month",
+  "ipa": "/mʌnθ/",
+  "fr": "mois",
+  "def": "one of the twelve periods that make up a year",
+  "ex": "We are moving to a new house next month."
+ },
+ {
+  "id": "mood",
+  "ipa": "/muːd/",
+  "fr": "humeur",
+  "def": "the way someone feels at a particular time",
+  "ex": "She has been in a wonderful mood all day."
+ },
+ {
+  "id": "moon",
+  "ipa": "/muːn/",
+  "fr": "lune",
+  "def": "the round object that shines in the night sky",
+  "ex": "The full moon was bright over the quiet lake."
+ },
+ {
+  "id": "moral",
+  "ipa": "/ˈmɔːrəl/",
+  "fr": "moral (adj.) ; morale, leçon (n.)",
+  "def": "connected with what is right and wrong behavior",
+  "ex": "The old story teaches an important moral lesson."
+ },
+ {
+  "id": "more",
+  "ipa": "/mɔːr/",
+  "fr": "plus (de)",
+  "def": "a greater amount or number",
+  "ex": "She wanted some more coffee early this morning."
+ },
+ {
+  "id": "morning",
+  "ipa": "/ˈmɔːrnɪŋ/",
+  "fr": "matin",
+  "def": "the early part of the day",
+  "ex": "I always go running early in the morning."
+ },
+ {
+  "id": "most",
+  "ipa": "/moʊst/",
+  "fr": "la plupart (de), le plus",
+  "def": "the largest amount or number of something",
+  "ex": "Most of my close friends live in this city."
+ },
+ {
+  "id": "mostly",
+  "ipa": "/ˈmoʊstli/",
+  "fr": "principalement, surtout",
+  "def": "mainly, or most of the time",
+  "ex": "The class is mostly made up of teenagers."
+ },
+ {
+  "id": "mother",
+  "ipa": "/ˈmʌðɚ/",
+  "fr": "mère",
+  "def": "a woman who has a child",
+  "ex": "Her mother works as a doctor here downtown."
+ },
+ {
+  "id": "motor",
+  "ipa": "/ˈmoʊtɚ/",
+  "fr": "moteur",
+  "def": "a machine that provides power to make something move",
+  "ex": "The small boat's motor stopped working in the lake."
+ },
+ {
+  "id": "motorcycle",
+  "ipa": "/ˈmoʊtɚsaɪkəl/",
+  "fr": "moto",
+  "def": "a two-wheeled vehicle powered by an engine",
+  "ex": "He rides his motorcycle to work every single day."
+ },
+ {
+  "id": "mount",
+  "ipa": "/maʊnt/",
+  "fr": "monter sur, grimper",
+  "def": "to get on top of something, such as a horse",
+  "ex": "She mounted the horse and rode away very quickly."
+ },
+ {
+  "id": "mountain",
+  "ipa": "/ˈmaʊntən/",
+  "fr": "montagne",
+  "def": "a very high area of land with steep sides",
+  "ex": "They climbed the tall mountain early in the morning."
+ },
+ {
+  "id": "mouse",
+  "ipa": "/maʊs/",
+  "fr": "souris",
+  "def": "a small animal with a long thin tail",
+  "ex": "A tiny mouse ran quickly under the kitchen door."
+ },
+ {
+  "id": "mouth",
+  "ipa": "/maʊθ/",
+  "fr": "bouche",
+  "def": "the part of the face used for eating",
+  "ex": "Cover your mouth whenever you cough or sneeze."
+ },
+ {
+  "id": "move",
+  "ipa": "/muːv/",
+  "fr": "bouger, déménager (v.) ; mouvement (n.)",
+  "def": "to change position or go from place to place",
+  "ex": "We plan to move to a new city soon."
+ },
+ {
+  "id": "movement",
+  "ipa": "/ˈmuːvmənt/",
+  "fr": "mouvement",
+  "def": "the act of moving, or a change in position",
+  "ex": "She noticed a slight movement behind the tall bushes."
+ },
+ {
+  "id": "movie",
+  "ipa": "/ˈmuːvi/",
+  "fr": "film",
+  "def": "a story told through moving pictures",
+  "ex": "We watched a great movie together last Friday night."
+ },
+ {
+  "id": "much",
+  "ipa": "/mʌtʃ/",
+  "fr": "beaucoup (de)",
+  "def": "a large amount of something",
+  "ex": "There isn't much time left before the meeting starts."
+ },
+ {
+  "id": "mud",
+  "ipa": "/mʌd/",
+  "fr": "boue",
+  "def": "soft wet earth or dirt",
+  "ex": "The happy children played all afternoon in the mud."
+ },
+ {
+  "id": "multiple",
+  "ipa": "/ˈmʌltɪpəl/",
+  "fr": "multiple",
+  "def": "more than one; many",
+  "ex": "She speaks multiple languages, including French and Spanish."
+ },
+ {
+  "id": "multiply",
+  "ipa": "/ˈmʌltɪplaɪ/",
+  "fr": "multiplier",
+  "def": "to add a number to itself several times",
+  "ex": "Multiply six by three to get eighteen total."
+ },
+ {
+  "id": "murder",
+  "ipa": "/ˈmɝːdɚ/",
+  "fr": "meurtre (n.) ; assassiner (v.)",
+  "def": "the crime of deliberately killing a person",
+  "ex": "The detective investigated the murder for several months."
+ },
+ {
+  "id": "muscle",
+  "ipa": "/ˈmʌsəl/",
+  "fr": "muscle",
+  "def": "a part of the body that helps you move",
+  "ex": "He built strong muscles by lifting heavy weights daily."
+ },
+ {
+  "id": "museum",
+  "ipa": "/mjuˈziːəm/",
+  "fr": "musée",
+  "def": "a building where interesting objects are displayed",
+  "ex": "We visited a wonderful art museum during our vacation."
+ },
+ {
+  "id": "music",
+  "ipa": "/ˈmjuːzɪk/",
+  "fr": "musique",
+  "def": "sounds arranged in a pleasant or interesting way",
+  "ex": "She listens to music while doing her homework."
+ },
+ {
+  "id": "musical",
+  "ipa": "/ˈmjuːzɪkəl/",
+  "fr": "musical (adj.) ; comédie musicale (n.)",
+  "def": "connected with or skilled at playing music",
+  "ex": "He comes from a very musical, talented family."
+ },
+ {
+  "id": "musician",
+  "ipa": "/mjuˈzɪʃən/",
+  "fr": "musicien, musicienne",
+  "def": "a person who plays music, especially as a job",
+  "ex": "The talented musician played guitar beautifully at the wedding."
+ },
+ {
+  "id": "must",
+  "ipa": "/mʌst/",
+  "fr": "devoir",
+  "def": "used to say that something is necessary",
+  "ex": "You must wear a seatbelt in the car."
+ },
+ {
+  "id": "my",
+  "ipa": "/maɪ/",
+  "fr": "mon, ma, mes",
+  "def": "belonging to the person speaking",
+  "ex": "This is my favorite book of all time."
+ },
+ {
+  "id": "myself",
+  "ipa": "/maɪˈsɛlf/",
+  "fr": "moi-même",
+  "def": "used to refer back to the person speaking",
+  "ex": "I taught myself how to play the piano."
+ },
+ {
+  "id": "mysterious",
+  "ipa": "/mɪˈstɪriəs/",
+  "fr": "mystérieux",
+  "def": "strange, unknown, or hard to explain",
+  "ex": "A mysterious light appeared suddenly in the night sky."
+ },
+ {
+  "id": "mystery",
+  "ipa": "/ˈmɪstəri/",
+  "fr": "mystère",
+  "def": "something strange that is difficult to explain",
+  "ex": "The strange disappearance remains a mystery to this day."
+ },
+ {
+  "id": "nail",
+  "ipa": "/neɪl/",
+  "fr": "clou ; ongle",
+  "def": "a thin metal pin, or the hard part on a fingertip",
+  "ex": "He carefully hit the nail with a small hammer."
+ },
+ {
+  "id": "name",
+  "ipa": "/neɪm/",
+  "fr": "nom (n.) ; nommer (v.)",
+  "def": "the word used to identify a person or thing",
+  "ex": "I don't know the name of this quiet street."
+ },
+ {
+  "id": "narrative",
+  "ipa": "/ˈnærətɪv/",
+  "fr": "récit (n.) ; narratif (adj.)",
+  "def": "a spoken or written account of events",
+  "ex": "The novel has a very complex and interesting narrative."
+ },
+ {
+  "id": "narrow",
+  "ipa": "/ˈnæroʊ/",
+  "fr": "étroit (adj.) ; se rétrécir (v.)",
+  "def": "having a small distance from one side to the other",
+  "ex": "The narrow street was too small for any cars."
+ },
+ {
+  "id": "nation",
+  "ipa": "/ˈneɪʃən/",
+  "fr": "nation",
+  "def": "a country, considered as a group of people",
+  "ex": "Many nations joined together to sign the peace agreement."
+ },
+ {
+  "id": "national",
+  "ipa": "/ˈnæʃənəl/",
+  "fr": "national (adj.) ; ressortissant (n.)",
+  "def": "connected with a whole country",
+  "ex": "The national holiday is celebrated every year in July."
+ },
+ {
+  "id": "native",
+  "ipa": "/ˈneɪtɪv/",
+  "fr": "natal, natif",
+  "def": "connected with the place where a person was born",
+  "ex": "English is her native language, though she speaks French too."
+ },
+ {
+  "id": "natural",
+  "ipa": "/ˈnætʃərəl/",
+  "fr": "naturel",
+  "def": "existing in nature; not made by people",
+  "ex": "The park protects many natural resources and wild animals."
+ },
+ {
+  "id": "naturally",
+  "ipa": "/ˈnætʃərəli/",
+  "fr": "naturellement",
+  "def": "in a way that is normal or expected",
+  "ex": "She naturally speaks very softly in every conversation."
+ },
+ {
+  "id": "nature",
+  "ipa": "/ˈneɪtʃɚ/",
+  "fr": "nature",
+  "def": "everything in the physical world not made by people",
+  "ex": "They enjoy hiking and spending time in nature."
+ },
+ {
+  "id": "near",
+  "ipa": "/nɪr/",
+  "fr": "près (de), proche",
+  "def": "not far away in distance or time",
+  "ex": "The school is quite near my grandmother's house."
+ },
+ {
+  "id": "nearly",
+  "ipa": "/ˈnɪrli/",
+  "fr": "presque",
+  "def": "almost, but not completely",
+  "ex": "It's nearly midnight, so we should head home soon."
+ },
+ {
+  "id": "neat",
+  "ipa": "/niːt/",
+  "fr": "soigné, ordonné",
+  "def": "tidy and arranged in a careful way",
+  "ex": "Her handwriting is always very neat and clear."
+ },
+ {
+  "id": "necessarily",
+  "ipa": "/ˌnɛsəˈsɛrəli/",
+  "fr": "nécessairement, forcément",
+  "def": "used to say something is not always true",
+  "ex": "A high price doesn't necessarily mean good quality."
+ },
+ {
+  "id": "necessary",
+  "ipa": "/ˈnɛsəsɛri/",
+  "fr": "nécessaire",
+  "def": "needed in order to achieve something",
+  "ex": "It is necessary to study hard for the test."
+ },
+ {
+  "id": "neck",
+  "ipa": "/nɛk/",
+  "fr": "cou",
+  "def": "the part connecting the head to the shoulders",
+  "ex": "She wore a warm scarf around her neck."
+ },
+ {
+  "id": "need",
+  "ipa": "/niːd/",
+  "fr": "avoir besoin de (v.) ; besoin (n.)",
+  "def": "to require something because it is necessary",
+  "ex": "Plants need water and sunlight to grow well."
+ },
+ {
+  "id": "needle",
+  "ipa": "/ˈniːdəl/",
+  "fr": "aiguille",
+  "def": "a thin, sharp piece of metal used for sewing",
+  "ex": "She used a needle and thread to fix the shirt."
+ },
+ {
+  "id": "negative",
+  "ipa": "/ˈnɛɡətɪv/",
+  "fr": "négatif",
+  "def": "bad, harmful, or without hope",
+  "ex": "Try not to have a negative attitude about school."
+ },
+ {
+  "id": "neighbor",
+  "ipa": "/ˈneɪbɚ/",
+  "fr": "voisin, voisine",
+  "def": "a person who lives near you",
+  "ex": "Our friendly neighbor helped us carry the heavy furniture."
+ },
+ {
+  "id": "neighborhood",
+  "ipa": "/ˈneɪbɚhʊd/",
+  "fr": "quartier",
+  "def": "a small area within a town or city",
+  "ex": "They grew up together in the same quiet neighborhood."
+ },
+ {
+  "id": "neither",
+  "ipa": "/ˈniːðɚ/",
+  "fr": "ni l'un ni l'autre ; non plus",
+  "def": "not one nor the other of two things",
+  "ex": "Neither of the two answers was actually correct."
+ },
+ {
+  "id": "nerve",
+  "ipa": "/nɝːv/",
+  "fr": "nerf",
+  "def": "a thin fiber that carries messages in the body",
+  "ex": "The bad injury damaged a nerve in his arm."
+ },
+ {
+  "id": "nervous",
+  "ipa": "/ˈnɝːvəs/",
+  "fr": "nerveux, anxieux",
+  "def": "worried or afraid about something",
+  "ex": "She felt very nervous before her big presentation."
+ },
+ {
+  "id": "net",
+  "ipa": "/nɛt/",
+  "fr": "filet",
+  "def": "material made of crossed string with small spaces",
+  "ex": "The fisherman pulled his net out of the water."
+ },
+ {
+  "id": "network",
+  "ipa": "/ˈnɛtwɝːk/",
+  "fr": "réseau",
+  "def": "a group of connected things, people, or computers",
+  "ex": "The company has a large network of offices worldwide."
+ },
+ {
+  "id": "never",
+  "ipa": "/ˈnɛvɚ/",
+  "fr": "ne...jamais",
+  "def": "at no time; not ever",
+  "ex": "I have never visited Japan, but I want to."
+ },
+ {
+  "id": "nevertheless",
+  "ipa": "/ˌnɛvɚðəˈlɛs/",
+  "fr": "néanmoins, pourtant",
+  "def": "in spite of what has just been said",
+  "ex": "It was raining; nevertheless, they went for a walk."
+ },
+ {
+  "id": "new",
+  "ipa": "/nuː/",
+  "fr": "nouveau",
+  "def": "recently made, built, bought, or created",
+  "ex": "She bought a new car just last month."
+ },
+ {
+  "id": "news",
+  "ipa": "/nuːz/",
+  "fr": "nouvelles, informations",
+  "def": "information about things that have recently happened",
+  "ex": "We watch the evening news together every night."
+ },
+ {
+  "id": "newspaper",
+  "ipa": "/ˈnuːzpeɪpɚ/",
+  "fr": "journal",
+  "def": "large sheets of paper printed with daily news",
+  "ex": "My father reads the newspaper every single morning."
+ },
+ {
+  "id": "next",
+  "ipa": "/nɛkst/",
+  "fr": "prochain, suivant",
+  "def": "coming immediately after this one",
+  "ex": "We will visit beautiful Paris together next summer."
+ },
+ {
+  "id": "next-to",
+  "ipa": "/ˈnɛkst tuː/",
+  "fr": "à côté de",
+  "def": "beside or very close to something",
+  "ex": "She sat next to her best friend in class."
+ },
+ {
+  "id": "nice",
+  "ipa": "/naɪs/",
+  "fr": "gentil, agréable",
+  "def": "pleasant, kind, or enjoyable",
+  "ex": "It was really nice to see you again yesterday."
+ },
+ {
+  "id": "night",
+  "ipa": "/naɪt/",
+  "fr": "nuit",
+  "def": "the time when it is dark outside",
+  "ex": "The bright stars shine clearly in the night sky."
+ },
+ {
+  "id": "nightmare",
+  "ipa": "/ˈnaɪtmɛr/",
+  "fr": "cauchemar",
+  "def": "a frightening dream, or a terrible experience",
+  "ex": "She woke up crying from a terrible nightmare."
+ },
+ {
+  "id": "nine",
+  "ipa": "/naɪn/",
+  "fr": "neuf",
+  "def": "the number 9",
+  "ex": "The important meeting starts at nine o'clock sharp."
+ }
+]

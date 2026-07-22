@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "fantastic",
+  "ipa": "/fænˈtæstɪk/",
+  "fr": "fantastique, super",
+  "def": "extremely good or attractive",
+  "ex": "We had a fantastic time at the beach yesterday."
+ },
+ {
+  "id": "far",
+  "ipa": "/fɑːr/",
+  "fr": "loin",
+  "def": "at, to, or from a great distance",
+  "ex": "The train station is not far from here."
+ },
+ {
+  "id": "farm",
+  "ipa": "/fɑːrm/",
+  "fr": "ferme (n.) ; cultiver, exploiter (v.)",
+  "def": "an area of land used to grow crops or keep animals",
+  "ex": "My grandparents live on a small farm near the village."
+ },
+ {
+  "id": "farmer",
+  "ipa": "/ˈfɑːrmɚ/",
+  "fr": "agriculteur, fermier",
+  "def": "a person who owns or manages a farm",
+  "ex": "The farmer wakes up early to feed the animals."
+ },
+ {
+  "id": "farming",
+  "ipa": "/ˈfɑːrmɪŋ/",
+  "fr": "agriculture",
+  "def": "the business or practice of managing a farm",
+  "ex": "Farming is the main industry in this region."
+ },
+ {
+  "id": "fascinating",
+  "ipa": "/ˈfæsɪneɪtɪŋ/",
+  "fr": "fascinant",
+  "def": "extremely interesting",
+  "ex": "The museum has a fascinating collection of old maps."
+ },
+ {
+  "id": "fashion",
+  "ipa": "/ˈfæʃn/",
+  "fr": "mode",
+  "def": "the popular style of clothes at a particular time",
+  "ex": "She works for a famous fashion magazine in Paris."
+ },
+ {
+  "id": "fashionable",
+  "ipa": "/ˈfæʃnəbl/",
+  "fr": "à la mode, tendance",
+  "def": "popular or fashionable at a particular time",
+  "ex": "Short jackets are very fashionable again this year."
+ },
+ {
+  "id": "fast",
+  "ipa": "/fæst/",
+  "fr": "rapide (adj.) ; vite (adv.)",
+  "def": "moving or able to move quickly",
+  "ex": "He drives too fast on this narrow road."
+ },
+ {
+  "id": "fasten",
+  "ipa": "/ˈfæsn/",
+  "fr": "attacher, fixer",
+  "def": "to close or join the parts of something",
+  "ex": "Please fasten your seatbelt before the plane takes off."
+ },
+ {
+  "id": "fat",
+  "ipa": "/fæt/",
+  "fr": "gros (adj.) ; graisse (n.)",
+  "def": "having a lot of extra weight on the body",
+  "ex": "The cat is too fat and needs more exercise."
+ },
+ {
+  "id": "father",
+  "ipa": "/ˈfɑːðɚ/",
+  "fr": "père",
+  "def": "a male parent",
+  "ex": "My father taught me how to ride a bike."
+ },
+ {
+  "id": "fault",
+  "ipa": "/fɔːlt/",
+  "fr": "faute, défaut",
+  "def": "responsibility for something bad that happened",
+  "ex": "It's not my fault that the car broke down."
+ },
+ {
+  "id": "favor",
+  "ipa": "/ˈfeɪvɚ/",
+  "fr": "service, faveur (n.) ; préférer, favoriser (v.)",
+  "def": "a kind or helpful act you do for someone",
+  "ex": "I need to ask my neighbor for a small favor."
+ },
+ {
+  "id": "favorite",
+  "ipa": "/ˈfeɪvərɪt/",
+  "fr": "préféré (adj.) ; préféré, chouchou (n.)",
+  "def": "liked more than any other",
+  "ex": "Pizza is my favorite food in the whole world."
+ },
+ {
+  "id": "fear",
+  "ipa": "/fɪr/",
+  "fr": "peur (n.) ; craindre (v.)",
+  "def": "the feeling you have when something is dangerous",
+  "ex": "She couldn't hide her fear of the dark water."
+ },
+ {
+  "id": "feather",
+  "ipa": "/ˈfeðɚ/",
+  "fr": "plume",
+  "def": "one of the light soft things covering a bird",
+  "ex": "A blue feather fell slowly from the tall tree."
+ },
+ {
+  "id": "feature",
+  "ipa": "/ˈfiːtʃɚ/",
+  "fr": "particularité, trait (n.) ; présenter (v.)",
+  "def": "an important or typical part of something",
+  "ex": "The new phone has several useful features for students."
+ },
+ {
+  "id": "february",
+  "ipa": "/ˈfebruˌeri/",
+  "fr": "février",
+  "def": "the second month of the year",
+  "ex": "Her birthday is in February, right after New Year."
+ },
+ {
+  "id": "federal",
+  "ipa": "/ˈfedərəl/",
+  "fr": "fédéral",
+  "def": "relating to the central government of a country",
+  "ex": "The federal government announced new rules for banks."
+ },
+ {
+  "id": "fee",
+  "ipa": "/fiː/",
+  "fr": "frais, honoraires",
+  "def": "an amount of money you pay for a service",
+  "ex": "The school charges a small fee for the trip."
+ },
+ {
+  "id": "feed",
+  "ipa": "/fiːd/",
+  "fr": "nourrir (v.) ; fil d'actualité (n.)",
+  "def": "to give food to a person or animal",
+  "ex": "I feed my dog twice a day, morning and evening."
+ },
+ {
+  "id": "feedback",
+  "ipa": "/ˈfiːdbæk/",
+  "fr": "retour, commentaires",
+  "def": "opinions about how good or useful something is",
+  "ex": "Our teacher gave us useful feedback on the essay."
+ },
+ {
+  "id": "feel",
+  "ipa": "/fiːl/",
+  "fr": "sentir, ressentir (v.) ; sensation (n.)",
+  "def": "to experience a physical or emotional state",
+  "ex": "I feel much better after a good night's sleep."
+ },
+ {
+  "id": "feeling",
+  "ipa": "/ˈfiːlɪŋ/",
+  "fr": "sentiment, sensation",
+  "def": "an emotion or physical sensation",
+  "ex": "She had a strange feeling that someone was watching."
+ },
+ {
+  "id": "fellow",
+  "ipa": "/ˈfeloʊ/",
+  "fr": "collègue, camarade (de)",
+  "def": "in the same group, job, or situation as you",
+  "ex": "She shared the good news with her fellow students."
+ },
+ {
+  "id": "female",
+  "ipa": "/ˈfiːmeɪl/",
+  "fr": "féminin, femelle (adj.) ; femme, femelle (n.)",
+  "def": "belonging to the sex that can have babies",
+  "ex": "The female lion protects her cubs from danger."
+ },
+ {
+  "id": "fence",
+  "ipa": "/fens/",
+  "fr": "clôture",
+  "def": "a barrier made of wood or metal around land",
+  "ex": "They built a wooden fence around the garden."
+ },
+ {
+  "id": "festival",
+  "ipa": "/ˈfestɪvl/",
+  "fr": "festival, fête",
+  "def": "a special event or celebration",
+  "ex": "We watched fireworks at the summer music festival."
+ },
+ {
+  "id": "fever",
+  "ipa": "/ˈfiːvɚ/",
+  "fr": "fièvre",
+  "def": "a higher body temperature than normal, caused by illness",
+  "ex": "He stayed in bed because he had a fever."
+ },
+ {
+  "id": "few",
+  "ipa": "/fjuː/",
+  "fr": "peu de, quelques",
+  "def": "a small number of people or things",
+  "ex": "Only a few students came to class today."
+ },
+ {
+  "id": "fiction",
+  "ipa": "/ˈfɪkʃn/",
+  "fr": "fiction, romans",
+  "def": "stories about people and events that are not real",
+  "ex": "She prefers reading fiction to watching the news."
+ },
+ {
+  "id": "field",
+  "ipa": "/fiːld/",
+  "fr": "champ, domaine",
+  "def": "an area of land, often used for crops or sport",
+  "ex": "The cows were eating grass in the green field."
+ },
+ {
+  "id": "fifteen",
+  "ipa": "/ˌfɪfˈtiːn/",
+  "fr": "quinze",
+  "def": "the number 15",
+  "ex": "My little sister just turned fifteen last week."
+ },
+ {
+  "id": "fifth",
+  "ipa": "/fɪfθ/",
+  "fr": "cinquième",
+  "def": "coming after the fourth in order",
+  "ex": "This is the fifth time I've called you today."
+ },
+ {
+  "id": "fifty",
+  "ipa": "/ˈfɪfti/",
+  "fr": "cinquante",
+  "def": "the number 50",
+  "ex": "About fifty people came to the wedding party."
+ },
+ {
+  "id": "fight",
+  "ipa": "/faɪt/",
+  "fr": "se battre, lutter (v.) ; bagarre, combat (n.)",
+  "def": "to use physical force against someone",
+  "ex": "The two boys started to fight over the ball."
+ },
+ {
+  "id": "fighting",
+  "ipa": "/ˈfaɪtɪŋ/",
+  "fr": "combats, bagarre",
+  "def": "violent action between people or groups",
+  "ex": "Heavy fighting continued in the city for days."
+ },
+ {
+  "id": "figure",
+  "ipa": "/ˈfɪɡjɚ/",
+  "fr": "chiffre, silhouette (n.) ; comprendre, calculer (v.)",
+  "def": "a number that represents an amount",
+  "ex": "Sales figures were much higher than expected this month."
+ },
+ {
+  "id": "file",
+  "ipa": "/faɪl/",
+  "fr": "dossier, fichier (n.) ; classer, déposer (v.)",
+  "def": "a collection of papers or computer data kept together",
+  "ex": "Please save the document in a new file."
+ },
+ {
+  "id": "fill",
+  "ipa": "/fɪl/",
+  "fr": "remplir",
+  "def": "to make something full",
+  "ex": "Please fill this bottle with cold water from the tap."
+ },
+ {
+  "id": "film",
+  "ipa": "/fɪlm/",
+  "fr": "film (n.) ; filmer (v.)",
+  "def": "a movie shown at a theater or on television",
+  "ex": "We watched a great film about space travel."
+ },
+ {
+  "id": "final",
+  "ipa": "/ˈfaɪnl/",
+  "fr": "dernier, final (adj.) ; finale (n.)",
+  "def": "happening at the end of a series",
+  "ex": "This is the final chapter of the book."
+ },
+ {
+  "id": "finally",
+  "ipa": "/ˈfaɪnəli/",
+  "fr": "enfin, finalement",
+  "def": "after a long time or delay",
+  "ex": "After three hours, the bus finally arrived at the station."
+ },
+ {
+  "id": "finance",
+  "ipa": "/fəˈnæns/",
+  "fr": "finance (n.) ; financer (v.)",
+  "def": "the management of money",
+  "ex": "She studied finance at a university in Chicago."
+ },
+ {
+  "id": "financial",
+  "ipa": "/faɪˈnænʃl/",
+  "fr": "financier",
+  "def": "relating to money",
+  "ex": "The company is facing serious financial problems this year."
+ },
+ {
+  "id": "find",
+  "ipa": "/faɪnd/",
+  "fr": "trouver",
+  "def": "to discover something after searching",
+  "ex": "I can't find my keys anywhere in the house."
+ },
+ {
+  "id": "finding",
+  "ipa": "/ˈfaɪndɪŋ/",
+  "fr": "résultat, conclusion (de recherche)",
+  "def": "information discovered by research",
+  "ex": "The study's findings surprised many scientists around the world."
+ },
+ {
+  "id": "fine",
+  "ipa": "/faɪn/",
+  "fr": "bien, ça va ; excellent",
+  "def": "good, acceptable, or satisfactory",
+  "ex": "Don't worry, everything will be fine in the end."
+ },
+ {
+  "id": "finger",
+  "ipa": "/ˈfɪŋɡɚ/",
+  "fr": "doigt",
+  "def": "one of the five parts at the end of your hand",
+  "ex": "She cut her finger while chopping vegetables for dinner."
+ },
+ {
+  "id": "finish",
+  "ipa": "/ˈfɪnɪʃ/",
+  "fr": "finir, terminer (v.) ; fin (n.)",
+  "def": "to complete or come to the end of something",
+  "ex": "We need to finish this project before Friday afternoon."
+ },
+ {
+  "id": "fire",
+  "ipa": "/ˈfaɪɚ/",
+  "fr": "feu (n.) ; renvoyer, tirer (v.)",
+  "def": "the flames and heat produced when something burns",
+  "ex": "The firefighters quickly put out the fire in the kitchen."
+ },
+ {
+  "id": "firm",
+  "ipa": "/fɝːm/",
+  "fr": "entreprise, cabinet",
+  "def": "a business or company",
+  "ex": "She works for a large law firm downtown."
+ },
+ {
+  "id": "first",
+  "ipa": "/fɝːst/",
+  "fr": "premier",
+  "def": "coming before all others in order or time",
+  "ex": "He was the first person to arrive at the party."
+ },
+ {
+  "id": "fish",
+  "ipa": "/fɪʃ/",
+  "fr": "poisson (n.) ; pêcher (v.)",
+  "def": "an animal that lives and breathes in water",
+  "ex": "We caught three fish in the lake this morning."
+ },
+ {
+  "id": "fishing",
+  "ipa": "/ˈfɪʃɪŋ/",
+  "fr": "pêche",
+  "def": "the sport or business of catching fish",
+  "ex": "My uncle goes fishing every Saturday morning at dawn."
+ },
+ {
+  "id": "fit",
+  "ipa": "/fɪt/",
+  "fr": "aller, convenir (v.) ; en forme, adapté (adj.)",
+  "def": "healthy and physically strong",
+  "ex": "She runs every day to stay fit and healthy."
+ },
+ {
+  "id": "fitness",
+  "ipa": "/ˈfɪtnəs/",
+  "fr": "forme physique",
+  "def": "the state of being physically healthy and strong",
+  "ex": "He joined a gym to improve his overall fitness."
+ },
+ {
+  "id": "five",
+  "ipa": "/faɪv/",
+  "fr": "cinq",
+  "def": "the number 5",
+  "ex": "The children waited five minutes for the bus to arrive."
+ },
+ {
+  "id": "fix",
+  "ipa": "/fɪks/",
+  "fr": "réparer (v.) ; solution, difficulté (n.)",
+  "def": "to repair something broken or solve a problem",
+  "ex": "He needs to fix the washing machine before this weekend."
+ },
+ {
+  "id": "fixed",
+  "ipa": "/fɪkst/",
+  "fr": "fixe",
+  "def": "not able to be changed or moved",
+  "ex": "Employees receive a fixed salary at the end of each month."
+ },
+ {
+  "id": "flag",
+  "ipa": "/flæɡ/",
+  "fr": "drapeau",
+  "def": "a piece of cloth with a design representing a country",
+  "ex": "They raised the national flag in front of the school."
+ },
+ {
+  "id": "flame",
+  "ipa": "/fleɪm/",
+  "fr": "flamme",
+  "def": "the hot bright light produced by fire",
+  "ex": "A single candle flame lit up the dark room."
+ },
+ {
+  "id": "flash",
+  "ipa": "/flæʃ/",
+  "fr": "éclair, flash (n.) ; briller, clignoter (v.)",
+  "def": "a sudden bright light that lasts a short time",
+  "ex": "A flash of lightning lit up the night sky."
+ },
+ {
+  "id": "flat",
+  "ipa": "/flæt/",
+  "fr": "plat",
+  "def": "smooth and level, without curves or slopes",
+  "ex": "The land around here is very flat and green."
+ },
+ {
+  "id": "flexible",
+  "ipa": "/ˈfleksəbl/",
+  "fr": "flexible, souple",
+  "def": "able to change or bend easily",
+  "ex": "This job offers flexible working hours for busy parents."
+ },
+ {
+  "id": "flight",
+  "ipa": "/flaɪt/",
+  "fr": "vol",
+  "def": "a journey in an airplane",
+  "ex": "Our flight to New York leaves early tomorrow morning."
+ },
+ {
+  "id": "float",
+  "ipa": "/floʊt/",
+  "fr": "flotter",
+  "def": "to stay on top of a liquid without sinking",
+  "ex": "Wood is light enough to float on water easily."
+ },
+ {
+  "id": "flood",
+  "ipa": "/flʌd/",
+  "fr": "inondation (n.) ; inonder (v.)",
+  "def": "a large amount of water covering a usually dry area",
+  "ex": "Heavy rain caused a bad flood in the town center."
+ },
+ {
+  "id": "floor",
+  "ipa": "/flɔːr/",
+  "fr": "sol, étage",
+  "def": "the flat surface you stand on inside a room",
+  "ex": "The children were playing on the kitchen floor together."
+ },
+ {
+  "id": "flour",
+  "ipa": "/ˈflaʊɚ/",
+  "fr": "farine",
+  "def": "a powder made from grain, used to make bread",
+  "ex": "Mix the flour with two eggs and some milk."
+ },
+ {
+  "id": "flow",
+  "ipa": "/floʊ/",
+  "fr": "couler, circuler (v.) ; flux, écoulement (n.)",
+  "def": "to move steadily and continuously, like a liquid",
+  "ex": "The river flows gently through the middle of town."
+ },
+ {
+  "id": "flower",
+  "ipa": "/ˈflaʊɚ/",
+  "fr": "fleur",
+  "def": "the colorful part of a plant that produces seeds",
+  "ex": "She picked a yellow flower from the garden."
+ },
+ {
+  "id": "flu",
+  "ipa": "/fluː/",
+  "fr": "grippe",
+  "def": "a common illness like a bad cold with a fever",
+  "ex": "He stayed home from work because he had the flu."
+ },
+ {
+  "id": "fly",
+  "ipa": "/flaɪ/",
+  "fr": "voler (v.) ; mouche (n.)",
+  "def": "to move through the air",
+  "ex": "Birds fly south every year before winter arrives."
+ },
+ {
+  "id": "flying",
+  "ipa": "/ˈflaɪɪŋ/",
+  "fr": "vol (n.) ; volant (adj.)",
+  "def": "traveling or moving through the air",
+  "ex": "She is scared of flying, so she takes the train."
+ },
+ {
+  "id": "focus",
+  "ipa": "/ˈfoʊkəs/",
+  "fr": "se concentrer (v.) ; concentration (n.)",
+  "def": "to give most of your attention to one thing",
+  "ex": "Please focus on your homework instead of the television."
+ },
+ {
+  "id": "fold",
+  "ipa": "/foʊld/",
+  "fr": "plier (v.) ; pli (n.)",
+  "def": "to bend something so one part lies on another",
+  "ex": "She likes to fold the laundry while watching television."
+ },
+ {
+  "id": "folding",
+  "ipa": "/ˈfoʊldɪŋ/",
+  "fr": "pliant",
+  "def": "able to be folded flat for storage",
+  "ex": "We bought a folding table for the small balcony."
+ },
+ {
+  "id": "folk",
+  "ipa": "/foʊk/",
+  "fr": "les gens (n.) ; folklorique, populaire (adj.)",
+  "def": "people in general, especially from a particular region",
+  "ex": "Country folk often know all their neighbors well."
+ },
+ {
+  "id": "follow",
+  "ipa": "/ˈfɑːloʊ/",
+  "fr": "suivre",
+  "def": "to move behind someone or go the same way",
+  "ex": "The dog followed her all the way to school."
+ },
+ {
+  "id": "following",
+  "ipa": "/ˈfɑːloʊɪŋ/",
+  "fr": "suivant (adj.) ; adeptes (n.) ; suite à (prep.)",
+  "def": "coming right after in time or order",
+  "ex": "We will discuss this topic in the following chapter."
+ },
+ {
+  "id": "food",
+  "ipa": "/fuːd/",
+  "fr": "nourriture",
+  "def": "what people and animals eat to live",
+  "ex": "The restaurant serves delicious food at a fair price."
+ },
+ {
+  "id": "foot",
+  "ipa": "/fʊt/",
+  "fr": "pied",
+  "def": "the part of your leg that touches the ground",
+  "ex": "He hurt his foot playing soccer with friends."
+ },
+ {
+  "id": "football",
+  "ipa": "/ˈfʊtbɔːl/",
+  "fr": "football américain",
+  "def": "a sport played by two teams with an oval ball",
+  "ex": "The boys play football in the park every weekend."
+ },
+ {
+  "id": "for",
+  "ipa": "/fɔːr/",
+  "fr": "pour",
+  "def": "intended to be given to or used by someone",
+  "ex": "I bought a small birthday gift for my best friend."
+ },
+ {
+  "id": "force",
+  "ipa": "/fɔːrs/",
+  "fr": "force (n.) ; forcer, obliger (v.)",
+  "def": "physical strength or power used against something",
+  "ex": "The strong wind blew the door open with great force."
+ },
+ {
+  "id": "foreign",
+  "ipa": "/ˈfɔːrən/",
+  "fr": "étranger",
+  "def": "belonging to or coming from another country",
+  "ex": "She enjoys learning about foreign cultures and languages."
+ },
+ {
+  "id": "forest",
+  "ipa": "/ˈfɔːrɪst/",
+  "fr": "forêt",
+  "def": "a large area covered with trees",
+  "ex": "They walked for hours through the quiet, green forest."
+ },
+ {
+  "id": "forever",
+  "ipa": "/fɚˈevɚ/",
+  "fr": "pour toujours",
+  "def": "for all future time, without ending",
+  "ex": "He promised to love her forever and always."
+ },
+ {
+  "id": "forget",
+  "ipa": "/fɚˈɡet/",
+  "fr": "oublier",
+  "def": "to fail to remember something",
+  "ex": "Please don't forget to bring your umbrella tomorrow morning."
+ },
+ {
+  "id": "forgive",
+  "ipa": "/fɚˈɡɪv/",
+  "fr": "pardonner",
+  "def": "to stop being angry with someone for something wrong",
+  "ex": "It took years for her to forgive her brother completely."
+ },
+ {
+  "id": "fork",
+  "ipa": "/fɔːrk/",
+  "fr": "fourchette",
+  "def": "a tool with points, used for eating food",
+  "ex": "She picked up her fork and started eating dinner."
+ },
+ {
+  "id": "form",
+  "ipa": "/fɔːrm/",
+  "fr": "forme, formulaire (n.) ; former (v.)",
+  "def": "the shape or type of something",
+  "ex": "Please fill out this form with your full name."
+ },
+ {
+  "id": "formal",
+  "ipa": "/ˈfɔːrml/",
+  "fr": "formel, officiel",
+  "def": "following accepted rules or customs, not casual",
+  "ex": "Guests are expected to wear formal clothes to the wedding."
+ },
+ {
+  "id": "former",
+  "ipa": "/ˈfɔːrmɚ/",
+  "fr": "ancien, précédent",
+  "def": "having a particular position or role in the past",
+  "ex": "The former president gave a speech at the university."
+ },
+ {
+  "id": "fortunately",
+  "ipa": "/ˈfɔːrtʃənətli/",
+  "fr": "heureusement",
+  "def": "it is good that this happened",
+  "ex": "Fortunately, nobody was hurt in the small car accident."
+ },
+ {
+  "id": "fortune",
+  "ipa": "/ˈfɔːrtʃən/",
+  "fr": "fortune, richesse",
+  "def": "a very large amount of money",
+  "ex": "Her grandfather made a fortune selling houses downtown."
+ },
+ {
+  "id": "forty",
+  "ipa": "/ˈfɔːrti/",
+  "fr": "quarante",
+  "def": "the number 40",
+  "ex": "About forty guests attended the small wedding ceremony."
+ },
+ {
+  "id": "forward",
+  "ipa": "/ˈfɔːrwɚd/",
+  "fr": "en avant (adv.) ; avant (adj.)",
+  "def": "toward the front or in the direction ahead",
+  "ex": "She leaned forward to hear the quiet music better."
+ },
+ {
+  "id": "found",
+  "ipa": "/faʊnd/",
+  "fr": "fonder",
+  "def": "to start an organization, company, or institution",
+  "ex": "The two friends founded the company together in 1998."
+ },
+ {
+  "id": "four",
+  "ipa": "/fɔːr/",
+  "fr": "quatre",
+  "def": "the number 4",
+  "ex": "The table has four legs and a glass top."
+ },
+ {
+  "id": "fourteen",
+  "ipa": "/ˌfɔːrˈtiːn/",
+  "fr": "quatorze",
+  "def": "the number 14",
+  "ex": "She will turn fourteen years old next month."
+ },
+ {
+  "id": "fourth",
+  "ipa": "/fɔːrθ/",
+  "fr": "quatrième",
+  "def": "coming after the third in order",
+  "ex": "July fourth is a national holiday in America."
+ },
+ {
+  "id": "frame",
+  "ipa": "/freɪm/",
+  "fr": "cadre (n.) ; encadrer (v.)",
+  "def": "a border that surrounds a picture or window",
+  "ex": "She put the family photo in a wooden frame."
+ },
+ {
+  "id": "free",
+  "ipa": "/friː/",
+  "fr": "gratuit, libre (adj.) ; gratuitement (adv.) ; libérer (v.)",
+  "def": "costing no money, or able to do as you want",
+  "ex": "Entry to the museum is free on Sundays."
+ },
+ {
+  "id": "freedom",
+  "ipa": "/ˈfriːdəm/",
+  "fr": "liberté",
+  "def": "the right to do or say what you want",
+  "ex": "The new law protects freedom of speech for everyone."
+ },
+ {
+  "id": "freeze",
+  "ipa": "/friːz/",
+  "fr": "geler, congeler",
+  "def": "to become solid ice because of cold",
+  "ex": "The lake freezes completely every winter in this town."
+ },
+ {
+  "id": "frequency",
+  "ipa": "/ˈfriːkwənsi/",
+  "fr": "fréquence",
+  "def": "how often something happens",
+  "ex": "The frequency of storms has increased over the years."
+ },
+ {
+  "id": "frequently",
+  "ipa": "/ˈfriːkwəntli/",
+  "fr": "fréquemment, souvent",
+  "def": "happening often",
+  "ex": "He frequently travels to Asia for his new job."
+ },
+ {
+  "id": "fresh",
+  "ipa": "/freʃ/",
+  "fr": "frais",
+  "def": "recently made, grown, or picked, not old",
+  "ex": "We bought fresh vegetables at the local market today."
+ },
+ {
+  "id": "friday",
+  "ipa": "/ˈfraɪdeɪ/",
+  "fr": "vendredi",
+  "def": "the day after Thursday and before Saturday",
+  "ex": "We usually go to the movies on Friday nights."
+ },
+ {
+  "id": "friend",
+  "ipa": "/frend/",
+  "fr": "ami, amie",
+  "def": "a person you know well and like",
+  "ex": "My best friend moved to another city last year."
+ },
+ {
+  "id": "friendly",
+  "ipa": "/ˈfrendli/",
+  "fr": "amical, sympathique",
+  "def": "behaving in a kind and pleasant way",
+  "ex": "Our new neighbors are very friendly and helpful."
+ },
+ {
+  "id": "friendship",
+  "ipa": "/ˈfrendʃɪp/",
+  "fr": "amitié",
+  "def": "a relationship between friends",
+  "ex": "Their friendship has lasted since they were young children."
+ },
+ {
+  "id": "frighten",
+  "ipa": "/ˈfraɪtn/",
+  "fr": "effrayer",
+  "def": "to make someone feel afraid",
+  "ex": "The loud thunder frightened the small children last night."
+ },
+ {
+  "id": "frightened",
+  "ipa": "/ˈfraɪtnd/",
+  "fr": "effrayé, apeuré",
+  "def": "feeling afraid",
+  "ex": "She felt frightened when she heard the strange noise."
+ },
+ {
+  "id": "frightening",
+  "ipa": "/ˈfraɪtnɪŋ/",
+  "fr": "effrayant",
+  "def": "making you feel afraid",
+  "ex": "It was a frightening experience for the young children."
+ },
+ {
+  "id": "frog",
+  "ipa": "/frɔːɡ/",
+  "fr": "grenouille",
+  "def": "a small green animal that lives near water",
+  "ex": "A green frog jumped suddenly into the pond nearby."
+ },
+ {
+  "id": "from",
+  "ipa": "/frʌm/",
+  "fr": "de, depuis",
+  "def": "showing the place or time something starts",
+  "ex": "This letter is from my grandmother in Spain."
+ },
+ {
+  "id": "front",
+  "ipa": "/frʌnt/",
+  "fr": "avant, devant (n.) ; de devant (adj.)",
+  "def": "the part of something that faces forward",
+  "ex": "Please wait for me at the front of the store."
+ },
+ {
+  "id": "frozen",
+  "ipa": "/ˈfroʊzn/",
+  "fr": "gelé, congelé",
+  "def": "turned into ice or kept very cold",
+  "ex": "We keep frozen vegetables in the freezer for dinner."
+ },
+ {
+  "id": "fruit",
+  "ipa": "/fruːt/",
+  "fr": "fruit",
+  "def": "a sweet food that grows on trees or plants",
+  "ex": "Children should eat more fresh fruit every day."
+ },
+ {
+  "id": "fry",
+  "ipa": "/fraɪ/",
+  "fr": "faire frire",
+  "def": "to cook food in hot oil or fat",
+  "ex": "She likes to fry eggs for breakfast every morning."
+ },
+ {
+  "id": "fuel",
+  "ipa": "/ˈfjuːəl/",
+  "fr": "carburant (n.) ; alimenter (v.)",
+  "def": "a substance burned to produce heat or power",
+  "ex": "The car ran out of fuel on the highway."
+ },
+ {
+  "id": "full",
+  "ipa": "/fʊl/",
+  "fr": "plein",
+  "def": "containing as much as possible",
+  "ex": "The bus was completely full, so we had to wait."
+ },
+ {
+  "id": "fully",
+  "ipa": "/ˈfʊli/",
+  "fr": "entièrement, pleinement",
+  "def": "completely",
+  "ex": "The hotel room was fully booked for the entire weekend."
+ },
+ {
+  "id": "fun",
+  "ipa": "/fʌn/",
+  "fr": "amusement, plaisir (n.) ; amusant (adj.)",
+  "def": "enjoyment or pleasure",
+  "ex": "The kids had so much fun at the party."
+ },
+ {
+  "id": "function",
+  "ipa": "/ˈfʌŋkʃn/",
+  "fr": "fonction (n.) ; fonctionner (v.)",
+  "def": "the purpose or job of something",
+  "ex": "The main function of this device is measuring temperature."
+ },
+ {
+  "id": "fund",
+  "ipa": "/fʌnd/",
+  "fr": "fonds (n.) ; financer (v.)",
+  "def": "an amount of money saved for a special purpose",
+  "ex": "The charity fund helps families pay for medical care."
+ },
+ {
+  "id": "fundamental",
+  "ipa": "/ˌfʌndəˈmentl/",
+  "fr": "fondamental",
+  "def": "forming a necessary base or core part of something",
+  "ex": "Trust is a fundamental part of any good relationship."
+ },
+ {
+  "id": "funding",
+  "ipa": "/ˈfʌndɪŋ/",
+  "fr": "financement",
+  "def": "money provided for a particular purpose",
+  "ex": "The school received extra funding to buy new computers."
+ },
+ {
+  "id": "funny",
+  "ipa": "/ˈfʌni/",
+  "fr": "drôle, amusant",
+  "def": "causing you to laugh or smile",
+  "ex": "He told a funny joke that made everyone laugh."
+ },
+ {
+  "id": "fur",
+  "ipa": "/fɝː/",
+  "fr": "fourrure, poil",
+  "def": "the soft thick hair covering some animals",
+  "ex": "The cat's fur felt soft and warm to touch."
+ },
+ {
+  "id": "furniture",
+  "ipa": "/ˈfɝːnɪtʃɚ/",
+  "fr": "meubles",
+  "def": "movable objects like tables, chairs, and beds",
+  "ex": "They bought new furniture for their small living room."
+ },
+ {
+  "id": "further",
+  "ipa": "/ˈfɝːðɚ/",
+  "fr": "plus loin (adv.) ; supplémentaire (adj.)",
+  "def": "more distant, or more, additional",
+  "ex": "We need further information before making a final decision."
+ },
+ {
+  "id": "furthermore",
+  "ipa": "/ˈfɝːðɚmɔːr/",
+  "fr": "de plus, en outre",
+  "def": "in addition to what has already been said",
+  "ex": "Furthermore, the report failed to mention the actual costs."
+ },
+ {
+  "id": "future",
+  "ipa": "/ˈfjuːtʃɚ/",
+  "fr": "avenir, futur (n.) ; futur (adj.)",
+  "def": "the time that will come after the present",
+  "ex": "Nobody really knows what the future will bring."
+ },
+ {
+  "id": "gain",
+  "ipa": "/ɡeɪn/",
+  "fr": "gagner, obtenir (v.) ; gain (n.)",
+  "def": "to get or obtain something useful",
+  "ex": "She hopes to gain more experience in this new job."
+ },
+ {
+  "id": "gallery",
+  "ipa": "/ˈɡæləri/",
+  "fr": "galerie",
+  "def": "a room or building where art is shown",
+  "ex": "We visited an art gallery in downtown Chicago."
+ },
+ {
+  "id": "game",
+  "ipa": "/ɡeɪm/",
+  "fr": "jeu, match",
+  "def": "an activity you play with rules",
+  "ex": "The children played a fun game in the yard."
+ },
+ {
+  "id": "gang",
+  "ipa": "/ɡæŋ/",
+  "fr": "bande, gang",
+  "def": "a group of people who do things together, often criminal",
+  "ex": "Police arrested three members of the local gang."
+ },
+ {
+  "id": "gap",
+  "ipa": "/ɡæp/",
+  "fr": "écart, espace",
+  "def": "an empty space between two things",
+  "ex": "There is a small gap between the bed and wall."
+ },
+ {
+  "id": "garage",
+  "ipa": "/ɡəˈrɑːʒ/",
+  "fr": "garage",
+  "def": "a building where you keep a car",
+  "ex": "He parked his old bicycle inside the garage."
+ },
+ {
+  "id": "garbage",
+  "ipa": "/ˈɡɑːrbɪdʒ/",
+  "fr": "ordures, déchets",
+  "def": "waste material that is thrown away",
+  "ex": "Please take the garbage out before you leave."
+ },
+ {
+  "id": "garden",
+  "ipa": "/ˈɡɑːrdn/",
+  "fr": "jardin",
+  "def": "an area of land where plants are grown",
+  "ex": "My mother grows fresh tomatoes in her small garden."
+ },
+ {
+  "id": "gas",
+  "ipa": "/ɡæs/",
+  "fr": "gaz, essence",
+  "def": "a substance like air, or fuel for cars",
+  "ex": "We need to stop and buy more gas soon."
+ },
+ {
+  "id": "gate",
+  "ipa": "/ɡeɪt/",
+  "fr": "portail, porte",
+  "def": "a barrier that opens and closes an entrance",
+  "ex": "She closed the gate so the dog couldn't escape."
+ },
+ {
+  "id": "gather",
+  "ipa": "/ˈɡæðɚ/",
+  "fr": "rassembler, se rassembler",
+  "def": "to come together or bring together in a group",
+  "ex": "Every year the whole family gathers for Thanksgiving dinner."
+ },
+ {
+  "id": "general",
+  "ipa": "/ˈdʒenrəl/",
+  "fr": "général",
+  "def": "affecting or including most people or things",
+  "ex": "She has a general idea of what the job involves."
+ },
+ {
+  "id": "generally",
+  "ipa": "/ˈdʒenrəli/",
+  "fr": "généralement",
+  "def": "in most cases, usually",
+  "ex": "Generally, people prefer to eat dinner around six o'clock."
+ },
+ {
+  "id": "generate",
+  "ipa": "/ˈdʒenəreɪt/",
+  "fr": "générer, produire",
+  "def": "to produce or create something",
+  "ex": "Solar panels generate electricity from sunlight during the day."
+ },
+ {
+  "id": "generation",
+  "ipa": "/ˌdʒenəˈreɪʃn/",
+  "fr": "génération",
+  "def": "all the people born around the same time",
+  "ex": "Each generation faces different challenges than the one before."
+ },
+ {
+  "id": "generous",
+  "ipa": "/ˈdʒenərəs/",
+  "fr": "généreux",
+  "def": "willing to give more money, time, or help than expected",
+  "ex": "It was very generous of him to pay for dinner."
+ },
+ {
+  "id": "genre",
+  "ipa": "/ˈʒɑːnrə/",
+  "fr": "genre",
+  "def": "a particular type of art, music, or writing",
+  "ex": "Science fiction is her favorite genre of movie."
+ },
+ {
+  "id": "gentle",
+  "ipa": "/ˈdʒentl/",
+  "fr": "doux, délicat",
+  "def": "kind, calm, and careful, not rough",
+  "ex": "The nurse gave the baby a gentle touch."
+ },
+ {
+  "id": "gentleman",
+  "ipa": "/ˈdʒentlmən/",
+  "fr": "monsieur, gentleman",
+  "def": "a polite word for a man",
+  "ex": "An elderly gentleman helped her carry the heavy bags."
+ },
+ {
+  "id": "geography",
+  "ipa": "/dʒiˈɑːɡrəfi/",
+  "fr": "géographie",
+  "def": "the study of countries, seas, and physical features",
+  "ex": "We are studying the geography of South America this term."
+ },
+ {
+  "id": "get",
+  "ipa": "/ɡet/",
+  "fr": "obtenir, recevoir, devenir",
+  "def": "to obtain, receive, or become something",
+  "ex": "She hopes to get a new job at the hospital."
+ },
+ {
+  "id": "ghost",
+  "ipa": "/ɡoʊst/",
+  "fr": "fantôme",
+  "def": "the spirit of a dead person",
+  "ex": "The old house is said to be full of ghosts."
+ },
+ {
+  "id": "giant",
+  "ipa": "/ˈdʒaɪənt/",
+  "fr": "géant",
+  "def": "extremely large in size",
+  "ex": "A giant wave crashed against the rocks near shore."
+ },
+ {
+  "id": "gift",
+  "ipa": "/ɡɪft/",
+  "fr": "cadeau",
+  "def": "something you give someone, usually for a special occasion",
+  "ex": "She wrapped the birthday gift in colorful paper."
+ },
+ {
+  "id": "girl",
+  "ipa": "/ɡɝːl/",
+  "fr": "fille",
+  "def": "a female child or young woman",
+  "ex": "The little girl was playing happily in the park."
+ },
+ {
+  "id": "girlfriend",
+  "ipa": "/ˈɡɝːlfrend/",
+  "fr": "petite amie",
+  "def": "a woman someone is romantically involved with",
+  "ex": "He introduced his girlfriend to all his close friends."
+ },
+ {
+  "id": "give",
+  "ipa": "/ɡɪv/",
+  "fr": "donner",
+  "def": "to hand something to someone",
+  "ex": "My uncle likes to give small gifts to everyone."
+ },
+ {
+  "id": "glad",
+  "ipa": "/ɡlæd/",
+  "fr": "content, heureux",
+  "def": "pleased or happy about something",
+  "ex": "I'm so glad you could come to the party."
+ },
+ {
+  "id": "glass",
+  "ipa": "/ɡlæs/",
+  "fr": "verre",
+  "def": "a hard clear material, or a cup made of it",
+  "ex": "She poured herself a glass of cold orange juice."
+ },
+ {
+  "id": "global",
+  "ipa": "/ˈɡloʊbl/",
+  "fr": "mondial, global",
+  "def": "relating to or covering the whole world",
+  "ex": "Climate change is a serious global problem today."
+ },
+ {
+  "id": "glove",
+  "ipa": "/ɡlʌv/",
+  "fr": "gant",
+  "def": "a covering for the hand with separate fingers",
+  "ex": "She wore a warm glove on each hand."
+ },
+ {
+  "id": "go",
+  "ipa": "/ɡoʊ/",
+  "fr": "aller (v.) ; essai, tentative (n.)",
+  "def": "to move or travel from one place to another",
+  "ex": "We usually go to the beach every summer weekend."
+ },
+ {
+  "id": "goal",
+  "ipa": "/ɡoʊl/",
+  "fr": "but, objectif",
+  "def": "something you hope to achieve in the future",
+  "ex": "Her main goal this year is learning French."
+ },
+ {
+  "id": "god",
+  "ipa": "/ɡɑːd/",
+  "fr": "dieu",
+  "def": "a being believed to have power over nature and life",
+  "ex": "Many ancient cultures believed in more than one god."
+ },
+ {
+  "id": "gold",
+  "ipa": "/ɡoʊld/",
+  "fr": "or (n.) ; en or, doré (adj.)",
+  "def": "a valuable yellow metal used in jewelry",
+  "ex": "She wore a beautiful gold necklace to the party."
+ },
+ {
+  "id": "golf",
+  "ipa": "/ɡɑːlf/",
+  "fr": "golf",
+  "def": "a sport where players hit a small ball into holes",
+  "ex": "My father plays golf with his friends on Sundays."
+ },
+ {
+  "id": "good",
+  "ipa": "/ɡʊd/",
+  "fr": "bon, bien (adj.) ; bien, bonté (n.)",
+  "def": "having positive qualities, pleasant or of high quality",
+  "ex": "This restaurant serves really good food at fair prices."
+ },
+ {
+  "id": "goodbye",
+  "ipa": "/ˌɡʊdˈbaɪ/",
+  "fr": "au revoir",
+  "def": "something you say when leaving someone",
+  "ex": "She waved goodbye as the train left the station."
+ },
+ {
+  "id": "goods",
+  "ipa": "/ɡʊdz/",
+  "fr": "marchandises, biens",
+  "def": "things that are made to be sold",
+  "ex": "The store sells a wide range of household goods."
+ },
+ {
+  "id": "govern",
+  "ipa": "/ˈɡʌvɚn/",
+  "fr": "gouverner",
+  "def": "to officially control and lead a country",
+  "ex": "A new political party now governs the entire country."
+ },
+ {
+  "id": "government",
+  "ipa": "/ˈɡʌvɚnmənt/",
+  "fr": "gouvernement",
+  "def": "the group of people who officially control a country",
+  "ex": "The government announced new plans to build more schools."
+ },
+ {
+  "id": "governor",
+  "ipa": "/ˈɡʌvɚnɚ/",
+  "fr": "gouverneur",
+  "def": "the elected leader of a state in the US",
+  "ex": "The governor spoke about new plans for the state."
+ },
+ {
+  "id": "grab",
+  "ipa": "/ɡræb/",
+  "fr": "attraper, saisir",
+  "def": "to take hold of something quickly and firmly",
+  "ex": "He tried to grab the ball before it fell."
+ },
+ {
+  "id": "grade",
+  "ipa": "/ɡreɪd/",
+  "fr": "note, classe (n.) ; noter, évaluer (v.)",
+  "def": "a letter or number showing how good your work is",
+  "ex": "She got a good grade on her math test."
+ },
+ {
+  "id": "gradually",
+  "ipa": "/ˈɡrædʒuəli/",
+  "fr": "graduellement, progressivement",
+  "def": "slowly, over a long period of time",
+  "ex": "The sky gradually grew darker as the storm approached."
+ },
+ {
+  "id": "graduate",
+  "ipa": "/ˈɡrædʒuət/ (n.), /ˈɡrædʒueɪt/ (v.)",
+  "fr": "diplômé (n.) ; obtenir son diplôme (v.)",
+  "def": "to complete a course of study successfully",
+  "ex": "She plans to graduate from college next spring."
+ },
+ {
+  "id": "grain",
+  "ipa": "/ɡreɪn/",
+  "fr": "grain, céréale",
+  "def": "the small hard seeds of plants like wheat or rice",
+  "ex": "Farmers store the grain in large metal containers outside."
+ },
+ {
+  "id": "grand",
+  "ipa": "/ɡrænd/",
+  "fr": "grandiose, magnifique",
+  "def": "large, impressive, and important",
+  "ex": "The hotel has a grand entrance with marble floors."
+ },
+ {
+  "id": "grandfather",
+  "ipa": "/ˈɡrænfɑːðɚ/",
+  "fr": "grand-père",
+  "def": "the father of your mother or father",
+  "ex": "My grandfather told us stories about the war."
+ },
+ {
+  "id": "grandmother",
+  "ipa": "/ˈɡrænmʌðɚ/",
+  "fr": "grand-mère",
+  "def": "the mother of your mother or father",
+  "ex": "My grandmother always bakes cookies for us on Sundays."
+ },
+ {
+  "id": "grandparent",
+  "ipa": "/ˈɡrænperənt/",
+  "fr": "grand-parent",
+  "def": "the parent of your mother or father",
+  "ex": "Every grandparent in the photo looked happy and proud."
+ },
+ {
+  "id": "grant",
+  "ipa": "/ɡrænt/",
+  "fr": "accorder (v.) ; subvention, bourse (n.)",
+  "def": "to formally give someone what they ask for",
+  "ex": "The university granted her a full scholarship this year."
+ },
+ {
+  "id": "grass",
+  "ipa": "/ɡræs/",
+  "fr": "herbe",
+  "def": "the short green plant that covers fields and gardens",
+  "ex": "The children ran barefoot across the soft green grass."
+ },
+ {
+  "id": "grateful",
+  "ipa": "/ˈɡreɪtfl/",
+  "fr": "reconnaissant",
+  "def": "feeling thankful for something",
+  "ex": "We are grateful for all your help this year."
+ },
+ {
+  "id": "gray",
+  "ipa": "/ɡreɪ/",
+  "fr": "gris",
+  "def": "having the color between black and white",
+  "ex": "He wore a gray suit to the job interview."
+ },
+ {
+  "id": "great",
+  "ipa": "/ɡreɪt/",
+  "fr": "génial, excellent, grand",
+  "def": "very good, or very large in amount",
+  "ex": "We had a great time visiting the new museum."
+ },
+ {
+  "id": "green",
+  "ipa": "/ɡriːn/",
+  "fr": "vert",
+  "def": "having the color of grass or leaves",
+  "ex": "She painted her bedroom walls a soft green color."
+ },
+ {
+  "id": "greet",
+  "ipa": "/ɡriːt/",
+  "fr": "saluer, accueillir",
+  "def": "to say hello to someone",
+  "ex": "He greeted every guest with a warm smile."
+ },
+ {
+  "id": "grocery",
+  "ipa": "/ˈɡroʊsəri/",
+  "fr": "épicerie, courses",
+  "def": "relating to food and small household goods sold in a store",
+  "ex": "We need to buy milk at the grocery store."
+ },
+ {
+  "id": "ground",
+  "ipa": "/ɡraʊnd/",
+  "fr": "sol, terrain",
+  "def": "the solid surface of the earth",
+  "ex": "Autumn leaves covered the ground outside our house."
+ },
+ {
+  "id": "group",
+  "ipa": "/ɡruːp/",
+  "fr": "groupe",
+  "def": "a number of people or things together",
+  "ex": "A large group of tourists gathered near the fountain."
+ },
+ {
+  "id": "grow",
+  "ipa": "/ɡroʊ/",
+  "fr": "grandir, pousser, cultiver",
+  "def": "to increase in size or amount over time",
+  "ex": "Tomatoes grow very quickly in warm summer weather here."
+ },
+ {
+  "id": "growth",
+  "ipa": "/ɡroʊθ/",
+  "fr": "croissance",
+  "def": "the process of growing or increasing",
+  "ex": "The company has seen strong growth over the past year."
+ },
+ {
+  "id": "guarantee",
+  "ipa": "/ˌɡærənˈtiː/",
+  "fr": "garantir (v.) ; garantie (n.)",
+  "def": "to promise that something will happen or be true",
+  "ex": "The store cannot guarantee that the item will arrive tomorrow."
+ },
+ {
+  "id": "guard",
+  "ipa": "/ɡɑːrd/",
+  "fr": "garde (n.) ; garder, protéger (v.)",
+  "def": "a person or group that protects someone or something",
+  "ex": "A security guard stood quietly by the front door."
+ },
+ {
+  "id": "guess",
+  "ipa": "/ɡes/",
+  "fr": "deviner (v.) ; supposition (n.)",
+  "def": "to give an answer without being sure it is right",
+  "ex": "Try to guess how many candies are in the jar."
+ },
+ {
+  "id": "guest",
+  "ipa": "/ɡest/",
+  "fr": "invité",
+  "def": "a person invited to visit or stay somewhere",
+  "ex": "Each guest brought a small gift to the party."
+ },
+ {
+  "id": "guide",
+  "ipa": "/ɡaɪd/",
+  "fr": "guide (n.) ; guider (v.)",
+  "def": "a person or book that helps you find your way",
+  "ex": "Our tour guide showed us around the old city."
+ },
+ {
+  "id": "guilty",
+  "ipa": "/ˈɡɪlti/",
+  "fr": "coupable",
+  "def": "having done something wrong, or feeling responsible for it",
+  "ex": "He felt guilty about forgetting his best friend's birthday."
+ },
+ {
+  "id": "guitar",
+  "ipa": "/ɡɪˈtɑːr/",
+  "fr": "guitare",
+  "def": "a musical instrument with strings, played with the fingers",
+  "ex": "She taught herself to play the guitar last summer."
+ },
+ {
+  "id": "gun",
+  "ipa": "/ɡʌn/",
+  "fr": "arme à feu, pistolet",
+  "def": "a weapon that shoots bullets",
+  "ex": "The police officer carried a gun on his belt."
+ },
+ {
+  "id": "guy",
+  "ipa": "/ɡaɪ/",
+  "fr": "type, mec",
+  "def": "a man, used in an informal way",
+  "ex": "That guy over there is my new neighbor."
+ },
+ {
+  "id": "gym",
+  "ipa": "/dʒɪm/",
+  "fr": "salle de sport, gymnase",
+  "def": "a place with equipment for physical exercise",
+  "ex": "He goes to the gym three times a week."
+ },
+ {
+  "id": "habit",
+  "ipa": "/ˈhæbɪt/",
+  "fr": "habitude",
+  "def": "something you do regularly, often without thinking",
+  "ex": "Drinking coffee every morning is an old habit of mine."
+ },
+ {
+  "id": "hair",
+  "ipa": "/her/",
+  "fr": "cheveux, poil",
+  "def": "the thin thread-like growth on your head",
+  "ex": "She cut her long hair before the summer holidays."
+ },
+ {
+  "id": "half",
+  "ipa": "/hæf/",
+  "fr": "moitié, demi (n.) ; à moitié (adv.)",
+  "def": "one of two equal parts of something",
+  "ex": "He ate half of the sandwich and saved the rest."
+ },
+ {
+  "id": "hall",
+  "ipa": "/hɔːl/",
+  "fr": "couloir, hall, salle",
+  "def": "a passage or large room inside a building",
+  "ex": "Students waited quietly in the hall before the exam."
+ },
+ {
+  "id": "hand",
+  "ipa": "/hænd/",
+  "fr": "main (n.) ; passer, tendre (v.)",
+  "def": "the part of your body at the end of your arm",
+  "ex": "She held her son's hand while crossing the street."
+ },
+ {
+  "id": "handle",
+  "ipa": "/ˈhændl/",
+  "fr": "gérer, manier (v.) ; poignée (n.)",
+  "def": "to deal with a situation, problem, or object",
+  "ex": "She knows exactly how to handle difficult customers at work."
+ },
+ {
+  "id": "hang",
+  "ipa": "/hæŋ/",
+  "fr": "suspendre, accrocher",
+  "def": "to attach something at the top so it hangs down",
+  "ex": "Please hang your coat on the hook by the door."
+ },
+ {
+  "id": "happen",
+  "ipa": "/ˈhæpən/",
+  "fr": "arriver, se passer",
+  "def": "to take place, especially without being planned",
+  "ex": "Nobody expected the accident to happen so suddenly."
+ },
+ {
+  "id": "happily",
+  "ipa": "/ˈhæpɪli/",
+  "fr": "joyeusement, heureusement",
+  "def": "in a happy or willing way",
+  "ex": "The children played happily together all afternoon long."
+ },
+ {
+  "id": "happiness",
+  "ipa": "/ˈhæpinəs/",
+  "fr": "bonheur",
+  "def": "the feeling of being happy",
+  "ex": "Money doesn't always bring true happiness to people."
+ },
+ {
+  "id": "happy",
+  "ipa": "/ˈhæpi/",
+  "fr": "heureux, content",
+  "def": "feeling or showing pleasure",
+  "ex": "She felt happy after hearing the good news."
+ },
+ {
+  "id": "hard",
+  "ipa": "/hɑːrd/",
+  "fr": "dur, difficile (adj.) ; dur, fort (adv.)",
+  "def": "difficult to do, or needing a lot of effort",
+  "ex": "This math problem is really hard to solve."
+ },
+ {
+  "id": "hardly",
+  "ipa": "/ˈhɑːrdli/",
+  "fr": "à peine, presque pas",
+  "def": "almost not at all",
+  "ex": "I hardly slept last night because of the noise."
+ },
+ {
+  "id": "harm",
+  "ipa": "/hɑːrm/",
+  "fr": "mal, dommage (n.) ; nuire (v.)",
+  "def": "damage or injury caused to someone or something",
+  "ex": "The storm caused serious harm to many local farms."
+ },
+ {
+  "id": "harmful",
+  "ipa": "/ˈhɑːrmfl/",
+  "fr": "nuisible, nocif",
+  "def": "causing damage or injury",
+  "ex": "Too much sun can be harmful to your skin."
+ },
+ {
+  "id": "hat",
+  "ipa": "/hæt/",
+  "fr": "chapeau",
+  "def": "a covering for your head",
+  "ex": "He wore a warm hat during the cold winter walk."
+ },
+ {
+  "id": "hate",
+  "ipa": "/heɪt/",
+  "fr": "détester, haïr (v.) ; haine (n.)",
+  "def": "to dislike someone or something very strongly",
+  "ex": "My little brother says he hates vegetables of any kind."
+ },
+ {
+  "id": "have",
+  "ipa": "/hæv/",
+  "fr": "avoir",
+  "def": "to own, hold, or experience something",
+  "ex": "They have a small dog and two cats at home."
+ },
+ {
+  "id": "have-to",
+  "ipa": "/ˈhæf tə/",
+  "fr": "devoir",
+  "def": "used to say something is necessary",
+  "ex": "We have to leave early to catch the train."
+ },
+ {
+  "id": "he",
+  "ipa": "/hiː/",
+  "fr": "il",
+  "def": "used to talk about a man or boy already mentioned",
+  "ex": "He works at the hospital near his parents' house."
+ },
+ {
+  "id": "head",
+  "ipa": "/hed/",
+  "fr": "tête (n.) ; se diriger, diriger (v.)",
+  "def": "the top part of your body, above your neck",
+  "ex": "She hit her head on the low wooden shelf."
+ },
+ {
+  "id": "headache",
+  "ipa": "/ˈhedeɪk/",
+  "fr": "mal de tête",
+  "def": "a pain inside your head",
+  "ex": "I have a terrible headache after staring at the screen."
+ },
+ {
+  "id": "headline",
+  "ipa": "/ˈhedlaɪn/",
+  "fr": "titre, gros titre",
+  "def": "the title of a newspaper story, printed in large letters",
+  "ex": "The headline announced the surprising election results this morning."
+ },
+ {
+  "id": "health",
+  "ipa": "/helθ/",
+  "fr": "santé",
+  "def": "the condition of your body or mind",
+  "ex": "Regular exercise is good for your overall health."
+ },
+ {
+  "id": "healthy",
+  "ipa": "/ˈhelθi/",
+  "fr": "en bonne santé, sain",
+  "def": "having good health, or good for your health",
+  "ex": "Eating vegetables every day keeps you strong and healthy."
+ },
+ {
+  "id": "hear",
+  "ipa": "/hɪr/",
+  "fr": "entendre",
+  "def": "to notice sound with your ears",
+  "ex": "I couldn't hear the music over the loud crowd."
+ },
+ {
+  "id": "hearing",
+  "ipa": "/ˈhɪrɪŋ/",
+  "fr": "ouïe ; audience (juridique)",
+  "def": "the ability to hear sounds",
+  "ex": "His hearing has gotten worse since he was young."
+ },
+ {
+  "id": "heart",
+  "ipa": "/hɑːrt/",
+  "fr": "cœur",
+  "def": "the organ in your chest that pumps blood",
+  "ex": "Her heart beat faster as she waited nervously outside."
+ },
+ {
+  "id": "heat",
+  "ipa": "/hiːt/",
+  "fr": "chaleur (n.) ; chauffer (v.)",
+  "def": "the quality of being hot, or warmth",
+  "ex": "The heat this summer has been almost unbearable."
+ },
+ {
+  "id": "heating",
+  "ipa": "/ˈhiːtɪŋ/",
+  "fr": "chauffage",
+  "def": "a system that makes a building warm",
+  "ex": "We turned on the heating because the house felt cold."
+ },
+ {
+  "id": "heaven",
+  "ipa": "/ˈhevn/",
+  "fr": "paradis, ciel",
+  "def": "the place where some believe good people go after death",
+  "ex": "Many religions describe heaven as a peaceful, beautiful place."
+ },
+ {
+  "id": "heavily",
+  "ipa": "/ˈhevəli/",
+  "fr": "lourdement, fortement",
+  "def": "with great weight, force, or amount",
+  "ex": "It rained heavily throughout the entire weekend this month."
+ },
+ {
+  "id": "heavy",
+  "ipa": "/ˈhevi/",
+  "fr": "lourd",
+  "def": "weighing a lot, hard to lift or carry",
+  "ex": "This suitcase is too heavy for me to carry."
+ },
+ {
+  "id": "heel",
+  "ipa": "/hiːl/",
+  "fr": "talon",
+  "def": "the back part of your foot or shoe",
+  "ex": "She felt a sharp pain in her heel after running."
+ },
+ {
+  "id": "height",
+  "ipa": "/haɪt/",
+  "fr": "hauteur, taille",
+  "def": "how tall or high someone or something is",
+  "ex": "The height of the fence keeps most animals out."
+ },
+ {
+  "id": "helicopter",
+  "ipa": "/ˈhelɪkɑːptɚ/",
+  "fr": "hélicoptère",
+  "def": "an aircraft with turning blades that can fly straight up",
+  "ex": "A helicopter flew low over the crowded city streets."
+ },
+ {
+  "id": "hell",
+  "ipa": "/hel/",
+  "fr": "enfer",
+  "def": "the place where some believe bad people go after death",
+  "ex": "The old preacher warned the crowd about heaven and hell."
+ },
+ {
+  "id": "hello",
+  "ipa": "/həˈloʊ/",
+  "fr": "bonjour, allô",
+  "def": "used to greet someone",
+  "ex": "She said hello to everyone as she entered the room."
+ },
+ {
+  "id": "help",
+  "ipa": "/help/",
+  "fr": "aider (v.) ; aide (n.)",
+  "def": "to make it easier for someone to do something",
+  "ex": "My neighbor always helps me carry the heavy boxes."
+ }
+]
