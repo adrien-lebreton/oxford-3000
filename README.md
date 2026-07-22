@@ -64,6 +64,12 @@ Pour régénérer après correction d'un chunk : `node scripts/merge.mjs`.
 - `src/ui/` : composants React. `src/state.tsx` : contexte et persistance.
 - Document de conception : `docs/design.md`.
 
+## Compte et synchronisation (optionnel)
+
+L'app fonctionne sans compte : mode invité, progression uniquement dans le navigateur. Avec un compte (email et mot de passe, section Compte des réglages), la progression est aussi sauvegardée en base et suit l'utilisateur d'un appareil à l'autre. À la connexion, la copie locale et la copie distante sont fusionnées mot par mot (la version la plus récente gagne), puis chaque changement repart vers la base après un court délai.
+
+Côté infrastructure : un projet Supabase (Postgres + auth), une table `progress` (une ligne par utilisateur, état complet en jsonb) protégée par RLS, voir `scripts/supabase.sql`. Les clés publiques du projet se mettent dans `src/config.ts` ; vides, tout le système de compte disparaît de l'interface.
+
 ## Où vit la progression
 
 La progression est dans le localStorage du navigateur qui affiche l'app (clé `oxford3000.v1`). Elle est donc propre à chaque navigateur et à chaque adresse, port compris : `localhost:5188` et `localhost:5173` sont deux stockages différents.

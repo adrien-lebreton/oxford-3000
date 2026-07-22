@@ -7,7 +7,22 @@ import {
 } from './core/store';
 import { counts as computeCounts, estimate, practiceStreak } from './core/stats';
 import type { Counts, Eta } from './core/stats';
+import { mergeStates } from './core/sync';
+import { frenchAuthError, getClient, pullRemote, pushRemote, syncConfigured } from './lib/supabase';
+import type { Session } from './lib/supabase';
 import { WORDS } from './data';
+
+export interface Account {
+  /** false tant que src/config.ts n'a pas les clés du projet. */
+  configured: boolean;
+  email: string | null;
+  syncing: boolean;
+  lastSync: number | null;
+  syncError: string | null;
+  signIn: (email: string, password: string) => Promise<string | null>;
+  signUp: (email: string, password: string) => Promise<string | null>;
+  signOut: () => Promise<void>;
+}
 
 interface AppCtx {
   st: ProgressState;
@@ -15,6 +30,7 @@ interface AppCtx {
   counts: Counts;
   eta: Eta;
   streak: number;
+  account: Account;
   answer: (id: string, ok: boolean) => void;
   flag: (id: string) => void;
   status: (id: string, s: Status) => void;
@@ -38,6 +54,91 @@ export function AppProvider({ children }: { children: ReactNode }) {
     return () => clearTimeout(timer.current);
   }, [st]);
 
+  /* ---------- compte et synchronisation ---------- */
+
+  const [session, setSession] = useState<Session | null>(null);
+  const [syncing, setSyncing] = useState(false);
+  const [lastSync, setLastSync] = useState<number | null>(null);
+  const [syncError, setSyncError] = useState<string | null>(null);
+  const stRef = useRef(st);
+  useEffect(() => { stRef.current = st; }, [st]);
+
+  useEffect(() => {
+    const c = getClient();
+    if (!c) return;
+    c.auth.getSession().then(({ data }) => setSession(data.session));
+    const { data: sub } = c.auth.onAuthStateChange((_event, s) => setSession(s));
+    return () => sub.subscription.unsubscribe();
+  }, []);
+
+  // À la connexion : rapatrier la copie distante, fusionner, repousser le résultat
+  const userId = session?.user.id ?? null;
+  useEffect(() => {
+    if (!userId) return;
+    let cancelled = false;
+    (async () => {
+      setSyncing(true);
+      setSyncError(null);
+      try {
+        const remote = await pullRemote(userId);
+        if (cancelled) return;
+        const merged = remote ? mergeStates(stRef.current, remote) : stRef.current;
+        setSt(merged);
+        await pushRemote(userId, merged);
+        if (!cancelled) setLastSync(Date.now());
+      } catch (e) {
+        if (!cancelled) setSyncError(frenchAuthError(e instanceof Error ? e.message : String(e)));
+      } finally {
+        if (!cancelled) setSyncing(false);
+      }
+    })();
+    return () => { cancelled = true; };
+  }, [userId]);
+
+  // Connecté : chaque changement part vers la base, avec un délai de regroupement
+  useEffect(() => {
+    if (!userId) return;
+    const t = setTimeout(() => {
+      pushRemote(userId, st)
+        .then(() => { setLastSync(Date.now()); setSyncError(null); })
+        .catch((e) => setSyncError(frenchAuthError(e instanceof Error ? e.message : String(e))));
+    }, 2000);
+    return () => clearTimeout(t);
+  }, [st, userId]);
+
+  const signIn = useCallback(async (email: string, password: string): Promise<string | null> => {
+    const c = getClient();
+    if (!c) return 'Synchronisation non configurée.';
+    const { error } = await c.auth.signInWithPassword({ email, password });
+    return error ? frenchAuthError(error.message) : null;
+  }, []);
+
+  const signUp = useCallback(async (email: string, password: string): Promise<string | null> => {
+    const c = getClient();
+    if (!c) return 'Synchronisation non configurée.';
+    const { data, error } = await c.auth.signUp({ email, password });
+    if (error) return frenchAuthError(error.message);
+    if (!data.session) return 'Compte créé. Confirme ton email puis connecte-toi.';
+    return null;
+  }, []);
+
+  const signOut = useCallback(async () => {
+    await getClient()?.auth.signOut();
+    setLastSync(null);
+    setSyncError(null);
+  }, []);
+
+  const account = useMemo<Account>(() => ({
+    configured: syncConfigured,
+    email: session?.user.email ?? null,
+    syncing,
+    lastSync,
+    syncError,
+    signIn,
+    signUp,
+    signOut,
+  }), [session, syncing, lastSync, syncError, signIn, signUp, signOut]);
+
   const answer = useCallback((id: string, ok: boolean) => setSt((s) => applyAnswer(s, id, ok, Date.now())), []);
   const flag = useCallback((id: string) => setSt((s) => toggleFlag(s, id)), []);
   const status = useCallback((id: string, v: Status) => setSt((s) => setStatus(s, id, v, Date.now())), []);
@@ -59,9 +160,9 @@ export function AppProvider({ children }: { children: ReactNode }) {
   }, [counts, st]);
 
   const value = useMemo<AppCtx>(() => ({
-    st, words: WORDS, counts, eta, streak,
+    st, words: WORDS, counts, eta, streak, account,
     answer, flag, status, bulk, patchSettings, exportState, importState, reset,
-  }), [st, counts, eta, streak, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
+  }), [st, counts, eta, streak, account, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }

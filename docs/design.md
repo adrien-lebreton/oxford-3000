@@ -77,6 +77,16 @@ La logique cœur (données, progression, stats) est isolée dans des modules Typ
 
 **Langue de l'UI** : français. Mobile d'abord (usage principal au téléphone), clavier au desktop.
 
+## Compte et synchronisation (ajout du 2026-07-22)
+
+Deux modes. Invité : comportement historique, localStorage seul, rien ne sort de l'appareil. Compte (email et mot de passe) : la progression est aussi poussée dans une base Postgres (Supabase), table `progress` avec une ligne par utilisateur (`user_id`, `state` jsonb, `updated_at`), protégée par RLS (`scripts/supabase.sql`).
+
+Flux : à la connexion, `pullRemote` récupère la copie distante, `mergeStates` (module pur `core/sync.ts`, testé) fusionne avec l'état local, le résultat remplace l'état et repart via `pushRemote`. Ensuite, chaque changement d'état déclenche un push débouncé (2 s). Le localStorage reste le cache hors-ligne : l'app marche sans réseau et se resynchronise à la reconnexion suivante.
+
+Fusion : mot par mot, la version au `last` le plus récent gagne ; événements réunis, dédoublonnés (clé id+ts+ok+src+tr), triés, plafonnés à 20 000 ; réglages pris du côté à l'activité la plus récente.
+
+La configuration (URL du projet et clé anon, valeurs publiques par nature, sécurité portée par les RLS) vit dans `src/config.ts`. Vide, la section Compte n'apparaît pas et l'app reste 100 % locale.
+
 ## Déploiement
 
 GitHub Pages : `npm run deploy` construit avec la base `/oxford-3000/` et pousse `dist/` sur la branche `gh-pages`. URL : <https://adrien-lebreton.github.io/oxford-3000/>.

@@ -6,6 +6,90 @@ interface Props {
   onClose: () => void;
 }
 
+/** Connexion, création de compte et état de la synchronisation. */
+function AccountSection() {
+  const { account } = useApp();
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [busy, setBusy] = useState(false);
+  const [message, setMessage] = useState<string | null>(null);
+
+  if (!account.configured) return null;
+
+  const submit = async (action: 'in' | 'up') => {
+    if (!email || !password) { setMessage('Renseigne email et mot de passe.'); return; }
+    setBusy(true);
+    setMessage(null);
+    const err = action === 'in' ? await account.signIn(email, password) : await account.signUp(email, password);
+    setBusy(false);
+    setMessage(err);
+    if (!err) { setEmail(''); setPassword(''); }
+  };
+
+  if (account.email) {
+    return (
+      <div className="sheet-row">
+        <div>
+          <div className="lab">Compte</div>
+          <div className="sub">
+            Connecté : {account.email}
+            {account.syncing
+              ? ' · synchronisation en cours'
+              : account.lastSync
+                ? ` · synchronisé à ${new Date(account.lastSync).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}`
+                : ''}
+          </div>
+          {account.syncError && <div className="filefeedback err">{account.syncError}</div>}
+        </div>
+        <button className="btn ghost" style={{ minHeight: 40, padding: '6px 16px' }} onClick={() => account.signOut()}>
+          Se déconnecter
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="sheet-row">
+      <div style={{ flex: '1 1 100%' }}>
+        <div className="lab">Compte</div>
+        <div className="sub">
+          Sans compte (invité), la progression reste uniquement sur cet appareil.
+          Avec un compte, elle est sauvegardée en base et te suit partout.
+        </div>
+        <div className="account-form">
+          <input
+            className="textfield"
+            type="email"
+            autoComplete="email"
+            placeholder="Email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            aria-label="Email"
+          />
+          <input
+            className="textfield"
+            type="password"
+            autoComplete="current-password"
+            placeholder="Mot de passe"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            aria-label="Mot de passe"
+          />
+          <div className="account-actions">
+            <button className="btn" style={{ minHeight: 42 }} disabled={busy} onClick={() => submit('in')}>
+              Se connecter
+            </button>
+            <button className="btn ghost" style={{ minHeight: 42 }} disabled={busy} onClick={() => submit('up')}>
+              Créer un compte
+            </button>
+          </div>
+          {message && <div className="filefeedback err">{message}</div>}
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export function Settings({ open, onClose }: Props) {
   const { st, patchSettings, exportState, importState, reset } = useApp();
   const [feedback, setFeedback] = useState<{ ok: boolean; msg: string } | null>(null);
@@ -54,6 +138,8 @@ export function Settings({ open, onClose }: Props) {
       <div className="sheet" role="dialog" aria-modal="true" aria-label="Réglages" onClick={(e) => e.stopPropagation()}>
         <div className="sheet-grip" aria-hidden />
         <h2>Réglages</h2>
+
+        <AccountSection />
 
         <div className="sheet-row">
           <div>
