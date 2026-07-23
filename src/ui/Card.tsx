@@ -29,6 +29,9 @@ export function Card({ word, flipped, onFlip, flagged, onToggleFlag, autoAudio }
         aria-label={flipped ? 'Carte retournée, réponds ci-dessous' : `Retourner la carte ${word.word}`}
         onClick={onFlip}
         onKeyDown={(e) => {
+          // Le keydown d'un bouton interne (surligneur, audio) bulle jusqu'ici :
+          // le laisser passer pour garder l'activation native Entrée/Espace.
+          if (e.target instanceof Element && e.target.closest('button')) return;
           if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onFlip(); }
         }}
       >

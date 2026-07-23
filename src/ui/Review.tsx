@@ -78,7 +78,11 @@ export function Review({ kick, visible }: Props) {
     if (!visible || phase !== 'card') return;
     const onKey = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement) return;
-      if (e.key === ' ' || e.key === 'Enter' || e.code === 'Space') { e.preventDefault(); setFlipped((f) => !f); }
+      // Un contrôle focalisé (« Pas encore », « Je connais », surligneur, carte…)
+      // gère lui-même Entrée/Espace ; on ne détourne ces touches qu'en dehors,
+      // sinon double action (la carte role="button" retournerait deux fois).
+      const onButton = e.target instanceof Element && e.target.closest('button, [role="button"]') !== null;
+      if (!onButton && (e.key === ' ' || e.key === 'Enter' || e.code === 'Space')) { e.preventDefault(); setFlipped((f) => !f); }
       else if (flipped && e.key === 'ArrowLeft') grade(false);
       else if (flipped && e.key === 'ArrowRight') grade(true);
       else if (e.key === 'f' && current) flag(current.id);
