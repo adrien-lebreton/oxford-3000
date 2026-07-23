@@ -71,6 +71,31 @@ export function estimate(c: Counts, st: ProgressState, now: number): Eta {
   return { remaining, perDay, basis, date: now + days * DAY, days };
 }
 
+export interface LevelEta {
+  level: Level;
+  known: number;
+  total: number;
+  remaining: number;
+  /** Timestamp d'acquisition projetée (cumul des niveaux précédents), null si acquis ou inestimable. */
+  date: number | null;
+}
+
+/**
+ * Projection par niveau : à combien de temps se trouve la fin de chaque niveau,
+ * en supposant qu'on avance niveau après niveau (A1 → B2) au rythme de `eta.perDay`.
+ * La date du dernier niveau non acquis coïncide avec l'estimation globale.
+ */
+export function levelEtas(c: Counts, eta: Eta, now: number): LevelEta[] {
+  let cum = 0;
+  return LEVELS.map((level) => {
+    const { known, total } = c.byLevel[level];
+    const remaining = total - known;
+    cum += remaining;
+    const date = remaining > 0 && eta.perDay > 0 ? now + Math.ceil(cum / eta.perDay) * DAY : null;
+    return { level, known, total, remaining, date };
+  });
+}
+
 /** Clé de jour locale (YYYYMMDD) pour compter les jours de pratique. */
 const dayKey = (ts: number): number => {
   const d = new Date(ts);

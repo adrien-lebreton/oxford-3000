@@ -458,7 +458,7 @@ main > div:not([hidden]) {
 .level-row {
   display: grid;
   grid-template-columns: 34px 1fr auto;
-  gap: 12px;
+  gap: 4px 12px;
   align-items: center;
 }
 
@@ -501,6 +501,32 @@ main > div:not([hidden]) {
   font-size: 12.5px;
   color: var(--ink-2);
   font-variant-numeric: tabular-nums;
+}
+
+/* la ligne de projection, sous la barre : restants à gauche, jalon à droite */
+.level-meta {
+  grid-column: 2 / -1;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.level-eta { font-weight: 650; color: var(--ink-2); white-space: nowrap; }
+
+.level-done { color: var(--good-text); font-weight: 650; }
+
+/* la note de bas de panneau, voix du dictionnaire */
+.levels-cap {
+  margin: 3px 0 0;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--muted);
 }
 
 /* ---------- boutons ---------- */
@@ -1108,6 +1134,52 @@ main > div:not([hidden]) {
     background 0.15s ease, color 0.15s ease;
 }
 .swipe-mover > .wordrow { width: 100%; }
+
+/* ---------- tirer-pour-rafraîchir : le disque de verre ---------- */
+
+/* pendant la traction à la souris, pas de sélection de texte accidentelle */
+.ptr.drag {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.ptr-disc {
+  position: fixed;
+  top: -56px;
+  left: 50%;
+  z-index: 35;
+  width: 44px;
+  height: 44px;
+  margin-left: -22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--ink-2);
+  background: var(--glass);
+  -webkit-backdrop-filter: var(--blur-chrome);
+  backdrop-filter: var(--blur-chrome);
+  box-shadow: inset 0 1px 0 var(--rim), var(--shadow-card);
+  pointer-events: none;
+  /* --pull-frac : 0 = caché au-dessus de l'écran, 1 = posé sous la découpe */
+  transform: translateY(calc(var(--pull-frac, 0) * (66px + env(safe-area-inset-top))));
+}
+
+/* le disque suit le doigt pendant la traction ; sinon, retour en ressort */
+.ptr-disc.idle,
+.ptr-disc.busy {
+  transition: transform 0.45s var(--spring), opacity 0.25s var(--ease-out);
+}
+
+.ptr-disc.armed { color: var(--accent); }
+
+.ptr-icon { display: inline-flex; }
+
+.ptr-icon.spin { animation: ptr-spin 0.8s linear infinite; }
+
+@keyframes ptr-spin {
+  to { transform: rotate(360deg); }
+}
 
 .wordrow .top { display: flex; align-items: baseline; gap: 8px; min-width: 0; }
 

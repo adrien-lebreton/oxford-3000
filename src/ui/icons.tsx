@@ -89,3 +89,17 @@ export const IconSearch = ({ size = 20 }: IconProps) => (
     <path d="m15.5 15.5 4.5 4.5" />
   </svg>
 );
+
+export const IconArrowDown = ({ size = 22 }: IconProps) => (
+  <svg {...base(size)}>
+    <path d="M12 4.5v15" />
+    <path d="m5.5 13.5 6.5 6.5 6.5-6.5" />
+  </svg>
+);
+
+/** Arc ouvert : le spinner de la synchro (rotation en CSS). */
+export const IconSpinnerArc = ({ size = 22 }: IconProps) => (
+  <svg {...base(size)}>
+    <path d="M12 3a9 9 0 1 1-8.2 5.3" />
+  </svg>
+);

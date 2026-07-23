@@ -12,6 +12,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev:alt"],
       "port": 5190
+    },
+    {
+      "name": "oxford-3000-preview",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "preview", "--", "--port", "5199", "--strictPort"],
+      "port": 5199
     }
   ]
 }

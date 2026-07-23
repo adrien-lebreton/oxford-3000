@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react';
 import { fmtDate, fmtInt, fmtRate, useApp } from '../state';
 import { Ring } from './Ring';
 import { LevelBars } from './LevelBars';
@@ -10,19 +11,19 @@ interface Props {
 }
 
 export function Dashboard({ onStart, onConfigure, onGoDifficult, onGoTriage }: Props) {
-  const { counts, eta, streak, st } = useApp();
+  const { counts, eta, levelEtas, streak, st } = useApp();
   const done = counts.known === counts.total && counts.total > 0;
   const hasHistory = st.events.some((e) => e[3] === 'r');
 
-  let exLine: string;
+  let exLine: ReactNode;
   if (done) {
     exLine = 'Les 3 000 mots sont connus. Chapeau bas.';
   } else if (eta.basis === 'history' && eta.date) {
-    exLine = `À ce rythme (${fmtRate(eta.perDay)} mots par jour), tu termineras vers le ${fmtDate(eta.date)}.`;
+    exLine = <>À ce rythme ({fmtRate(eta.perDay)} mots par jour), tu termineras vers le <span className="swipe">{fmtDate(eta.date)}</span>.</>;
   } else if (!hasHistory && counts.known === 0) {
     exLine = 'Commence par trier les mots que tu connais déjà, puis lance une session pour établir ton rythme.';
   } else if (eta.date) {
-    exLine = `Avec un objectif de ${fmtInt(st.settings.dailyGoal)} mots par jour, tu terminerais vers le ${fmtDate(eta.date)}. L’estimation s’affinera avec tes révisions.`;
+    exLine = <>Avec un objectif de {fmtInt(st.settings.dailyGoal)} mots par jour, tu terminerais vers le <span className="swipe">{fmtDate(eta.date)}</span>. L’estimation s’affinera avec tes révisions.</>;
   } else {
     exLine = 'Fixe un objectif quotidien dans les réglages pour estimer ta date de fin.';
   }
@@ -81,7 +82,7 @@ export function Dashboard({ onStart, onConfigure, onGoDifficult, onGoTriage }: P
       </section>
 
       <h2 className="section-title">Par niveau</h2>
-      <LevelBars counts={counts} />
+      <LevelBars etas={levelEtas} eta={eta} />
     </>
   );
 }

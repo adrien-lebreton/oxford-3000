@@ -5,8 +5,8 @@ import {
   applyAnswer, bulkKnown, emptyState, loadState, parseState, saveState,
   serialize, setSettings, setStatus, toggleFlag,
 } from './core/store';
-import { counts as computeCounts, estimate, practiceStreak } from './core/stats';
-import type { Counts, Eta } from './core/stats';
+import { counts as computeCounts, estimate, levelEtas as computeLevelEtas, practiceStreak } from './core/stats';
+import type { Counts, Eta, LevelEta } from './core/stats';
 import { mergeStates } from './core/sync';
 import { frenchAuthError, getClient, pullRemote, pushRemote, syncConfigured } from './lib/supabase';
 import type { Session } from './lib/supabase';
@@ -22,6 +22,8 @@ export interface Account {
   signIn: (email: string, password: string) => Promise<string | null>;
   signUp: (email: string, password: string) => Promise<string | null>;
   signOut: () => Promise<void>;
+  /** Synchronisation à la demande (tirer-pour-rafraîchir). Sans effet hors connexion. */
+  syncNow: () => Promise<void>;
 }
 
 interface AppCtx {
@@ -33,6 +35,7 @@ interface AppCtx {
   words: Word[];
   counts: Counts;
   eta: Eta;
+  levelEtas: LevelEta[];
   streak: number;
   account: Account;
   answer: (id: string, ok: boolean) => void;
@@ -134,6 +137,35 @@ export function AppProvider({ children }: { children: ReactNode }) {
     setSyncError(null);
   }, []);
 
+  // Tirer-pour-rafraîchir : même danse qu'à la connexion, à la demande.
+  const syncBusy = useRef(false);
+  const syncNow = useCallback(async () => {
+    if (!userId || syncBusy.current) return;
+    syncBusy.current = true;
+    setSyncing(true);
+    setSyncError(null);
+    try {
+      const remote = await pullRemote(userId);
+      let merged = stRef.current;
+      if (remote) {
+        const m = mergeStates(stRef.current, remote);
+        // Ne remplace l'état (et ne purge les vues via gen) que si la fusion change quelque chose
+        if (serialize(m) !== serialize(stRef.current)) {
+          merged = m;
+          setSt(m);
+          setGen((g) => g + 1);
+        }
+      }
+      await pushRemote(userId, merged);
+      setLastSync(Date.now());
+    } catch (e) {
+      setSyncError(frenchAuthError(e instanceof Error ? e.message : String(e)));
+    } finally {
+      syncBusy.current = false;
+      setSyncing(false);
+    }
+  }, [userId]);
+
   const account = useMemo<Account>(() => ({
     configured: syncConfigured,
     email: session?.user.email ?? null,
@@ -143,7 +175,8 @@ export function AppProvider({ children }: { children: ReactNode }) {
     signIn,
     signUp,
     signOut,
-  }), [session, syncing, lastSync, syncError, signIn, signUp, signOut]);
+    syncNow,
+  }), [session, syncing, lastSync, syncError, signIn, signUp, signOut, syncNow]);
 
   const answer = useCallback((id: string, ok: boolean) => setSt((s) => applyAnswer(s, id, ok, Date.now())), []);
   const flag = useCallback((id: string) => setSt((s) => toggleFlag(s, id)), []);
@@ -161,15 +194,16 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const reset = useCallback(() => { setSt(emptyState()); setGen((g) => g + 1); }, []);
 
   const counts = useMemo(() => computeCounts(WORDS, st), [st]);
-  const { eta, streak } = useMemo(() => {
+  const { eta, levelEtas, streak } = useMemo(() => {
     const now = Date.now();
-    return { eta: estimate(counts, st, now), streak: practiceStreak(st, now) };
+    const eta = estimate(counts, st, now);
+    return { eta, levelEtas: computeLevelEtas(counts, eta, now), streak: practiceStreak(st, now) };
   }, [counts, st]);
 
   const value = useMemo<AppCtx>(() => ({
-    st, gen, words: WORDS, counts, eta, streak, account,
+    st, gen, words: WORDS, counts, eta, levelEtas, streak, account,
     answer, flag, status, bulk, patchSettings, exportState, importState, reset,
-  }), [st, gen, counts, eta, streak, account, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
+  }), [st, gen, counts, eta, levelEtas, streak, account, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }
@@ -185,6 +219,15 @@ export const fmtInt = (n: number): string => n.toLocaleString('fr-FR');
 
 export const fmtDate = (ts: number): string =>
   new Date(ts).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+
+/** Date compacte pour les jalons : « 5 août », l'année seulement si différente. */
+export const fmtDateShort = (ts: number): string => {
+  const d = new Date(ts);
+  const sameYear = d.getFullYear() === new Date().getFullYear();
+  return d.toLocaleDateString('fr-FR', sameYear
+    ? { day: 'numeric', month: 'short' }
+    : { day: 'numeric', month: 'short', year: 'numeric' });
+};
 
 export const fmtRate = (perDay: number): string =>
   perDay >= 10 ? String(Math.round(perDay)) : (Math.round(perDay * 10) / 10).toLocaleString('fr-FR');

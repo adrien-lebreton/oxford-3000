@@ -7,6 +7,7 @@ import { Triage } from './ui/Triage';
 import { WordList } from './ui/WordList';
 import { WordSheet } from './ui/WordSheet';
 import { Settings } from './ui/Settings';
+import { PullToRefresh } from './ui/PullToRefresh';
 import { TabBar } from './ui/TabBar';
 import type { Tab } from './ui/TabBar';
 import { IconGear } from './ui/icons';
@@ -21,32 +22,36 @@ export default function App() {
   return (
     <AppProvider>
       <div className="shell">
-        <header className="topbar">
-          <div className="brand">Oxford 3000<span className="tm">™</span></div>
-          <button className="iconbtn" aria-label="Réglages" onClick={() => setSettingsOpen(true)}>
-            <IconGear />
-          </button>
-        </header>
+        {/* La traction couvre l'en-tête et les vues ; les feuilles modales et la
+            barre d'onglets restent en dehors pour ne pas déclencher la synchro. */}
+        <PullToRefresh>
+          <header className="topbar">
+            <div className="brand">Oxford 3000<span className="tm">™</span></div>
+            <button className="iconbtn" aria-label="Réglages" onClick={() => setSettingsOpen(true)}>
+              <IconGear />
+            </button>
+          </header>
 
-        <main>
-          <div hidden={tab !== 'home'}>
-            <Dashboard
-              onStart={() => { setTab('review'); setReviewKick((k) => k + 1); }}
-              onConfigure={() => setTab('review')}
-              onGoDifficult={() => { setTab('words'); setFlaggedKick((k) => k + 1); }}
-              onGoTriage={() => setTab('triage')}
-            />
-          </div>
-          <div hidden={tab !== 'review'}>
-            <Review kick={reviewKick} visible={tab === 'review'} />
-          </div>
-          <div hidden={tab !== 'triage'}>
-            <Triage visible={tab === 'triage'} />
-          </div>
-          <div hidden={tab !== 'words'}>
-            <WordList openWord={setSheetWord} flaggedKick={flaggedKick} />
-          </div>
-        </main>
+          <main>
+            <div hidden={tab !== 'home'}>
+              <Dashboard
+                onStart={() => { setTab('review'); setReviewKick((k) => k + 1); }}
+                onConfigure={() => setTab('review')}
+                onGoDifficult={() => { setTab('words'); setFlaggedKick((k) => k + 1); }}
+                onGoTriage={() => setTab('triage')}
+              />
+            </div>
+            <div hidden={tab !== 'review'}>
+              <Review kick={reviewKick} visible={tab === 'review'} />
+            </div>
+            <div hidden={tab !== 'triage'}>
+              <Triage visible={tab === 'triage'} />
+            </div>
+            <div hidden={tab !== 'words'}>
+              <WordList openWord={setSheetWord} flaggedKick={flaggedKick} />
+            </div>
+          </main>
+        </PullToRefresh>
 
         <TabBar tab={tab} onChange={setTab} />
         <Settings open={settingsOpen} onClose={() => setSettingsOpen(false)} />

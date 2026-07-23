@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { applyAnswer, bulkKnown, emptyState, setSettings } from './store';
-import { DAY, counts, estimate, learningRate, practiceStreak } from './stats';
+import { DAY, counts, estimate, learningRate, levelEtas, practiceStreak } from './stats';
 import type { Level, Word } from './types';
 
 const mkWord = (id: string, level: Level): Word => ({
@@ -78,6 +78,42 @@ describe('estimate', () => {
   it('objectif à 0 sans historique → inestimable', () => {
     const st = setSettings(emptyState(), { dailyGoal: 0 });
     expect(estimate(counts(words, st), st, T)).toMatchObject({ date: null, days: null });
+  });
+});
+
+describe('levelEtas', () => {
+  const words = [
+    ...Array.from({ length: 10 }, (_, i) => mkWord(`a${i}`, 'A1')),
+    ...Array.from({ length: 10 }, (_, i) => mkWord(`b${i}`, 'A2')),
+  ];
+
+  it('cumule les restants niveau après niveau, au rythme global', () => {
+    let st = setSettings(emptyState(), { dailyGoal: 5 });
+    st = bulkKnown(st, ['a0', 'a1', 'a2', 'a3', 'a4'], T); // A1 : 5 restants
+    const c = counts(words, st);
+    const e = estimate(c, st, T);
+    const l = levelEtas(c, e, T);
+    expect(l[0]).toMatchObject({ level: 'A1', remaining: 5, date: T + DAY });      // ceil(5/5)
+    expect(l[1]).toMatchObject({ level: 'A2', remaining: 10, date: T + 3 * DAY }); // ceil(15/5)
+    // Le dernier niveau non acquis retombe sur l'estimation globale
+    expect(l[1].date).toBe(e.date);
+  });
+
+  it('niveau acquis ou vide → pas de date', () => {
+    let st = setSettings(emptyState(), { dailyGoal: 5 });
+    st = bulkKnown(st, words.filter((w) => w.level === 'A1').map((w) => w.id), T);
+    const c = counts(words, st);
+    const l = levelEtas(c, estimate(c, st, T), T);
+    expect(l[0]).toMatchObject({ level: 'A1', remaining: 0, date: null }); // acquis
+    expect(l[1]).toMatchObject({ level: 'A2', remaining: 10, date: T + 2 * DAY });
+    expect(l[2]).toMatchObject({ level: 'B1', total: 0, date: null });     // vide
+  });
+
+  it('sans rythme ni objectif → dates nulles', () => {
+    const st = setSettings(emptyState(), { dailyGoal: 0 });
+    const c = counts(words, st);
+    const l = levelEtas(c, estimate(c, st, T), T);
+    expect(l.every((x) => x.date === null)).toBe(true);
   });
 });
 
