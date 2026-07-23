@@ -33,7 +33,8 @@ export function Card({ word, flipped, onFlip, flagged, onToggleFlag, autoAudio }
         }}
       >
         {/* recto : l'entrée du dictionnaire, côté anglais */}
-        <div className="face panel" style={{ position: 'relative' }} aria-hidden={flipped}>
+        {/* inert : la face cachée ne doit être ni focalisable (Tab) ni exposée aux lecteurs d'écran */}
+        <div className="face panel" style={{ position: 'relative' }} inert={flipped}>
           <div className="card-level" aria-hidden>
             {levels.map((l) => <span key={l} className={`level-chip ${l.toLowerCase()}`}>{l}</span>)}
           </div>
@@ -66,7 +67,7 @@ export function Card({ word, flipped, onFlip, flagged, onToggleFlag, autoAudio }
         </div>
 
         {/* verso : traduction, définition, exemples (un par sens) */}
-        <div className="face back panel" aria-hidden={!flipped}>
+        <div className="face back panel" inert={!flipped}>
           <div className="back-inner">
             <div className="card-back-word" lang="en">{word.word} {word.ipa}</div>
             <div className="card-fr">{word.fr}</div>
