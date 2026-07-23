@@ -26,6 +26,10 @@ export interface Account {
 
 interface AppCtx {
   st: ProgressState;
+  /** Génération de l'état : incrémentée à chaque remplacement en bloc
+   *  (remise à zéro, import, fusion de sync) pour que les vues purgent
+   *  leur état de session (ex. la pile de tri). */
+  gen: number;
   words: Word[];
   counts: Counts;
   eta: Eta;
@@ -45,6 +49,7 @@ const Ctx = createContext<AppCtx | null>(null);
 
 export function AppProvider({ children }: { children: ReactNode }) {
   const [st, setSt] = useState<ProgressState>(() => loadState(localStorage));
+  const [gen, setGen] = useState(0);
 
   // Persistance débouncée
   const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
@@ -84,6 +89,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
         if (cancelled) return;
         const merged = remote ? mergeStates(stRef.current, remote) : stRef.current;
         setSt(merged);
+        if (remote) setGen((g) => g + 1);
         await pushRemote(userId, merged);
         if (!cancelled) setLastSync(Date.now());
       } catch (e) {
@@ -149,9 +155,10 @@ export function AppProvider({ children }: { children: ReactNode }) {
     const parsed = parseState(json);
     if (!parsed) return false;
     setSt(parsed);
+    setGen((g) => g + 1);
     return true;
   }, []);
-  const reset = useCallback(() => setSt(emptyState()), []);
+  const reset = useCallback(() => { setSt(emptyState()); setGen((g) => g + 1); }, []);
 
   const counts = useMemo(() => computeCounts(WORDS, st), [st]);
   const { eta, streak } = useMemo(() => {
@@ -160,9 +167,9 @@ export function AppProvider({ children }: { children: ReactNode }) {
   }, [counts, st]);
 
   const value = useMemo<AppCtx>(() => ({
-    st, words: WORDS, counts, eta, streak, account,
+    st, gen, words: WORDS, counts, eta, streak, account,
     answer, flag, status, bulk, patchSettings, exportState, importState, reset,
-  }), [st, counts, eta, streak, account, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
+  }), [st, gen, counts, eta, streak, account, answer, flag, status, bulk, patchSettings, exportState, importState, reset]);
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }

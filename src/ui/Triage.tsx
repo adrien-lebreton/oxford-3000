@@ -1,22 +1,40 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import type { MouseEvent as RMouseEvent, PointerEvent as RPointerEvent } from 'react';
 import type { Level } from '../core/types';
 import { triagePool } from '../core/draw';
+import { getWP } from '../core/store';
 import { canSpeak, speak } from '../core/audio';
 import { fmtInt, useApp } from '../state';
 import { IconCheck, IconSpeaker } from './icons';
 
 const LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2'];
 
+/** Profondeur de la pile des derniers tris corrigeables. */
+const HISTORY_MAX = 15;
+
 /**
  * Tri rapide : marquer d'un geste les mots déjà connus, un par un,
  * pour solder la phase de démarrage sans passer par des sessions.
  */
 export function Triage({ visible }: { visible: boolean }) {
-  const { words, st, status } = useApp();
+  const { words, st, gen, status } = useApp();
   const [level, setLevel] = useState<Level | 'all'>('all');
   const [skipped, setSkipped] = useState<ReadonlySet<string>>(() => new Set());
-  const [sessionCount, setSessionCount] = useState(0);
-  const [last, setLast] = useState<{ id: string; word: string } | null>(null);
+  // Pile des derniers mots triés (ids, le plus récent en tête) : chaque
+  // entrée reste corrigeable individuellement, sans défaire les suivantes.
+  const [history, setHistory] = useState<string[]>([]);
+  // Tous les mots triés cette session (non plafonné), pour le compteur.
+  const [touched, setTouched] = useState<ReadonlySet<string>>(() => new Set());
+
+  // L'état de session ne survit pas à un remplacement en bloc de la
+  // progression (remise à zéro, import, fusion de sync) : pas de pile fantôme.
+  useEffect(() => {
+    setHistory([]);
+    setSkipped(new Set());
+    setTouched(new Set());
+  }, [gen]);
+
+  const byId = useMemo(() => new Map(words.map((w) => [w.id, w])), [words]);
 
   const freshByLevel = useMemo(() => {
     const acc: Record<string, number> = { all: 0 };
@@ -31,32 +49,98 @@ export function Triage({ visible }: { visible: boolean }) {
   const pool = useMemo(() => triagePool(words, st, level, skipped), [words, st, level, skipped]);
   const current = pool[0];
 
+  // Dérivé de l'état réel : reste juste même si un statut change ailleurs.
+  const sessionCount = useMemo(() => {
+    let n = 0;
+    for (const id of touched) if (getWP(st, id).s === 2) n++;
+    return n;
+  }, [touched, st]);
+
+  const push = useCallback((id: string) => {
+    setHistory((h) => [id, ...h.filter((x) => x !== id)].slice(0, HISTORY_MAX));
+    setTouched((t) => (t.has(id) ? t : new Set(t).add(id)));
+  }, []);
+
   const mark = useCallback(() => {
     if (!current) return;
     status(current.id, 2);
-    setSessionCount((c) => c + 1);
-    setLast({ id: current.id, word: current.word });
-  }, [current, status]);
+    push(current.id);
+  }, [current, status, push]);
 
   const skip = useCallback(() => {
     if (!current) return;
     setSkipped((s) => new Set(s).add(current.id));
-  }, [current]);
+    push(current.id);
+  }, [current, push]);
+
+  /** Corrige une entrée de la pile : connu ↔ passé, sans toucher aux autres. */
+  const toggle = useCallback((id: string) => {
+    if (getWP(st, id).s === 2) {
+      // Marqué connu par erreur → repasse en « passé » : statut inchangé (0),
+      // exclu de la file pour cette session, il reviendra à la prochaine visite.
+      status(id, 0);
+      setSkipped((s) => new Set(s).add(id));
+    } else {
+      status(id, 2);
+      setSkipped((s) => { const n = new Set(s); n.delete(id); return n; });
+    }
+  }, [st, status]);
 
   const undo = useCallback(() => {
-    if (!last) return;
-    status(last.id, 0);
-    setSessionCount((c) => Math.max(0, c - 1));
-    setLast(null);
-  }, [last, status]);
+    if (history.length > 0) toggle(history[0]);
+  }, [history, toggle]);
+
+  // Glisser-souris = défilement de la bande, comme le geste tactile natif
+  // (même convention que le swipe des rangées de la page Mots).
+  const drag = useRef<{ id: number; x: number; left: number; engaged: boolean } | null>(null);
+  const suppressClick = useRef(false);
+
+  const onStripPointerDown = (e: RPointerEvent<HTMLDivElement>) => {
+    if (e.pointerType !== 'mouse' || e.button !== 0) return;
+    drag.current = { id: e.pointerId, x: e.clientX, left: e.currentTarget.scrollLeft, engaged: false };
+    suppressClick.current = false;
+  };
+
+  const onStripPointerMove = (e: RPointerEvent<HTMLDivElement>) => {
+    const d = drag.current;
+    if (!d || e.pointerId !== d.id) return;
+    // Bouton relâché hors de la bande : le pointerup ne nous est jamais parvenu.
+    if (e.buttons === 0) { drag.current = null; return; }
+    const dx = e.clientX - d.x;
+    if (!d.engaged) {
+      if (Math.abs(dx) < 5) return; // simple clic : on ne bouge pas
+      d.engaged = true;
+      suppressClick.current = true;
+      try { e.currentTarget.setPointerCapture(d.id); } catch { /* pointeur déjà relâché */ }
+    }
+    e.currentTarget.scrollLeft = d.left - dx;
+  };
+
+  const onStripPointerEnd = (e: RPointerEvent<HTMLDivElement>) => {
+    if (drag.current && e.pointerId === drag.current.id) drag.current = null;
+  };
+
+  // Après un glissement, le relâcher ne doit pas corriger une pastille.
+  const onStripClickCapture = (e: RMouseEvent<HTMLDivElement>) => {
+    if (suppressClick.current) {
+      suppressClick.current = false;
+      e.preventDefault();
+      e.stopPropagation();
+    }
+  };
 
   useEffect(() => {
     if (!visible) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement) return;
-      if (e.key === 'ArrowRight' || e.key === 'Enter') { e.preventDefault(); mark(); }
-      else if (e.key === 'ArrowLeft' || e.key === ' ' || e.code === 'Space') { e.preventDefault(); skip(); }
-      else if (e.key === 'u') undo();
+      // Un bouton focalisé (pastille de la pile, gros boutons) garde son
+      // activation native Entrée/Espace ; on ne détourne que hors bouton.
+      const onButton = e.target instanceof Element && e.target.closest('button') !== null;
+      if (e.key === 'ArrowRight') { e.preventDefault(); mark(); }
+      else if (e.key === 'ArrowLeft') { e.preventDefault(); skip(); }
+      else if (!onButton && e.key === 'Enter') { e.preventDefault(); mark(); }
+      else if (!onButton && (e.key === ' ' || e.code === 'Space')) { e.preventDefault(); skip(); }
+      else if (e.key === 'u' && !e.repeat) undo();
       else if (e.key === 'p' && current) speak(current.word);
     };
     window.addEventListener('keydown', onKey);
@@ -109,17 +193,6 @@ export function Triage({ visible }: { visible: boolean }) {
               <IconCheck size={19} /> Je le connais
             </button>
           </div>
-
-          <div className="undo-row">
-            {last ? (
-              <>
-                <span>« {last.word} » marqué connu</span>
-                <button onClick={undo}>Annuler</button>
-              </>
-            ) : (
-              <span className="keyhint">→ je connais · ← passer · U annuler · P écouter</span>
-            )}
-          </div>
         </>
       ) : (
         <div className="panel empty">
@@ -135,6 +208,48 @@ export function Triage({ visible }: { visible: boolean }) {
           </div>
         </div>
       )}
+
+      {history.length > 0 ? (
+        <div className="hist">
+          <div className="hist-cap" id="hist-cap">Un mot mal trié ? Touche-le pour corriger.</div>
+          <div
+            className="hist-strip"
+            role="group"
+            aria-labelledby="hist-cap"
+            onPointerDown={onStripPointerDown}
+            onPointerMove={onStripPointerMove}
+            onPointerUp={onStripPointerEnd}
+            onPointerCancel={onStripPointerEnd}
+            onClickCapture={onStripClickCapture}
+          >
+            {history.map((id) => {
+              const w = byId.get(id);
+              const s = getWP(st, id).s;
+              // Un mot repris entre-temps par une vraie révision (s=1) ne
+              // reflète plus une décision de tri : sa pastille disparaît.
+              if (!w || s === 1) return null;
+              const known = s === 2;
+              return (
+                <button
+                  key={id}
+                  className={`hist-chip ${known ? 'known' : ''}`}
+                  title={w.fr}
+                  aria-label={`${w.word}, ${w.fr} — ${known ? 'marqué connu, corriger en passé' : 'passé, corriger en connu'}`}
+                  onClick={() => toggle(id)}
+                >
+                  {known ? <IconCheck size={14} /> : <span className="arr" aria-hidden>→</span>}
+                  <span lang="en">{w.word}</span>
+                  <span className="fr">{w.fr}</span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      ) : current ? (
+        <div className="triage-hint">
+          <span className="keyhint">→ je connais · ← passer · U corriger · P écouter</span>
+        </div>
+      ) : null}
     </section>
   );
 }

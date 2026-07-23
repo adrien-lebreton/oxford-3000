@@ -857,19 +857,87 @@ main > div:not([hidden]) {
 .grade.neutral { color: var(--ink-2); }
 .grade.neutral:hover { background: var(--accent-soft); color: var(--ink); }
 
-.undo-row {
+.triage-hint {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
   margin-top: 14px;
   min-height: 22px;
   color: var(--muted);
   font-size: 13.5px;
 }
 
-.undo-row button { color: var(--accent); font-weight: 750; }
-.undo-row button:hover { text-decoration: underline; }
+/* la pile des derniers tris, corrigeable pastille par pastille */
+
+.hist { margin-top: 14px; }
+
+.hist-cap {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--muted);
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.hist-strip {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 6px 24px;
+  scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 22px, #000 calc(100% - 22px), transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 22px, #000 calc(100% - 22px), transparent 100%);
+}
+
+.hist-strip::-webkit-scrollbar { display: none; }
+
+.hist-chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 40px;
+  padding: 6px 15px;
+  border-radius: 999px;
+  background: var(--glass);
+  color: var(--ink-2);
+  font-size: 13.5px;
+  font-weight: 650;
+  box-shadow: inset 0 1px 0 var(--rim), 0 1px 4px rgba(14, 20, 40, 0.06);
+  transition: transform 0.18s var(--spring), background 0.2s ease, color 0.15s ease;
+  animation: hist-in 0.3s var(--spring);
+}
+
+.hist-chip:hover { color: var(--ink); }
+.hist-chip:active { transform: scale(0.93); }
+
+.hist-chip.known { background: var(--good-soft); color: var(--good-text); }
+
+.hist-chip .arr { opacity: 0.6; }
+
+/* la traduction, en sourdine, tronquée si trop longue */
+.hist-chip .fr {
+  font-weight: 500;
+  font-size: 12px;
+  opacity: 0.62;
+  max-width: 11ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@keyframes hist-in {
+  from { opacity: 0; transform: scale(0.8); }
+}
+
+/* à la souris : la bande se glisse (drag-to-scroll) et une piste discrète s'affiche */
+@media (hover: hover) and (pointer: fine) {
+  .hist-strip { cursor: grab; scrollbar-width: thin; scrollbar-color: var(--surface-2) transparent; }
+  .hist-strip:active { cursor: grabbing; }
+  .hist-strip::-webkit-scrollbar { display: block; height: 5px; }
+  .hist-strip::-webkit-scrollbar-thumb { background: var(--surface-2); border-radius: 3px; }
+  .hist-strip::-webkit-scrollbar-track { background: transparent; }
+}
 
 /* fin de session */
 
@@ -985,6 +1053,61 @@ main > div:not([hidden]) {
 
 .wordrow:hover { background: var(--card-solid); }
 .wordrow:active { transform: scale(0.98); }
+
+/* glissement latéral façon Tinder : ← difficile, → connu.
+   Surtout pas de content-visibility ici : le paint containment du wrapper
+   rognerait l'ombre des rangées (elle reste portée par .wordrow). */
+.swiperow {
+  position: relative;
+  touch-action: pan-y;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.swipe-under {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 18px;
+  font-size: 14px;
+  font-weight: 800;
+  white-space: nowrap;
+  pointer-events: none;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.swipe-under .lbl {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  transition: transform 0.18s var(--spring);
+}
+
+.swipe-under.armed .lbl { transform: scale(1.08); }
+
+/* côté d'ancrage du bandeau… */
+.swipe-under.start { left: 0; justify-content: flex-start; padding-left: 20px; }
+.swipe-under.end { right: 0; justify-content: flex-end; padding-right: 20px; }
+
+/* …et sa teinte, indépendante du côté */
+.swipe-under.good { background: var(--good-soft); color: var(--good-text); }
+.swipe-under.good.armed { background: var(--good); color: #04351c; }
+
+.swipe-under.hard { background: var(--hl-soft); color: var(--warn-text); }
+.swipe-under.hard.armed { background: var(--hl); color: #443300; }
+
+/* pendant le glissement tout suit le doigt ; au relâcher, retour en ressort */
+.swipe-mover { transition: transform 0.3s var(--spring); }
+.swiperow.drag .swipe-mover { transition: none; }
+.swiperow:not(.drag) .swipe-under {
+  transition:
+    width 0.3s var(--spring), opacity 0.3s ease,
+    background 0.15s ease, color 0.15s ease;
+}
+.swipe-mover > .wordrow { width: 100%; }
 
 .wordrow .top { display: flex; align-items: baseline; gap: 8px; min-width: 0; }
 

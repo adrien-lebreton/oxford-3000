@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { Level, Status, Word } from '../core/types';
 import { getWP } from '../core/store';
 import { fmtInt, useApp } from '../state';
-import { IconSearch } from './icons';
+import { IconCheck, IconHighlighter, IconSearch } from './icons';
+import { SwipeRow } from './SwipeRow';
 
 const PAGE = 150;
 const LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2'];
@@ -12,6 +13,51 @@ const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,
 const STATUS_LABEL: Record<Status, string> = { 0: 'Nouveau', 1: 'En cours', 2: 'Connu' };
 const STATUS_CLASS: Record<Status, string> = { 0: 'fresh', 1: 'learning', 2: 'known' };
 
+/**
+ * Une rangée balayable. Mémoïsée : un swipe met à jour tout l'état global,
+ * seule la rangée touchée doit se re-rendre (props scalaires + callbacks stables),
+ * pas les 150+ visibles — le retour en ressort partirait avec du retard.
+ */
+const WordRow = memo(function WordRow({ w, s, flagged, openWord, onFlag, onKnown }: {
+  w: Word;
+  s: Status;
+  flagged: boolean;
+  openWord: (w: Word) => void;
+  onFlag: (id: string) => void;
+  onKnown: (id: string) => void;
+}) {
+  return (
+    <SwipeRow
+      right={{
+        label: flagged ? 'Retirer' : 'Difficile',
+        icon: <IconHighlighter size={16} />,
+        kind: 'hard',
+        onTrigger: () => onFlag(w.id),
+      }}
+      left={{
+        label: s === 2 ? 'Déjà connu' : 'Connu',
+        icon: <IconCheck size={16} />,
+        kind: 'good',
+        onTrigger: () => onKnown(w.id),
+      }}
+    >
+      <button className="wordrow" onClick={() => openWord(w)}>
+        <span className="top">
+          <span className="w" lang="en">
+            <span className={flagged ? 'swipe' : ''}>{w.word}</span>
+            {w.note ? <span className="card-note"> ({w.note})</span> : null}
+          </span>
+          <span className="ipa" lang="en">{w.ipa}</span>
+        </span>
+        <span className="fr">{w.fr}</span>
+        <span className="status">
+          <span className={`pill ${STATUS_CLASS[s]}`}>{STATUS_LABEL[s]}</span>
+        </span>
+      </button>
+    </SwipeRow>
+  );
+});
+
 interface Props {
   openWord: (w: Word) => void;
   /** Incrémenté quand l'accueil demande la vue « difficiles ». */
@@ -19,7 +65,8 @@ interface Props {
 }
 
 export function WordList({ openWord, flaggedKick }: Props) {
-  const { words, st, bulk } = useApp();
+  const { words, st, bulk, flag, status: setWordStatus } = useApp();
+  const known = useCallback((id: string) => setWordStatus(id, 2), [setWordStatus]);
   const [q, setQ] = useState('');
   const [level, setLevel] = useState<Level | 'all'>('all');
   const [status, setStatus] = useState<Status | 'all'>('all');
@@ -127,19 +174,15 @@ export function WordList({ openWord, flaggedKick }: Props) {
           {filtered.slice(0, visible).map((w) => {
             const wp = getWP(st, w.id);
             return (
-              <button className="wordrow" key={w.id} onClick={() => openWord(w)}>
-                <span className="top">
-                  <span className="w" lang="en">
-                    <span className={wp.flag ? 'swipe' : ''}>{w.word}</span>
-                    {w.note ? <span className="card-note"> ({w.note})</span> : null}
-                  </span>
-                  <span className="ipa" lang="en">{w.ipa}</span>
-                </span>
-                <span className="fr">{w.fr}</span>
-                <span className="status">
-                  <span className={`pill ${STATUS_CLASS[wp.s]}`}>{STATUS_LABEL[wp.s]}</span>
-                </span>
-              </button>
+              <WordRow
+                key={w.id}
+                w={w}
+                s={wp.s}
+                flagged={wp.flag}
+                openWord={openWord}
+                onFlag={flag}
+                onKnown={known}
+              />
             );
           })}
         </div>

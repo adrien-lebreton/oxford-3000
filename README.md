@@ -30,10 +30,10 @@ Ouvre l'app en ligne sur le téléphone, puis :
 ## Fonctionnalités
 
 - Accueil : mots connus et restants sur 3000, anneau de progression, répartition par niveau (A1 à B2), jours de pratique d'affilée, rythme d'apprentissage et date de fin estimée. Le rythme se mesure sur les 14 derniers jours de révision ; tant qu'il n'y a pas assez d'historique, l'estimation s'appuie sur un objectif quotidien réglable.
-- Trier : pour la phase de démarrage. Les mots jamais vus défilent un par un avec leur prononciation et leur traduction, tu tapes « Je le connais » ou « Passer », tu peux annuler le dernier marquage, et tu filtres par niveau. Ce marquage en masse ne fausse pas le calcul du rythme.
+- Trier : pour la phase de démarrage. Les mots jamais vus défilent un par un avec leur prononciation et leur traduction, tu tapes « Je le connais » ou « Passer », et tu filtres par niveau. Les 15 derniers mots triés restent affichés en pastilles : touche l'une d'elles pour corriger ce tri-là (connu ↔ passé) sans défaire les suivants. Ce marquage en masse ne fausse pas le calcul du rythme.
 - Réviser : tirage aléatoire (15 mots par défaut, réglable de 5 à 30) parmi Jamais vus (par défaut), Non connus, Difficiles ou Tous, croisable avec un filtre de niveau. Carte recto avec le mot, sa catégorie, son niveau, l'IPA et l'audio ; verso avec la traduction française, une définition anglaise simple et une phrase d'exemple par sens. Tu réponds « Je connais » ou « Pas encore ». L'écran de fin liste les ratés et permet de les rejouer.
 - Mots difficiles : marque au surligneur les mots que tu ne retiens pas, depuis la carte ou la fiche. Un mot raté deux fois est surligné automatiquement. Un mot connu que tu rates redevient « en cours », le compteur reste honnête.
-- Liste des 3000 mots : recherche en anglais ou en français, filtres par niveau, statut et difficiles, fiche détaillée par mot, et action « Tout marquer connu » sur le filtre courant.
+- Liste des 3000 mots : recherche en anglais ou en français, filtres par niveau, statut et difficiles, fiche détaillée par mot, et action « Tout marquer connu » sur le filtre courant. Chaque ligne se balaie façon Tinder : glisse à gauche pour « Connu », à droite pour « Difficile » (re-glisse à droite pour retirer le marquage) ; un tap ouvre toujours la fiche.
 - Audio : prononciation par la synthèse vocale du système (voix en-US), hors-ligne, pour le mot comme pour les phrases d'exemple.
 - Sauvegarde : la progression vit dans le navigateur (localStorage). Export et import JSON dans les réglages pour changer d'appareil.
 
