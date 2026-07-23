@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
-  // './' en local ; /oxford-3000/ pour GitHub Pages (voir scripts/deploy.sh)
+  // './' en local ; /oxford-3000/ pour GitHub Pages (voir .github/workflows/deploy.yml)
   base: process.env.DEPLOY_BASE ?? './',
   plugins: [
     react(),

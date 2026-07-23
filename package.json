@@ -8,8 +8,7 @@
     "dev:alt": "vite --port 5190 --strictPort",
     "build": "tsc -p . --noEmit && vite build",
     "preview": "vite preview",
-    "test": "vitest run",
-    "deploy": "sh scripts/deploy.sh"
+    "test": "vitest run"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.8",
