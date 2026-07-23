@@ -4,13 +4,13 @@
     {
       "name": "oxford-3000",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--", "--port", "5188", "--strictPort"],
+      "runtimeArgs": ["run", "dev"],
       "port": 5188
     },
     {
       "name": "oxford-3000-alt",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--", "--port", "5190", "--strictPort"],
+      "runtimeArgs": ["run", "dev:alt"],
       "port": 5190
     }
   ]

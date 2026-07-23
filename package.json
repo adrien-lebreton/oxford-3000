@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 5188 --strictPort",
+    "dev:alt": "vite --port 5190 --strictPort",
     "build": "tsc -p . --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
