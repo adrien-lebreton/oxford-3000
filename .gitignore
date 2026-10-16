@@ -6,3 +6,7 @@ dev-dist
 
 # données personnelles (progression exportée) — jamais dans le dépôt public
 sauvegardes/
+
+# config locale des outils (IDE, assistant)
+.idea/
+.claude/
