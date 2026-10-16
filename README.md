@@ -1,81 +1,115 @@
-# Oxford 3000
+# Oxford 3000 — flashcards PWA
 
-App de flashcards pour apprendre les 3000 mots essentiels de l'anglais (liste *The Oxford 3000, American English*), avec suivi de progression et estimation de la date à laquelle tu connaîtras toute la liste.
+[![CI](https://github.com/adrien-lebreton/oxford-3000/actions/workflows/ci.yml/badge.svg)](https://github.com/adrien-lebreton/oxford-3000/actions/workflows/ci.yml)
+[![Live demo](https://img.shields.io/badge/demo-live-2ea44f)](https://adrien-lebreton.github.io/oxford-3000/)
+![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript strict](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 
-App en ligne : <https://adrien-lebreton.github.io/oxford-3000/>
+An offline-first Progressive Web App to learn the 3,000 core English words (*The Oxford 3000™, American English*), with progress tracking and a projected finish date based on your real learning pace. Built for French speakers, so the UI is in French.
 
-C'est une PWA : elle tourne dans le navigateur sur Mac, Windows, iPhone et Android, s'installe sur l'écran d'accueil et fonctionne hors-ligne.
+**▶ Live demo: <https://adrien-lebreton.github.io/oxford-3000/>.** No account needed: your progress stays in your browser.
 
-## Lancer
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="docs/screenshots/home.webp" alt="Dashboard: known words, real pace, projected finish date" width="260"></td>
+    <td align="center" width="33%"><img src="docs/screenshots/card-back.webp" alt="Review card: translation, definition and example sentence" width="260"></td>
+    <td align="center" width="33%"><img src="docs/screenshots/words-swipe.webp" alt="Word list: swiping a row to mark it known" width="260"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Dashboard: known words, real pace, projected finish date per CEFR level</sub></td>
+    <td align="center"><sub>Review card: IPA, audio, translation, plain-English definition, example</sub></td>
+    <td align="center"><sub>Word list: swipe left to mark known, right to flag as difficult</sub></td>
+  </tr>
+</table>
 
-```bash
-npm install
-npm run dev
-```
+## Features
 
-```bash
-npm run build      # type-check + build de prod dans dist/
-npm run preview    # sert le build de prod
-npm test           # tests de la logique (vitest)
-npm run deploy     # publie sur GitHub Pages
-```
+- **Triage**: at the start, never-seen words scroll by one at a time so you can mark the ones you already know. Any of the last 15 decisions can be flipped without undoing the later ones.
+- **Review**: random draws of 5 to 30 words by mode (new, not known, difficult, all), crossed with a CEFR level (A1 to B2). Keyboard shortcuts on desktop.
+- **Difficult words**: flag them by hand, or let the app flag a word automatically after two misses. Auto-flagging happens once only: if you remove the flag, it never comes back.
+- **Honest finish date**: computed from your actual pace over the last 14 days. Bulk-marked words are excluded, so the estimate can't be inflated.
+- **Works everywhere, offline**: installable on iOS, Android and desktop. An optional account syncs progress across devices.
 
-### Installer sur téléphone
+## Tech stack
 
-Ouvre l'app en ligne sur le téléphone, puis :
+React 19 · TypeScript (strict) · Vite 7 · vite-plugin-pwa (Workbox) · Vitest + Testing Library · Supabase (Postgres, Auth, Row Level Security) · GitHub Actions → GitHub Pages
 
-- iPhone : Safari, bouton Partager, « Sur l'écran d'accueil »
-- Android : Chrome propose l'installation (menu, « Installer l'application »)
-
-## Fonctionnalités
-
-- Accueil : mots connus et restants sur 3000, anneau de progression, répartition par niveau (A1 à B2), jours de pratique d'affilée, rythme d'apprentissage et date de fin estimée. Le rythme se mesure sur les 14 derniers jours de révision ; tant qu'il n'y a pas assez d'historique, l'estimation s'appuie sur un objectif quotidien réglable.
-- Trier : pour la phase de démarrage. Les mots jamais vus défilent un par un avec leur prononciation et leur traduction, tu tapes « Je le connais » ou « Passer », et tu filtres par niveau. Les 15 derniers mots triés restent affichés en pastilles : touche l'une d'elles pour corriger ce tri-là (connu ↔ passé) sans défaire les suivants. Ce marquage en masse ne fausse pas le calcul du rythme.
-- Réviser : tirage aléatoire (15 mots par défaut, réglable de 5 à 30) parmi Jamais vus (par défaut), Non connus, Difficiles ou Tous, croisable avec un filtre de niveau. Carte recto avec le mot, sa catégorie, son niveau, l'IPA et l'audio ; verso avec la traduction française, une définition anglaise simple et une phrase d'exemple par sens. Tu réponds « Je connais » ou « Pas encore ». L'écran de fin liste les ratés et permet de les rejouer.
-- Mots difficiles : marque au surligneur les mots que tu ne retiens pas, depuis la carte ou la fiche. Un mot raté deux fois est surligné automatiquement. Un mot connu que tu rates redevient « en cours », le compteur reste honnête.
-- Liste des 3000 mots : recherche en anglais ou en français, filtres par niveau, statut et difficiles, fiche détaillée par mot, et action « Tout marquer connu » sur le filtre courant. Chaque ligne se balaie façon Tinder : glisse à gauche pour « Connu », à droite pour « Difficile » (re-glisse à droite pour retirer le marquage) ; un tap ouvre toujours la fiche.
-- Audio : prononciation par la synthèse vocale du système (voix en-US), hors-ligne, pour le mot comme pour les phrases d'exemple.
-- Sauvegarde : la progression vit dans le navigateur (localStorage). Export et import JSON dans les réglages pour changer d'appareil.
-
-## Raccourcis clavier (pendant une session)
-
-| Touche | Action |
-|---|---|
-| Espace / Entrée | retourner la carte |
-| ← | « Pas encore » |
-| → | « Je connais » |
-| F | surligner difficile |
-| P | prononcer le mot |
-
-## Données
-
-- `data/raw.txt` : texte extrait du PDF officiel (`pdftotext`).
-- `scripts/parse.mjs` : parse le texte en `data/base.json`. 3000 entrées exactement, validées (A1 900, A2 800, B1 700, B2 600).
-- `scripts/chunk.mjs` : découpe en lots de 250 pour l'enrichissement.
-- Enrichissement par lots (IPA General American, traduction française, définition anglaise simple, phrase d'exemple), puis validation par script.
-- `scripts/chunk-alt.mjs` : seconde passe pour les quelque 700 mots polysémiques (`stage` : scène et organiser). Chaque sens secondaire reçoit un bloc `alt {pos, def, ex}`, affiché sous l'exemple principal.
-- `scripts/merge.mjs` : fusionne et valide le tout (couverture exacte, formats IPA, exemples, blocs alt) vers `src/data/words.json`, embarqué dans l'app.
-
-Pour régénérer après correction d'un chunk : `node scripts/merge.mjs`.
+Three runtime dependencies: `react`, `react-dom`, `@supabase/supabase-js`.
 
 ## Architecture
 
-- `src/core/` : logique pure sans React, testée avec vitest. `store.ts` (progression, statuts, auto-surlignage), `draw.ts` (tirages et file de tri), `stats.ts` (compteurs, rythme, estimation), `audio.ts` (synthèse vocale).
-- `src/ui/` : composants React. `src/state.tsx` : contexte et persistance.
-- Document de conception : `docs/design.md`.
+```text
+src/
+├── core/        Pure domain logic, no React: store, draw, stats, sync (unit-tested)
+├── lib/         Supabase client: the only code that touches the network
+├── ui/          React components; gesture maths split out into pure, tested modules
+├── state.tsx    One React context: persistence and sync orchestration
+└── data/        The 3,000-word lexicon, generated by scripts/ and bundled
+scripts/         Data pipeline: official PDF text → validated JSON
+```
 
-## Compte et synchronisation (optionnel)
+A user action calls a pure function `(state, input, now) → state`. The new state is written to `localStorage` (debounced, 250 ms) and, when signed in, pushed to Postgres (debounced, 2 s).
 
-L'app fonctionne sans compte : mode invité, progression uniquement dans le navigateur. Avec un compte (email et mot de passe, section Compte des réglages), la progression est aussi sauvegardée en base et suit l'utilisateur d'un appareil à l'autre. À la connexion, la copie locale et la copie distante sont fusionnées mot par mot (la version la plus récente gagne), puis chaque changement repart vers la base après un court délai.
+## Design decisions
 
-Côté infrastructure : un projet Supabase (Postgres + auth), une table `progress` (une ligne par utilisateur, état complet en jsonb) protégée par RLS, voir `scripts/supabase.sql`. Les clés publiques du projet se mettent dans `src/config.ts` ; vides, tout le système de compte disparaît de l'interface.
+**Pure core, thin React.** Every rule (status transitions, draws, pace, merge) lives in `src/core/` as a pure function, and the current time (plus the random source for draws) is passed in as an argument. Tests are deterministic without mocking `Date`, and the core has no React import, so it could move to a React Native app unchanged.
 
-## Où vit la progression
+**Offline-first: local is the source of truth.** The app works without an account or a network. A corrupted `localStorage` entry is saved aside under `oxford3000.v1.corrupt` instead of being silently lost, and imported files and the remote copy go through the same validator (`parseState`) as stored data.
 
-La progression est dans le localStorage du navigateur qui affiche l'app (clé `oxford3000.v1`). Elle est donc propre à chaque navigateur et à chaque adresse, port compris : `localhost:5188` et `localhost:5173` sont deux stockages différents.
+**Sync without running a backend.** Supabase Postgres stores one row per user with the full progress state as `jsonb`, protected by Row Level Security ([`scripts/supabase.sql`](scripts/supabase.sql)). The anon key in `src/config.ts` is public by design: RLS is the security boundary. With an empty config, every account feature disappears from the UI.
 
-Révise toujours au même endroit, idéalement sur l'app en ligne. Pense à exporter de temps en temps (Réglages, Exporter) ; le dossier `sauvegardes/` est prévu pour ces fichiers et reste hors du dépôt.
+**Conflict resolution: per-word last-write-wins, union of events.** On sign-in and on pull-to-refresh, the app pulls the remote copy, merges it with the local one, then pushes the result. For each word, the most recent version wins; the review log is a de-duplicated union, sorted by time and capped at 20,000 events. Merging the same data twice changes nothing, and pull-to-refresh only replaces the state when the merge actually changes it.
 
-## Limites connues et pistes
+**A pace metric that stays honest.** Pace counts *net* transitions to "known" from real reviews over 14 days: a known word you miss counts −1. With fewer than 5 data points, the estimate falls back to an adjustable daily goal, so it never divides by zero or shows a wild number on day one.
 
-La progression est par appareil, sans synchronisation : l'export/import JSON fait le pont entre Mac et iPhone. La qualité des voix dépend du système (excellente sur Apple, variable ailleurs). Pour la suite, les pistes naturelles sont une vraie synchronisation, une répétition espacée type SM-2, des statistiques hebdomadaires et un mode où l'on écrit le mot.
+**No router, no state manager.** Four tabs and a settings modal: one React context is enough, and every dependency avoided is one less thing to upgrade.
+
+**Gestures as pure maths.** Swipe thresholds (engage after 14 px, trigger at 76 px or on a fling ≥ 0.55 px/ms, elastic damping past the threshold) and the pull-to-refresh curve live in `swipe-gesture.ts` and `pull-refresh.ts`, tested without a DOM. Components only wire Pointer Events, and `touch-action: pan-y` keeps native vertical scrolling.
+
+**New releases reach tabs left open.** Browsers only re-fetch a service worker on navigation, so a PWA left open on a phone never sees a deploy. `main.tsx` checks for an update every 60 s (skipped offline), and Workbox reloads the page once the new version activates.
+
+**Audio with zero assets.** Pronunciation uses the Web Speech API (en-US voice): it works offline on macOS, iOS and Android, with no audio file to ship.
+
+**Accessibility.** The hidden face of a flashcard is `inert` (neither focusable nor read by screen readers), statuses are spelled out rather than shown by colour alone, and the whole review flow works from the keyboard.
+
+## Data pipeline
+
+The lexicon is built offline by the scripts in `scripts/`:
+
+1. `pdftotext` on the official OUP PDF → `data/raw.txt`.
+2. `parse.mjs` → `data/base.json`: exactly **3,000 entries** (A1 900, A2 800, B1 700, B2 600, matching the official counts). It handles entries split over two lines, homographs (`close¹`/`close²`), notes (`bank (money)`) and case collisions (`it`/`IT`).
+3. Enrichment in batches of 250: General American IPA, French translation, plain-English definition, example sentence. A second pass covers the ~700 polysemous words with one block per secondary sense.
+4. `merge.mjs` fails on any missing, unknown or duplicate id (3,000/3,000 coverage), reports quality issues (IPA format, empty or overlong fields, a word missing from its own example, incomplete secondary senses), and writes `src/data/words.json`.
+
+## Tests and CI
+
+Unit and component tests (Vitest + Testing Library) cover status transitions and auto-flagging, draws (size, uniqueness, filters), pace and finish-date estimation (14-day window, bulk exclusion, fallback), sync merging, serialization and corrupted-state recovery, gesture maths, keyboard handling during a review session, and card accessibility.
+
+[GitHub Actions](.github/workflows/ci.yml) type-checks, tests and builds every push and pull request. The site is deployed to GitHub Pages only from `main`, and only when all of that passes.
+
+## Run locally
+
+Requires Node 22+.
+
+```bash
+npm install
+npm run dev        # http://localhost:5188
+npm test           # vitest
+npm run build      # type-check + production build in dist/
+npm run preview    # serve the production build
+```
+
+## Known limitations and next steps
+
+- Sync is last-write-wins on device clocks. Server-side timestamps, or one row per word, would remove clock-skew edge cases.
+- The whole lexicon ships in the main JS bundle (~360 kB gzipped overall) so the app is fully offline after the first visit. Lazy-loading it would speed up the first paint.
+- No spaced repetition yet: SM-2 scheduling is the natural next step.
+- Voice quality depends on the OS (excellent on Apple devices, uneven elsewhere).
+
+Original design notes, in French: [`docs/design.md`](docs/design.md).
+
+## Credits
+
+Word list: *The Oxford 3000™ (American English)*, © Oxford University Press. This is an independent personal project, not affiliated with or endorsed by OUP.
+
+Built by [Adrien Le Breton](https://adrien-lebreton.github.io/me/).

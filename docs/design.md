@@ -89,7 +89,7 @@ La configuration (URL du projet et clé anon, valeurs publiques par nature, séc
 
 ## Déploiement
 
-GitHub Pages : `npm run deploy` construit avec la base `/oxford-3000/` et pousse `dist/` sur la branche `gh-pages`. URL : <https://adrien-lebreton.github.io/oxford-3000/>.
+GitHub Pages via GitHub Actions (`.github/workflows/ci.yml`) : à chaque push sur `main`, type-check, tests puis build avec la base `/oxford-3000/` ; le déploiement n'a lieu que si tout passe. URL : <https://adrien-lebreton.github.io/oxford-3000/>.
 
 ## Tests (vitest)
 
@@ -97,7 +97,7 @@ Modules purs testés : transitions de statut (connu, raté, en cours, streak, la
 
 ## Risques et limites assumées
 
-- Progression par appareil (pas de sync cloud) : export/import JSON fourni. Une sync future passerait par un petit backend, hors périmètre v1.
+- Synchronisation en dernier-écrit-gagne sur l'horloge des appareils (voir « Compte et synchronisation ») ; l'export/import JSON reste disponible en mode invité.
 - Qualité IPA et traductions : générées par lots avec validation automatique (format, couverture) et relecture d'échantillons ; correctifs ponctuels possibles dans les chunks puis re-fusion.
 - `speechSynthesis` varie selon l'OS (voix différentes) ; bouton silencieux si l'API est absente.
 - Sur iOS, la PWA s'installe via « Ajouter à l'écran d'accueil » (pas de bannière automatique) ; documenté dans le README.
